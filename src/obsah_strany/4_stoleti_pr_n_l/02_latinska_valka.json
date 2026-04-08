@@ -1,0 +1,41 @@
+{
+  "id": 2,
+  "slug": "latinska_valka",
+  "title": "Latinská válka",
+  "century": "4_stoleti_pr_n_l",
+  "years": "340–338 př. n. l.",
+  "dokonceno": true,
+  "sections": {
+    "kontext": [
+      "Představte si mapu střední Itálie v polovině čtvrtého století před naším letopočtem. Řím leží uprostřed jako uzel sítě, z níž se táhnou silnice, smlouvy a vojenské závazky do všech stran. Kolem něj, jako prstenec měst rozesetých po toskánských kopcích a kampánských pláních, leží latinské obce — Tibur, Praeneste, Lanuvium, Aricia a desítky dalších. Tyto komunity mluví stejným jazykem jako Římané, uctívají stejné bohy a po staletí bojují bok po boku v společných taženích. Přesto se v roce 340 před naším letopočtem ocitají na opačných stranách bojiště.",
+      "Jak k tomu došlo? Odpověď neleží v náhlé zradě ani v starých krevních mstách. Leží v matematice moci. Latinské obce totiž po desetiletích vojenské spolupráce s Římem začínají pozorovat nepříjemnou pravdu: přinášejí přibližně stejný počet vojáků jako samotný Řím, nesou stejná rizika, ale sklízejí nesrovnatelně menší podíl na politickém rozhodování a rozdělování dobytých území. Požadují rovné postavení — buď plné občanství, nebo samostatnost. Senát jejich ultimátum odmítne. Válka je nevyhnutelná.",
+      "Do tohoto okamžiku vstupují konzulové Publius Decius Mus a Titus Manlius Torquatus — dva muži, jejichž jména se zapíší do římské paměti způsobem, který přesahuje pouhou vojenskou historii. Jeden z nich se stane legendou ještě za svého života. Druhý bude navždy spojen s rozhodnutím, které by dnes každý otec označil za nepřijatelné."
+    ],
+    "armada": [
+      "Latinská válka je v jistém smyslu zvláštním konfliktem — Řím v ní totiž bojuje proti armádě, která je téměř totožná s jeho vlastní. Latinské obce dlouhá léta budovaly vojska přesně podle římského vzoru, vyzbrojené stejnými zbraněmi, cvičené ve stejných formacích, vedené důstojníky, kteří prošli společnými taženími. Když se tyto armády střetnou na bojišti, nepůjde o střet dvou odlišných vojenských kultur. Půjde o souboj dvou verzí téhož systému.",
+      "Římská legie tohoto období již plně přechází na manipulární uspořádání, které se osvědčilo v předchozím konfliktu se Samnity. Legii tvoří tři linie, rozestavěné za sebou jako vrstvy zálohy. Vpředu nastupují hastati, mladí vojáci se scutem — velkým oválným štítem — a pila, těžkými oštěpy, které jsou určeny k vrhání těsně před střetem. Jejich úkolem je první náraz vydržet a vyčerpat nepřátelské řady. Za nimi čekají principes, zkušenější muži v nejlepším bojovém věku, připraveni vstoupit do boje v okamžiku, kdy se první linie začne lámat. Úplně vzadu stojí triarii, veteráni legie. Tito muži si zachovávají kopí starého typu a nastupují jen tehdy, kdy je situace opravdu vážná.",
+      "Před tímto trojím šikem operují velites, lehce vyzbrojení bojovníci bez těžkého pancíře. Rychlí a pohybliví, otvírají každou bitvu bouří vrhacích zbraní, obtěžují nepřítele a pak se stahují mezerami mezi manipuly. Celý systém je navržen tak, aby legie dokázala bojovat v členitém terénu, kde by stará falanga okamžitě ztratila soudržnost.",
+      "Velení legie je přísně hierarchické. Na vrcholu stojí konzul, jehož autorita je v poli absolutní — a jak se v této válce ukáže, tato autorita nezná výjimky ani pro vlastní krev. Pod konzulem velí vojenští tribunové, šest na každou legii, kteří se střídají v operativním velení. Skutečnou páteří armády jsou však centurioni — zkušení veteráni zodpovědní za disciplínu a bojovou soudržnost svých sta mužů. Za každým centarionem stojí optio, který dohlíží na zadní řady a dbá na to, aby nikdo bez rozkazu neopustil formaci."
+    ],
+    "konflikt": [
+      "Válka vypuká s překvapivou intenzitou. Latinská liga, posílená o Kampánce a některé samnitské kmeny, staví armádu, která se Římu může rovnat. Obě strany dobře vědí, že tento konflikt nebude o hranicích ani tributech — rozhodne se v něm, kdo bude ovládat celou střední Itálii.",
+      "K první velké bitvě dochází u Veseris, poblíž Vesuvu. Právě zde se odehraje příběh, který Římané budou vyprávět po staletí. Konzul Publius Decius Mus obdrží před bitvou věštbu — bohové mu sdělují, že jedna strana bude poražena a velitel té armády, jejíž konzul se obětuje podsvětním bohům, zvítězí. Decius neváhá. Uprostřed bitvy, oblečen do obřadního roucha, obrátí koně a vrhne se sám do středu nepřátelských řad. Padá probodnut latinskými kopími, ale jeho oběť, alespoň podle římské tradice, obrátí vývoj bitvy. Druhý konzul Manlius Torquatus dovede legii k vítězství.",
+      "Ale Torquatus vstoupí do dějin jiným činem. Před bitvou vydá přísný rozkaz: nikdo nesmí opustit formaci a zapojit se do individuálního souboje bez výslovného příkazu. Jeho vlastní syn, mladý důstojník plný odvahy, tento zákaz poruší — vyzve latinského jezdce na souboj, zvítězí a přinese otci nepřítelovu zbroj jako trofej. Torquatus nechá syna předvést před celou armádu a dá ho popravit. Vojenská disciplína stojí nad vším, včetně otcovské lásky.",
+      "Válka pokračuje dalšími střety. Římu trvá celé tři roky, než zlomí latinský odpor. Klíčovým faktorem je schopnost udržet jednotu vlastních spojenců a soustavně operovat na více frontách současně. Latinská liga nedokáže udržet koordinaci mezi tolika různými městy s různými zájmy.",
+      "Mír uzavřený roku 338 př. n. l. je mistrovským dílem římské politiky. Řím latinské spolky nerozmetá a nevytvoří z jejich měst poddané. Místo toho každé město dostane jiné podmínky — jedno obdrží plné římské občanství, druhé jen omezená práva, třetí zachová autonomii, ale ztratí právo uzavírat spojenectví bez souhlasu Říma. Tímto způsobem Řím zabrání jakémukoliv budoucímu spojení latinských měst proti sobě. Každé z nich je teď svázáno s Římem jiným uzlem — a žádné z nich se nemůže spoléhat na solidaritu ostatních. Genialita tohoto systému spočívá v tom, že nevytváří odpor, ale závislost."
+    ],
+    "pribeh": [
+      "Gaius Servilius, optio, třetí manipul hastatů, bitva u Veseris, rok 340 př. n. l.",
+      "Stojím těsně za poslední řadou našeho manipulu. Prsty svírám těžkou dřevěnou hůl. Můj úkol není vepředu vrhat oštěpy. Hlídám záda svých mužů a starám se, aby nikdo z nich neudělal ani krok vzad.",
+      "Držte linii! Kdo uhne, seznámí se s mým klackem! zařvu, aby mě přes ten hluk vůbec slyšeli.",
+      "Před námi stojí Latinové. Vypadají jako my. Mají stejné štíty, stejné meče, mluví naší řečí. Je to jako dívat se do zrcadla.",
+      "Pak to řadami projede jako blesk. Konzul Decius se oblékl do obětního roucha. Vidím ho. Projede na koni podél naší linie, oči upřené dopředu. Nepodívá se na nás. Zaboří ostruhy do slabin koně a sám vyrazí tryskem přímo do středu latinské formace.",
+      "Z jejich řad se ozve řev, ale není to vítězný ryk. Je to zmatek. Vidím, jak se jejich pevná hradba na okamžik zavlní.",
+      "Zezadu zazní trubka. Kupředu! Rozdrťte je! zavelí centurion.",
+      "Pohyb, vy prašiví psi! Jdeme! zařvu a vrazím holí do zad váhavého mladíka před sebou.",
+      "Srazíme se s Latiny jako dvě hradby z masa a dřeva. Tlak je okamžitě obrovský. Není tu prostor na rozmachy. Jsme do sebe zaklesnutí jako zvířata.",
+      "Mladík přede mnou dostane ránu mečem přes horní okraj scuta a s chroptěním se sveze na kolena. V naší linii vznikne díra. Okamžitě pouštím hůl a tasím gladius — poprvé za celou bitvu. Udělám krok vpřed a šlápnu na mladíkovo rameno, abych mezeru zaplnil.",
+      "Latin se na mě natlačí, cítím z něj pot a kyselé víno. Tohle není moje místo. Moje místo je vzadu s holí. Ale díra je tady a já jsem nejbližší. Zapřu do něj štít vší silou, stáhnu ruku s mečem těsně k boku a krátkým trhavým pohybem bodnu do mezery mezi jeho štítem a stehnem. Ostří projde masem. Tlak jeho těla poleví. Zůstanu stát na místě a řvu na muže kolem, aby zavřeli řadu. Překračovat mrtvé nechám jiné — já hlídám, aby jich bylo co nejmíň."
+    ]
+  }
+}
