@@ -290,4 +290,12 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   color: #5c5850;
 }
 .not-found a { color: #c22b2b; text-decoration: none; }
+@media (max-width: 768px) {
+  .kapitola-wrap { padding: 4rem 1.25rem 4rem; }
+  .kap-title { font-size: 1.6rem; }
+  .sekce-content { padding-left: 0.75rem; }
+  .sekce-pribeh { padding: 1.5rem 1rem; }
+  .kap-nav { flex-direction: column; gap: 0.75rem; }
+  .nav-btn { width: 100%; text-align: center; }
+}
 </style>

@@ -217,4 +217,9 @@ const skupiny = [
 .status-precteno { color: #c9a84c; font-size: 0.9rem; }
 .status-arrow { color: #5c5850; font-size: 0.9rem; transition: color 0.2s; }
 .kapitola-row:hover .status-arrow { color: #c9a84c; }
+@media (max-width: 768px) {
+  .osa-wrap { padding: 4rem 1.25rem 4rem; }
+  .skupina-label { font-size: 0.55rem; }
+  .kapitola-row { padding: 0.875rem 0.75rem; }
+}
 </style>

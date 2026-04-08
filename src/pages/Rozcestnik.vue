@@ -345,4 +345,10 @@ const centuries = [
   transition: color 0.2s, transform 0.2s;
 }
 .century-card:hover .century-card-arrow { color: #c9a84c; transform: translateX(4px); }
+@media (max-width: 768px) {
+  .centuries-grid { grid-template-columns: 1fr; }
+  .centuries-section { padding: 3rem 1.25rem 4rem; }
+  .hero { padding: 6rem 1.5rem 3rem; }
+  .hero-stats { gap: 1.5rem; }
+}
 </style>

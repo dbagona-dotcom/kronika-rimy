@@ -77,4 +77,19 @@ const readCount = getReadCount()
   padding: 0.25rem 0.75rem;
   border-radius: 2px;
 }
+@media (max-width: 768px) {
+  .nav {
+    padding: 0 1rem;
+    height: auto;
+    flex-wrap: wrap;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    gap: 0.5rem;
+  }
+  .nav-logo { font-size: 0.85rem; }
+  .nav-logo span { display: none; }
+  .nav-links { gap: 1rem; }
+  .nav-links a { font-size: 0.7rem; }
+  .nav-badge { font-size: 0.65rem; padding: 0.2rem 0.5rem; }
+}
 </style>
