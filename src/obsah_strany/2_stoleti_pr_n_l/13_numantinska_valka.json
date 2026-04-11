@@ -1,37 +1,50 @@
 {
   "id": 13,
-  "slug": "numantinska_valka",
+  "slug": "13_numantinska_valka",
   "title": "Numantinská válka",
   "century": "2_stoleti_pr_n_l",
   "years": "143–133 př. n. l.",
   "dokonceno": true,
   "sections": {
     "kontext": [
-      "Rok 146 před naším letopočtem byl pro Řím rokem dvojího triumfu a dvojí brutality. Ve stejném roce kdy Scipio Aemilianus srovnal Kartágo se zemí, jiný římský velitel vyplundroval a zničil Korint, nejbohatší obchodní město pevninského Řecka. Řím se stal nesporným pánem celého středomořského světa.",
-      "A přesto — nebo možná právě proto — začínalo být uvnitř této obrovské moci něco vážně špatně. Desetiletí nepřetržitých válek přinesla Římu bohatství, ale také hluboké sociální trhliny. Drobní rolníci, kteří tvořili páteř legií, se vraceli z dlouhých tažení aby zjistili, že jejich políčka zarostla nebo je odkoupila bohatá aristokracie. Statisíce otroků z dobytých zemí zaplavily Itálii a vytlačily svobodné rolníky z trhu.",
-      "Španělsko bylo pro Řím od dob druhé punské války trvalou bolestí hlavy. Série povstání a válek trvala s přestávkami od roku 155. A v jejím středu stálo jedno město, jehož jméno se brzy stane symbolem ibérského odporu — Numancia. Malé keltiberské město na kopci nebylo velké ani zvláště bohaté. Ale bylo nedobytné způsobem, který přesahoval pouhé hradby.",
-      "Řím poslal do Španělska jednoho konzula za druhým. Vrátili se buď poraženi, nebo s ponižujícími smlouvami, které senát odmítl ratifikovat. Po dvaceti letech neúspěchů přišel čas sáhnout po muži, jehož jméno samo o sobě bylo zárukou výsledku. Scipio Aemilianus — tentýž, který stál na kopci nad hořícím Kartágem — byl znovu zvolen konzulem a vyslán do Španělska."
+      "Rok 146 před naším letopočtem. Kartágo v troskách, Korint vypleněn, jeho obyvatelstvo prodáno do otroctví. Dva města, jeden rok, jeden muž: Scipio Aemilianus. Řím se stal nesporným pánem středomořského světa.",
+      "A přesto uvnitř této obrovské moci začínalo být něco vážně špatně.",
+      "Drobní rolníci, kteří tvořili páteř legií, se vraceli z dlouhých tažení a zjišťovali, že jejich políčka zarostla nebo je odkoupila za směšnou cenu bohatá aristokracie. Velcí statkáři přišli na to, že otrok je levnější než svobodný nádeník. Statisíce zajatců z dobytých zemí zaplavily Itálii a vytlačily svobodné rolníky z trhu. Řím sytil celý svět a vlastní lid chudl.",
+      "Do tohoto napětí vstoupilo Španělsko.",
+      "Ibérský poloostrov byl od dob druhé punské války trvalou bolestí hlavy. Rozdělený na dvě provincie, Hispania Citerior na severovýchodě a Hispania Ulterior na jihozápadě, nikdy nebyl skutečně podmaněn. Série povstání a válek, které historici nazývají Ohnivá válka, trvala s přestávkami od roku 155. A v jejím středu stálo jedno město: Numancia.",
+      "Malé keltiberské město na kopci nad řekou Durius nebylo velké ani bohaté. Opíralo se o loajalitu okolních kmenů, o terén stvořený pro válku ze zálohy a o obyvatelstvo, které považovalo kapitulaci za horší než smrt. Jeden konzul za druhým se od jeho hradeb vrátil poražen nebo s ponižující smlouvou, kterou senát odmítl ratifikovat. Po dvaceti letech neúspěchů přišel čas sáhnout po muži, jehož jméno samo o sobě bylo zárukou výsledku.",
+      "Scipio Aemilianus, tentýž, který stál na kopci nad hořícím Kartágem, byl znovu zvolen konzulem a vyslán do Španělska."
     ],
     "armada": [
-      "Numantinská válka přichází v okamžiku, kdy se v římské armádě začínají projevovat náznaky krize, která se naplno projeví za generaci. Tradiční způsob rekrutování — občané vlastnící minimální majetek, odvod na základě cenzu — začíná narážet na demografické a sociální limity. Armáda, která technicky stále funguje na občanském principu, se v praxi stále více plní lidmi bez pevného zázemí.",
-      "A to na bojišti Scipio okamžitě pozná. Armáda, kterou dostane k dispozici, je demoralizovaná, nedisciplinovaná a prohnilá způsoby, které by žádný přísný velitel netolerovalo. Předchozí porážky zanechaly stopu — vojáci nevěří svým velitelům, velitelé nevěří armádě.",
-      "Scipio zopakuje přesně to, co udělal před Kartágem. Vykáže všechny nepotřebné osoby. Zavede výcvik — každodenní, vyčerpávající, bez výjimek. Obnoví disciplínu trestáním i odměňováním ve správnou chvíli. Zakáže luxus, přikáže jednoduchou stravu a každodenní pochody s plnou výzbrojí. Muži ho za to nenávidí. Pak začnou výsledky.",
-      "Keltiberská válečná taktika je předsunutý vzor partyzánské války. Numantijci nebojují v otevřených bitvách. Místo toho přepadávají zásobovací kolony v lesích, útočí za noci na tábory, stahují se do nepřehledného terénu než se legie stačí zformovat. Je to válka nervů a logistiky, válka kde disciplína a zásobování rozhodují víc než taktický génius v jedné bitvě."
+      "V armádě která čeká na Scipiona v Španělsku roku 134 lze číst budoucnost celé republiky, pokud člověk ví co hledat.",
+      "Tradiční odvod na základě majetkového cenzu začíná narážet na demografické limity. Drobní vlastníci ubývají, protože jejich půda přešla do rukou aristokracie. Armáda která technicky stále funguje na občanském principu se v praxi plní muži bez pevného zázemí, muži pro které je vojenská služba méně povinností a více živobytím. Přesně takový voják bude za čtyřicet let páteří Mariovy reformy. Ale to je budoucnost. Roku 134 je tento vývoj ještě ve stádiu nákazy, nikoliv reformy.",
+      "A to Scipio pozná hned první den.",
+      "Armáda, kterou dostane k dispozici, prohrála příliš mnoho bitev aby věřila svým velitelům, a vyhrála příliš málo aby věřila sama sobě. V táboře jsou obchodníci, prostitutky, věštci a celý vláček příživníků, který demoralizovanou armádu vždy přitahuje jako magnet.",
+      "Scipio zopakuje přesně to, co udělal před Kartágem. Vykáže všechny nepotřebné osoby. Zavede výcvik, každodenní, vyčerpávající, bez výjimek. Zakáže luxus, přikáže jednoduchou stravu a pochody s plnou výzbrojí za každého počasí. Muži ho za to nenávidí.",
+      "Pak začnou výsledky.",
+      "Numantijci nevyjdou Římanům vstříc na rovném poli. Bylo by to od nich pošetilé: stavět osm tisíc mužů proti dvaceti tisícům legionářů v přímém střetu by znamenalo jednoduše zaniknout. Přepadají zásobovací kolony v lesích, útočí za noci na tábory, mizí do nepřehledného terénu dřív než se legie stačí zformovat a vyčkávají za hradbami, když Řím přijde k městu. Taková válka se nevyhrává v jedné bitvě. Vyhrává ji ten kdo má více jídla, více trpělivosti a méně mrtvých na zásobovacích trasách. A právě v tom dosavadní římští velitelé opakovaně selhali."
     ],
     "konflikt": [
-      "Scipio přebírá velení roku 134 a okamžitě změní strategii. Nebude útočit na Numancii přímým útokem. Nebude posílat legie do horského terénu kde Keltiberci mají výhodu. Místo toho udělá to, v čem jsou Římané nejlepší — bude stavět.",
-      "Kolem Numancie nechá vybudovat sedm propojených táborů spojených opevněnými liniemi. Celkový obvod obléhacích prací dosáhne přes čtyři kilometry příkopů, valů a věží. Na řece jsou kotevní bóje s háky zabraňující přísunu zásob po vodě. Numancia je hermeticky uzavřena od okolního světa.",
-      "Numantijci se pokusí o několik výpadů — vždy zoufale statečných, vždy marných. Obléhací linie je příliš silná. Jeden z výpadů se odehraje v mlze a skoro uspěje — Numantijci proniknou přes první linii valů a zasadí Římanům citelné ztráty. Ale pak mlha ustoupí.",
-      "Hlad přichází pomalu a pak najednou. Antické prameny popisují to, co se odehrávalo uvnitř Numancie v posledních měsících obléhání, způsobem, který je těžké číst. Nejprve zmizely zásoby obilí. Pak kůže a řemeny. Pak mrtvá dobytčata.",
-      "Roku 133 vyšlou Numantijci posly k Scipionovi. Chtějí vyjednávat o podmínkách. Scipio má jednu podmínku — bezpodmínečná kapitulace. Posly odmítají a vrátí se do města.",
-      "Velká část obránců zvolí smrt vlastní rukou místo zajetí. Někteří zapálí svá obydlí. Když římské oddíly konečně vstoupí do otevřeného města, najdou trosky a mrtvé. Živých je jen hrstka.",
-      "Scipio nechá Numancii strhnout do základů. Ve španělské kultuře je Numancia dodnes synonymem pro vzdor bez naděje, pro volbu cti nad přežitím. Scipio se vrátí do Říma jako triumfátor a přijme přízvisko Numantinus. Zemře o pět let později za nejasných okolností. Řím roku 129 je totiž už jiný Řím — napětí mezi reformisty a konzervativci dosahuje bodu kde politická vražda přestává být nemyslitelná."
+      "Scipio přebírá velení roku 134 a strategii změní okamžitě. Žádný přímý útok na Numancii. Žádné legie v horském terénu kde mají Keltiberci výhodu. Místo toho udělá to, v čem jsou Římané nejlepší.",
+      "Bude stavět.",
+      "Kolem Numancie, která leží na kopci s výhledem do všech stran, nechá vybudovat sedm propojených táborů spojených opevněnými liniemi. Přes čtyři kilometry příkopů, valů a věží obepnou město jako sevřená pěst. Mezi tábory hlídkuje jízda, na řece jsou kotevní bóje s háky zabraňující přísunu zásob po vodě. Numancia je odříznuta od světa.",
+      "Uvnitř hradeb je osm tisíc bojovníků a neurčitý počet civilistů. Scipio to ví.",
+      "A čeká.",
+      "Numantijci se pokusí o několik výpadů, vždy zoufale statečných, vždy marných. Jeden se odehraje v husté mlze a skoro uspěje: bojovníci proniknou přes první linii valů a zasadí Římanům citelné ztráty. Pak mlha ustoupí. Scipio uzavře mezery dříve, než se průlom rozšíří.",
+      "Hlad přichází pomalu. A pak najednou.",
+      "Antické prameny, především Appianos, zaznamenaly co se odehrávalo uvnitř Numancie v posledních měsících obléhání. Nejprve zmizely zásoby obilí. Pak kůže a řemeny. Pak mrtvá dobytčata. Pak lidská těla padlých.",
+      "Roku 133 vyšlou Numantijci posly k Scipionovi. Chtějí vyjednávat.",
+      "Scipio má jednu odpověď: bezpodmínečná kapitulace.",
+      "Posly se vrátí do města. Velká část obránců zvolí smrt vlastní rukou místo zajetí. Někteří zapálí svá obydlí. Když římské oddíly vstoupí do otevřeného města, najdou trosky a mrtvé. Živých je jen hrstka, ti jsou odvedeni do Říma na Scipionův triumf.",
+      "Scipio nechá Numancii strhnout do základů. Ve španělské paměti zůstane její jméno navždy: synonymum pro vzdor bez naděje, pro volbu cti nad přežitím.",
+      "Organizovaný keltiberský odpor tímto okamžikem končí. Scipio se vrátí do Říma jako triumfátor a přijme přízvisko Numantinus ke svému staršímu Africanus.",
+      "Zemře o pět let později za nejasných okolností, v noci před tím, než měl pronést projev v senátu. Zda zemřel přirozenou smrtí nebo byl zavražděn, historici dodnes nevědí. Řím roku 129 je jiný Řím. Napětí mezi reformisty a konzervativci dosahuje bodu kde politická vražda přestává být nemyslitelná. Gracchové jsou mrtví nebo umírají. Republika se začíná třást.",
+      "Ale to je příběh příštích kapitol."
     ],
     "pribeh": [
-      "Decimus Flavius, centurio, druhá kohorta, obléhací linie u Numancie, rok 133 př. n. l.",
       "Stavěli jsme šest týdnů. Každý den — vstát před úsvitem, vzít motyku nebo lopatu nebo trám a jít pracovat na valu. Legionáři si stěžovali. Říkali, že nejsou dělníci. Říkal jsem jim, že jsou co velitel řekne, a šel pracovat s nimi — centurion který nestojí vedle svých mužů v blátě nestojí za nic.",
-      "Scipio procházel liniemi každé ráno pěšky. Zastavoval se, díval se na práci, ptal se na detaily. Jednou se zastavil u mě a zeptal se jestli je příkop dostatečně hluboký. Řekl jsem že ano, ale navrhl jsem palisádu na vnější straně. Kývl a šel dál. Druhý den přišel rozkaz — palisáda na celém úseku. Takoví velitelé se rodí jednou za generaci.",
-      "Výpad přišel za mlhy — ze dvou bran zároveň, křičící a zoufale odhodlaní. Probili se přes první linii a zabili pět mých mužů dřív než jsem stihl zformovat odpověď. Popadl jsem scutum a vyrazil do té vřavy sám.",
+      "Scipio procházel liniemi každé ráno pěšky. Zastavoval se, díval se na práci, ptal se na detaily. Jednou se zastavil u mě a zeptal se jestli je příkop dostatečně hluboký. Řekl jsem že ano, ale navrhl jsem palisádu na vnější straně. Podíval se na mě, kývl a šel dál. Druhý den přišel rozkaz — palisáda na celém úseku. Takoví velitelé se rodí jednou za generaci.",
+      "Výpad přišel za mlhy — ze dvou bran zároveň, křičící a zoufale odhodlaní. Probili se přes první linii a zabili pět mých mužů dřív než jsem stihl zformovat odpověď. Popadl jsem scutum a vyrazil do té vřavy sám — centurion který stojí a řve rozkazy zatímco jeho muži umírají pět kroků od něj nestojí za víc než dělník co odmítá motyku.",
       "Numantský válečník se na mě vyřítil z mlhy s krátkým mečem. Sekl shora. Zvedl jsem štít šikmo, čepel sjela po hraně, a než se nadechl k druhé ráně, vrazil jsem mu železný bodec spodku štítu do nártu. Zakřičel a podklesly mu kolena. Přikročil jsem a bylo hotovo.",
       "Mlha začala ustupovat. Zálohy dorazily z vedlejšího tábora a Numantinci se stáhli zpátky do kopce. Stál jsem na valu a díval se za nimi. Bojovali dobře — lépe než hladovějící armáda má právo bojovat.",
       "Když město otevřelo brány — ne kapitulací, ale tichem, protože uvnitř nebylo dost živých — prošel jsem jako jeden z prvních. Ulice prázdné. Domy otevřené. V jednom dvorci seděl u studny starý muž, mrtvý bez viditelného zranění. Vedle něj pes, také mrtvý. Nehnul jsem se z místa asi minutu. Pak jsem se otočil a šel zpátky na val."

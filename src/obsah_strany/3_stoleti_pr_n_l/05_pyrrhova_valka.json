@@ -1,47 +1,46 @@
 {
   "id": 5,
-  "slug": "pyrrhova_valka",
+  "slug": "5_pyrrhova_valka",
   "title": "Pyrrhova válka",
   "century": "3_stoleti_pr_n_l",
   "years": "280–275 př. n. l.",
   "dokonceno": true,
   "sections": {
     "kontext": [
-      "Rok 290 před naším letopočtem přinesl konec třetí samnitské války a s ní i definitivní potvrzení toho, co se postupně rýsovalo celé půlstoletí — Řím je pánem italského poloostrova. Ne ještě celého, ale dost velkého kusu na to, aby ho ostatní přestali přehlížet. Latinské spolky jsou začleněny, Samnité pokořeni, etruská města svázána smlouvami. Republika, která začínala jako jedno z mnoha měst v Latiu, se proměnila v hegemonní sílu, jejíž spojenecká síť sahá od Apenin až k Messinské úžině.",
+      "Tři samnitské války, latinský konflikt, desítky let tažení — a na jejich konci stojí Řím jako hegemon italského poloostrova. Ne ještě celého, ale dost velkého kusu na to, aby ho ostatní přestali přehlížet. Latinské spolky začleněny, Samnité pokořeni, etruská města svázána smlouvami. Republika která začínala jako jedno z měst v Latiu se proměnila v sílu jejíž spojenecká síť sahá od Apenin až k Messinské úžině.",
       "Právě tato úžina se stane novým zdrojem napětí.",
-      "Na jihu Itálie leží řecké kolonie — Tarentum, Rhegium, Lokroi — bohatá přístavní města s dlouhou historií, pyšná na svůj hellénský původ a velmi nervózní z rostoucího římského stínu. Tarentum, největší a nejbohatší z nich, má vlastní flotilu, vlastní armádu a vlastní přesvědčení, že Řím nemá co pohledávat v jeho vodách. Když roku 282 římské válečné lodě vplují do tarentského zálivu — v rozporu se starou smlouvou — Tarenťané je bez váhání potopí. Poté zaútočí na spojenecké město Thurij a vyžene jeho římskou posádku.",
-      "Senát požaduje satisfakci. Tarentum ji odmítne. A protože si město dobře uvědomuje, že vlastní silou se Římu nepostaví, pošle posly za moře — na dvůr epeirského krále Pyrrha, jednoho z nejslavnějších vojevůdců své doby, Alexandrova vzdáleného příbuzného a muže, který celý život hledal říši hodnou svého talentu.",
-      "Pyrrhos přijme. Pro Řím přichází setkání s něčím, s čím se dosud nepotkal — s helénistickou armádou vedenou skutečným vojenským géniem."
+      "Na jihu Itálie leží řecké kolonie — Tarentum, Rhegium, Lokroi — bohatá přístavní města pyšná na svůj hellénský původ a velmi nervózní z rostoucího římského stínu. Tarentum, největší a nejbohatší z nich, má vlastní flotilu, vlastní armádu a vlastní přesvědčení že Řím nemá co pohledávat v jeho vodách. Když roku 282 římské válečné lodě vplují do tarentského zálivu v rozporu se starou smlouvou, Tarenťané je bez váhání potopí. Poté zaútočí na spojenecké město Thurij a vyženou jeho římskou posádku.",
+      "Senát požaduje satisfakci. Tarentum ji odmítne. A protože si město dobře uvědomuje že vlastní silou se Římu nepostaví, pošle posly za moře — na dvůr epeirského krále Pyrrha, jednoho z nejslavnějších vojevůdců své doby, vzdáleného příbuzného Alexandra Velikého a muže který celý život hledal říši hodnou svého talentu.",
+      "Pyrrhos přijme. A Řím se poprvé setká s helénistickou armádou vedenou skutečným vojenským géniem."
     ],
     "armada": [
-      "Aby bylo možné pochopit, proč Pyrrhovy války otřásly Římem tak hluboce, je třeba nejprve pochopit, s čím přesně se legie poprvé setkala na italských pláních.",
-      "Pyrrhova armáda není jen větší nebo početnější. Je fundamentálně jiná. Jejím základem je makedonská falanga — hustý šik těžkooděných pěšáků vyzbrojených sarissou, kopím délky čtyři až šest metrů. Kde manipulární legie funguje na principu flexibility a vzájemné zálohy, falanga funguje na principu neprostupné stěny. Přední řady drží sarisy vodorovně, zadní řady je sklánějí přes ramena předních — výsledkem je pohybující se hradba hrotů, do které není možné proniknout čelně. Je to zbraň, která na vhodném terénu nemá soupeře. Na nevhodném terénu se rozpadá jako domeček z karet.",
-      "Ale Pyrrhos přiveze ještě něco jiného. Něco, co římští vojáci nikdy předtím neviděli a na co žádný výcvik nemohl připravit.",
+      "Římská armáda roku 280 je na vrcholu středně-republikánského vývoje. Manipuly jsou sehraný mechanismus, centurionský sbor plný veteránů samnitských válek, logistika funguje spolehlivě. Výzbroj, taktika, velení — vše prošlo dvěma generacemi reálného boje a bylo přizpůsobeno italskému terénu a italským protivníkům.",
+      "Jenže Pyrrhos není italský protivník.",
+      "Pyrrhova armáda není jen větší nebo početnější — je fundamentálně jiná. Jejím základem je makedonská falanga, hustý šik těžkooděných pěšáků vyzbrojených sarissou, kopím délky čtyři až šest metrů. Přední řady drží sarisy vodorovně, zadní je sklánějí přes ramena předních — výsledkem je pohybující se hradba hrotů do které není možné proniknout čelně. Kde manipulární legie funguje na principu flexibility a vzájemné zálohy, falanga funguje na principu neprostupné zdi. Na vhodném terénu nemá soupeře. Na nevhodném se rozpadá rychle.",
+      "Ale Pyrrhos přiveze ještě něco jiného. Něco co římští vojáci nikdy předtím neviděli a na co žádný výcvik nemohl připravit.",
       "Slony.",
-      "Dvacet válečných slonů indického původu, každý s ozbrojenou posádkou na hřbetě, každý schopný převrátit formaci samotnou svou přítomností. Koně se jich bojí instinktivně. Pěchota, která nikdy neslyšela jejich troubení, tuhne na místě. V boji jsou sloni živou psychologickou zbraní stejně jako fyzickou silou — jejich pohyb bojem rozmetá formace, které by jinak odolaly hodinám boje.",
-      "Římská armáda tohoto období je na vrcholu středně-republikánského vývoje. Manipuly jsou sehraný mechanismus, centurionský sbor je plný veteránů samnitských válek, logistika funguje spolehlivě. Ale ani sebelépe cvičená legie není připravena na falangu a slony zároveň. Řím se to bude muset naučit za pochodu — doslova v průběhu bitev, které bude prohrávat."
+      "Dvacet válečných slonů indického původu, každý s ozbrojenou posádkou na hřbetě. Koně se jich bojí instinktivně. Pěchota která nikdy neslyšela jejich troubení tuhne na místě. V boji jsou sloni živou psychologickou zbraní stejně jako fyzickou silou — jejich pohyb bojem rozmetá formace které by jinak odolaly hodinám boje. Manipulární systém na ně nemá připravenou odpověď. Řím ji bude muset najít za pochodu."
     ],
     "konflikt": [
-      "Pyrrhos přistane v Itálii roku 280 s armádou čítající přes dvacet tisíc pěšáků, třítisícovou jízdou a oněmi dvaceti slony. Je to síla, jakou Itálie dosud neviděla, a Tarenťané ji přivítají jako záchrance.",
-      "První střet přijde u Herakley. Římský konzul Publius Valerius Laevinus podcenil soupeře — přecenil vlastní sílu a zaútočil dříve, než byl připraven. Legie zpočátku drží, ale pak přijdou sloni. Koně římské jízdy se obrátí na útěk, panika se přenese na pěchotu a Laevinus ustoupí v naprostém pořádku jen díky železné disciplíně svých centurionů. Přesto — Řím prohrál a prohrál jasně.",
-      "Pyrrhos projde poraženým bojištěm a prý pohledí na mrtvé Římany s nečekaným respektem. Podle tradice řekl, že s takovými vojáky by dobyl celý svět. Pošle Římu mírové podmínky. Senát je odmítne — i poté, co si vyslechl Pyrrhova řečníka Kineáse, jehož výmluvnost prý přesvědčila více lidí než meč. Slepý stařec Appius Claudius, jeden z nejváženějších senátorů, prý vstal a prohlásil, že Řím nesmí vyjednávat s nepřítelem na italské půdě. Návrh byl zamítnut.",
-      "Druhá bitva, u Auscula roku 279, přinese stejný výsledek — Pyrrhovo vítězství — ale za cenu, která krále začne znepokojovat. Jeho armáda vyhrála, ale ztráty jsou neúměrně vysoké. Legie bojují jinak než helénistická vojska — nevzdají se, i když je situace zdánlivě beznadějná, drží formaci i tváří v tvář slonům a útočí znovu a znovu s disciplínou, která Pyrrha fascinuje i děsí. Podle antické tradice pronesl po bitvě větu, která se stala okřídlenou: Ještě jedno takové vítězství a jsem ztracen. Odtud pochází výraz pyrrhovo vítězství — triumf, který stojí vítěze více než poraženého.",
-      "Roku 278 Pyrrhos na pozvání sicilských měst přejde na Sicílii bojovat proti Kartágu. Řím využije jeho nepřítomnosti k přeskupení a posílení jihu Itálie. Když se král roku 275 vrátí, situace se změnila. Poslední bitva u Beneventa přinese Římu první skutečné vítězství nad Pyrrhem — částečně proto, že Římané mezitím přišli na to, jak na slony. Hořící pochodně, hluk a úzký terén způsobí, že zvířata se obrátí zpět do vlastních řad.",
-      "Pyrrhos odpluje zpět do Řecka, zanechávaje za sebou Tarentum osudu. Město se vzdá roku 272. Řím stojí před Messinskou úžinou a za ní leží Sicílie — a Kartágo. Výsledek Pyrrhových válek je tak paradoxní: král, který Řím dvakrát porazil, nakonec pomohl definovat hranice, za které se republika zanedlouho vydá."
+      "Pyrrhos přistane v Itálii roku 280 s armádou čítající přes dvacet tisíc pěšáků, třítisícovou jízdou a dvaceti slony. Tarenťané ho přivítají jako záchrance.",
+      "První střet přijde u Herakley. Římský konzul Publius Valerius Laevinus podcenil soupeře a zaútočil dříve než byl připraven. Legie zpočátku drží, ale pak přijdou sloni. Koně římské jízdy se obrátí na útěk, panika se přenese na pěchotu. Laevinus ustoupí — v relativním pořádku jen díky disciplíně svých centurionů, ale ustoupí. Řím prohrál a prohrál jasně.",
+      "Pyrrhos projde poraženým bojištěm a pohlédne na mrtvé Římany s nečekaným respektem. Pošle Římu mírové podmínky. Senát je odmítne — i poté co si vyslechl Pyrrhova řečníka Kineáse, jehož výmluvnost prý přesvědčila více lidí než meč. Slepý stařec Appius Claudius vstal a prohlásil že Řím nesmí vyjednávat s nepřítelem na italské půdě. Návrh byl zamítnut.",
+      "Druhá bitva u Auscula roku 279 přinese stejný výsledek — Pyrrhovo vítězství — ale za cenu která krále začne znepokojovat. Legie bojují jinak než helénistická vojska. Nevzdají se i když je situace zdánlivě beznadějná, drží formaci i tváří v tvář slonům a útočí znovu a znovu. Ztráty na Pyrrhově straně jsou neúměrně vysoké. Podle antické tradice pronesl po bitvě větu která se stala okřídlenou: \"Ještě jedno takové vítězství a jsem ztracen.\" Odtud pochází výraz pyrrhovo vítězství — triumf který stojí vítěze více než poraženého.",
+      "Roku 278 Pyrrhos přejde na Sicílii bojovat proti Kartágu. Řím využije jeho nepřítomnosti k přeskupení a posílení jihu Itálie. Když se král roku 275 vrátí, situace se změnila. U Beneventa přijde první skutečné římské vítězství nad Pyrrhem. Římané mezitím přišli na to jak na slony — hořící pochodně, hluk a úzký terén způsobí že se zvířata obrátí zpět do vlastních řad.",
+      "Pyrrhos odpluje do Řecka a zanechá Tarentum osudu. Město se vzdá roku 272. Řím stojí před Messinskou úžinou. Za ní leží Sicílie — a Kartágo. Král který Řím dvakrát porazil nakonec jen urychlil střet který stejně přijít musel."
     ],
     "pribeh": [
-      "Gaius Fulvius, princeps, čtvrtý manipul, bitva u Herakley, rok 280 př. n. l.",
       "Vzduch byl plný prachu a pachu krve. Bili jsme se s Pyrrhovou falangou už dvě hodiny a byla to vyčerpávající, brutální přetlačovaná. Moje ruka se štítem už byla těžká jako olovo.",
       "Pak se ozval ten zvuk. Hluboké, drásavé troubení, ze kterého mi zalehlo v uších a rozvibrovalo mi zuby v dásních. Země se začala třást.",
-      "Co to ke všem běsům je? zařval Lucius vedle mě a snažil se přes horní hranu štítu dohlédnout dopředu.",
+      "\"Co to ke všem běsům je?\" zařval Lucius vedle mě a snažil se přes horní hranu štítu dohlédnout dopředu.",
       "Z pravého křídla se ozval zoufalý řev. Naše jízda se úplně rozpadla. Koně šíleli, vzpínali se, shazovali jezdce do prachu a bezhlavě prchali pryč. A pak se z dýmu vynořily ty stvůry.",
       "Byly obrovské jako domy, kůži měly šedou a z tlamy jim trčely zahnuté bílé kly. Na hřbetech nesly dřevěné věže plné lučištníků.",
-      "Držte linii! Štíty k sobě, vy srabi! řval centurion, ale sám couval. Kopí nahoru!",
+      "\"Držte linii! Štíty k sobě, vy srabi!\" řval centurion, ale sám couval. \"Kopí nahoru!\"",
       "Jedno z těch monster prorazilo manipul třicet kroků nalevo od nás. Viděl jsem, jak obrovským chobotem odhodilo legionáře do vzduchu jako hadrovou panenku. Dřevo štítů praskalo pod těžkýma nohama. Naše pevná formace se s hrůzou roztrhla.",
       "Do vzniklé mezery se s řevem okamžitě natlačili Pyrrhovi řečtí žoldnéři.",
       "Konec ustupování. Těžkooděnec s krátkým kopím se vyřítil z prachu přímo na mě. Zapřel jsem se a nechal jeho hrot tvrdě narazit do středu mého scuta. Náraz mě odhodil o krok dozadu, ale udržel jsem balanc. Než stihl zbraň stáhnout a znovu bodnout, srazil jsem mu ratiště dolů hranou štítu a přišlápl ho plnou vahou caligy k zemi.",
       "Řek překvapením ztratil balanc. Zvedl jsem gladius a rychlým výpadem zespodu mu vrazil čepel pod okraj jeho bronzového kyrysu. Zkusil nadechnout, ale jen vykašlal krev. Klesl na kolena a já ho musel odstrčit nohou, aby mi nepřekážel.",
-      "Zavřít řadu! Nepouštět je blíž! zařval jsem do toho chaosu a vrhl se na dalšího, který přebíhal přes trosky naší formace. Za zády mi znovu zahřmělo — slon, nebo další vlna, nevím. Neotočil jsem se."
+      "\"Zavřít řadu! Nepouštět je blíž!\" zařval jsem do toho chaosu a vrhl se na dalšího, který přebíhal přes trosky naší formace. Za zády mi znovu zahřmělo — slon, nebo další vlna, nevím. Neotočil jsem se."
     ]
   }
 }
