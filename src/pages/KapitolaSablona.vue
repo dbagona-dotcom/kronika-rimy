@@ -144,7 +144,7 @@ watch(aktualniId, (id) => nactiKapitolu(id))
 </script>
 
 <style scoped>
-.page { background: #080808; min-height: 100vh; }
+.page { background: var(--bg-primary); min-height: 100vh; }
 
 .kapitola-wrap {
   max-width: 760px;
@@ -158,12 +158,12 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   font-size: 0.68rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #5c5850;
+  color: var(--text-subtle);
   text-decoration: none;
   margin-bottom: 3rem;
   transition: color 0.2s;
 }
-.back-btn:hover { color: #c9a84c; }
+.back-btn:hover { color: var(--text-gold); }
 
 .kap-header { text-align: center; margin-bottom: 4rem; }
 .kap-meta {
@@ -171,14 +171,14 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   font-size: 0.7rem;
   letter-spacing: 0.35em;
   text-transform: uppercase;
-  color: #c22b2b;
+  color: var(--text-red);
   margin-bottom: 1.25rem;
 }
 .kap-title {
   font-family: 'Cinzel', serif;
   font-size: clamp(1.8rem, 4vw, 2.8rem);
   font-weight: 700;
-  color: #ede8dc;
+  color: var(--text-primary);
   line-height: 1.2;
   margin-bottom: 2rem;
 }
@@ -192,7 +192,7 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   flex: 1;
   max-width: 120px;
   height: 1px;
-  background: rgba(201, 168, 76, 0.2);
+  background: var(--border-gold);
 }
 .kap-divider-ornament {
   width: 6px;
@@ -215,40 +215,40 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   gap: 1rem;
   margin-bottom: 1.75rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid rgba(201, 168, 76, 0.1);
+  border-bottom: 1px solid var(--border-gold);
 }
 .sekce-num {
   font-family: 'Cinzel', serif;
   font-size: 0.7rem;
   letter-spacing: 0.25em;
-  color: #c22b2b;
+  color: var(--text-red);
   flex-shrink: 0;
 }
 .sekce-title {
   font-family: 'Cinzel', serif;
   font-size: 1rem;
   font-weight: 600;
-  color: #ede8dc;
+  color: var(--text-primary);
   letter-spacing: 0.05em;
 }
 
-.sekce-content { padding-left: 1rem; border-left: 1px solid rgba(155, 27, 27, 0.3); }
+.sekce-content { padding-left: 1rem; border-left: 1px solid var(--border-red); }
 
 .sekce-text {
   font-family: 'EB Garamond', serif;
   font-size: 1.2rem;
-  color: #b8b0a0;
+  color: var(--text-body);
   line-height: 2;
   margin-bottom: 1.25rem;
 }
 .sekce-text:last-child { margin-bottom: 0; }
 
-.sekce-pribeh { background: rgba(155, 27, 27, 0.04); padding: 2.5rem; border: 1px solid rgba(155, 27, 27, 0.12); }
-.sekce-pribeh .sekce-header { border-bottom-color: rgba(155, 27, 27, 0.2); }
-.pribeh-content { border-left: 2px solid rgba(155, 27, 27, 0.5); padding-left: 1.5rem; }
+.sekce-pribeh { background: var(--pribeh-bg); padding: 2.5rem; border: 1px solid var(--pribeh-border); }
+.sekce-pribeh .sekce-header { border-bottom-color: var(--pribeh-border); }
+.pribeh-content { border-left: 2px solid var(--pribeh-line); padding-left: 1.5rem; }
 .pribeh-text {
   font-style: italic;
-  color: #d4ccc0;
+  color: var(--text-pribeh);
   font-size: 1.15rem;
   line-height: 2.1;
 }
@@ -259,7 +259,7 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   align-items: center;
   margin-top: 5rem;
   padding-top: 2rem;
-  border-top: 1px solid rgba(201, 168, 76, 0.12);
+  border-top: 1px solid var(--border-gold);
   gap: 1rem;
 }
 .nav-btn {
@@ -267,19 +267,19 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   font-size: 0.72rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: #9c9585;
+  color: var(--text-muted);
   background: none;
-  border: 1px solid rgba(201, 168, 76, 0.15);
+  border: 1px solid var(--border-gold);
   padding: 0.7rem 1.4rem;
   cursor: pointer;
   transition: all 0.2s;
   white-space: nowrap;
 }
-.nav-btn:hover:not(:disabled) { color: #c9a84c; border-color: rgba(201, 168, 76, 0.4); }
+.nav-btn:hover:not(:disabled) { color: var(--text-gold); border-color: var(--border-gold-hover); }
 .nav-btn:disabled { opacity: 0.25; cursor: default; }
 .nav-btn-primary {
-  color: #c22b2b;
-  border-color: rgba(194, 43, 43, 0.3);
+  color: var(--text-red);
+  border-color: var(--border-red);
 }
 .nav-btn-primary:hover { color: #e84040 !important; border-color: rgba(194, 43, 43, 0.6) !important; }
 
@@ -287,9 +287,10 @@ watch(aktualniId, (id) => nactiKapitolu(id))
   text-align: center;
   padding: 8rem 2rem;
   font-family: 'Cinzel', serif;
-  color: #5c5850;
+  color: var(--text-subtle);
 }
-.not-found a { color: #c22b2b; text-decoration: none; }
+.not-found a { color: var(--text-red); text-decoration: none; }
+
 @media (max-width: 768px) {
   .kapitola-wrap { padding: 4rem 1.25rem 4rem; }
   .kap-title { font-size: 1.6rem; }

@@ -152,7 +152,7 @@ const centuries = [
 </script>
 
 <style scoped>
-.page { background: #080808; min-height: 100vh; }
+.page { background: var(--bg-primary); min-height: 100vh; }
 
 .hero {
   min-height: 100vh;
@@ -161,14 +161,14 @@ const centuries = [
   justify-content: center;
   text-align: center;
   padding: 8rem 2rem 4rem;
-  background: radial-gradient(ellipse 60% 50% at 50% 40%, rgba(155,27,27,0.08) 0%, transparent 70%);
+  background: radial-gradient(ellipse 60% 50% at 50% 40%, var(--hero-glow) 0%, transparent 70%);
 }
 .hero-inner { max-width: 600px; }
 .hero-ornament {
   font-family: 'Cinzel', serif;
   font-size: 0.7rem;
   letter-spacing: 0.3em;
-  color: #c22b2b;
+  color: var(--text-red);
   text-transform: uppercase;
   margin-bottom: 2rem;
 }
@@ -176,7 +176,7 @@ const centuries = [
   font-family: 'Cinzel', serif;
   font-size: 0.72rem;
   letter-spacing: 0.35em;
-  color: #5c5850;
+  color: var(--text-subtle);
   text-transform: uppercase;
   margin-bottom: 1.5rem;
 }
@@ -186,15 +186,15 @@ const centuries = [
   font-weight: 700;
   letter-spacing: 0.04em;
   line-height: 1.05;
-  color: #ede8dc;
+  color: var(--text-primary);
   margin-bottom: 0.5rem;
 }
-.hero-title em { font-style: normal; color: #c22b2b; }
+.hero-title em { font-style: normal; color: var(--text-red); }
 .hero-subtitle {
   font-family: 'EB Garamond', serif;
   font-size: 1.25rem;
   font-style: italic;
-  color: #9c9585;
+  color: var(--text-muted);
   margin: 1.5rem auto 3rem;
   line-height: 1.7;
 }
@@ -210,17 +210,17 @@ const centuries = [
   font-family: 'Cinzel', serif;
   font-size: 2rem;
   font-weight: 600;
-  color: #c9a84c;
+  color: var(--text-gold);
   display: block;
 }
 .hero-stat-label {
   font-size: 0.72rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #5c5850;
+  color: var(--text-subtle);
   margin-top: 0.25rem;
 }
-.hero-stat-divider { width: 1px; height: 40px; background: rgba(201,168,76,0.12); }
+.hero-stat-divider { width: 1px; height: 40px; background: var(--border-gold); }
 .hero-cta {
   display: inline-flex;
   align-items: center;
@@ -245,7 +245,7 @@ const centuries = [
   font-family: 'Cinzel', serif;
   font-size: 0.68rem;
   letter-spacing: 0.3em;
-  color: #c22b2b;
+  color: var(--text-red);
   text-transform: uppercase;
   margin-bottom: 1rem;
 }
@@ -253,13 +253,13 @@ const centuries = [
   font-family: 'Cinzel', serif;
   font-size: 1.9rem;
   font-weight: 600;
-  color: #ede8dc;
+  color: var(--text-primary);
   margin-bottom: 0.75rem;
 }
 .section-desc {
   font-family: 'EB Garamond', serif;
   font-style: italic;
-  color: #9c9585;
+  color: var(--text-muted);
   font-size: 1.05rem;
 }
 
@@ -267,12 +267,12 @@ const centuries = [
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1px;
-  border: 1px solid rgba(201,168,76,0.12);
+  border: 1px solid var(--border-gold);
   max-width: 1100px;
   margin: 0 auto;
 }
 .century-card {
-  background: #141414;
+  background: var(--bg-card);
   padding: 2.25rem 2rem;
   cursor: pointer;
   position: relative;
@@ -290,7 +290,7 @@ const centuries = [
   transform-origin: left;
   transition: transform 0.3s ease;
 }
-.century-card:hover { background: #181818; border-color: rgba(201,168,76,0.3); }
+.century-card:hover { background: var(--bg-card-hover); border-color: var(--border-gold-hover); }
 .century-card:hover::before { transform: scaleX(1); }
 
 .century-card-era {
@@ -298,14 +298,14 @@ const centuries = [
   font-size: 0.62rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: #5c5850;
+  color: var(--text-subtle);
   margin-bottom: 0.6rem;
 }
 .century-card-num {
   font-family: 'Cinzel', serif;
   font-size: 1.5rem;
   font-weight: 700;
-  color: #c9a84c;
+  color: var(--text-gold);
   line-height: 1;
   margin-bottom: 0.25rem;
 }
@@ -313,14 +313,14 @@ const centuries = [
   font-family: 'Cinzel', serif;
   font-size: 0.9rem;
   font-weight: 600;
-  color: #ede8dc;
+  color: var(--text-primary);
   margin-bottom: 1rem;
 }
 .century-card-desc {
   font-family: 'EB Garamond', serif;
   font-style: italic;
   font-size: 0.92rem;
-  color: #9c9585;
+  color: var(--text-muted);
   line-height: 1.6;
   margin-bottom: 1.25rem;
 }
@@ -331,7 +331,7 @@ const centuries = [
   font-size: 0.72rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #c22b2b;
+  color: var(--text-red);
 }
 .conflict-dots { display: flex; gap: 3px; }
 .dot { width: 5px; height: 5px; background: #9b1b1b; border-radius: 50%; opacity: 0.4; }
@@ -341,10 +341,11 @@ const centuries = [
   bottom: 1.75rem;
   right: 1.75rem;
   font-size: 1.1rem;
-  color: #5c5850;
+  color: var(--text-subtle);
   transition: color 0.2s, transform 0.2s;
 }
-.century-card:hover .century-card-arrow { color: #c9a84c; transform: translateX(4px); }
+.century-card:hover .century-card-arrow { color: var(--text-gold); transform: translateX(4px); }
+
 @media (max-width: 768px) {
   .centuries-grid { grid-template-columns: 1fr; }
   .centuries-section { padding: 3rem 1.25rem 4rem; }
