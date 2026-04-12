@@ -121,7 +121,7 @@ const skupiny = [
 </script>
 
 <style scoped>
-.page { background: #080808; min-height: 100vh; }
+.page { background: var(--bg-primary); min-height: 100vh; }
 
 .osa-wrap { max-width: 760px; margin: 0 auto; padding: 5rem 2rem 6rem; }
 
@@ -131,12 +131,12 @@ const skupiny = [
   font-size: 0.68rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #5c5850;
+  color: var(--text-subtle);
   text-decoration: none;
   margin-bottom: 3rem;
   transition: color 0.2s;
 }
-.back-btn:hover { color: #c9a84c; }
+.back-btn:hover { color: var(--text-gold); }
 
 .osa-header { text-align: center; margin-bottom: 4rem; }
 .osa-label {
@@ -144,20 +144,20 @@ const skupiny = [
   font-size: 0.68rem;
   letter-spacing: 0.3em;
   text-transform: uppercase;
-  color: #c22b2b;
+  color: var(--text-red);
   margin-bottom: 1rem;
 }
 .osa-title {
   font-family: 'Cinzel', serif;
   font-size: 2.5rem;
   font-weight: 700;
-  color: #ede8dc;
+  color: var(--text-primary);
   margin-bottom: 0.75rem;
 }
 .osa-desc {
   font-family: 'EB Garamond', serif;
   font-style: italic;
-  color: #9c9585;
+  color: var(--text-muted);
   font-size: 1.05rem;
 }
 
@@ -169,13 +169,13 @@ const skupiny = [
   gap: 1rem;
   margin-bottom: 1rem;
 }
-.skupina-line { flex: 1; height: 1px; background: rgba(201,168,76,0.12); }
+.skupina-line { flex: 1; height: 1px; background: var(--border-gold); }
 .skupina-label {
   font-family: 'Cinzel', serif;
   font-size: 0.62rem;
   letter-spacing: 0.2em;
   text-transform: uppercase;
-  color: #5c5850;
+  color: var(--text-subtle);
   white-space: nowrap;
 }
 
@@ -186,37 +186,38 @@ const skupiny = [
   align-items: center;
   gap: 1.5rem;
   padding: 1rem 1.25rem;
-  border-bottom: 1px solid rgba(255,255,255,0.04);
+  border-bottom: 1px solid var(--border-gold);
   cursor: pointer;
   transition: background 0.2s;
 }
-.kapitola-row:hover { background: rgba(255,255,255,0.03); }
+.kapitola-row:hover { background: var(--bg-card); }
 .kapitola-row.precteno { opacity: 0.6; }
 
 .kapitola-num {
   font-family: 'Cinzel', serif;
   font-size: 0.7rem;
-  color: #c22b2b;
+  color: var(--text-red);
   min-width: 24px;
 }
 .kapitola-info { flex: 1; }
 .kapitola-nazev {
   font-family: 'Cinzel', serif;
   font-size: 0.9rem;
-  color: #ede8dc;
+  color: var(--text-primary);
   margin-bottom: 0.2rem;
   text-transform: none;
 }
 .kapitola-roky {
   font-family: 'EB Garamond', serif;
   font-size: 0.85rem;
-  color: #5c5850;
+  color: var(--text-subtle);
   font-style: italic;
 }
 .kapitola-status { min-width: 20px; text-align: right; }
-.status-precteno { color: #c9a84c; font-size: 0.9rem; }
-.status-arrow { color: #5c5850; font-size: 0.9rem; transition: color 0.2s; }
-.kapitola-row:hover .status-arrow { color: #c9a84c; }
+.status-precteno { color: var(--text-gold); font-size: 0.9rem; }
+.status-arrow { color: var(--text-subtle); font-size: 0.9rem; transition: color 0.2s; }
+.kapitola-row:hover .status-arrow { color: var(--text-gold); }
+
 @media (max-width: 768px) {
   .osa-wrap { padding: 4rem 1.25rem 4rem; }
   .skupina-label { font-size: 0.55rem; }
