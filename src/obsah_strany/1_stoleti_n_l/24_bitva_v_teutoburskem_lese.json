@@ -7,32 +7,28 @@
   "dokonceno": true,"images": { "hero": "img54.jpg", "mapa": { "src": "img55.jpg" } },
   "sections": {
     "kontext": [
-      "Čtyřicet let po Actiu vypadá impérium jako hotová věc. Středomoří je jedno, obchod proudí, silnice jsou bezpečné, provincie platí daně. Galie po Caesarových výbojích pomalu přijímá římský způsob života. Hispánie je pacifikovaná. Augustus v této době už není mladý, je mu dvaašedesát let a tělo ho zrazuje, ale dílo jeho života stojí pevně. Nebo se tak alespoň zdá.",
-      "Na západě je klid. Na severu není nic.",
-      "Za Rýnem leží svět který se Římu zatím nepodřídil. Hustý, neprostupný les táhnoucí se stovky mil na sever a východ, obývaný kmeny bez měst, bez písma, bez zákoníku, ale s bojovníky, kteří znají každý strom svého území a mají hluboký odpor k cizí přítomnosti. Augustus věří, že germánské kmeny lze začlenit do impéria stejně jako Galy. Pověřuje tím Publia Quinctiia Vara, zkušeného správce osvědčeného v Sýrii a Africe, znalého provinciální administrativy. Muže vhodného k vládnutí.",
-      "Méně vhodného k válce.",
-      "To co se stane v září roku 9 našeho letopočtu bude římany pronásledovat ještě dlouho."
+      "Čtyřicet let po Actiu vypadá impérium jako hotová věc. Středomoří je jedno, obchod proudí, silnice jsou bezpečné, provincie platí daně. Galie po Caesarových výbojích pomalu přijímá římský způsob života. Augustovi je dvaašedesát let a dílo jeho života stojí pevně.",
+      "Na severu není nic.",
+      "Za Rýnem leží svět který se Římu dosud nepodřídil. Hustý, bažinatý a těžko prostupný les táhnoucí se stovky mil na sever a východ. Území obývané kmeny bez kamenných měst, bez písma a bez centralizovaných zákonů — ale s bojovníky kteří mají absolutní znalost svého terénu a hluboký odpor k cizí moci.",
+      "Augustus věří že germánské kmeny lze do impéria postupně začlenit stejným způsobem jako Galy. Úkolem pověřuje Publia Quinctilia Vara, zkušeného správce osvědčeného v Sýrii a Africe. Výborný byrokrat a expert na provinciální administrativu. Není to vojevůdce."
     ],
     "armada": [
-      "Armáda která vstoupí do Teutoburského lesa je armádou principátu, profesionální, dlouhodobě sloužící, velmi odlišná od legií které ještě před sto lety táhly za Mariem nebo Sullou. Augustus po občanských válkách zredukoval obrovské republikánské armády na dvacet osm legií, každou o přibližně pěti tisících mužů těžké pěchoty, doplněnou o pomocné sbory, auxilie, složené z neobčanů a místních spojenců. Legionář principátu slouží dvacet let, dostává pravidelný žold a po propuštění pozemek nebo finanční odměnu. Je to voják z povolání, ne sezónní rolník s kopím.",
-      "Výzbroj těžkého legionáře se od dob samnitských válek proměnila jen v detailech, ale právě detaily jsou důležité. Přechod na lorica segmentata, článkovaný kovový pancíř skládající se z překrývajících se železných pásků, je v Augustově době v plném proudu: tento plátový pancíř, který se stane nejtypičtějším obrazem římského vojáka, postupně nahrazuje dřívější kroužkovou košili lorica hamata. Pilum zůstává, gladius zůstává, scutum zůstává. Legie je stále uznaný bojový stroj.",
-      "Na bojišti které sama zvolí.",
-      "A to je klíčové slovo. Legie je navržena pro otevřený terén, kde může rozvinout kohortní formaci, kde velitelé vidí na celé pole a zálohy mohou reagovat na vývoj situace. Germánský les nabídne přesný opak.",
-      "Germánská taktika",
-      "Germánská válečná taktika nestojí na liniích, nezná obléhání ani logistiku. Funguje v lesních přepadech, v krátkém brutálně intenzivním střetu zblízka, v rychlém ústupu do podrostu a v trpělivém čekání. Každý germánský bojovník zná stromy kolem svého kmenového území lépe než Varus zná cokoliv za Rýnem. Varusovi velitelé jsou profesionálové, ale Germánii a jejím bojovníkům rozumí méně než by bylo třeba."
+      "Armáda principátu je plně profesionální a dlouhodobě sloužící. Augustus zredukoval válečné stavy na dvacet osm stálých legií, každá o přibližně pěti tisících mužích těžké pěchoty, doplněná o pomocné sbory složené z neobčanů a lokálních spojenců. Legionář slouží dvacet let, pobírá pravidelný žold a po propuštění získává pozemek nebo finanční odměnu.",
+      "Výzbroj těžkooděnců prochází klíčovou proměnou. Kroužkovou košili lorica hamata začíná nahrazovat lorica segmentata — článkovaný pancíř skládající se z překrývajících se železných plátů. Pilum, gladius i scutum zůstávají.",
+      "Římská legie je navržena primárně pro otevřený terén. Tam dokáže rozvinout plnou kohortní formaci, velitelé mají přehled o celém bojišti a zálohy mohou okamžitě reagovat na hrozby. Germánský lesní podrost nabízí přesný opak.",
+      "Germánská válečná taktika nestojí na formovaných liniích, nezná obléhání ani logistické trasy. Funguje výhradně v lesních přepadech, v krátkém a brutálně intenzivním střetu nablízko a v rychlém ústupu do podrostu."
     ],
     "konflikt": [
-      "Příčiny katastrofy nezačínají v lese. Začínají u muže jménem Arminius.",
-      "Arminius byl synem náčelníka kmene Cheruskův, vychovaný v Římě jako rukojmí, což byl tehdy běžný způsob jak si impérium pojišťovalo loajalitu hraničních kmenů. Strávil roky v římské armádě, získal hodnost jezdce a pravděpodobně i občanství. Naučil se latinsky, pochopil taktiku, prostudoval logistiku. Pak se vrátil domů. Varusovi se zalíbil: inteligentní, romanizovaný, spolehlivý. Stal se jeho poradcem a důvěrníkem.",
-      "Arminius mezitím v tajnosti budoval koalici germánských kmenů. Přesně věděl co dělá.",
-      "A věděl jak na to.",
-      "Na podzim roku 9 Varus dostane zprávu o povstání v odlehlé části provincie. Zprávu mu přinese Arminius. Varus se rozhodne zasáhnout. Vezme tři legie, XVII., XVIII. a XIX., a vydá se přes Teutoburský les zkrácenější cestou kterou mu Arminius doporučil. Celková síla kolony je přibližně dvacet tisíc mužů, doplněná o vozový vlak, civilní doprovod a rodinné příslušníky vojáků.",
-      "Kolona vstoupí do lesa a začne se táhnout úzkými stezkami. Situace jíž se Řím chtěl po Caudiu za každou cenu vyhnout, zavřená formace, omezená viditelnost, žádná možnost manévru, se zopakuje v tom nejhorším možném vydání. Teutoburský les není průsmyk. Je to stovky čtverečních mil neprostupného terénu, kde se legie roztáhne do kolony dlouhé několik mil. Z hada který nemůže otočit hlavu.",
-      "Germáni udeří za deště. Podmínky jsou záměrně zvoleny: pilum se v mokru těžce hází, gladius je zbytečný proti bojovníkovi který útočí z lesního podrostu a než ho dosáhneš, je zpět mezi stromy. Útok přichází ze všech stran najednou, přesně koordinovaný, vedený mužem který dobře ví jak Římané reagují na překvapení a co se stane když velení ztratí přehled o vlastních jednotkách.",
-      "První den kolona drží. Druhý den, kdy Germáni znovu udeří a Římané se pokoušejí probít otevřenějším terénem, se situace začne rozpadat. Třetí den přestává existovat funkční velení. Varus, obklíčen a bez naděje na průlom, se probodne vlastním mečem jak velí tradice velitele jehož armáda je ztracena.",
-      "XVII., XVIII. a XIX. legie přestávají existovat.",
-      "Augustus přijme zprávu jako fyzický úder. Suetonius zaznamenává, že císař v záchvatu zoufalství bouchal hlavou do dveří a volal: Vare, legiones redde. Vare, vrať mi legie. Čísla XVII, XVIII a XIX nebudou nikdy přiřazena nové legii. Zmizí z armádních seznamů.",
-      "Rýn se stane hranicí. Navždy."
+      "V Německu slouží v Varově štábu Arminius, syn náčelníka kmene Cherusků. Jako chlapec byl odveden do Říma coby rukojmí — standardní postup impéria k pojištění loajality hraničních kmenů. Během let v římské armádě získal občanství i jezdecký stav. Dokonale si osvojil latinu, taktiku a uvažování velitelů. Poté se vrátil do Germánie. Varus si inteligentního romanizovaného aristokrata oblíbil a udělal z něj svého hlavního poradce.",
+      "Arminius mezitím v naprostém utajení vybudoval obrovskou koalici jinak znesvářených germánských kmenů.",
+      "Na podzim roku 9 dostává Varus zprávu o lokálním povstání v odlehlé části provincie. Zprávu mu přináší osobně Arminius a doporučuje zkrátit si cestu k rebelům. Varus okamžitě zasáhne. Bere tři legie — XVII., XVIII. a XIX. — a vydává se trasou kterou Arminius určil. Celková síla kolony čítá přes dvacet tisíc mužů a je masivně zpomalena těžkým vozovým parkem, civilním doprovodem a rodinnými příslušníky důstojníků.",
+      "Kolona vstupuje do Teutoburského lesa. Úzké lesní stezky a bažiny donutí armádu roztáhnout pochodovou osu do délky několika mil. Kohorty ztrácejí vizuální kontakt, formace je rozbita stromy a prostor pro jakýkoliv obranný manévr neexistuje.",
+      "Germáni udeří za prudkého deště. Podmínky si zvolili záměrně — v mokru a bahně se těžká štítová hradba boří, pila se špatně hází a gladius na blízko ztrácí účinnost proti lehce ozbrojenému bojovníkovi který vzápětí zmizí zpět v podrostu. Útok přichází koordinovaně ze všech stran najednou, veden mužem který do detailu ví kde má neuspořádaná kolona slepá místa.",
+      "První den římská kolona za obrovských ztrát drží tvar a buduje nouzový tábor. Druhý den Germáni udeří znovu. Římané se pokoušejí probít do otevřenějšího terénu, ale v bažinách se jejich pochod definitivně rozpadá. Třetí den přestává existovat funkční velení. Varus, izolovaný a bez jakékoliv naděje na průlom, se probodne vlastním mečem aby nepadl do zajetí.",
+      "XVII., XVIII. a XIX. legie jsou do posledního muže vyhlazeny.",
+      "Když do Říma dorazí zprávy o katastrofě, Augustus přijímá ztrátu tří legií jako fyzickou ránu. V záchvatu zoufalství tluče hlavou do dveří paláce a křičí: „Vare, vrať mi mé legie!“",
+      "Čísla sedmnáct, osmnáct a devatenáct už nebudou v římské armádě nikdy přidělena žádné nové jednotce. Trvale zmizí z armádních seznamů.",
+      "Expanze do Germánie končí. Rýn se stává pevnou hranicí římského světa."
     ],
     "pribeh": [
       "Quintus Fabius Rufus, dekán, první kohorta XVII. legie, Teutoburský les, září roku 9 n. l.",
