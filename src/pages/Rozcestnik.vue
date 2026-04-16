@@ -70,11 +70,10 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 import { useProgress } from 'src/composables/useProgress'
 
-const { getReadCount } = useProgress()
-const readCount = getReadCount()
+const { readCount, progress } = useProgress()
 const centuriesRef = ref(null)
 
 function scrollToCenturies() {
@@ -93,62 +92,26 @@ function prvniKapitola(centuryId) {
   return map[centuryId]
 }
 
-const centuries = [
-  {
-    id: '4_stoleti_pr_n_l',
-    era: 'Republika · Rané období',
-    num: 'IV.',
-    title: 'Století př. n. l.',
-    desc: 'Řím se teprve sjednocuje. Tři samnické války definují hranice budoucí velmoci.',
-    total: 3,
-    done: 0
-  },
-  {
-    id: '3_stoleti_pr_n_l',
-    era: 'Republika · Expanze',
-    num: 'III.',
-    title: 'Století př. n. l.',
-    desc: 'Pyrrhos, sloní armády a první střet s Kartágem. Řím vstupuje na světovou scénu.',
-    total: 4,
-    done: 0
-  },
-  {
-    id: '2_stoleti_pr_n_l',
-    era: 'Republika · Velmoc',
-    num: 'II.',
-    title: 'Století př. n. l.',
-    desc: 'Makedonie padá, Kartágo hoří. Řím se stává pánem Středomoří.',
-    total: 6,
-    done: 0
-  },
-  {
-    id: '1_stoleti_pr_n_l',
-    era: 'Republika · Krize',
-    num: 'I.',
-    title: 'Století př. n. l.',
-    desc: 'Caesar, Spartakus, Sulla. Republika se rozpadá pod tíhou vlastní moci.',
-    total: 10,
-    done: 0
-  },
-  {
-    id: '1_stoleti_n_l',
-    era: 'Císařství · Principát',
-    num: 'I.',
-    title: 'Století n. l.',
-    desc: 'Teutoburský les. Boudicca. Čtyři císaři v jednom roce. Impérium trhají trhliny.',
-    total: 5,
-    done: 0
-  },
-  {
-    id: '2_stoleti_n_l',
-    era: 'Císařství · Vrchol',
-    num: 'II.',
-    title: 'Století n. l.',
-    desc: 'Traianus dobývá Dacii a Mezopotámii. Marcus Aurelius brání limes.',
-    total: 4,
-    done: 0
-  }
-]
+const centurySlugs = {
+  '4_stoleti_pr_n_l': ['01_1_samnitska_valka', '02_latinska_valka', '03_2_samnitska_valka'],
+  '3_stoleti_pr_n_l': ['04_3_samnitska_valka', '05_pyrrhova_valka', '06_1_punska_valka', '07_2_punska_valka'],
+  '2_stoleti_pr_n_l': ['08_1_makedonska_valka', '09_2_makedonska_valka', '10_syrska_valka', '11_3_makedonska_valka', '12_3_punska_valka', '13_numantinska_valka'],
+  '1_stoleti_pr_n_l': ['14_jugurthinska_valka', '15_valky_s_kimbry_a_teutony', '16_spojenecka_valka', '17_sullovy_obcanske_valky', '18_sertorijska_valka', '19_spartakovo_povstani', '20_3_mithridatska_valka', '21_caesarovy_galske_valky', '22_caesarova_obcanska_valka', '23_zaverecne_obcanske_valky'],
+  '1_stoleti_n_l': ['24_bitva_v_teutoburskem_lese', '25_dobyti_britanie', '26_povstani_boudiky', '27_rok_ctyr_cisaru', '28_zidovska_valka'],
+  '2_stoleti_n_l': ['29_1_dacka_valka', '30_2_dacka_valka', '31_parthska_valka_traiana', '32_markomanske_valky']
+}
+
+const centuries = computed(() => [
+  { id: '4_stoleti_pr_n_l', era: 'Republika · Rané období', num: 'IV.', title: 'Století př. n. l.', desc: 'Řím se teprve sjednocuje. Tři samnické války definují hranice budoucí velmoci.', total: 3 },
+  { id: '3_stoleti_pr_n_l', era: 'Republika · Expanze', num: 'III.', title: 'Století př. n. l.', desc: 'Pyrrhos, sloní armády a první střet s Kartágem. Řím vstupuje na světovou scénu.', total: 4 },
+  { id: '2_stoleti_pr_n_l', era: 'Republika · Velmoc', num: 'II.', title: 'Století př. n. l.', desc: 'Makedonie padá, Kartágo hoří. Řím se stává pánem Středomoří.', total: 6 },
+  { id: '1_stoleti_pr_n_l', era: 'Republika · Krize', num: 'I.', title: 'Století př. n. l.', desc: 'Caesar, Spartakus, Sulla. Republika se rozpadá pod tíhou vlastní moci.', total: 10 },
+  { id: '1_stoleti_n_l', era: 'Císařství · Principát', num: 'I.', title: 'Století n. l.', desc: 'Teutoburský les. Boudicca. Čtyři císaři v jednom roce. Impérium trhají trhliny.', total: 5 },
+  { id: '2_stoleti_n_l', era: 'Císařství · Vrchol', num: 'II.', title: 'Století n. l.', desc: 'Traianus dobývá Dacii a Mezopotámii. Marcus Aurelius brání limes.', total: 4 }
+].map(c => ({
+  ...c,
+  done: centurySlugs[c.id].filter(slug => !!progress.value[slug]).length
+})))
 </script>
 
 <style scoped>
@@ -345,6 +308,12 @@ const centuries = [
   transition: color 0.2s, transform 0.2s;
 }
 .century-card:hover .century-card-arrow { color: var(--text-gold); transform: translateX(4px); }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .centuries-grid { grid-template-columns: repeat(2, 1fr); }
+  .centuries-section { padding: 3rem 2rem 4rem; }
+  .hero { padding: 6rem 2rem 3rem; }
+}
 
 @media (max-width: 768px) {
   .centuries-grid { grid-template-columns: 1fr; }

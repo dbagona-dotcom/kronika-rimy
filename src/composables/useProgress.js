@@ -1,22 +1,34 @@
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 
 const STORAGE_KEY = 'kronika_progress'
 
-export function useProgress() {
-  const progress = ref(JSON.parse(localStorage.getItem(STORAGE_KEY)) || {})
+function loadProgress() {
+  try {
+    const data = localStorage.getItem(STORAGE_KEY)
+    return data ? JSON.parse(data) : {}
+  } catch (error) {
+    console.warn("Nepodařilo se načíst progres:", error)
+    return {}
+  }
+}
 
+const progress = ref(loadProgress())
+
+export function useProgress() {
   function markRead(id) {
     progress.value[id] = true
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress.value))
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(progress.value))
+    } catch (error) {
+      console.warn("Nepodařilo se uložit progres do localStorage:", error)
+    }
   }
 
   function isRead(id) {
     return !!progress.value[id]
   }
 
-  function getReadCount() {
-    return Object.keys(progress.value).length
-  }
+  const readCount = computed(() => Object.keys(progress.value).length)
 
-  return { progress, markRead, isRead, getReadCount }
+  return { progress, markRead, isRead, readCount }
 }

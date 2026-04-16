@@ -9,7 +9,14 @@
 
       <!-- HERO OBRÁZEK -->
       <div v-if="kapitola.images?.hero" class="hero">
-        <img :src="'/images/' + kapitola.images.hero" :alt="kapitola.title" class="hero-img" />
+        <div class="hero-placeholder" :class="{ 'hero-placeholder--hidden': imgLoaded }"></div>
+        <img
+          :src="'/images/' + kapitola.images.hero"
+          :alt="kapitola.title"
+          class="hero-img"
+          :class="{ 'hero-img--loaded': imgLoaded }"
+          @load="imgLoaded = true"
+        />
         <div class="hero-content">
           <div class="hero-meta">{{ kapitola.years }}</div>
           <h1 class="hero-title">{{ kapitola.title }}</h1>
@@ -117,6 +124,7 @@
 <script setup>
 import { ref, computed, onMounted, onUnmounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
+import { useMeta } from 'quasar'
 import { useProgress } from 'src/composables/useProgress'
 
 const route = useRoute()
@@ -125,6 +133,11 @@ const { markRead: ulozPrecteno, isRead } = useProgress()
 
 const kapitola = ref(null)
 const scrollProgress = ref(0)
+const imgLoaded = ref(false)
+
+useMeta(() => ({
+  title: kapitola.value ? `${kapitola.value.title} | Kronika Říma` : 'Kronika Říma'
+}))
 
 function updateScroll() {
   const scrollTop = window.scrollY
@@ -192,7 +205,6 @@ function getSlozka(id) {
 }
 
 async function nactiKapitolu(id) {
-  kapitola.value = null
   scrollProgress.value = 0
   try {
     const slozka = getSlozka(id)
@@ -205,6 +217,7 @@ async function nactiKapitolu(id) {
 
 watch(aktualniId, (id) => {
   scrollProgress.value = 0
+  imgLoaded.value = false
   window.scrollTo(0, 0)
   nactiKapitolu(id)
 })
@@ -232,17 +245,36 @@ watch(aktualniId, (id) => {
   min-height: 460px;
   overflow: hidden;
 }
+
+.hero-placeholder {
+  position: absolute;
+  inset: 0;
+  background: #0d0a07;
+  z-index: 1;
+  transition: opacity 0.6s ease;
+}
+.hero-placeholder--hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
 .hero-img {
   position: absolute;
   inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center 20%;
+  object-position: center center;
   filter: brightness(0.4) saturate(0.8);
   transform: scale(1.04);
+  opacity: 0;
+  transition: opacity 0.6s ease;
+}
+.hero-img--loaded {
+  opacity: 1;
   animation: heroZoom 12s ease-out forwards;
 }
+
 @keyframes heroZoom {
   from { transform: scale(1.04); }
   to   { transform: scale(1.0); }
@@ -254,13 +286,14 @@ watch(aktualniId, (id) => {
   height: 55%;
   background: linear-gradient(to bottom, transparent, var(--bg-primary));
   pointer-events: none;
+  z-index: 2;
 }
 .hero-content {
   position: absolute;
   bottom: 0; left: 0; right: 0;
   padding: 0 2rem 3.5rem;
   text-align: center;
-  z-index: 2;
+  z-index: 3;
   opacity: 0;
   transform: translateY(20px);
   animation: slideUp 0.8s 0.3s ease-out forwards;
@@ -296,9 +329,7 @@ watch(aktualniId, (id) => {
 .hero-divider-gem { width: 6px; height: 6px; background: #9b1b1b; transform: rotate(45deg); }
 
 /* ── INLINE MAPA ── */
-.inline-img-wrap {
-  margin: 2rem 0 1rem;
-}
+.inline-img-wrap { margin: 2rem 0 1rem; }
 .inline-img {
   display: block;
   width: 100%;
@@ -462,6 +493,14 @@ watch(aktualniId, (id) => {
   color: var(--text-subtle);
 }
 .not-found a { color: var(--text-red); text-decoration: none; }
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .hero { height: 65vh; }
+  .kapitola-wrap { padding: 3rem 3rem 6rem; max-width: 680px; }
+  .sekce-pribeh { padding: 2rem 1.5rem; }
+  .kap-nav { gap: 0.75rem; }
+  .nav-btn { padding: 0.6rem 1rem; }
+}
 
 @media (max-width: 768px) {
   .progress-bar { top: 0; }

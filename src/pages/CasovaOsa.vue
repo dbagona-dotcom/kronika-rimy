@@ -119,6 +119,11 @@ const skupiny = [
   }
 ]
 </script>
+@media (min-width: 769px) and (max-width: 1024px) {
+  .osa-wrap { padding: 4rem 3rem 5rem; }
+  .skupina-label { font-size: 0.58rem; }
+  .kapitola-row { padding: 0.9rem 1rem; }
+}
 
 <style scoped>
 .page { background: var(--bg-primary); min-height: 100vh; }
