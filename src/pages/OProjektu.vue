@@ -148,27 +148,27 @@
         <div class="op-sekce-content">
           <p class="op-text">Projekt je stále živý. Pokud máš zpětnou vazbu k textům, historickým nepřesnostem nebo technické části — napiš mi.</p>
           <div class="kontakt-grid">
-            <a href="mailto:dbagona@gmail.com" class="kontakt-item">
-              <div class="kontakt-icon">✉</div>
-              <div class="kontakt-info">
-                <div class="kontakt-label">E-mail</div>
-                <div class="kontakt-hodnota">TVUJ@MAIL.CZ</div>
-              </div>
-            </a>
-            <a href="https://linkedin.com/in/David Bagoňa" target="_blank" rel="noopener" class="kontakt-item">
-              <div class="kontakt-icon">in</div>
-              <div class="kontakt-info">
-                <div class="kontakt-label">LinkedIn</div>
-                <div class="kontakt-hodnota">David Bagoňa</div>
-              </div>
-            </a>
-            <a href="https://github.com/dbagona-dotcom/kronika-rimy" target="_blank" rel="noopener" class="kontakt-item">
-              <div class="kontakt-icon">⌥</div>
-              <div class="kontakt-info">
-                <div class="kontakt-label">GitHub</div>
-                <div class="kontakt-hodnota">kronika-rimy</div>
-              </div>
-            </a>
+<a href="mailto:dbagona@gmail.com" class="kontakt-item">
+  <div class="kontakt-icon">✉</div>
+  <div class="kontakt-info">
+    <div class="kontakt-label">E-mail</div>
+    <div class="kontakt-hodnota">dbagona@gmail.com</div>
+  </div>
+</a>
+<a href="https://www.linkedin.com/in/david-bagona" target="_blank" rel="noopener" class="kontakt-item">
+  <div class="kontakt-icon">in</div>
+  <div class="kontakt-info">
+    <div class="kontakt-label">LinkedIn</div>
+    <div class="kontakt-hodnota">David Bagoňa</div>
+  </div>
+</a>
+<a href="https://github.com/dbagona-dotcom/kronika-rimy" target="_blank" rel="noopener" class="kontakt-item">
+  <div class="kontakt-icon">⌥</div>
+  <div class="kontakt-info">
+    <div class="kontakt-label">GitHub</div>
+    <div class="kontakt-hodnota">kronika-rimy</div>
+  </div>
+</a>
           </div>
           <div class="feedback-box">
             <div class="feedback-label">Zpětná vazba</div>
