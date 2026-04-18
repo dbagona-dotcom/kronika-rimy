@@ -264,7 +264,7 @@ watch(aktualniId, (id) => {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center center;
+  object-position: center 35%;
   filter: brightness(0.4) saturate(0.8);
   transform: scale(1.04);
   opacity: 0;

@@ -1,4 +1,4 @@
-  <template>
+<template>
     <q-layout view="hHh lpR fFf">
       <q-header>
         <nav class="nav">
@@ -9,6 +9,7 @@
           <div class="nav-links">
             <router-link to="/">Rozcestník</router-link>
             <router-link to="/casova-osa">Časová osa</router-link>
+            <router-link to="/o-projektu">O projektu</router-link>
           </div>
           <div class="nav-right">
             <button class="theme-toggle" @click="toggleTheme" :title="isDark ? 'Přepnout na světlý režim' : 'Přepnout na tmavý režim'">
@@ -56,12 +57,6 @@
     }
   })
   </script>
-  @media (min-width: 769px) and (max-width: 1024px) {
-  .nav { padding: 0 1.5rem; }
-  .nav-logo { font-size: 0.9rem; }
-  .nav-logo span { display: none; }
-  .nav-links a { font-size: 0.72rem; }
-}
 
   <style scoped>
   .nav {
@@ -137,6 +132,14 @@
     padding: 0.25rem 0.75rem;
     border-radius: 2px;
   }
+
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .nav { padding: 0 1.5rem; }
+    .nav-logo { font-size: 0.9rem; }
+    .nav-logo span { display: none; }
+    .nav-links a { font-size: 0.72rem; }
+  }
+
   @media (max-width: 768px) {
     .nav {
       padding: 0 1rem;
@@ -149,6 +152,7 @@
     .nav-logo { font-size: 0.85rem; }
     .nav-logo span { display: none; }
     .nav-links { gap: 1rem; }
+    
     .nav-links a { font-size: 0.7rem; }
     .nav-badge { font-size: 0.65rem; padding: 0.2rem 0.5rem; }
     .theme-toggle { width: 28px; height: 28px; font-size: 0.9rem; }
