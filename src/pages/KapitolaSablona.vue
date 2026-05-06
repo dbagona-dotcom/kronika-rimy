@@ -75,6 +75,20 @@
             <div class="sekce-content">
               <p v-for="(odstavec, i) in kapitola.sections.konflikt" :key="i" class="sekce-text">{{ odstavec }}</p>
 
+              <!-- PODKAPITOLY — tlačítka pod textem sekce III, před mapou -->
+              <div v-if="podkapitoly.length > 0" class="podkap-btns">
+                <button
+                  v-for="(pk, i) in podkapitoly"
+                  :key="i"
+                  class="podkap-btn"
+                  @click="otevritModal(pk)"
+                >
+                  <span class="podkap-btn-label">Podkapitola</span>
+                  <span class="podkap-btn-nazev">{{ pk.subtitle }}</span>
+                  <span class="podkap-btn-arrow">→</span>
+                </button>
+              </div>
+
               <!-- MAPA -->
               <div v-if="kapitola.images?.mapa" class="inline-img-wrap">
                 <img :src="'/images/' + kapitola.images.mapa.src" :alt="kapitola.images.mapa.caption" class="inline-img" />
@@ -118,6 +132,23 @@
       <p>Kapitola nenalezena.</p>
       <router-link to="/">← Zpět na rozcestník</router-link>
     </div>
+
+    <!-- MODAL PODKAPITOLY -->
+    <Teleport to="body">
+      <div v-if="modalData" class="modal-overlay" @click.self="zavritModal">
+        <div class="modal">
+          <div class="modal-header">
+            <div class="modal-meta">Podkapitola</div>
+            <h2 class="modal-title">{{ modalData.subtitle }}</h2>
+            <button class="modal-close" @click="zavritModal" aria-label="Zavřít">✕</button>
+          </div>
+          <div class="modal-body">
+            <p v-for="(odstavec, i) in modalData.odstavce" :key="i" class="modal-text">{{ odstavec }}</p>
+          </div>
+        </div>
+      </div>
+    </Teleport>
+
   </q-page>
 </template>
 
@@ -134,6 +165,8 @@ const { markRead: ulozPrecteno, isRead } = useProgress()
 const kapitola = ref(null)
 const scrollProgress = ref(0)
 const imgLoaded = ref(false)
+const podkapitoly = ref([])
+const modalData = ref(null)
 
 useMeta(() => ({
   title: kapitola.value ? `${kapitola.value.title} | Kronika Říma` : 'Kronika Říma'
@@ -146,8 +179,23 @@ function updateScroll() {
 }
 
 function handleKeydown(e) {
+  if (e.key === 'Escape' && modalData.value) {
+    zavritModal()
+    return
+  }
+  if (modalData.value) return
   if (e.key === 'ArrowLeft' && predchozi.value) prejdi(predchozi.value)
   if (e.key === 'ArrowRight' && dalsi.value) prejdi(dalsi.value)
+}
+
+function otevritModal(pk) {
+  modalData.value = pk
+  document.body.style.overflow = 'hidden'
+}
+
+function zavritModal() {
+  modalData.value = null
+  document.body.style.overflow = ''
 }
 
 onMounted(() => {
@@ -159,6 +207,7 @@ onMounted(() => {
 onUnmounted(() => {
   window.removeEventListener('scroll', updateScroll)
   window.removeEventListener('keydown', handleKeydown)
+  document.body.style.overflow = ''
 })
 
 const vsechnyId = [
@@ -206,6 +255,7 @@ function getSlozka(id) {
 
 async function nactiKapitolu(id) {
   scrollProgress.value = 0
+  podkapitoly.value = []
   try {
     const slozka = getSlozka(id)
     const data = await import(`../obsah_strany/${slozka}/${id}.json`)
@@ -213,11 +263,28 @@ async function nactiKapitolu(id) {
   } catch {
     kapitola.value = null
   }
+  await nactiPodkapitoly(id)
+}
+
+async function nactiPodkapitoly(id) {
+  try {
+    const data = await import(`../obsah_strany/podkapitoly/${id}.json`)
+    const json = data.default
+    if (Array.isArray(json)) {
+      podkapitoly.value = json
+    } else {
+      podkapitoly.value = [json]
+    }
+  } catch {
+    podkapitoly.value = []
+  }
 }
 
 watch(aktualniId, (id) => {
   scrollProgress.value = 0
   imgLoaded.value = false
+  modalData.value = null
+  document.body.style.overflow = ''
   window.scrollTo(0, 0)
   nactiKapitolu(id)
 })
@@ -441,6 +508,159 @@ watch(aktualniId, (id) => {
   line-height: 2.1;
 }
 
+/* ── PODKAPITOLA TLAČÍTKA ── */
+.podkap-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 2rem;
+}
+
+.podkap-btn {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+}
+.podkap-btn::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 2px;
+  background: #9b1b1b;
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.25s ease;
+}
+.podkap-btn:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-gold-hover);
+}
+.podkap-btn:hover::before { transform: scaleY(1); }
+
+.podkap-btn-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.62rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: var(--text-red);
+  flex-shrink: 0;
+  min-width: 80px;
+}
+.podkap-btn-nazev {
+  font-family: 'Cinzel', serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  flex: 1;
+  letter-spacing: 0.04em;
+}
+.podkap-btn-arrow {
+  font-size: 1rem;
+  color: var(--text-subtle);
+  transition: color 0.2s, transform 0.2s;
+  flex-shrink: 0;
+}
+.podkap-btn:hover .podkap-btn-arrow {
+  color: var(--text-gold);
+  transform: translateX(4px);
+}
+
+/* ── MODAL ── */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 2000;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 2rem 1rem;
+  overflow-y: auto;
+}
+
+.modal {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-gold);
+  width: 100%;
+  max-width: 720px;
+  position: relative;
+  animation: modalIn 0.25s ease-out;
+  flex-shrink: 0;
+}
+
+@keyframes modalIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.modal-header {
+  padding: 2rem 2rem 1.5rem;
+  border-bottom: 1px solid var(--border-gold);
+  position: relative;
+}
+.modal-meta {
+  font-family: 'Cinzel', serif;
+  font-size: 0.62rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--text-red);
+  margin-bottom: 0.6rem;
+}
+.modal-title {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.2rem, 3vw, 1.8rem);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.2;
+  padding-right: 3rem;
+}
+.modal-close {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: none;
+  border: 1px solid var(--border-gold);
+  color: var(--text-muted);
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+.modal-close:hover {
+  background: var(--bg-card);
+  color: var(--text-gold);
+  border-color: var(--border-gold-hover);
+}
+
+.modal-body {
+  padding: 2rem;
+  max-height: 70vh;
+  overflow-y: auto;
+}
+.modal-text {
+  font-family: 'EB Garamond', serif;
+  font-size: 1.15rem;
+  color: var(--text-body);
+  line-height: 2;
+  margin-bottom: 1.25rem;
+}
+.modal-text:last-child { margin-bottom: 0; }
+
+/* NAVIGACE */
 .kap-nav {
   display: flex;
   justify-content: space-between;
@@ -512,5 +732,8 @@ watch(aktualniId, (id) => {
   .kap-nav { flex-direction: column; gap: 0.75rem; }
   .nav-btn { width: 100%; text-align: center; }
   .nahodna-wrap { flex-direction: column; gap: 0.75rem; text-align: center; }
+  .modal-overlay { padding: 0; align-items: flex-end; }
+  .modal { max-height: 90vh; border-bottom: none; }
+  .modal-body { max-height: 60vh; }
 }
 </style>
