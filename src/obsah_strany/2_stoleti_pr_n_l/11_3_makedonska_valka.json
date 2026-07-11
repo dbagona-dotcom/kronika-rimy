@@ -1,46 +1,60 @@
 {
   "id": 11,
-  "slug": "11_3_makedonska_valka",
-  "title": "3. makedonská válka",
+  "slug": "11_treti_makedonska_valka",
+  "title": "Kapitola 11 — Třetí makedonská válka (171–168 př. n. l.)",
   "century": "2_stoleti_pr_n_l",
   "years": "171–168 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img28.jpg", "mapa": { "src": "img29.svg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Makedonie po Kynoskefalechu nebyla zničena — byla pokořena. Filip V. přijal podmínky míru, zaplatil náhradu, stáhl posádky z řeckých měst a formálně uznal římskou nadvládu. Ale pokořený král není mrtvý král. Po celá léta pracoval tiše a systematicky na obnově makedonské vojenské síly. Rekrutoval, cvičil, plnil zbrojnice. Zemřel roku 179 dříve než se dočkal příležitosti. Trůn zdědil jeho syn Perseus.",
-      "Perseus byl jiný člověk než jeho otec — opatrnější, diplomatičtější, méně impulzivní. Ale sdílel stejný cíl. V prvních letech vlády budoval spojenectví po celém řeckém světě, ženil se do thrácké královské rodiny, navazoval kontakty s ilýrskými kmeny a opatrně sondoval kde jsou hranice římské trpělivosti. Řím sledoval jeho pohyby s rostoucí nervozitou. Pergamon posílal do senátu varovné zprávy.",
-      "Roku 171 senát rozhodl že Perseovy aktivity překračují únosnou míru. Válka je vyhlášena."
+      "I. Historický kontext",
+      "Filip V. přijal podmínky u Kynoskefal. Makedonii to nezničilo.",
+      "Celá léta rekrutoval, cvičil, plnil zbrojnice. Zemřel roku 179 dříve než se dočkal příležitosti. Trůn zdědil syn Perseus.",
+      "Perseus chtěl totéž co otec. Šel na to jinak. Oženil se do thrácké královské rodiny, navázal spojenectví s ilyrskými kmeny a budoval síť kontaktů po celém řeckém světě. Královská pokladnice se plnila stříbrem z nově otevřených dolů a armáda rostla. Řím sledoval každý krok. Eumenes II. z Pergamu posílal do senátu varovné zprávy. Roku 171 senát vyhlásil válku."
     ],
     "armada": [
-      "Perseus investoval do armády vše co měl. Jeho falanga čítá přes šestnáct tisíc mužů — největší a nejlépe vycvičenou makedonskou pěchotní sílu od dob Alexandrových nástupců. Výstroj pečlivě jednotná, výcvik intenzivní, morálka vysoká. Vedle falangy operuje makedonská kavalerie a pomocné oddíly thráckých a ilýrských žoldnéřů.",
-      "Tato masivní síla ale vyžaduje dokonale rovný terén. A Pydna dokonalý terén nebude.",
-      "Řím vstupuje do války s armádou jejíž složení se pozvolna proměňuje. Tradiční dělení na majetkové třídy určující kdo slouží jako hastat, princeps nebo triarius je stále formálně zachováno, ale v praxi začíná být méně rigidní. Centurionský sbor je v tomto období patrně nejzkušenější v celých dějinách republiky — muži kteří prošli taženími ve Španělsku, Řecku i Malé Asii nesou v sobě živou paměť generace nepřetržitých válek."
+      "II. Armáda a vojenství",
+      "Perseus investoval do armády vše co měl. Falanga čítá přes šestnáct tisíc mužů. Každý sarissoforos dostal novou výstroj ze skladů v Pelle. Výcvik probíhal denně, i v zimě. Vedle falangy stojí makedonská jízda doplněná bithýnskými a ilyrskými jezdci a thráčtí pomocní vojáci pro terén kde sarisy nestačí.",
+      "Perseus ale viděl čím otec prohrál u Kynoskefal — nevhodný terén v nevhodnou chvíli. Neplánoval svést bitvu na cizím výběru pole. Chtěl průsmyky, obranné pozice, terén kde falanga funguje a kde ji manipuly nemohou obejít. Makedonie předchozí dvě války prohrála, protože bojovala tam, kde nechtěla.",
+      "Řím vstupuje do války s armádou která prošla Španělskem, Řeckem i Malou Asií. Centurioni mají za sebou tři kontinenty a dvacet let nepřetržitých kampaní. Perseus tomu čelí odmítnutím bitvy."
     ],
     "konflikt": [
-      "První dva roky jsou frustrující sérií nevyužitých příležitostí. Perseus se ukazuje jako schopný defenzivní stratég — nevychází do terénu kde by prohrál, ale ani nevede ofenzivu. Makedonie je jeho pevností a on ji brání systematicky bez dramatických gest. Konzulové útočí na opevněné pozice, utrpí zbytečné ztráty a vracejí se domů bez výsledku.",
-      "Pak přijde Aemilius Paullus.",
-      "Paullus přijme velení roku 168. Syn konzula padlého u Kann, člověk který válku prožil jako dítě a od té doby se jí věnoval jako řemeslu. Vyčistí štáb od politicky dosazených důstojníků, zavede přísnou disciplínu a začne manévrovat podél thessálského pobřeží. Perseus drží horské průsmyky. Obě armády stojí naproti sobě přes řeku Leukos nedaleko Pydny — den za dnem bez přímého střetu.",
-      "Pak přijde náhoda která rozhodne o osudu království.",
-      "Druhého června vypukne v předpolí potyčka kolem splašeného koně. Oba tábory jsou natolik blízko že lokální incident eskaluje ještě dříve než velitelé stačí zasáhnout. Perseus nečekaně vtažen do bitvy musí nasadit armádu v podmínkách které si nevybral.",
-      "Falanga nastupuje. Na rovném břehu řeky se šestnáct tisíc mužů pohybuje jako jeden organismus, kopí v pěti řadách míří dopředu v neprostupné hradbě. Římské přední oddíly se před ní okamžitě stáhnou. Paullus který tento pohyb sleduje z kopce vidí tu nejimpozantnější a nejděsivější formaci svého života.",
-      "Z rovného břehu však musí těžká falanga začít stoupat na nerovný svažitý terén.",
-      "Na kopcovitém povrchu se šik trhá. Sarisy se kříží, muži ztrácejí krok, v linii se otevírají mezery. Jsou to jen drobná lokální zúžení — ale Paullus je z kopce vidí a vydává rozkaz. Manipuly se nezarývají do čelního útoku. Klínem pronikají přesně do těch mezer, rozšiřují je, obcházejí skupiny makedonských vojáků a nemilosrdně je oddělují od sousedů. Makedonec bez soudržného šiku je muž se čtyřmetrovým kopím a malým štítem v obklíčení. Gladius nablízko vyhrává proti sarisse vždy.",
-      "Perseus prchá z bojiště ještě před koncem bitvy. Třicet tisíc jeho vojáků padne nebo je zajato.",
+      "III. Průběh konfliktu",
+      "Konzulové dvakrát zaútočí na průsmyky. Dvakrát se vrátí s prázdnou. Perseus drží průsmyky a čeká.",
+      "Lucius Aemilius Paullus převezme velení roku 168. Jeho otec padl u Kann, když byl Paullus ještě dítě. Důstojníky, kteří dostali hodnost přes známosti v Římě, pošle hned domů. Armáda vstává ráno před úsvitem. Paullus začne manévrovat podél thessálského pobřeží a nutí Persea reagovat.",
+      "Obě armády stojí naproti sobě přes řeku Leukos. Den za dnem. Bez střetu.",
+      "Noc před bitvou se zatmí měsíc. Vojáci vidí špatné znamení. Paullův astronom Gaius Sulpicius Gallus svolá mužstvo a vysvětlí jim pohyb těles. Zatmění je přirozený jev, ne zpráva od bohů. Vojáci ho poslouchají.",
+      "Druhého června se v předpolí strhne potyčka o koně. Perseus se nechá strhnout a vytáhne s celou armádou.",
+      "Falanga nastupuje. Šestnáct tisíc mužů na rovném břehu řeky. Pět řad saris před sebou. Vojáci v první linii vidí jen hroty. Římské přední oddíly couvnou. Paullus to sleduje z kopce.",
+      "Falanga začne stoupat do kopce.",
+      "Pod nohama už není rovina. Nejprve jeden muž zakopne a ztratí krok. Sarisa vedle něj se ohne doprava. Soused ji odtlačí. V šiku se otevře první mezera. Pak druhá. Pak třetí.",
+      "Centurion v první linii to vidí. Rozkaz nemá. Do mezery zavelí sám.",
+      "Manipulus vklouzne dovnitř. Rozšíří ji. Oddělí skupinu Makedonců od sousedů. Makedonec bez sousedů je muž se čtyřmetrovým kopím v těsném prostoru. Gladius je kratší.",
+      "Perseus prchá. Z třiceti tisíc Perseových vojáků dvacet tisíc padne. Zbytek je zajat.",
       "Bitva u Pydny trvá méně než hodinu.",
-      "Perseus se skrývá na ostrově Samothraké kde hledá azyl v tamním chrámu. Nakonec se vzdá. Je odveden do Říma kde projde Paullovým triumfálním průvodem spolu s makedonskou královskou pokladnicí a stovkami ukořistěných uměleckých děl. Zemře v italském vězení.",
-      "Makedonské království přestává existovat. Řím ho rozdělí na čtyři autonomní republiky bez práva vzájemného obchodu a sňatků.",
-      "Trest navržený tak, aby zabránil jakémukoliv budoucímu sjednocení."
+      "Perseus se skryje v chrámu na Samothraké, ale Římané ho najdou. Paullovým triumfem projde v řetězech. Slavnost trvá tři dny. Ukáže se makedonská pokladnice, stovky soch a obrazů, a nakonec král samotný. Zemře v Albě Fucens rok po triumfu.",
+      "Paullus projde sedmdesáti epirskými městy v jediný den. Sto padesát tisíc lidí prodá do otroctví.",
+      "Makedonské království přestane existovat. Řím ho rozdělí na čtyři autonomní republiky bez práva vzájemného obchodu a sňatků. Kořist z makedonské pokladnice je tak obrovská, že Řím svým občanům natrvalo zruší přímé daně."
     ],
     "pribeh": [
-      "Titus Labienus, hastatus, šestý manipul, bitva u Pydny, 168 př. n. l.",
-      "Čekal jsem na ně celé léto. Táboření, kopání příkopů, cvičení — a pak přišli najednou, protože nějaký splašený mezek to rozhodl za nás i za ně.",
-      "Falangu jsem viděl poprvé v životě a rozuměl jsem, proč o ní staří vojáci mluví jinak. Pohybovala se a ten pohyb byl krásný způsobem, který mi bylo nepříjemné vnímat — protože ti lidé přicházeli mě zabít. Náš přední oddíl ustupoval. Nezlobil jsem se na ně. Ani já bych nepočkal na ty sarisy na rovném terénu.",
-      "Ale pak se terén změnil. Falanga začala stoupat po nerovném svahu a linie se roztrhla — malé chvění, jako když vítr přejede přes obilné pole. Dvě skupiny sarissoforoi ztratily kontakt. Mezera nebyla široká. Možná tři muže vedle sebe. Ale byla tam.",
-      "Centurion ani nepočkal na trubku. Jen ukázal rukou doprava.",
-      "Vběhli jsme do té mezery a najednou bylo ticho — relativní ticho, jen řev bitvy za zády místo ze všech stran. Makedonský voják přede mnou zkusil otočit sarisu. Hrot popsal oblouk, narazil do zad vlastního spolubojovníka, odskočil a zabořil se do země. Voják se předklonil pod vahou dřeva a na okamžik odkryl krk nad okrajem pancíře.",
-      "Bodl jsem. Krátce, přímo, bez rozehnání. Gladius je krátký z dobrého důvodu.",
-      "Vytáhl jsem čepel a ruka se mi zaleskla od lokte po zápěstí. Setřel jsem si ji o tuniku. Šel jsem dál.",
-      "Stál jsem po bitvě na poli a díval se na pohozené sarisy. Bylo jich tolik, že terén vypadal jako les po bouři — kmeny sražené bez řádu. Ještě hodinu předtím to byl nejdokonalejší vojenský stroj, který jsem kdy viděl. Terénu je jedno jak dokonalý jsi. A mezeře taky."
+      "11 — 3. makedonská válka (168 př. n. l.)",
+      "Flavius Curtius Otho, princeps, Pydna",
+      "Plníme u řeky kožené vaky. Na druhém břehu se zničehonic splaší tažný mezek. Pár našich chlapů se vrhne do vody. V tu samou chvíli vyběhne z protějšího lesa předsunutá hlídka Thráků. Obě skupiny zastaví v mělčině a překvapeně na sebe zírají.",
+      "„Zpátky k manipulu!“ zařve centurion a odhodí vak.",
+      "Běžíme do svahu. Než se stihneme zformovat, po pláni už pochoduje celá makedonská falanga. První srážka je tvrdá. Náš manipul narazí do hradby kopí. Zbraně nepřítele jsou příliš dlouhé a my se k nim nedostaneme. Muž přede mnou dostane sarisu přímo do hrudníku. Než stihne cizí dřevo přeseknout, z druhé strany ho okamžitě probodnou do břicha.",
+      "Trubka zaječí povel k ústupu.",
+      "Couváme nahoru do kopců. Terén se láme. Pod nohama nám ujíždí kamení a vyschlé hroudy hlíny. Zakopávám a stěžka držím v linii rovnováhu.",
+      "Makedonci postupují za námi. V nerovném svahu rychle ztrácejí krok. Šestimetrová kopí se na hrbolech kříží. Skupina falanxistů klopýtne o kamenitý sráz a jejich pevná stěna hrotů praskne. Otevře se jasná mezera tří mužů.",
+      "„Tam!“ křikne centurion a ukáže mečem.",
+      "Přestaneme couvat. Vrhnu se do trhliny dřív, než stihnou hroty srovnat. Makedonec po mé levici zkusí otočit svou sarisu mým směrem. Dlouhé ratiště tvrdě narazí do zad jeho vlastního souseda a odskočí. Následný otřes muži rozevře kryt a odkryje krk nad okrajem bronzového pancíře. Bleskově mu tam vrazím hrot gladia.",
+      "Voják klesne. Zatáhnu zbraň zpět a bodám dál přímo do zad mužů. Nemohou se otočit. Jejich vlastní dlouhá kopí jim v těsném prostoru svazují ruce."
     ]
   }
 }

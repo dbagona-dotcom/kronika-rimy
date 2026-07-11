@@ -1,47 +1,54 @@
 {
   "id": 8,
-  "slug": "8_1_makedonska_valka",
-  "title": "1. makedonská válka",
+  "slug": "8_prvni_makedonska_valka",
+  "title": "Kapitola 8 — První makedonská válka (214–205 př. n. l.)",
   "century": "3_stoleti_pr_n_l",
   "years": "214–205 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img73.jpg", "mapa": { "src": "img22.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Zpráva o Kannách se roku 216 rozletěla po celém středomořském světě rychleji než kterákoliv před ní. padesát pět tisíc Římanů mrtvých za jediný den — to nebyla porážka, to bylo znamení. A nikdo ji nepřečetl pozorněji než Filip V. Makedonský.",
-      "Mladý makedonský král sledoval Hannibalovo tažení Itálií s rostoucím zájmem a stále menší neutralitou. Kanny pro něj nebyly katastrofou. Byly příležitostí. Řím se zdál být na pokraji zhroucení a Filip měl staré účty s římskou přítomností v Ilýrii — oblasti balkánského pobřeží kde Řím v předchozím desetiletí vedl dvě krátké války a rozšířil svůj vliv na území která Filip považoval za přirozenou makedonskou sféru.",
-      "Roku 215 uzavře s Hannibalem spojeneckou smlouvu. Kartágo uzná makedonské zájmy v Ilýrii, Makedonie podpoří Hannibala diplomaticky a případně vojensky. Na papíře hrozivé spojenectví. Ve skutečnosti zůstane po celou dobu konfliktu spíše na papíře — Filip nikdy nepošle do Itálie ani jednoho vojáka a Hannibal makedonskou pomoc nedostane.",
-      "Řím, vyčerpaný hannibalskou válkou, nemůže otevřít plnohodnotnou druhou frontu. Přesto nemůže nechat Filipa bez odpovědi. Senát sáhne po elegantním řešení — naváže spojenectví s Filipovými řeckými nepřáteli, především s Aitólským spolkem, pošle přes Jadran malé loďstvo a omezenou pěší sílu. Cílem není dobýt Makedonii. Cílem je zaměstnat Filipa doma, aby mu nezbyly síly na cokoliv jiného."
+      "I. Historický kontext",
+      "Zpráva o Kannách se roku 216 rozletěla po Středozemním moři. Pětapadesát tisíc Římanů mrtvých za jediný den. A nikdo ji nepřečetl pozorněji než Filip V. Makedonský.",
+      "Makedonie sídlí na severním okraji řeckého světa. Athény a Sparta budovaly svou identitu kolem polis, shromáždění a filozofických škol. Makedonie žila jako království, které zbytek Řecka považoval za polodivošské sousedy bez plného práva na řecké jméno. Filip II. si tento respekt vynutil mečem, dobyl řecká města a sjednotil poloostrov pod makedonskou nadvládou. Jeho syn Alexandr pak tuto říši rozšířil až na hranice Indie. Když Alexandr umíral, přátelé se ho ptali komu odkazuje říši. Řekl: nejsilnějšímu. Výsledkem bylo čtyřicet let válek jeho nástupců. Říše se rozpadla na soupeřící diadochská království a stará nevraživost ostatních Řeků vůči Makedonii zůstala živá.",
+      "Aitólský spolek drží střední Řecko, Achajský spolek Peloponés. Obě konfederace brání vlastní zájmy a makedonskou nadvládu odmítají. Filip V. s nimi rok co rok řeší spory na jihu.",
+      "Filip sledoval Hannibalovo tažení s rostoucím zájmem. Řím se zdál být na pokraji zhroucení a on měl staré účty s římskou přítomností v Ilýrii, oblasti balkánského pobřeží kde Řím v předchozím desetiletí vedl dvě krátké války a rozšířil vliv na území která Filip považoval za makedonské.",
+      "Roku 215 uzavře s Hannibalem spojeneckou smlouvu. Kartágo uzná makedonské zájmy v Ilýrii, Makedonie podpoří Hannibala. Ve skutečnosti do Itálie nepošle ani jednoho vojáka a pokračuje v operacích v Ilýrii na vlastní pěst."
     ],
     "armada": [
-      "První makedonská válka je konfliktem v němž se Řím záměrně vyhýbá přímému střetu s makedonskou armádou. Makedonská falanga je na příhodném terénu stále jednou z nejničivějších sil starověkého světa — a Řím si to z Pyrrhových válek dobře pamatuje.",
-      "Filipova armáda staví na dědictví Alexandra a jeho otce. Základem je falanga vyzbrojená sarissou, kopím délky čtyř až šesti metrů, které v sevřeném šiku vytváří neprostupnou stěnu hrotů. Vojáci držící sarissu oběma rukama, takže jejich štít — menší než římské scutum — visí na předloktí pouze jako pasivní ochrana. Síla falangy spočívá v absolutní soudržnosti. Pokud šik zůstane celistvý a terén rovný, je v čelním útoku téměř nezastavitelná. Jakmile se terén zhorší nebo šik ztratí pravidelnost, sarisy se vzájemně zasekávají a mezery ve formaci se stávají smrtelnými.",
-      "Vedle falangy operují peltastai — pohyblivá lehká pěchota schopná boje v členitém terénu kde falanga nemůže fungovat. Kavalerie tvoří třetí složku.",
-      "Řím v tomto konfliktu záměrně omezuje vlastní přítomnost. Těžiště války leží v diplomatické hře — financování Filipových nepřátel, udržování druhé fronty v Řecku, zatímco hlavní zdroje míří do Itálie proti Hannibalovi. Bojuj cizíma rukama, šetři vlastní."
+      "II. Armáda a vojenství",
+      "Řím si z Pyrrhových válek pamatuje co makedonská falanga dokáže na rovném terénu. V této válce proto přímé střety záměrně nehledá.",
+      "Falanga funguje přesně tak jak ji Řím zná, neprostupná stěna saris, náchylná k rozpadu jakmile se terén zhorší nebo šik ztratí pravidelnost. Středořecké hory a průsmyky jsou pro ni pastí. Vedle ní operují peltastai, pohyblivá lehká pěchota pro členitý terén, a jízda na křídlech.",
+      "Řím posílá přes Jadran malé loďstvo a omezenou pěší sílu. Těžiště války leží v penězích a diplomacii: financovat Filipovy nepřátele, udržet druhou frontu v Řecku a šetřit vlastní legie pro Hannibala. Aitólská pěchota v hornatém středním Řecku drží tlak dobře. Makedonská falanga ji nemůže donutit ke střetu na místě kde by měla výhodu."
     ],
     "konflikt": [
-      "Válka začíná roku 214 Filipovými operacemi v Ilýrii. Pokusí se dobýt přístavní město Apollonii. Římská eskadra přijíždí rychle a Filip, nečekající tak promptní odpověď, ustoupí.",
-      "Aitólský spolek se stane klíčovým římským nástrojem. Tato konfederace středořeckých měst má s Makedonií staré účty a je ochotna bojovat za předpokladu že Řím dodá peníze, lodě a část vojáků. Spojenectví z roku 211 vytvoří pro Filipa druhou frontu přímo v Řecku. Místo aby mohl soustředit síly na západ, musí Filip hasit požáry v Thessálii, Akarnánii a Lakonii. Řím dodává peníze a lodě, Aitólové krev.",
-      "Válka se vede vzájemným vypalováním vesnic, obléháním menších pevností a příležitostnými střety. Nic co by se přiblížilo rozhodující bitvě. Filip je dostatečně obezřetný aby se nepustil do otevřeného střetu s legiemi a Římané jsou příliš zaneprázdněni Hannibalem aby poslali dostatečnou sílu k přímé konfrontaci.",
-      "Zvrat přijde z nečekané strany. Aitólský spolek vyčerpaný dlouhým konfliktem uzavře roku 206 separátní mír s Filipem bez konzultace s Římem. Bez svého hlavního spojence nemá Řím důvod pokračovat. Roku 205 je uzavřen mír ve Foinike. Řím si podrží ilýrská území, Filip zůstane v Makedonii. Teritoriálně se téměř nic nezměnilo.",
-      "Republika však uprostřed největšího existenciálního boje o Itálii ukázala, že dokáže nepřítele zasáhnout vojensky i finančně na jeho vlastní půdě.",
-      "Jaderské moře přestalo být pro Makedonii hradbou."
+      "III. Průběh konfliktu",
+      "Válka začíná roku 214 Filipovými operacemi v Ilýrii. Pokusí se dobýt Apollonii, důležitý přístav na východním pobřeží Jaderského moře. Římská flotila pod velením Marca Valeria Laevina připluje v noci a zaútočí přímo na makedonský tábor na břehu. Filip nečeká tak rychlou odpověď. Zapálí vlastní lodě aby nepadly do římských rukou a stáhne se do vnitrozemí. Apollonie zůstane v římských rukou.",
+      "Filip se přesune na sever. Roku 213 dobude Lissos, důležitý přístav hluboko v ilyrském území, a pokračuje dál do vnitrozemí. Makedonský vliv na Balkánu roste.",
+      "Roku 211 konzul Marcus Valerius Laevinus osobně vyjedná spojenectví s Aitólským spolkem. Smlouva je věcná: Aitólům připadne kořist z pevniny, Římu zajatci a lodě. K této koalici se připojí i Attalos I. z Pergamu s vlastní flotilou. Filip se ocitne pod tlakem ze tří stran, Aitólové ve středním Řecku, Achajský spolek na Peloponésu, Attalova flotila na pobřeží.",
+      "Válka se vede přepady, vypalováním vesnic a sklizní, obléháním menších pevností. Filip přesouvá armádu od Thessálie přes Akarnánii do Lakonie a zpět, od jedné bitvy ke druhé. Falanga v horském terénu nemá kde rozvinout sílu a Aitólové útočí tam kde jí terén nedovolí nastoupit.",
+      "Roku 207 Filip porazí na Peloponésu Achajského vojevůdce Machaniáda u Mantineie a dočasně stabilizuje situaci na jihu. Aitólové pokračují v operacích na severu.",
+      "Aitólský spolek vyčerpaný lety nepřetržitých operací uzavře roku 206 separátní mír s Filipem bez konzultace s Římem. Každá strana si ponechá co má. Bez hlavního spojence na pevnině Řím nemá důvod pokračovat.",
+      "Roku 205 je uzavřen mír ve Foinike. Řím si podrží ilyrská pobřežní města Apollonii, Epidamnos a další body na východním Jadranu. Hranice zůstávají téměř beze změny.",
+      "Zatímco Řím oslavuje konec tohoto konfliktu a Hannibal marně čeká na makedonskou pomoc, na druhém konci Egejského moře už se formují nové a mnohem nebezpečnější spojenectví."
     ],
     "pribeh": [
-      "Marcus Junius, vojenský tribun, noční přepad Filipova tábora u Apollonie, 214 př. n. l.",
-      "Tváře a zbroje načerněné sazemi. Vzduch páchne kouřem z dohasínajících ohnišť a koňskou močí. Plížíme se spícím makedonským táborem bez jediného slova.",
-      "Filip si myslel, že nás zablokoval. Myslel si, že Řím, zdecimovaný Hannibalem, nepošle nic. Místo toho jsme se v noci nepozorovaně vylodili, proklouzli zadní branou do obležené Apollonie a teď stojíme přímo mezi jeho stany.",
-      "Gabinius, centurion první kohorty, se zastaví vedle mě. Kývne k nejbližšímu ohništi. Dva makedonští strážní se opírají o dlouhá kopí a podřimují.",
-      "„Beru toho vlevo,\" zašeptá tak tiše, že mu slova spíš odečtu ze rtů.",
-      "Kývnu. Přehodím scutum na záda a vytáhnu z opasku těžkou dýku. Půda je měkká, ztlumí kroky. Jsme na tři metry od nich, když ten můj otevře oči.",
-      "Vidím, jak se nadechuje. Neváhám. Skočím, levou rukou mu zakryju ústa a strhnu ho dozadu. Pravou zespodu pod ucho. Čepel projde měkkou tkání a zastaví se až o krční obratel.",
-      "Třese se mi v rukách. Krev stéká po předloktí, horká. Nepustím ústa, dokud nepřestane kopat. Opatrně ho položím do trávy. Gabinius už stírá krev ze své čepele.",
-      "Ze tmy se vynořují stovky dalších. Tasí meče.",
-      "„Zapalte jim stany,\" nařizuji. „A nikoho neberte do zajetí.\"",
-      "První pochodeň. Oheň olízne plátno. Pak peklo.",
-      "Polonazí Makedonci se drápou ven ze stanů a nabíhají přímo na naše připravené gladie. Nevidí pořádně — oheň za našimi zády je světlo, my jsme jen siluety. Někteří sahají po zbraních, které nechali u postele. Nedojdou tam.",
-      "Stojím uprostřed toho a hlídám, aby nikdo neutekl k severní bráně. Občas někdo proběhne kolem — voják bez štítu, bez kalhot, s mečem v ruce nebo bez něj. Dva moji muži ho sundají dřív, než mi stihne dojít na dostřel.",
-      "Nebyla to bitva. Byla to chladnokrevná jatka v temnotě.",
-      "Nebyla v tom žádná sláva. Jen práce."
+      "08 — 1. makedonská válka (214 př. n. l.)",
+      "Quintus Aurelius Gratus, optio, Apollonia",
+      "Tváře máme potřené studeným popelem. Caligae jsme omotali starým hadrem, aby podrážky na tvrdé zemi netleskaly. Jdeme tiše. Za námi v poli klečí vojáci manipulu. Mají na sobě jen tuniky a opasky s mečem, těžké kroužky zbroje stáhli kvůli chrastění kovu.",
+      "Zastavím pod nízkou dřevěnou palisádou a propletu prsty do stoličky. Rufus mi stoupne do dlaní, odrazí se a bezhlesně přehoupne přes okraj. Další jdou hned za ním. Vytáhnu se nahoru a měkce dopadnu do trávy.",
+      "Dva strážní stojí u hlavní brány zády k nám. Rychlým krokem zkrátím vzdálenost. Levou rukou mu tvrdě zacpu ústa a pravou vrazím pugio do hrdla. Teplá krev mi steče po předloktí. Rufus vedle mě potichu podřízne druhého. Těla svezeme do hlíny dřív, než vydají zvuk.",
+      "Dva muži vyběhnou zajistit obvod. Zbytek popadne těžkou dubovou závoru. Zabereme do stejného rytmu a zvedneme ji.",
+      "Brána se otevře. Náš manipul se vyřítí z nočního pole. Běží bez trubek, je slyšet jen tlumený dusot stovek nohou. Křesadla škrtnou. Během několika vteřin vzplanou pochodně a letí přímo na plátěné střechy.",
+      "Zvedne se žár. Makedonci se probouzí a lezou ze stanů. Mají u sebe jen nože a holé klacky. Svá dlouhá válečná kopí nechali venku u stojanů.",
+      "Vpadneme do nich. Nepřítel proti mně zvedne ohořelý klacek. Zkrátím vzdálenost a mečem mu bez nápřahu otevřu břicho. Koně se trhají od kůlů a divoce probíhají hořícím táborem. Kouř štípe do očí. Zblízka bodáme do zmatených siluet a necháváme za sebou krvavé stopy na trávě.",
+      "Centurion zvedne zakrvácený meč a mávne jím k východu. Stahujeme se po dvojicích zpět do tmy. Bránou projdeme ve chvíli, kdy za našimi zády s praskotem propadne první řada hořících stanů."
     ]
   }
 }

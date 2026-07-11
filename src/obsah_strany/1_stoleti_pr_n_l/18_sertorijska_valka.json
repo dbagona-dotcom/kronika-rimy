@@ -1,50 +1,54 @@
 {
   "id": 18,
-  "slug": "sertorijska_valka",
-  "title": "Sertorijská válka (80–72 př. n. l.)",
+  "slug": "18_sertorijska_valka",
+  "title": "Kapitola 18 — Sertorijská válka (80–72 př. n. l.)",
   "century": "1_stoleti_pr_n_l",
   "years": "80–72 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img42.jpg", "mapa": { "src": "img43.webp" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Sullova diktatura přinesla Římu povrchní klid. Proscripce vyčistily politické prostředí od nejviditelnějších mariánců, ústava byla přepsána ve prospěch senátu a republika vypadala jako stabilizovaná. Ale stabilizace dosažená terorem není stabilita. Je to stav který trvá dokud trvá strach.",
-      "A strach není věčný.",
-      "A někteří mariánci přežili.",
-      "Quintus Sertorius byl jiný druh mariánce než ti co se skrývali v Římě a čekali na Sullův konec. Byl to voják, skutečný, hluboký, přesvědčený voják, který sloužil pod Mariem v germánských válkách, ztratil oko v bitvě a nosil tuto ztrátu nikoliv jako znevýhodnění ale jako odznak. Byl také — což je vzácnější kombinace — politický vizionář schopný vidět za horizont bezprostřední situace.",
-      "Když Sulla zvítězil, Sertorius neprchl do Egypta ani se neschoval v italském venkově. Odplul do Španělska, do provincie kde strávil část vojenské kariéry, kde znal terén, kde znal lidi a kde ibérské kmeny znaly jeho. Uměl jednat s Ibéry jako rovný s rovnými, nikoliv jako dobyvatel s podrobenými. Naučil se jejich jazyky, respektoval jejich zvyky a jako geniální politický tah přijal bílou laň jako svého průvodce — zvíře které Ibérové považovali za posvátné a jehož přítomnost vykládali jako důkaz božské přízně svému veliteli.",
-      "Španělsko se pod jeho vedením stalo čímsi bezprecedentním v římské historii: alternativním Římem. Sertorius zřídil vlastní senát tří set členů složený z římských exulantů a ibérských náčelníků, otevřel školu pro syny ibérské aristokracie kde se vyučovalo latinsky a řecky, razil mince a vedl provinční správu. Nechtěl nezávislé Španělsko. Chtěl jiný Řím — Řím bez Sully, Řím kde mariánské hodnoty přežily.",
-      "Sulla ho nemohl ignorovat. Poslal do Španělska jednoho velitele za druhým.",
-      "Sertorius je postupně všechny porazil."
+      "I. Historický kontext",
+      "Sullova diktatura přepsala ústavu, rozšířila senát a vyčistila Řím od mariánců. Zbyli ti co se skrývali a čekali.",
+      "Quintus Sertorius přišel o oko pod Mariem v germánských válkách, bojoval ve Spojenecké válce a odmítl se podřídit Sullovi. Neschovával se v italském venkově ani neutekl do Egypta. Odplul do Španělska, kde strávil část kariéry. Znal terén, znal lidi a iberské kmeny znaly jeho.",
+      "Uměl jednat s Ibéry jinak než Řím obvykle jednal s podrobenými. Naučil se jejich jazyky, respektoval jejich zvyky. A přijal bílou laň jako svého průvodce — Ibérové věřili že bílá zvířata jsou poslem bohů. Sertorius vybudoval zpravodajskou síť skrze iberské vesnice a výsledky jejich hlášení oznamoval jako zjevení od laně. Iberský válečník byl schopen pro tohoto jednookého Římana zemřít, protože věřil že stojí na straně bohů.",
+      "Španělsko pod Sertoriovým vedením se stalo alternativním Římem. Senát o třech stech členech.  Římané v exilu i iberští náčelníci. Škola pro syny iberské aristokracie kde se vyučovalo latinsky a řecky. Vlastní mince a správa. Sertorius chtěl ze Španělska udělat nový Řím.",
+      "Sulla ho nemohl ignorovat. Poslal do Španělska jednoho velitele za druhým."
     ],
     "armada": [
-      "Sertorius má k dispozici armádu která je silná v jedné věci a slabá v druhé. Silnou stránkou jsou ibérští válečníci — lidé znající španělský terén od dětství, zvyklí na horký den a studenou noc, schopní pohybovat se v horách rychlostí která těžkým legiím nepřipadá možná, mistři zálohy a rychlého útěku. Jejich slabinou je že nejsou legie: nedokáží udržet disciplinovanou linii v otevřené bitvě proti plně organizovaným kohortám.",
-      "Sertorius nikdy nenechá nepřítele vnutit mu podmínky bitvy. Na rovném terénu kde by legie měla výhodu se bitvě vyhne. V horách a lesích zaútočí přesně kdy a kde se mu hodí. Zásobovací kolony jsou jeho oblíbeným cílem — bez zásobování nemůže legie operovat v nepřátelském území déle než týden a Španělsko je příliš velké na efektivní zásobovací síť. Přepadne kolonu, zmizí do hor a znovu se ukáže o sto kilometrů dál, tam kde ho nikdo nečekal.",
-      "Quintus Caecilius Metellus Pius jako první, pak mladý Gnaeus Pompeius přidaný jako posila, jsou konfrontováni s dilematem které nemá čistě vojenské řešení. Metellus je schopný konzervativní velitel starého střihu — systematický, opatrný, spolehlivý. Přesně takový typ velitele na kterého Sertorijova taktika platí nejlépe.",
-      "Systematický velitel je předvídatelný velitel.",
-      "Pompeius je jiný — mladší, impulzivnější, dychtivý po slávě. Sertorius ho v prvních střetech opakovaně přechytračí. U Lauro nechá Pompeia věřit že obléhá Sertorijovo město zatímco ve skutečnosti Sertorius obklíčí Pompeiovy zásobovací trasy a donutí ho přihlížet pádu spojeneckého města o jehož záchranu si myslel že se stará.",
-      "Sertorius také zavede systém zpravodajství přes ibérské vesnice který mu dává přehled o pohybech nepřítele ve španělském vnitrozemí mnohem dříve než Metellus nebo Pompeius mohou reagovat."
+      "II. Armáda a vojenství",
+      "Iberská falcata je těžká zahnutá čepel se svislým hrotem, s těžištěm u špičky. Jeden tah shora dolů a průbojnost je srovnatelná se sekerou. Při druhopunské válce viděli Římané co tahle zbraň dělá. A přijali ji. Gladius hispaniensis  je iberská inspirace přetavená do standardní výzbroje každého legionáře. Muži, kteří ponesou tyto meče, tak činí díky tvarům vzešlým ze země, ve které teď bojují.",
+      "Legie ve Španělsku jsou plně profesionální, postavené na Mariově reformě. Kohorty, kroužkové a šupinové zbroje s gladiem a pilem.",
+      "V Hispánii nejsou bitvy jako u Kynoskefal nebo Pydny. Největší boj je se zásobovacími kolonami a nečekanými útoky ze všech stran. Iberský válečník nemá disciplínu pro otevřenou bitvu. V horách a lesích nemá rovnocenného protivníka. Sertorius tohle věděl od prvního dne."
     ],
     "konflikt": [
-      "Válka začne fakticky roku 80 kdy Sertorius přistane v Španělsku na pozvání lusitánských kmenů a převezme velení nad rozptýlenými mariánskými silami i ibérskými spojenci. První roky jsou sérií jeho úspěchů — poráží proprétora Lucia Fufidea, pak Metella v několika střetech, pak odolá Pompeiovi i Metelovi zároveň operujícím na koordinovaných frontách.",
-      "Rok 75 přinese jediný okamžik kdy se kyvadlo přikloní na římskou stranu. U Sagunta Pompeius dosáhne taktického vítězství a Metellus porazí Sertorijova podvelitele Hirtuleia. Sertorius přijde o část území a zásobovací základny. Stáhne se do hor a začne znovu od začátku.",
-      "Sertoria nezničí Pompeius ani Metellus. Zničí ho vlastní důstojníci. Mezi nimi narůstá nespokojenost z dlouhé války bez definitivního vítězství a postupná eroze naděje že se mariánská věc vrátí do Říma.",
-      "Marcus Perpenna Vento, aristokrat přesvědčený o vlastních velitelských schopnostech a neschopný snést vědomí že je pouhým podvelitelem, zorganizuje zavraždění. Roku 72 pozve Sertoria na hostinu a nechá ho zabít vlastními důstojníky při večeři.",
-      "Perpenna převezme velení. Do tří měsíců je poražen Pompeiem. Na rozdíl od Sertoria nemá žádnou ochranu v ibérském obyvatelstvu — místní kmeny se vzdají rychle jakmile jejich skutečný velitel zmizí. Perpenna je zajat a popraven. Pompeius nechá zničit jeho osobní korespondenci — obsahovala dopisy od předních Římanů sympatizujících se Sertorijovou věcí.",
-      "Španělsko je pacifikováno. Pompeius se vrátí do Říma s pověstí která přesahuje jeho věk. Je mu třiatřicet let, nikdy nezastával žádný regulérní úřad, ale Sulla mu udělil titul Magnus. Veliký. Jméno zůstalo."
+      "III. Průběh konfliktu",
+      "Sertorius porazí proprétora Lucia Fufidea u řeky Baetis v prvním roce. Přeplavil vojsko v noci a udeřil za svítání. Fufidius ztratí přes dva tisíce mužů. Přijede Quintus Caecilius Metellus Pius, obnoví pořádek a dobývá opevněná místa na jihu. Velí a chrání si pozemní kolony vojenským doprovodem. Sertorius tyto eskorty přepadá.",
+      "Iberský průzkumník sleduje kolonu tři dny. Zná každé ohnutí cesty, každý průsmyk, ve kterém se kolona musí rozdělit a část mužstva tak přijde o podporu. Útok přijde ve dvě ráno v nejužším bodě. Sertoriovi jezdci přehradí cestu vpředu. Malá skupina, přesně dostačující k zablokování postupu. V tu chvíli sbíhají iberští válečníci po svazích ze dvou stran a zasypou vojáky oštěpy. Na úzké cestě se nemohou rozvinout. Než se stačí otočit čelem k útoku, půlka kolony leží. Sertoriovi muži zmizí do tmy dřív než se přeživší dokážou zorientovat. Ráno Metellus dostane hlášení. Pošle záchrannou kolonu. Sertorius mezitím zaútočí jinde.",
+      "Senát pošle posilu: Gnaea Pompeia, šestadvacetiletého, který nikdy nezastával regulérní úřad.",
+      "Pompeius přitáhne k městu Lauro. Sertorius město oblehne. Pompeius zaujme pozici, ve které má v úmyslu odříznout svému protivníkovi cestu do bezpečí. Jenže Sertorius už poslal deset tisíc mužů do kopců za Pompeiovou pozicí. Pompeius to neví. Když se pokusí vyrazit, narazí na Sertoriovy muže ze dvou stran. Je sevřen. Lauro padne.",
+      "Rok 75 přinese první zlom. Sertorius udeří na Pompeia. Metellus je den pochodu daleko. U řeky Sucro zasadí Pompeiu těžké ztráty — kůň pod ním padne, Pompeius bojuje pěšky. Ale Metellus dorazí včas a Sertorius se stáhne.",
+      "Metellus mezitím posílá Sertoriova zástupce Hirtuleia do otevřeného pole. Hirtuleius uspěl v horách, v záloze, ve svazích. Na rovném terénu jsou ovšem Metellovy kohorty ve výhodě. Hirtuleius padne. Sertorius přijde o nejlepšího polního velitele a zásobovací základny na jihovýchodě. Za měsíc operuje znovu, jinde.",
+      "Marcus Perpenna Vento, Říman z aristokratické rodiny, nesnáší vědomí že je pouhým podvelitelem. Zorganizuje vraždu. Roku 72 pozve Sertoria na hostinu. Při večeři ho nechá zabít vlastními důstojníky.",
+      "Perpenna převezme velení. Do tří měsíců je Pompeiem poražen. Iberské kmeny složí zbraně. Perpenna je zajat a popraven. Pompeius si nechá přinést jeho korespondenci, přečte ji a nechá ji spálit. Obsahovala dopisy od předních Římanů sympatizujících se Sertoriovou věcí. Důkazy zničí a tím si zrádce trvale zaváže.",
+      "Vrátí se do Říma. Je mu třiatřicet. Lid mu navzdory existujícím zákonům přidělí triumf i konzulát."
     ],
     "pribeh": [
-    "Gaius Virilius, průzkumník, Sertorijova armáda, severní Hispánie, sertorijská válka, 77 př. n. l.",
-    "Ležel jsem celý den za skalami nad silnicí a díval se dolů na zásobovací kolonu. Čtyři sta mul, dvě kohorty jako eskorta, centurion na koni vpředu. Počítal jsem vaky, odhadoval váhu, zaznamenával do paměti jako obrazy — ne slova, protože obraz nevybledne tak rychle. Pak jsem počkal až projdou a v noci sešplhal dolů. Tři dny lesem zpět k táboru.",
-    "Sertorius si mě vyslechl bez přerušení. Pak se zeptal na dvě věci které jsem nečekal — jak vypadali koně eskorty a jak rychle kolona pochodovala. Koně unavení, pochod pomalý — přišli zdálky a brzy se zastaví. Věděl kde. Druhý den táhla naše iberská jízda přesně tam. Co se stalo jsem se dozvěděl až zpětně. Průzkumník se neúčastní útoku. Průzkumník jde zas jinam.",
-    "Jinam bylo tentokrát severní svahy nad průsmykem kde Metelův předvoj táhl k zimním táborům. Dostal jsem tři dny na zjištění počtu a tempa. Šel jsem sám — ve dvojici jsi pomalejší a hlučnější a v těchto horách pomalost zabíjí dřív než nepřítel.",
-    "Druhý den jsem našel jejich průzkum dřív než oni mě. Čtyři muži, dobří, pohybovali se tiše a znali terén lépe než většina Římanů v Hispánii. Sledoval jsem je tři hodiny z hřebene nad nimi. Pak se jeden oddělil od skupiny a zamířil přímo k rokli kde jsem ležel předchozí noc.",
-    "Nevím jestli věděl že tam někdo byl. Možná jen zkoumal terén. Přestal jsem dýchat a přitiskl se do stínu pod převisem. Slyšel jsem jeho kroky — pravidelné, opatrné — jak se přibližují. Zastavily se čtyři kroky ode mě. Viděl jsem špičku jeho caligy na okraji kamene nade mnou.",
-    "Stál tam dlouho.",
-    "Ústa jsem měl otevřená — zavřená ústa dýchají hlasitěji. Naučil mě to Sertorius první týden. Čelist se mi od toho začala unavovat. Soustředil jsem se na to, ne na kroky.",
-    "Pak se kroky vzdálily.",
-    "Ležel jsem bez pohybu další hodinu. Pak jsem se zvedl a šel jiným směrem než jsem přišel — oklikou přes tři hřebeny, přidal jsem den k cestě zpátky. Sertorius mě vyslechl a pak se zeptal proč jsem přišel jinou cestou. Řekl jsem mu co se stalo. Kývl a řekl jediné slovo: správně.",
-    "Člověk který přežije průzkum není ten který zná terén nejlépe. Je to ten který ví kdy přestat pohybovat a kdy změnit cestu zpátky.",
-    "Sertoria zabili jeho vlastní. Tábor se změnil způsobem který se nedá popsat ale dá se poznat. Vzdal jsem se Pompeiovi tři týdny po jeho smrti. Byl velkorysý. Ale velkorysost vítěze není totéž co respekt Sertorijův. To druhé se nedá naučit."
-  ]
+      "18 — Hispánie, u řeky Sucro (75 př. n. l.)",
+      "Marcus Servilius Rufus, sertorián (Říman v exilu), Hispánie",
+      "Zvěd se tiše sesune ze skály mezi nás. Ukáže dva prsty. Dvě centurie s nákladními muly se blíží údolím.",
+      "Celou noc jsme nespali. Nosili jsme na okraj srázu těžké balvany. Kmeny několika starých borovic nad úzkou stezkou jsme do poloviny nařízli sekerami. Teď ležíme ve stínu kapradin a čekáme.",
+      "Slunce stoupá. Dole se objeví dva předsunutí jezdci. Rozhlížejí se po svazích. Z křoví po mé pravici se vymrští baleárský prakovník. Vzduchem hvízdne olověný žalud. Těžká střela tvrdě trefí prvního jezdce přímo do nechráněného čela. Zvuk roztříštěné lebeční kosti se rozlehne tichem. Jezdec se okamžitě skácí ze sedla. Druhý jezdec dostane zásah do spánku vzápětí. Pět našich chlapů rychle seběhne dolů, popadnou těla i za uzdy koně a vtáhnou je hluboko do podrostu.",
+      "Kolona nic netuší. Pochodují přesně pod námi. První muly vejdou do nejužšího místa soutěsky.",
+      "Centurion vedle mě zapře rameno do naříznutého kmene borovice. Opřeme se s ním. Dřevo hlasitě praskne a mohutný strom se zřítí dolů. Kameny letí hned za ním.",
+      "Kmeny a balvany dopadnou přímo do středu římské kolony. Drtí muly i muže. Obrovský oblak prachu zakryje cestu. Zezdola se ozve jekot polámaných zvířat a křik vojáků.",
+      "Vytasím gladius a sklouznu po strmém srázu dolů přímo do jejich týlu. Narazím do zmateného legionáře. Má na sobě stejnou lorica hamata a scutum jako já. Zkusí mě bodnout zespodu. Bleskově srazím jeho čepel tvrdým úderem jílce vlastního meče. Uvolněnou levou rukou vytasím pugio a vrazím mu dýku hluboko pod klíční kost. Zhroutí se do prachu pod kopyta mrtvého muly. Další naši se valí ze svahů na zbytek roztržené kolony z obou stran."
+    ]
   }
 }

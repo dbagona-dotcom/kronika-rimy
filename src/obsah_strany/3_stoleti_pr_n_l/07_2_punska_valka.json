@@ -1,59 +1,66 @@
 {
   "id": 7,
-  "slug": "7_2_punska_valka",
-  "title": "2. punská válka",
+  "slug": "7_druha_punska_valka",
+  "title": "Kapitola 7 — Druhá punská válka (218–201 př. n. l.)",
   "century": "3_stoleti_pr_n_l",
   "years": "218–201 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img18.jpg", "mapa": { "src": "img20.webp" } },
- "sections": {
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
+  "sections": {
     "kontext": [
-      "Kartágo podepsalo mír roku 241, ale nikdo — ani v Římě, ani na africkém pobřeží — nepovažoval tuto válku za skutečně ukončenou. Byla to přestávka. Obě strany to věděly a obě se podle toho chovaly.",
-      "Pro Kartágo byl mír ponižující. Ztráta Sicílie, obrovské válečné náhrady a zanedlouho i Sardinie a Korsiky — ty si Řím přivlastnil oportunisticky když bylo Kartágo oslabeno vnitřní žoldnéřskou vzpourou — vytvořily v kartaginské elitě hlubokou zášť. Do tohoto prostředí se narodil Hannibal Barkas, syn Hamilkara který na Sicílii nikdy nebyl poražen v přímém boji. Podle tradice přísahal otci jako devítiletý chlapec věčnou nenávist k Římu. Ať už příběh přísahy pravdivý je nebo není, výsledek byl reálný — Hannibal vyrůstal s jediným cílem.",
-      "Kartágo mezitím budovalo novou mocenskou základnu ve Španělsku. Hamilkar, pak jeho zeť Hasdrubal a nakonec sám Hannibal rozšiřovali kartaginský vliv přes Iberský poloostrov, získávali žoldnéře, stříbro z dolů a území. Řím sledoval tuto expanzi s rostoucí nervozitou a roku 226 uzavřel smlouvu stanovující řeku Ebro jako hranici kartaginského vlivu. Jihoiberské Saguntum, spojenec Říma ležící jižně od Ebra, se stalo záminkou. Roku 219 ho Hannibal oblehne a dobyde. Řím požaduje jeho vydání. Kartágo odmítne.",
-      "Ale tentokrát Hannibal nenechá Řím určovat podmínky konfliktu. Místo aby čekal na římský výsadek v Africe nebo na Sicílii, udělá něco co nikdo nečekal — přejde do útoku sám, napříč celým západním světem, přímo do Itálie."
+      "I. Historický kontext",
+      "Roku 241 Kartágo podepsalo mír. Ztráta Sicílie přišla rovnou s ním. Sardinii a Korsiku si Řím vzal zanedlouho nato, když čelilo Kartágo vnitřní žoldnéřské vzpouře. Zášť kartáginské elity se prohlubuje každým dnem.",
+      "Hamilkar se vrátil ze Sicílie neporažen. Syn, který se mu narodil roku 247, dostal punské jméno znamenající milost boha, Hannibal. Hamilkar ho vzal do Španělska jako devítiletého. Vyrůstal v táborech, ne v paláci. Sledoval jak otec buduje armádu a říši, naslouchal poradám velitelů, učil se na zajatcích. Když Hamilkar padne v boji roku 229, velení převezme Hasdrubal a Hannibal pokračuje s ním.",
+      "Španělsko dalo Kartágu druhý dech. Stříbro z dolů, žoldnéři z celého Středomoří, pevná základna na Iberském poloostrově. Řím uzavřel smlouvu roku 226 a hranice kartáginského vlivu je řeka Ebro. Jihoiberské Saguntum leží jižně od Ebra a je spojencem Říma. Roku 219 ho Hannibal oblehne a dobyde. Řím požaduje vydání. Kartágo odmítne.",
+      "Hannibal se rozhodne určit podmínky sám. Místo aby čekal na Řím v Africe nebo na Sicílii, přinese mu válku domů."
     ],
     "armada": [
-      "Druhá punská válka zastihuje římskou armádu na vrcholu středně-republikánského vývoje. Manipulární systém je plně zažitý, centurionský sbor profesionální a legie dokáže operovat v různých terénech s flexibilitou kterou žádná falanga napodobit nedokáže.",
-      "Výzbroj těžkého legionáře je ustálena. Pilum letí na dvacet až třicet metrů a při dopadu se ohne tak aby zůstal ve štítu a zneschopnil ho. Bezprostředně po vrhu přichází gladius, krátký bodný meč ideální pro těsný boj v šiku kde není prostor na velké švihy. Scutum kryje tělo od ramen po kolena a slouží jako úderná zbraň při první srážce. Bronzová helma, kroužková košile nebo bronzový kyrys podle majetku — armáda je stále do značné míry občanská.",
-      "Hannibal přivede do Itálie armádu zcela odlišnou od čehokoliv s čím se Řím dosud setkal. Iberská pěchota vyzbrojená těžkými zahnutými meči falcatami tvoří střed jeho formací. Na křídlech stojí numidská jízda — nejrychlejší a nejobratnější lehká kavalerie starověku, schopná pronásledovat prchajícího nepřítele do posledního muže nebo mizet do krajiny než se soupeř stačí zformovat. Galští bojovníci doplňují řady jako nejnárazovější úderná síla. A třicet sedm slonů — většina z nich Alpy nepřežije, ale ti co přejdou budou mít svou roli.",
-      "Hannibalův skutečný talent ale nespočívá ve výzbroji. Spočívá v taktice — v absolutním pochopení toho jak legie funguje, kde jsou její silné stránky a kde přesně leží její slepé místo."
+      "II. Armáda a vojenství",
+      "Druhá punská válka zastihuje římskou armádu na vrcholu vývoje. Manipulární systém je plně zažitý, centurionský sbor profesionální, legie dokáže operovat v různých terénech s flexibilitou kterou žádná falanga napodobit nedokáže.",
+      "Výzbroj těžkého legionáře je ustálena. Pilum letí na dvacet až třicet metrů a při dopadu se ohne tak, aby zůstalo ve štítu a zneschopnilo ho. Bezprostředně po vrhu přichází gladius, krátký bodný meč ideální pro těsný boj v šiku, kde není prostor na velké švihy. Scutum kryje tělo od ramen po kolena a slouží jako úderná zbraň při první srážce.",
+      "Hannibal přivádí do Itálie armádu zcela odlišnou. Iberská pěchota vyzbrojená těžkými zahnutými meči falcatami tvoří střed jeho formací. Na křídlech stojí numidská jízda — nejrychlejší lehká kavalerie starověku, schopná pronásledovat prchajícího nepřítele do posledního muže nebo mizet do krajiny než se soupeř stačí zformovat. Galští bojovníci doplňují řady jako nejnárazovější úderná síla. Přivádí i sedmatřicet slonů. Většina z nich Alpy nepřežije.",
+      "Hannibal zná legie lépe než většina jejich vlastních velitelů. Vyrůstal v táborech kde jeho otec bojoval s Římem, studoval jejich způsob boje na zajatcích a dezertérech. Zná útočnou taktiku legií a ví, jak ji zmanipulovat. Chápe reakce centurionů při lámání formace i slepá místa římského čelního tlaku."
     ],
     "konflikt": [
-      "Hannibal vyrazí ze Španělska na jaře roku 218 s armádou přes čtyřicet tisíc mužů. Přejde Pyreneje, prochází Galií, překonává Rhônu a pak v pozdním létě začne stoupat do Alp. Je to manévr na samé hranici proveditelnosti. Průsmyky zasněžené, místní kmeny útočí ze zálohy, zvířata se řítí do propastí. Z armády která vstoupí do hor jich na italské straně přejde méně než třicet tisíc. Ale přejdou.",
-      "Řím který čekal na válku na Sicílii nebo v Africe se najednou ocitá tváří v tvář kartaginské armádě na severu vlastního poloostrova.",
-      "První střety u Ticinu a Trebbie ukážou s kým má Řím co do činění. Hannibal nevede bitvy čelně — vede je jako pasti. U Trebbie láká konzula Sempronia do útoku za řeku za mrazivého zimního úsvitu, nechá ho přebrodit ledovou vodu, pak zaútočí ze zálohy z křoví na bocích a numidská jízda uzavře kruh za Římany. Legie utrpí drtivou porážku.",
-      "Rok 217 přinese Trasimenské jezero. Konzul Gaius Flaminius pronásleduje Hannibala za mlhavého rána. Cesta vede úzkou pláží mezi vodou a svahem kopce. Hannibal rozmístí celou armádu na kopcích schovanou v mlze a počká až se celá římská kolona vtáhne do koridoru. Pak vydá signál. Útok přichází ze tří stran zároveň. Flaminius padne v prvních minutách. Přes patnáct tisíc legionářů zemře, část se utopí při pokusu o útěk do jezera. Bitva trvá méně než tři hodiny.",
-      "Senát sáhne po krajním opatření a jmenuje diktátora. Quintus Fabius Maximus zavede strategii která mu vyslouží přezdívku Cunctator — Otáleč. Žádné přímé bitvy. Sledování Hannibala z kopců, přerušování zásobovacích tras, opotřebovávání. Strategie je správná, ale nesnesitelná pro hrdost senátu i lidu. Fabia odvolají a roku 216 pověří dvěma konzuly s největší armádou jakou Řím kdy sestavil — osmdesát tisíc mužů — s přímým rozkazem porazit Hannibala v otevřeném boji.",
-      "Setkají se u Kann v Apulii.",
-      "Římané semknou formaci do extrémně husté masy. Hannibal rozmístí svůj střed ze slabších galských jednotek do mírného oblouku vypnutého směrem k Římanům, zatímco na obou křídlech postaví nejlepší pěchotu a numidskou jízdu. Když obě linie narazí na sebe, galský střed začne pomalu ustupovat. Římané tlačí dopředu, do stále se prohlubující kapsy. Čím více tlačí, tím více jsou stlačeni ze stran. Numidská jízda mezitím rozežene římskou kavalerii a obrátí se zpět. Uzavírá kruh zezadu.",
-      "Osmdesát tisíc římských vojáků je obklíčeno na prostoru kde nemohou ani pořádně mávnout mečem. Na konci dne leží u Kann přes pětapadesát tisíc Římanů.",
-      "A přesto Řím nekapituluje.",
-      "Senát zakáže smutek, zakáže řeči o míru, zakáže Hannibalovy posly přednést podmínky. Řím přejde do války zdlouhavé — nevyhrané, ale pro Hannibala nevyhratelné. Bez obléhacího strojení nemůže dobýt italská opevněná města a jeho zásobovací linie jsou neustále ohrožovány.",
-      "Mezitím vyrůstá nová generace. Publius Cornelius Scipio, mladík jehož otec a strýc padli ve Španělsku, přesvědčí senát aby ho jmenoval velitelem iberských operací ve věku kdy na takový post ještě zdaleka nedosáhl. Přiveze s sebou něco co senát považoval za trest — přeživší z Kann. Vojáky které Řím zahanbil, odepřel jim návrat domů a poslal do španělského exilu jako živou připomínku největší porážky. Scipio z nich udělá páteř své armády. Muži kteří přežili Hannibala na tom nejhorším možném místě se ukážou jako nejtvrdší materiál který legie kdy měla.",
-      "Scipio předvede že Hannibala nejen obdivuje, ale že mu rozumí. Přebírá jeho taktiku, učí legii bojovat na křídlech, obcházet, svírat. Roku 209 dobyde Nové Kartágo překvapivým útokem ze směru který obránci považovali za neprůchodný. Kartaginský vliv ve Španělsku se začne rozpadat.",
-      "V Numidii soupeří o moc dva muži. Jeden z nich, Masinissa, přijde za Scipiem a nabídne spojenectví. U Zamy bude numidská jízda na římské straně — a Hannibal to bude vědět dřív než bitva začne.",
-      "Hannibal je povolán zpět z Itálie po patnácti letech tažení. U Zamy roku 202 se setkají dva největší vojevůdci své doby. Hannibalovi sloni projdou prázdnými chodbami ve formaci beze škod. Když numidská jízda uzavře obklíčení, role Kann se obrátí. Tentokrát prchají Kartáginci.",
-      "Mír roku 201 je pro Kartágo zničující. Vzdává se Španělska, celé flotily kromě deseti lodí, zaplatí obrovskou náhradu a nesmí bez souhlasu Říma vést žádnou válku. Přestává být velmocí.",
-      "A někde v Kartágu žije poražený stařec jménem Hannibal, který to celé začal."
+      "III. Průběh konfliktu",
+      "Na jaře roku 218 vyrazí Hannibal ze Španělska s více než čtyřiceti tisíci muži. Pyreneje, Galie, Rhóna  a pak v pozdním létě Alpy. V průsmycích, kde se stezka zužuje na šířku dvou mužů, padají koně do propastí. Místní kmeny útočí v noci na zásobovací kolony. Vojáci z Afriky vidí sníh poprvé v životě. Patnáct dní v horách. Z armády, která vstoupí do průsmyků, přejde na italskou stranu méně než třicet tisíc mužů.",
+      "Přejdou přesto.",
+      "Řím, který čekal válku na Sicílii nebo v Africe, se ocitá tváří v tvář kartáginské armádě na severu vlastního poloostrova. U Ticinu konzul Publius Cornelius Scipio zaútočí s jízdou a je raněn, sražen z koně. Zachrání ho vlastní sedmnáctiletý syn. U Trebbie Hannibal láká konzula Sempronia do útoku za řeku za mrazivého zimního úsvitu. Sempronius nechá přebrodit čtyřicet tisíc mužů přes ledovou vodu, bez snídaně, se ztuhlými rukama. Na druhém břehu čeká Hannibalova formace. Ze zálohy v křoví na bocích udeří skrytá pěchota a numidská jízda uzavře kruh za Římany. Legie utrpí drtivou porážku.",
+      "Rok 217 přinese Trasimenské jezero. Konzul Gaius Flaminius pronásleduje Hannibala za mlhavého rána podél úzké pláže sevřené mezi vodou a svahem kopce. Hannibal rozmístí celou armádu na kopcích schovanou v mlze a počká až se římská kolona vtáhne do koridoru. Útok přichází ze tří stran zároveň. Flaminius padne v prvních minutách. Přes patnáct tisíc legionářů zemře, část se utopí při pokusu o útěk do jezera. Bitva trvá méně než tři hodiny.",
+      "Senát jmenuje diktátora. Quintus Fabius Maximus přijde s vlastní strategií na Hannibala. Řím má armádu pouze sledovat z kopců, napadat zásobování a vyhýbat se přímému střetu. Pro Řím postavený na kultuře boje a vojenské cti je to potupnější než prohrát bitvu. Fabiovi říkají Otáleč. Je to urážka. Fabia nakonec odvolají.",
+      "Roku 216 senát pověří konzuly Lucia Aemilia Paulla a Gaia Terencia Varrona. Osmdesát tisíc mužů s přímým rozkazem porazit Hannibala v otevřeném boji. Paullus chce před útokem sondovat terén a obsadit okolní kopce. Varro, zvolený na vlně populárního hněvu a bez Paullovy zkušenosti, vydá rozkaz k útoku. Konzulové velí střídavě, den po dni. Ve Varrův den se setkají u Kann v Apulii.",
+      "Hannibal má přibližně padesát tisíc mužů. Rozmístí slabší galské jednotky do středu formace v mírném oblouku vypnutém směrem k Římanům, nejlepší pěchotu a numidskou jízdu na křídla. Římané semknou formaci do husté masy a začnou tlačit. Galský střed pomalu ustupuje. Římané tlačí hlouběji, do stále se prohlubující kapsy, semknutost řad roste. V té hustotě není prostor k otočení ani k nápřahu mečem. Numidská jízda mezitím rozežene římskou kavalerii a obrátí se zpět.",
+      "Kruh se uzavře.",
+      "Osmdesát tisíc vojáků stojí tak semknuto, že část umírá bez ran — udušena těly padlých sousedů. Na konci dne leží u Kann přes pětapadesát tisíc Římanů. Paullus padne v první linii. Varro uprchne.",
+      "Maharbal, velitel Hannibalovy jízdy, za ním přijde s jasným plánem: pusť vojska na pochod, do pěti dní budeš jíst večeři na Kapitolu. Hannibal odmítá pochodovat na Řím. Maharbal odchází se slovy: víš jak vyhrát bitvu. Nevíš jak to vítězství použít.",
+      "Senát zakáže smutek. Zakáže řeči o míru. Zakáže Hannibalovým poslům přednést podmínky. Po Kannách přejde na Hannibalovu stranu Kapua, druhé největší město Itálie, a několik dalších jihoitalských měst. Hannibal má základnu na poloostrově, ale bez obléhacích strojů nemůže dobýt žádné opevněné latinské město. Roku 211 přitáhne s armádou přímo pod hradby Říma jako diverze, aby přinutil konzuly odvolat obléhání Kapuy. Konzulové neodvolají. Kapua padne. Hannibal se od hradeb stáhne beze škody.",
+      "Roku 207 se pokusí Hannibalův bratr Hasdrubal přejít Alpy s druhou armádou a probít se na jih. Konzulové Marcus Livius a Gaius Claudius Nero ho zachytí u řeky Metaurus. Hasdrubal padne v boji. Nero ujede přes noc na jih a vhodí Hasdrubalovu hlavu do Hannibalova tábora.",
+      "Publius Cornelius Scipio syn konzula raněného u Ticinu přesvědčí senát aby ho jmenoval velitelem iberských operací ve věku, kdy na takový post ještě zdaleka nedosáhl. Do Španělska přiveze přeživší z Kann. Vojáky, které Řím po porážce zahanbil a odmítl pustit domů. Scipio z nich udělá páteř své armády. Muži, kteří prošli nejhorší porážkou v historii republiky a přežili, představují úplně jinou sílu.",
+      "Scipio rozumí Hannibalovi. Přebírá jeho taktiku, učí legii bojovat na křídlech místo čelního tlaku. Roku 209 dobyje Nové Kartágo překvapivým útokem ze směru, který obránci považovali za neprůchodný. Kartáginský vliv ve Španělsku se začne rozpadat. V Numidii nabídne princ Masinissa spojenectví. Numidská jízda bude u Zamy bojovat na římské straně.",
+      "Roku 203 je Hannibal povolán zpět z Itálie. Bojoval v cizí zemi patnáct let bez jediné posily a bez hmatatelného výsledku. Nalodí armádu a odpluje.",
+      "U Zamy roku 202 se setkají osobně před bitvou — Hannibal s tlumočníkem, Scipio s tlumočníkem. Hannibal nabídne podmínky. Scipio odmítne. Ráno obě strany rozvinou armády.",
+      "Hannibal nasadí slony v první linii. Scipio nachystá koridory — manipuly se rozestoupí a nechají zvířata projít prázdnými průchody beze škod. Pěchota narazí na pěchotu, linie drží. Pak přijde Masinissova jízda ze zálohy.",
+      "Kruh se uzavře. Jako u Kann — jen tentokrát prchají Kartáginci.",
+      "Mír z roku 201 zničí Kartágo jako velmoc. Vzdá se Španělska, celé flotily kromě deseti lodí, zaplatí padesát talentů stříbra ročně po dobu padesáti let a nesmí bez souhlasu Říma vést žádnou válku.",
+      "Hannibal přežije. Odejde do exilu a zůstane pro Řím hrozbou ještě dvě desetiletí."
     ],
     "pribeh": [
-      "Gnaeus Servilius, hastatus, třetí manipul, bitva u Kann, 216 př. n. l.",
-      "Apulské slunce. Prach takový, že na deset kroků nic. Bylo nás osmdesát tisíc.",
-      "Varro nařídil zúžit mezery mezi manipuly. Rameno na rameni, štít na štítu. Měli jsme jejich střed prostě rozšlapat.",
-      "Zpočátku to tak šlo. Zaryli jsme se do Galů a Iberů a oni couvali. Křičeli jsme vítězstvím a drali se dál. Hlouběji, hlouběji. Někdo v řadě přede mnou volal, že Hannibal je rozbitý.",
-      "Pak se postup zastavil.",
-      "Přední řady narazily na odpor, ale tlak zezadu nepolevil. Desítky tisíc mužů nás hnaly do prostoru, který se nezvětšoval.",
-      "Hrudník mi narazil na záda muže přede mnou. Do mých zad se natlačil další. Tlak mi zapraskal kosti a z plic mi vyšel zvuk, který jsem neovládal. Chtěl jsem zvednout pravou ruku s gladiem. Nešlo to. Neměl jsem prostor na loket. Stáli jsme slisovaní jako dobytek v ohradě. Gladius byl k ničemu. Scutum bylo k ničemu. Všechno, co nás dělalo legií, bylo k ničemu.",
-      "Z pravého boku ohlušující řev.",
-      "Prach se rozestoupil a do našeho obnaženého křídla narazila plná linie Hannibalových afrických veteránů. Zezadu, kde měla krýt naše jízda, se ozvalo ržání cizích koní a zvuk, který jsem pak slyšel ještě týdny — sekání do masa, které se nemůže bránit.",
-      "Byl jsem na samém okraji masy, kde se formace začínala trhat. Z prachu se přede mnou vynořil Afričan. Bronzový plát, krátké kopí. Bodl po krku.",
-      "Nebylo kam uhnout. Strhl jsem hlavu a hrot mi sjel po plátu na rameni.",
-      "Nebylo místo na šerm. Pustil jsem scutum — překáželo mi víc, než pomáhalo — popadl ratiště kopí oběma rukama a trhl k sobě. Narazil do mě a já mu vrazil čelo do obličeje. Zajiskřilo mi před očima.",
-      "Zapotácel se. Uvolnil sevření zbraně. Tasil jsem gladius a sekl ho přes stehno — ne zabít, odklidit. Vrhl jsem se do trhliny mezi jeho padajícím tělem a mužem za ním. Loktem, kolenem, celou vahou.",
-      "Někdo mě sekl přes záda. Teplo. Ne bolest, to přijde později.",
-      "Ven jsem vypadl jako vyplivnutý.",
-      "Utíkal jsem a neohlížel se. Za sebou jsem slyšel ten zvuk, který dělá osmdesát tisíc mužů, když se kolem nich zavře past. Není to řev. Je to něco mezi nářkem a dechem. A tisícinásobné.",
-      "Utíkal jsem, dokud jsem nespadl do obilného pole tři míle od bojiště. Ležel jsem v klasech a třásl se. Teprve tam mě rána v zádech začala bolet."
+      "07 — 2. punská válka (216 př. n. l.)",
+      "Lapideus Pulo, hastatus, Cannae",
+      "Prach z apulijské pláně se lepí na zpocenou kůži a dusí plíce. Stojíme na samém pravém okraji formace. Z nebe se na nás snáší oštěpy a olověné žaludy z praků. Srazíme štíty k sobě a vyrazíme vpřed.",
+      "Zapadneme do galské pěchoty. Dřevo a kůže skřípou pod tlakem. Tlačíme je krok za krokem dozadu a s řevem postupujeme hlouběji do jejich středu.",
+      "Pak nás zprava zasáhne drtivý náraz. Vpadne do nás africká pěchota v bronzových plátech. Nezastaví se. Celý náš okraj se začne prohýbat a stáčet dovnitř.",
+      "Tlak se okamžitě znásobí. Zezadu do mě vrážejí vlastní muži, zepředu mě drtí Afričané. Hrudník mi narazí na záda muže přede mnou a do mých zad se zaboří hrana cizího štítu. Vzduch mizí. Scutum mě svírá k tělu tak tvrdě, že nedokážu rozepnout plíce. Meč držím u pasu, zvednout ruku je nemožné.",
+      "Muž po mé levici zachroptí a zůstane stát. Nemá na sobě jedinou ránu. Tělo drží vzpřímeně jen obrovský tlak okolního davu. Skřípění drceného kovu se mísí s kolektivním sípáním. Pustím štít, nechám ho sklouznout pod nohy masám a s námahou si uvolním hruď.",
+      "Přímo přede mnou africká linie nepatrně zavrávorá. Pár mužů po mé pravici si toho všimne. Podíváme se na sebe. Zabereme rameny stejným směrem, zapřeme se do bot a vší silou rveme těla vpřed do úzké pukliny. Afričan přede mnou ztratí na kluzkém prachu oporu. Někdo z našich mu zespodu rozetne stehno a já se ramenem probořím ven.",
+      "Běžím. V ruce svírám jen meč. Pálí mě plíce a stehna tuhnou, ale nezastavuji. Srazím kartáginského lehkooděnce do prachu a ženu se dál.",
+      "Zastavím se až na návrší. Otočím se. Pláň pod námi je plná zvířeného prachu. Náš šik se scvrkl do jednoho temného lisu a kolem něj se stáhla neprostupná obroučka cizí pěchoty. Přímo do zadních řad naší zablokované formace naráží numidská jízda."
     ]
   }
 }

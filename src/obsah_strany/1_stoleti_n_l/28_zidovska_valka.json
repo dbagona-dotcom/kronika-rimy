@@ -1,60 +1,63 @@
 {
   "id": 28,
-  "slug": "zidovska_valka",
-  "title": "28 — Židovská válka (66–73 n. l.)",
+  "slug": "28_zidovska_valka",
+  "title": "Kapitola 28 — Židovská válka (66–73 n. l.)",
   "century": "1_stoleti_n_l",
   "years": "66–73 n. l.",
-  "dokonceno": true,"images": { "hero": "img62.webp", "mapa": { "src": "img63.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Rok 66 našeho letopočtu. Provincie fungují tak jak mají fungovat. Ale právě v Judeji se hromadí tlak který ani ta nejrozsáhlejší imperiální administrativa nedokáže ignorovat.",
-      "Judea byla začleněna pod přímou římskou správu roku 6 našeho letopočtu. Řím, zvyklý na náboženskou pluralitu impéria kde nová božstva přibývala stejně snadno jako nové provincie, nedokázal plně pochopit monoteismus — víru která neuznává jiné bohy, odmítá císařský kult a vnímá každý zásah do chrámového provozu jako rouhání. Kompromisy které fungovaly za Augustovy opatrné správy se postupně rozpadaly pod tlakem daňových sporů, kulturního odcizení a konkrétních provokací prokurátorů kteří hledali osobní obohacení více než provinciální klid.",
-      "Gessius Florus, prokurátor jmenovaný roku 64, v roce 66 nechá vyrabovat část chrámové pokladnice v Jeruzalémě. Reakce je okamžitá. Ulicemi se rozlehne posměch, demonstranti vybírají almužnu pro chudého prokurátora, Florus odpoví vojáky a masakrem části obyvatelstva.",
-      "Povstání se rozhoří s rychlostí která zaskočí celé římské velení na Východě. Jeruzalémský chrám přejde pod kontrolu povstaleckých kněží. Římská posádka z pevnosti Antonia je vyvražděna. Legio XII. Fulminata, seslaná ze Sýrie situaci pacifikovat, utrpí u Bét-Choronu drtivou porážku a ztratí orla — pro Řím urážka téměř nepředstavitelná.",
+      "I. Historický kontext",
+      "Judea se stala římskou provincií roku 6 našeho letopočtu. Augustus nechal chrámový kult nedotčený a chránil chrámovou pokladnici před vměšováním správy. Prokurátoři po něm si tuto hranici nehlídali.",
+      "Gessius Florus, jmenovaný roku 64, nechá roku 66 vyrabovat část chrámové pokladnice. Demonstranti se mu vysmějí a vybírají pro chudého prokurátora almužnu. Florus odpoví vojáky. V ulicích Jeruzaléma leží mrtví.",
+      "Povstání se rozhoří s rychlostí která zaskočí celé velení na Východě. Chrám přejde pod kontrolu povstaleckých kněží. Římská posádka z pevnosti Antonia je vyvražděna. Legio XII. Fulminata, poslaná ze Sýrie, utrpí u Bét-Choronu drtivou porážku a ztratí orla.",
       "Nero pověří Vespasiana."
     ],
     "armada": [
-      "Armáda kterou Vespasianus přivede do Judey je pečlivě sestavena s ohledem na specifický charakter konfliktu. Nejde o polní válku kde legie rozhodne jedna velká bitva. Jde o obléhání měst v hornatém terénu a vedení války proti nepříteli který bojuje na vlastním území s intenzitou lidí kteří vědí proč bojují.",
-      "Tři legie tvoří páteř armády: V. Macedonica, X. Fretensis a XV. Apollinaris, doplněné o auxilia. Celkem přibližně šedesát tisíc mužů — síla bezprecedentní pro jednu provincii.",
-      "Vojenští inženýři disponují katapulty a torzními stroji schopnými zasáhnout cíl na vzdálenost stovek metrů, obléhacími věžemi konstruovanými přímo na místě a aggerem — sypaným násepem který přibližuje útočníky k hradbám a zbavuje obránce výhody výšky.",
-      "Židovští obránci jsou pozoruhodný protivník, hnaný přesvědčením že bojují Boží válku. Zelóti, nejradikálnější frakce, odmítají jakoukoli kapitulaci jako náboženskou zradu.",
-      "Jejich největší slabinou je vnitřní nejednotnost. Jeruzalém ovládá několik frakcí které soupeří o moc uvnitř města tak zuřivě jako by vnější obléhání neexistovalo. Zásobují se ze stejných chrámových skladů, blokují se navzájem a v momentech krize tráví čas vzájemnými obviňováními."
+      "II. Armáda a vojenství",
+      "Vespasianus přivede do Judeje tři legie, V. Macedonica, X. Fretensis a XV. Apollinaris, doplněné o auxilia, celkem přibližně šedesát tisíc mužů.",
+      "Obléhací stroje jedou s nimi. Balista je torzní vrhací stroj. Šlachy se napnou a uvolněním vystřelí kámen přes dvacet kilogramů na čtyři sta metrů. Škorpión střílí šípy a probíjí štít na vzdálenost přes dvě stě metrů. Onager hodí těžší kámen obloukem přes hradbu. Obléhací věže se konstruují přímo na místě, přibližují útočníky na úroveň cimbuří. Agger, sypané těleso z hlíny, kamení a dřeva, roste přímo k patě hradeb. Obránci ho zapalují. Inženýři staví nový.",
+      "Judejští obránci nejsou neorganizovaný dav. Zelóti bojují s přesvědčením lidí kteří věří že brání posvátné místo. Znají terén, znají tunely pod Jeruzalémem a organizují výpady kde je legie nejzranitelnější. Uvnitř města soupeří několik frakcí o kontrolu nad Chrámem. Každá zabíjí umírněné jako zrádce."
     ],
     "konflikt": [
-      "Vespasianus zahájí tažení metodicky. Místo přímého útoku na Jeruzalém začne systematickým obsazováním Galileje a pobřežního pásu čímž izoluje judejské hory od zásobovacích tras.",
-      "Jotapata v Galileji klade vážný odpor. Po sedmi týdnech tvrdého obléhání pevnost padne. Vespasianus ji dobyl s nemálými ztrátami — ale obsadil ji.",
-      "Pak přijdou zprávy z Říma. Nero, Galba, Otho, Vitellius. Vespasianus odejde do Alexandrie řídit vlastní vzestup k moci. Judejskou válku přenechá synovi.",
-      "Titus Flavius Vespasianus mladší, třicetiletý, převezme velení plně stabilizované armády. Na jaře roku 70 obepne svými legiemi Jeruzalém. Město chrání tři soustředné hradby. Titus prolomí první za patnáct dní, druhou za dalších pět, ale třetí a pevnost Antonia kladou zuřivý odpor. Vně hradeb Římané budují obléhací val dokola celého města — zabraňují zásobování i útěkům.",
+      "III. Průběh konfliktu",
+      "Vespasianus nezaútočí rovnou na Jeruzalém. Začne postupným obsazováním Galileje a izolací judejských hor od zásobovacích přísunů.",
+      "Jotapata v Galileji klade vážný odpor. Za jejími hradbami velí obraně Iosephos Flavios, kněz. Za dvacet let napíše dějiny této války. Sedm týdnů trvá obléhání. Vespasianovy katapulty rozstřelují hradby, obránci je opravují v noci. Pak Římané proniknou skrz. Iosephos se schová v zásobovací jámě s hrstkou přeživších. Dojdou k rozhodnutí: zemřít vlastní rukou místo zajetí. Sestaví pořadí v němž se budou zabíjet navzájem. Los padne na Iosepha jako posledního. Přežije, vzdá se a přejde na římskou stranu. Vespasianovi předpoví, že se stane císařem. Vespasianus mu zachová život.",
+      "Ze západu mezitím přicházejí zprávy. Nero. Galba. Otho. Vitellius. Vespasianus odejde. Judejskou válku přenechá synovi.",
+      "Titus Flavius Vespasianus mladší, třicetiletý, převezme plně stabilizovanou armádu a na jaře roku 70 obepne Jeruzalém čtyřmi legiemi.",
+      "Město chrání tři soustředné hradby. Titus prolomí první za patnáct dní, druhou za dalších pět. Třetí a pevnost Antonia kladou zuřivý odpor. Vně hradeb Římané za třicet sedm dní postaví obléhací val podél celého obvodu města, čtrnáct kilometrů kamenné zdi s dvanácti pevnůstkami. Dovnitř nic nevjede.",
       "Uvnitř hradeb dochází jídlo.",
-      "Hladomor uvnitř Jeruzaléma přesahuje představivost. Lidé umírají na ulicích, rodiny bojují o zbytky potravy, dochází k případům kanibalismu. Zelóti přesto odmítají jednání. Každý posel vyslaný k vyjednávání je zabit dřív než dosáhne hradeb.",
-      "V srpnu roku 70 Římané proniknou do prostoru Chrámu. Druhý chrám, jehož velkolepou přestavbu Herodes dokončil teprve roku 64 — pouhých šest let před obléháním — v bitevní vřavě shoří.",
-      "Jeruzalém padne. Vítězný triumf v Římě je okázalý: průvod s kořistí zahrnuje zlatou menoru, stůl předkladných chlebů a chrámové trouby.",
-      "Ale válka ještě nekončí.",
-      "Poslední ohnisko odporu není v Judsku ani poblíž Jeruzaléma. Leží sto kilometrů na jihovýchod, na osamělé skalní plošině nad Mrtvým mořem. Masada — pevnost původně vybudovaná Herodem jako útočiště pro nejhorší případ — drží skupinu zélótů a jejich rodiny ještě tři roky po pádu hlavního města.",
-      "Roku 73 ji oblehne legát Lucius Flavius Silva s Legií X Fretensis. Masada není pevnost kterou lze vzít útokem — skála se zvedá přes čtyři sta metrů nad okolní pustinu a přístupové stezky jsou tak úzké že stačí hrstka obránců. Silva nechá kolem celého skalního masivu vystavět nepřetržitou kamennou obléhací zeď která obráncům znemožní průnik ani útěk, a pak nařídí jediné možné řešení: nasypat k vrcholu skály rampu.",
-      "Tisíce vojáků a zajatců sypanou cestu budují měsíce. Když Římané konečně přirolují na vrchol útočnou věž a probijí hradbu, narazí na absolutní ticho.",
-      "Uvnitř leží devět set šedesát mrtvých těl. Obránci, jejich ženy i děti se systematicky pozabíjeli navzájem aby nepadli živí do římského zajetí.",
-      "V cisternách přežijí schované pouze dvě ženy a pět dětí."
+      "Lidé umírají na ulicích. Rodiny bojují o zbytky potravy. Iosephos, nyní Titův posel, vychází opakovaně k hradbám a vyzývá obránce ke kapitulaci. Zelóti odpovídají šípy.",
+      "Antoniina věž padne v červenci po kombinaci beranů a podkopávání základů. Přes prolomenou zeď proniknou kohorty do areálu Chrámu. Druhý chrám, dokončený Herodem teprve šest let před obléháním, shoří.",
+      "Jeruzalém padne. V triumfálním průvodu Římem nesou vojáci zlatou menoru, stůl předkladných chlebů a chrámové trouby.",
+      "Sto kilometrů jihovýchodně, na skalní plošině čtyři sta metrů nad Mrtvým mořem, drží skupina zélótů pevnost Masadu. Herodes ji původně vybudoval jako záchrannou pevnost, zásobník vody vytesaný do skály, sklady potravin na roky, hradby na vrcholu kde přístupová stezka je tak úzká že ji ubrání hrstka mužů.",
+      "Roku 73 ji oblehne legát Lucius Flavius Silva s X. Fretensis.",
+      "Útočit přímo nešlo. Silva nechá kolem celého skalního masivu vystavět kamennou obléhací zeď. Masada se tyčí čtyři sta metrů nad okolní pustinou. Pak vydá jediný možný rozkaz: nasypat k vrcholu rampu.",
+      "Tisíce vojáků a zajatců sypanou cestu budují měsíce. Hlína, kamení, dřevěná výztuž, vrstva za vrstvou. Když Římané konečně přisunou útočnou věž a probijí hradbu, narazí na ticho.",
+      "Uvnitř leží devět set šedesát mrtvých těl. Obránci, jejich ženy i děti se pobili navzájem aby nepadli živí do zajetí.",
+      "V cisternách přežijí schované pouze dvě ženy a pět dětí.",
+      "Silva zapíše vítězství. V triumfálním záznamu bude Masada jako každá jiná dobytá pevnost."
     ],
     "pribeh": [
-      "Marcus Ulpius Nerva, tesserarius, čtvrtá kohorta X. legie Fretensis, obléhací tábor pod Jeruzalémem, židovská válka, 70 n. l.",
-      "Pátý týden obléhání. Mám pocit že jsem se tu narodil.",
-      "Dnes ráno přijde rozkaz od Tita — přesunout baterii onagerů o čtyřicet kroků doprava a zaměřit severní věž. Velím třem strojům a posádce dvanácti mužů. Onager není gladius. Onager je výpočet.",
-      "Řek jehož jméno nikdo nikdy nevysloví správně mi ukáže nový úhel — dva prsty doprava na rámci, torzní provaz napnut o čtvrtinu otáčky víc než včera. Říká to s hrdostí řemeslníka. Pak ukáže na hromadu projektilů — kamenné koule označené křídou, různé váhy, různá čísla. Každá váha vyžaduje jiné napnutí. Každý záhod je výpočet.",
-      "„Třetí cimbuří od věže,\" řekne. „Tam kde stojí strážný každé ráno.\"",
-      "Dám pokyn napnout první stroj. Muži se opřou do ráhna navijáku — čtyři chlapi, těžká práce, půl minuty sípání a dřepování než je provaz dost tuhý. Vložíme kouli. Řek zkontroluje úhel ještě jednou, prstem, bez měřidla. Kývne.",
-      "Pustím záchyt.",
-      "Prásknutí tak silné že mě pokaždé překvapí, i po pěti týdnech. Koule zmizí v oblouku a za půl vteřiny se z hradby ozve jiný zvuk — ne hukot ale křupnutí, praskot kamene o kámen.",
-      "„Vlevo o prst,\" řekne Řek.",
-      "Opravíme. Napneme znovu. Čtyři muži u navijáku, sípání, čekání.",
-      "Druhý záhod trefí cimbuří přímo. Z hradby odletí kus zdiva a strážný zmizí z ochozu — nevím jestli skočil nebo padl.",
-      "Třetí záhod. Čtvrtý. Řek počítá poškození a přepisuje čísla na tabulku. Po šestém záhodu je cimbuří pryč a v hradbě je prasklina viditelná i odtud.",
-      "Večer přijde zvuk z města. Není to šipka ani balvan — je to něco mezi křikem a nářkem, rozptýlené, z mnoha hrdel najednou. Řek přestane psát.",
-      "„Hladoví,\" řekne prostě.",
-      "Stojím a poslouchám déle než bych měl. Za pět týdnů jsem se naučil rozlišovat zvuky z hradeb — útočný křik, zpěv, hádky u bran. Tento zvuk nemá v sobě vzdor.",
-      "Podívám se na prasklinu v hradbě. Pak na tabulku s čísly. Pak zpátky na prasklinu.",
-      "Řek ji taky vidí. Přejede po ní pohledem jako tesař který odhaduje kde praskne trám. Pak se vrátí k tabulce.",
-      "Matematika vždy vyjde. Jen chvíli trvá."
+      "28 — Židovská válka (70 n. l.)",
+      "Marcus Trebellius Severus, optio, Jeruzalém",
+      "Stojíme na Olivové hoře. Kolem našich balist a škorpionů pobíhá řecký inženýr. Zastaví se u našeho stroje, podívá se dolů na jeruzalémské hradby, něco rychle zapíše do voskové tabulky a ukáže na třetí věž. Zvedne dva prsty. Úprava úhlu.",
+      "„Natáhnout!“ zařvu na obsluhu.",
+      "Čtyři muži se opřou do pák navijáku. Zvířecí šlachy, stočené do silných svazků, se napínají k prasknutí. Do kožené lžíce vložíme vápencový balvan o váze jednoho talentu. Je čerstvě natřený černou smolou. Židovští hlídači dřív bílé kameny viděli proti obloze a stačili uhnout. Černé nevidí.",
+      "Inženýr zkontroluje napětí lana a kývne.",
+      "„Pal!“",
+      "Zámek práskne. Obrovská síla vymrští kámen vpřed. Letí obloukem přes propast a s drtivým rachotem narazí do horní části věže. Kusy zdiva letí dolů.",
+      "„Znovu! Natahuj!“",
+      "Od vedlejšího stroje se najednou ozve ostrá rána. Přetažené vodicí lano prasklo. Odmrštěný konec tvrdě švihne legionáře u navijáku přes předloktí. Hlasitě křupne kost. Chlap se chytí za zlomenou ruku a začne šíleně řvát. Dva jeho kamarádi ho hned popadnou za ramena a odtáhnou pryč.",
+      "Další dny se zaměříme na jiné úseky. Přesunu muže k rychlopalným škorpionům. Obsluha zaměří ocelovou šipku na vzdálenost dvou set kroků. Výstřel. Šipka prorazí obránci na hradbě štít a smete ho z cimbuří dolů. Nabijeme další a střílíme na další terč.",
+      "Pálíme dnem i nocí. Pátý den ráno se rozbitá hradba s obrovským duněním konečně svalí do příkopu. Opřu se o naviják a sleduju, jak se do prachu a trosek okamžitě valí útočné klíny naší pěchoty se zvednutými štíty."
     ]
   }
 }

@@ -1,57 +1,70 @@
 {
   "id": 32,
-  "slug": "markomanske_valky",
-  "title": "32 — Markomanské války (166–180 n. l.)",
+  "slug": "32_markomanske_valky",
+  "title": "Kapitola 32 — Markomanské války (166–180 n. l.)",
   "century": "2_stoleti_n_l",
   "years": "166–180 n. l.",
-  "dokonceno": true,"images": { "hero": "img70.jpg", "mapa": { "src": "img71.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Rok 166 našeho letopočtu. Po půlstoletí od výbojů císaře Traiana vypadá impérium zdánlivě na vrcholu své civilizační síly. Vlády jeho dvou nástupců, Hadriana a Antonina Pia, přinesly dlouhé desetiletí tvrdé pohraniční konsolidace, infrastruktury a míru.",
-      "Za dunajskou hranicí však začínají procesy se kterými se římský systém nedokáže vypořádat. Germánské kmeny — Markomani, Kvádové, Langobardi, Vandalové a desítky dalších — podléhají masivnímu populačnímu a politickému tlaku přicházejícímu z neprozkoumaného severu Evropy. Kmeny ze Skandinávie a Pobaltí se dávají do pohybu na jih a tlačí germánská etnika přímo proti římskému opevnění na Dunaji. Za řekou leží úrodná půda, obilí a bohatá latinská města.",
-      "Na trůně sedí Marcus Aurelius, vládce formovaný hlubokým studiem stoické filozofie, jenž ze všeho nejméně touží po válčení.",
-      "Na podzim roku 166 udeří krize plnou silou. Legio I Adiutrix vracející se z nedávného parthského tažení zavleče do Evropy mor. Antoninova epidemie zasáhne celé Středomoří a způsobí bezprecedentní demografickou katastrofu. Zemřou miliony obyvatel provincií a legie chránící dunajskou hranici jsou chorobou zdecimovány. Státní pokladna vyčerpaná předchozí asijskou válkou ztrácí schopnost reagovat.",
-      "V letech 166 a 167 Markomani a Kvádové prorážejí opuštěné dunajské hraniční valy. Nepřicházejí jako plenící nájezdníci, ale jako kompletní migrující společnost s ženami, dětmi a dobytčím trénem, odhodlaná usadit se na římské půdě. Tisíce Germánů pronikají až na území severní Itálie a zahajují obléhání bohatého města Aquileia.",
-      "Řím nezažil germánské nájezdníky v Itálii od dob Kimbrů a Teutonů. Od té války uplynulo dvě stě sedmdesát let.",
-      "Marcus Aurelius nechá otevřít chrám boha Jana — čímž Řím formálně vstupuje do válečného stavu — a odjíždí s vojskem na sever."
+      "I. Historický kontext",
+      "Hadrianus a Antoninus Pius strávili půlstoletí bez výbojů. Hadrianova zeď stojí na severu Británie, dunajská hranice drží od Alp k Černému moři, silniční síť spojuje provincie od Británie po Sýrii. Impérium má zásobené sýpky, odvedené daně a bezpečné silnice.",
+      "Na trůn nastoupí v roce 161 Marcus Aurelius. Adoptovaný do dynastické linie bez pokrevního nástupnictví. Vychovaný stoickou filozofií, Epiktétem a Senekou. Ze všeho nejméně chce řídit armády.",
+      "Za dunajskou hranicí se pohybují hordy barbarů. Germánské kmeny ze Skandinávie a Pobaltí, Gótové, Vandalové, Herulové, se dávají do pohybu na jih a tlačí před sebou starší usazené kmeny, Markomany a Kvády, přímo k dunajské hranici. Za řekou leží úrodná půda, zásobené sýpky a bohatá latinská města.",
+      "Z východu přijede roku 166 zpět vítězná armáda Lucia Vera po parthském tažení. Přiveze mor.",
+      "Mor zachvátí celé Středomoří. Pravděpodobně neštovice. Miliony mrtvých v provinciích a v legionářských táborech. Legie chránící dunajskou hranici přijdou o tisíce mužů. Centurioni s dvaceti lety zkušeností umírají stejně rychle jako rekruti a jejich výcvik trvá roky.",
+      "Roku 166 a 167 Markomani a Kvádové prorážejí ochranné valy. Přitáhnou s ženami, dětmi a zásobami, odhodláni usadit se na římské půdě. Tisíce Germánů proniknou přes Alpy do severní Itálie a zahájí obléhání Aquileie.",
+      "Řím naposledy viděl germánské vojáky v Itálii před dvěma sty sedmdesáti lety, za doby Kimbrů a Teutonů.",
+      "Marcus Aurelius nechá otevřít chrám dvojhlavého Iana, čímž Řím formálně vstoupí do válečného stavu, a odjede s vojskem na sever."
     ],
     "armada": [
-      "Legie se kterými císař zahajuje tažení se nacházejí v hluboké existenční krizi. Epidemie smetla tisíce vojáků včetně stovek nenahraditelných centurionů kteří tvořili disciplinární i taktickou paměť každé kohorty. Jejich nahrazení vyžaduje roky tvrdého výcviku, jež Řím momentálně nemá.",
-      "Marcus Aurelius přistupuje k zoufalým krokům které dřívější císaři nikdy nepoužili. Hromadně verbuje gladiátory, vykupuje otroky jimž za vojenskou službu slibuje svobodu, zařazuje k legiím pouliční zločince a za vysoký žold do auxiliií plošně najímá válečníky cizích germánských kmenů aby bojovali přímo proti svým vlastním příbuzným.",
-      "Výzbroj těžké pěchoty je plně adaptována. Plátová lorica segmentata v pozdní verzi perfektně kryje trup, přilby mají obrovské obličejové štítky i zesílenou ochranu šíje. Kromě tradičního krátkého gladia přibývá do arzenálu spatha — delší jezdecký meč který vojáci využívají k boji v roztroušenějších formacích v lese, kde se scutum zploštilo kvůli menší váze a lepší manévrovatelnosti.",
-      "Markomani a Kvádové nejsou izolovanými kmeny jako za dob Varu. Po dvě staletí udržovali s impériem diplomatický, obchodní a žoldnéřský kontakt. Získali hlubokou znalost taktiky, nakoupili kvalitní římskou ocel a jejich vůdci mají přímou zkušenost z římských vojenských pluků. Nyní bojují v sevřených masivních klínových formacích zvaných cuneus, určených k silovému proražení konkrétního místa v tenké římské linii."
+      "II. Armáda a vojenství",
+      "Legie se kterými Marcus zahajuje tažení procházejí hlubokou krizí. Mor smetl tisíce vojáků a mezi nimi stovky centurionů, kteří tvořili taktické jádro každé kohorty.",
+      "Marcus se rozhodne verbovat gladiátory, vykoupí otroky jimž za vojenskou službu přislíbí svobodu a za vysoký žold do auxiliárních sborů najme germánské válečníky aby bojovali přímo proti svým vlastním kmenům.",
+      "Výzbroj těžké pěchoty kombinuje všechny tři typy zbrojí, kroužkovou hamatu, šupinovou squamatu a plátovou segmentatu, bez uniformního standardu. Přilby Niederbieber a Heddernheim mají velké lícní kryty a zesílenou šíji. Ke krátkému gladiu přibývá spatha, delší jezdecký meč, který vojáci využívají v roztroušenějších formacích v lese. Obdélníkové scutum přechází v hlubokém lesním terénu na starší oválný tvar, lehčí a manévrovatelnější v úzkých průsmycích.",
+      "Markomani a Kvádové nejsou nepřipraveným nepřítelem. Dvě staletí obchodu, diplomacie a žoldnéřské služby v římských legiích jim dala přímou znalost kohortní taktiky. Nakoupili kvalitní římskou ocel. Bojují v sevřených klínových formacích, cuneus, navržených k proražení konkrétního místa v tenké obranné linii.",
+      "Podél Dunaje Marcus Aurelius buduje systém strážních věží, burgi, v pravidelných intervalech podél celé řeky. Slouží k včasné signalizaci pro mobilní legie, aby mohly rychle reagovat na každý přechod."
     ],
     "konflikt": [
-      "V prvních letech je římská reakce čistě obranná. Až v letech 169 a 170, po odvedení nových sil a ustoupení nejhorší vlny moru, přechází císař přes Alpy zpět k Dunaji a zahajuje vytlačování Germánů z území říše. Tváří v tvář nepříteli který operuje v malých rychlých skupinách na prostoru od dnešního Bavorska až po Rumunsko buduje Marcus Aurelius podél řeky síť malých věží a hlásek — burgi. Neslouží k obraně, nýbrž k včasné signalizaci která mobilním legiím umožní rychle reagovat na další přechody řeky.",
-      "Roku 172 obklíčí Kvádové celou kohortu Legie XII Fulminata na otevřeném poli za letního vedra. Vojáci nemohou bojovat ani ustoupit — kolem nich jsou přesily nepřítele, pod nohama vyprahlá půda a žízeň která zabíjí stejně jistě jako meč. Pak se obloha zatáhne a spustí se prudký liják. Cassius Dio zaznamenal co se stalo dál: vojáci nejdřív zvedali tváře k nebi a chytali vodu do úst, pak někteří podrželi štíty a přilby jako nádoby. Napili se. Válečníci s plnýma rukama jsou jiní vojáci než ti kteří umírají žízní. Kvádové zaútočili přímo do lijáku. Dostali zpět víc než čekali. Legie přežila.",
-      "O rok později armáda pronásleduje sarmatské Iazygy kteří se přes zamrzlý Dunaj stahují na sever s kořistí. Iazyžští jezdci jsou na ledě doma — cvičili koně pro pohyb po zmrzlé řece celé generace a jsou přesvědčeni že těžká pěchota na kluzké ploše nemá šanci. Zastaví se a otočí.",
-      "Marcus Aurelius nechá legie vytvořit čtverec. Vojáci z vnitřních řad podají štíty dopředu — přední řady je položí na led a postaví se na ně. Iazyžská jízda zaútočí. Koně se klouží, sarmatské linie se tříští o stabilní římský útvar. Legionáři neustupují, tlačí vpřed a Iazygy drtí přímo na ledu zamrzlého Dunaje.",
-      "První fáze války vrcholí roku 175. Markomani a Kvádové jsou vojensky přetlačeni zpět přes Dunaj a nuceni vyklidit ochranný pás území, vydat desítky tisíc římských zajatců a odevzdat vlastní kontingenty mladých válečníků. Mír má trvat generace.",
-      "Z východu však vzápětí přichází zrada. Uznávaný vojenský generál Avidius Cassius shromažďuje legie a prohlašuje se novým císařem. Občanská válka na dvě fronty by pro vyčerpaný Řím znamenala smrt. Konflikt je zažehnán když Cassiovi vlastní důstojníci uzurpátora zavraždí a jeho hlavu přinesou císaři. Marcus Aurelius s odporem pohlédne na lidskou hlavu plnou krve a nařídí muže s trestem vyhnat.",
-      "Podepsané dunajské hranice nevydrží ani dva roky. Roku 177 Marcus Aurelius překračuje se sto tisíci muži Dunaj s jasným plánem — nechce další neudržitelnou smlouvu. Zahajuje kampaň k plné okupaci barbarských území a vytvoření dvou nových přímých provincií.",
-      "V březnu roku 180 srazí vyčerpaného jednašedesátiletého císaře přímo ve vojenském zimním táboře ve Vindoboně vracející se vlna moru. S vědomím blížící se smrti předává moc svému devatenáctiletému synovi Commodovi a nemoci podléhá. Nový císař obratem zastavuje veškeré plány na anexi a stahuje armádu zpět za obranu řeky.",
-      "Markomanské války končí.",
-      "Poslední noc ve vojenském táboře, dříve než ho skosil mor, dopsal nemocný Marcus Aurelius do svého deníku jedny z posledních myšlenek k filozofickému dílu Hovory k sobě: Že svět i válka jsou nakonec jen vlny, které se na okamžik zvednou, opadnou, a voda bez ohledu na ně teče stále dál."
+      "III. Průběh konfliktu",
+      "Lucius Verus zemře na mor roku 169 cestou zpět ze severu. Marcus zůstane sám jako jediný vládce.",
+      "Roku 168 a 169 jsou Markomani vytlačeni zpět přes Alpské průsmyky a Langobardi, kmen operující v carnuntské oblasti, zatlačeni za Dunaj. Do roku 170 je přímé ohrožení Itálie odstraněno.",
+      "Marcus nepřestane po vytlačení Germánů. Přejde Dunaj a zahájí ofenzívu na barbarském území.",
+      "Bitvy jsou drobné a nespočetné. Přepady, obklíčení, dobývání kmenových hradišť, průchod bažinatými průsmyky. Legie staví tábor na noc. Příkop tvaru V, val, palisáda. Ráno pokračují dál.",
+      "Roku 172 obklíčí Kvádové celou římskou armádu na otevřeném poli za letního vedra. Vojáci nemohou bojovat ani ustoupit. Kolem jsou přesily, pod nohama vyprahlá půda a žízeň, která zabíjí stejně jistě jako meč. Pak se obloha zatáhne.",
+      "Legionáři zvedají tváře k nebi a otvírají ústa. Chytají vodu do přileb a štítů. Kvádové zaútočí přímo do bouře. Dostanou zpět víc než čekali. Armáda přežije.",
+      "O rok později sarmatští Jazygové se stahují přes zamrzlý Dunaj na sever se zajatci a kořistí. Jsou to jezdci, kteří cvičili koně na ledě celé generace. Věří, že těžká pěchota na kluzké ploše za otočení nestojí.",
+      "Marcus Aurelius nechá legie vytvořit čtverec. Vojáci z vnitřních řad podají štíty dopředu, přední řady je položí na led a postaví se na ně. Jazygská jízda přijede. Koně se kloužou, sarmatské linie se tříští o stabilní útvar. Legie stojí a tlačí vpřed. Jazygy drtí přímo na zamrzlém toku Dunaje.",
+      "Armáda postupuje podél Jantarové stezky a povodí Moravy na sever. U Mušova nad soutokem Jihlavy a Svratky zastaví. Ženijní jednotky vyměří příkopy, legionáři je hloubí ve tvaru V do hloubky tří metrů. Třicet dva hektarů se během týdnů proměňuje z pole v opevněnou základnu. Příkopy, valy, palisáda. Uvnitř zděné lázně s hypokaustovým vytápěním, velitelská budova, nemocnice. Desátá legie Gemina z Vindobony pálí do zdejších staveb své cihly. Jejich kolek X. Gemina Pia Fidelis leží v sutinách Mušova dodnes.",
+      "Mušov je zázemí pro trvalou správu nového území, ne pochodový tábor.",
+      "Podél povodí Moravy a Dyje vyrostou desítky dalších táborů. Přibice. Ivaň. Jevíčko, nejsevernější doložená římská přítomnost na území dnešní České republiky.",
+      "Roku 174 sedí Marcus Aurelius večer ve stanu na barbarském území. Venku mrzne. Otevírá sešit a píše. Marcus si zápisky dělá léta, v každém táboře, v dešti i v zimě. Píše je pro příští ráno, kdy vstane a jde znova.",
+      "Roku 175 jsou Markomani a Kvádové na pokraji pádu. Vydají desítky tisíc zajatců, odevzdají kontingenty vojáků a přijmou podmínky příměří. Marcus plánuje na jejich území dvě nové přímé provincie, Marcomanii a Sarmatii.",
+      "Z východu přijde zpráva o vzpouře. Generál Avidius Cassius shromáždil legie a prohlásil se novým císařem. Povstání se zhroutí samo. Cassiovi důstojníci ho zavraždí a přinesou hlavu. Marcus Aurelius s odporem odvrátí pohled od lidské hlavy a nařídí muže kteří ji přinesli vyhnat.",
+      "Uzavřený mír na Dunaji nevydrží ani dva roky. Markomani obnoví tlak roku 177 a Marcus Aurelius překročí Dunaj podruhé. Chce trvalou přítomnost legií na barbarském území, ne smlouvy bez záruky.",
+      "Roku 179 vytesají Marcovi vojáci do skály nad řekou Váhem v dnešním Trenčíně nápis: osm set padesát pět vojáků Druhé legie Adiutrix pod velením legáta Marca Valeria Maximiana slaví vítězství nad Kvády. Čtyřicet tisíc mužů leží toho roku v zimních táborech na germánském území.",
+      "V březnu roku 180 srazí Marca Aurelia mor v zimním táboře ve Vindoboně. Je mu jednašedesát let. Vědom si blížící se smrti předá vládu Commodovi. Pak zemře.",
+      "Commodus okamžitě zastaví vše. Uzavře mír za podmínek o nichž by Marcus neuvažoval, odvolá legie za Dunaj a odjede do Říma. Plány na Marcomanii a Sarmatii zůstanou nesplněné navždy.",
+      "Zápisky které Marcus psal v polních táborech na Dunaji v dešti a zimě. Psal je pro sebe. Jeden z úryvků vznikl pravděpodobně někde v povodí Moravy:",
+      "Sláva a hanba, spor a bída — vše je popel a kouř. Nic netrvá."
     ],
     "pribeh": [
-    "Titus Flavius Sabinianus, centurion, třetí kohorta XIV. legie Gemina, výstavba pevnosti na Hradisku u Mušova, markomanské války, 173 n. l.",
-    "Z Carnunta jsme vyšli v září za deště.",
-    "Přechod přes Dunaj na pontonových mostech trval dva dny — čtyři kohorty, ženijní oddíly, zásoby na volech. Na druhém břehu začínal jiný svět. Ne dramaticky jiný, ne cizí způsobem jakým je cizí poušť nebo moře — jen les, hluboký a tichý, s cestami které nejsou cesty ale stezky zvěře. Průzkum šel první, my za ním, a každý den jsme sekali cestu sekerami. Jsme osmdesát římských mil severně od Vindobony. Žádná římská pevnost nikdy nestála tak hluboko v tomto území.",
-    "Markomani ustupovali před námi na západ — ne v panice, ale organizovaně, v malých skupinách které mizely do lesa a přepadaly zásobovací konec pochodu jakmile se natáhl příliš. Ztratili jsme tři muže třetí den. Stáhli jsme se kratší a šli dál.",
-    "Apollinaris — inženýr, mlčenlivý Řek s měřicí tyčí kterou neodložil ani při jídle — zastavil se čtrnáctý den na pahorku. Stál tam hodinu a nekomunikoval. Pod námi se stékaly tři řeky — Jihlava, Svratka, Dyje — a jejich soutoky se leskly v ranním světle jako stříbrné nitě. Výhled na tři světové strany. Záda krytá lesem. Pramen s pitnou vodou ve svahu. A řeky — řeky jsou cesta pro zásobovací čluny z Carnunta, bez nichž nemůže armáda na tomto místě přežít ani měsíc.",
-    "Apollinaris řekl jedno slovo: tady.",
-    "Začali jsme příkopem. Čtyři stopy hluboký, osm stop široký, po celém obvodu pahorku. Pak val z vykopaného kamene a hlíny zpevněný trámci. Pak palisáda z tesaných kmenů přivezených z lesa. Tři týdny jen to — příkop, val, palisáda. Teprve pak vnitřek.",
-    "Ubikace pro čtyři kohorty na kamenných základech, ne na zemi. Principia uprostřed tábora, sklad, velitelský dům. Apollinaris navrhl hypokaust pod podlahou velitelského domu — síť hliněného potrubí vedená z ohniště pod dlažbou, teplý vzduch proudící pod kamennými deskami. V říjnu jsem mu říkal že na to nemáme čas. V listopadu jsem šel jednou večer do velitelského domu zkontrolovat zásoby a šlápl na jednu z dokončených desek. Byla teplá. Venku mrzlo a kámen pode mnou byl teplý jako chléb z pece. Neřekl jsem mu nic. Ale přestal jsem namítat.",
-    "Tábor byl hotov před první sněhovou pokrývkou. Malý, funkční, branný.",
-    "Marcus Aurelius přijel v prosinci na koni přes zamrzlý Dunaj s malou eskortou bez fanfár. Prošel pěšky celý obvod — příkop, val, ubikace — a všechno si prohlédl bez komentáře. Pak se zastavil uprostřed tábora a pomalu se otočil dokola. Díval se na výhled — na soutoky řek, na rovinu k jihu, na les k severu kde někde jsou Markomani.",
-    "Pak řekl Apollinarisovi dvě věci. Za prvé — tábor zdvojnásobit, přijdou další legie. Za druhé — lázně s teplou a vlažnou vodou, dílny pro kováře a obuvníky, sklady na obilí s ventilací aby nehnil, domy pro důstojníky s hypokaustem. Ne přechodné ležení.",
-    "Řím, řekl. Postavte tady Řím.",
-    "Apollinaris kývl jako by to čekal.",
-    "Stavěli jsme celou zimu. Tepidarium a frigidarium ze stavebního kamene přivezeného po Dyji na člunech, dílny pro kováře a obuvníky podél východní zdi, skladiště na obilí s děrovanou podlahou aby vzduch proudil pod pytli. Na jaře přijely další kohorty a zaplnily nové ubikace. Tábor který jsme postavili pro čtyři přijal osm.",
-    "U valu stojí Verinus — sedmnáct let, z Norika — a dívá se na sever do lesa. Ukazuji mu dva ohně za stromy.",
-    "Říká: a jen se díváme?",
-    "Říkám: jsme tady. Každý den a každou noc. Na pahorku nad třemi řekami osmdesát mil za Dunajem. Marcus Aurelius to viděl a rozhodl se postavit lázně. To ti řekne víc než jakýkoliv rozkaz.",
-    "Ohně za lesem za hodinu zhasnou. Tábor zůstane."
-  ]
+      "32 — Markomanská válka (174 n. l.)",
+      "Decimus Valerius Primus, legionář, Mušov",
+      "Na jaře jsme vyrazili z Carnunta osmdesát mil na sever, hluboko do barbarského území. Už druhý den pochodu nás v hustém lese napadla skupina Markomanů. Srazili jsme štíty k sobě, bez rozmáchlých úderů jsme je mechanicky rozsekali krátkými meči, mrtvé nechali v kapradí a pochodovali dál.",
+      "Došli jsme na kopec Hradisko. Inženýr zapíchl hůl do země. Kopec kontroloval křížení dvou řek i hlavní Jantarovou stezku.",
+      "Zaboříme dolabry do tvrdé země. Příkop. Val. Dřevěná palisáda. První měsíc bolí každý sval, pak si zvykneme. Ale tohle není obyčejný pochodový tábor na jednu sezónu. Přivážíme po řece cihly s kolky naší desáté legie a obrovské kameny. Stavíme dvacetihektarové centrum.",
+      "Pro legáta postavíme zděné praetorium. Pod jeho podlahou vybudujeme hypokaust. Když nesu v prosinci večer hlášení dovnitř, šlápnu na kamennou dlažbu. Kámen pod podrážkou mých caligae je teplý. Teplý jako čerstvě vytažený chleba z pece. Uprostřed divokého, zamrzlého germánského hvozdu tu pulzuje kus civilizace.",
+      "Postavíme vojenskou nemocnici a kovářské dílny, kde opravujeme potrhané pláty lorica segmentata. Vystavíme obrovské vojenské lázně s horkými i studenými bazény.",
+      "Tábor žije. Germánští poslové k bráně pravidelně vodí propuštěné římské zajatce. Zpátky do Říma odtud odvážíme drzé mladé markomanské šlechtice jako rukojmí. Naše kavalérie hlídkuje na Jantarové stezce a přísně prohledává každý vůz s jantarem a kožešinami, co tudy projede. Celou oblast držíme pod krkem.",
+      "Opřu se v mrazivé noci o kůl na valu. Zhluboka dýchám ledový vzduch a z vysokého kopce se dívám do absolutní tmy nepřátelského lesa. Tady kousek na severu tráví noci sám císař Marcus Aurelius, píše si deníky uprostřed války a velí nám všem. Kdesi v té tmě před pár dny napsal: „Nic se neděje nikomu, co by nebyl od přírody zrozen snést.“"
+    ]
   }
 }

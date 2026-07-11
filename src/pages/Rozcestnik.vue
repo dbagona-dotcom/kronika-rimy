@@ -40,12 +40,12 @@
       </div>
 
       <div class="centuries-grid">
-        <div
-          v-for="century in centuries"
-          :key="century.id"
-          class="century-card"
-          @click="$router.push('/kapitola/' + prvniKapitola(century.id))"
-        >
+        <router-link
+  v-for="century in centuries"
+  :key="century.id"
+  class="century-card"
+  :to="'/kapitola/' + prvniKapitola(century.id)"
+>
           <div class="century-card-era">{{ century.era }}</div>
           <div class="century-card-num">{{ century.num }}</div>
           <div class="century-card-title">{{ century.title }}</div>
@@ -62,7 +62,7 @@
             {{ century.total }} konfliktů
           </div>
           <div class="century-card-arrow">→</div>
-        </div>
+        </router-link>
       </div>
     </section>
 

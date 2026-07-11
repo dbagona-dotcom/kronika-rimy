@@ -1,55 +1,65 @@
 {
   "id": 30,
-  "slug": "2_dacka_valka",
-  "title": "30 — 2. dacká válka (105–106 n. l.)",
+  "slug": "30_druha_dacka_valka",
+  "title": "Kapitola 30 — Druhá dácká válka (105–106 n. l.)",
   "century": "2_stoleti_n_l",
   "years": "105–106 n. l.",
-  "dokonceno": true,"images": { "hero": "img66.jpg", "mapa": { "src": "img67.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Uplynuly tři roky od podpisu mírové smlouvy s Dáky. Traianus oslavil triumf, přijal titul Dacicus a nechal razit mince s dáckými trofejemi. Decebalus přijal podmínky a stáhl se zpět do hor.",
-      "Smlouva z roku 102 byla pro Dáky fakticky ponižující. Decebalus měl vydat veškeré válečné stroje, propustit všechny římské technické specialisty a dezertéry, strhnout horská opevnění a do klíčových pevností přijmout kontrolní posádky. Vydal pouze to co skrýt nešlo — velké stroje a muže které Římané jmenovitě znali. Zbytek podmínek plnil polovičatě. Opevnění strhal pouze tam kde bylo zvenčí viditelné a hluboko v horách začal okamžitě stavět nová. Koaliční vyjednávání s kmeny Roxolánů a Jazygů obnovil po krátkém odmlčení.",
-      "Traianova zpravodajská síť za Dunajem tyto kroky pečlivě sledovala.",
-      "Roku 105 Decebalus přechází do otevřené ofenzivy. Přepadne a zajme Gnaea Pompeia Longina, jednoho z nejzkušenějších Traianových velitelů. Záměr je průhledný — Longinus jako rukojmí pro vynucení nových podmínek. Longinus svému veliteli tuto slabinu odebírá: od propuštěnce který ho v zajetí navštíví získá jed, spáchá sebevraždu a neposkytne Decebalovi žádný prostor k vyjednávání.",
-      "Traianus mobilizuje armádu. Cíl se od první války diametrálně liší. Tentokrát nejde o smlouvu.",
-      "Cílem je provincie."
+      "I. Historický kontext",
+      "Mír z roku 102 nevydržel ani tři roky.",
+      "Decebalus splnil podmínky jen tam kde nešly obejít. Velké stroje vydal. Muže které Římané jmenovitě znali vydal. Opevnění srovnal tam kde bylo zvenčí viditelné. Za horami v Oraštijském pohoří začal stavět nová okamžitě. Verboval sarmatské a germánské žoldnéře, posílal posly k Parthům, kontaktoval každý kmen severně od Dunaje. Každému nabídl peníze nebo spojenectví.",
+      "Traianovi zvědové to sledovali.",
+      "Roku 104 vyslal Decebalus do Říma posly s návrhem na mírové rozhovory. V jejich doprovodu cestovali dáčtí vyslanci s rozkazem Traiana zavraždit. Byli odhaleni a zatčeni.",
+      "Roku 105 Decebalus otevřeně udeří. Napadne a zajme Gnaea Pompeia Longina, jednoho z Traianových nejzkušenějších velitelů. Potřebuje ho jako rukojmího pro vynucení nových podmínek. Longinus tuto zbraň Decebalovi odebere. Od propuštěnce který ho v zajetí navštíví získá jed. Vypije ho a zemře v dácké kobce.",
+      "Traianus mobilizuje armádu s cílem anektovat Dácii jako provincii."
     ],
     "armada": [
-      "Síla kterou Traianus soustředí na Dunaji čítá devět plných legií a desítky tisíc auxiliií — celá třetina imperiální armády, přibližně sto tisíc mužů.",
-      "Tato gigantická síla se nespoléhá na čluny a propustnost brodů. Architekt Apollodoros z Damašku pro ni postavil více než kilometr dlouhý stálý most. Dřevěnou konstrukci nese dvacet obřích pilířů zasazených přímo do hlubokého říčního dna. Most zcela mění strategickou rovnici. Legie už nefungují jako odříznutá expediční síla — přes Dunaj nyní bez prodlev nepřetržitě proudí zásoby, těžká technika a posily.",
-      "Traianův legionář nese viditelné stopy poučení z první kampaně. Přilby jsou kovány s výrazným šíjovým štítkem a masivními chrániči tváří. Na ramena je přidáváno těžké kovové kování. Všechny tyto úpravy jsou přímou obranou proti falxu — dácké obouruční zbrani se zahnutou srpovitou čepelí která dokázala zahákovat římský štít, strhnout ho dolů a jedním úderem přeříznout legionáři krk nebo rameno.",
-      "Decebalus po zkušenostech z první války mění bojovou doktrínu. Odmítá otevřené střety. Dácká armáda se soustředí na obranu každého průsmyku a každé přístupové cesty. Falxaři jsou rozmístěni na zalesněných svavích a v úzkých soutěskách kde legionáři nemohou zformovat štítovou hradbu. Postupovat do Oraštijských hor roku 105 znamená bojovat o každý metr terénu který Dáci předem zatarasili padlými kmeny a skalními bloky."
+      "II. Armáda a vojenství",
+      "Apollodoros z Damašku dokončí mezi oběma válkami most u Drobetae. Dvacet kamenných pilířů zasazených přímo do říčního dna nese dřevěnou vozovku tisíc sto třicet pět metrů dlouhou, patnáct metrů širokou, devatenáct metrů nad hladinou. Legie teď nepřekračují Dunaj po pontonech. Přecházejí v proudu, celé, bez přestávky, za nimi zásoby a těžké vozy bez omezení počasí nebo výšky hladiny. Pilíře stojí dodnes.",
+      "Na přilbách jsou kovové výztuže přes temeno, zavedené po zkušenostech z Tapae. Nově přibývají dva ochranné prvky adaptované přímo z gladiátorské výzbroje. Manica je segmentovaný kovový chránič pravé ruky a předloktí. Chrání ruku která drží gladius před sekem falxu seshora. Ocrea je kovový chránič holení. Kryje nohu která vstupuje do úzkých soutěsek kde zahnutá čepel útočí odspoda. Obojí existovalo před Dácií. Do legionářské výzbroje vstoupí právě teď.",
+      "Traianus přivede na Dunaj dvanáct až čtrnáct legií s auxiliárii. Přes sto dvacet tisíc mužů, dunajská flotila zásobuje celou operaci po řece. Mauretánská jízda pokrývá průzkum, syrští a palmyrští lučištníci drží horské výběžky. Germánská jízda operuje v předvoji.",
+      "Decebalus shromáždí posledních třicet až čtyřicet tisíc bojovníků. Roxolani a Bastarnové po první válce váhají. Část dáckých kmenů přejde rovnou na římskou stranu."
     ],
     "konflikt": [
-      "Tažení začíná na jaře roku 105. Traianus překračuje Apollodorův most s takovou rychlostí že Decebalus nestihne dokončit mobilizaci spojeneckých kmenů. Armádu okamžitě člení do několika nezávislých proudů — nutí dáckého krále tříštit obranné síly do více směrů.",
-      "Dácké pevnosti padají jedna po druhé. Průzkumné oddíly zajistí trasy, ženisté začnou sypat útočné náspy a katapulty zahájí podpůrnou palbu zatímco kohorty pevnost zcela obklíčí. Bez vnější pomoci kterou Traianovy vedlejší proudy blokují přímo v průsmycích se kapitulace každého opevnění stává jen logistickou otázkou času.",
-      "Klíčovým a finálním bodem kampaně je Sarmizegetusa Regia. Královská pevnost stojí na strmém skalním ostrohu k němuž vedou pouze úzké serpentiny. Její hradby jsou stavěny technikou murus dacicus — střídající se řady kamenných bloků a masivních dřevěných trámů spojených železnými svorkami. Tato technologie je odolná vůči beranidlům protože vnitřní dřevo absorbuje nárazy bez roztříštění.",
-      "Traianus pevnost neprodyšně obklíčí. Odstřihne horské stezky, zablokuje přístupy k vodním pramenům a přikáže inženýrům navršit útočný sypaný val — agger. Stavba obřího náspu ve strmém deštivém svahu kde se zemina neustále sesouvá je pomalá a vyčerpávající práce. Apollodoros situaci řeší vybudováním systému dřevěných opěrných roštů vyplněných kamenem který sesuvy zastaví a umožní dostat dobývací stroje až k samotným hradbám.",
-      "Decebalus sevřený v pasti nabídne Traianovi politickou výměnu a územní ústupky. Traianus odesílá jedinou odpověď: neexistují žádné podmínky.",
-      "V létě roku 106 Sarmizegetusa padne. Kombinace dokončeného ageru, vyčerpání zásob a absolutní izolace způsobí vnitřní rozklad obrany. Část obránců se vzdává, část padne v boji, malá skupina jezdců včetně krále prorazí tajným výstupem a pokouší se uprchnout do hor.",
-      "Traianus vysílá elitní jízdu.",
-      "Na horské cestě za ranního šera římská kavalérie Decebala obklíčí a dožene. Dácký král — muž který po dvě desetiletí sjednocoval kmeny, porazil Domitiana a dvakrát přinutil impérium k obrovskému vypětí — sleze z koně, klekne k zemi, vytáhne dýku a podřízne si hrdlo.",
-      "Do Říma je odeslána pouze jeho hlava.",
-      "Ale Decebalus pamatoval na případ porážky dávno dopředu. Roky před pádem království nechal přesměrovat řeku Sargetii která tekla kolem jeho paláce, vyhloubit do jejího dna komoru a zahrabat tam zlaté a stříbrné zásoby královského pokladu. Zajatce kteří práci provedli dal po dokončení zabít. Pak nechal řeku vrátit do původního řečiště.",
-      "Jeden z jeho nejbližších šlechticů — Bicilis — to věděl. Po pádu Sarmizegetusy přijde k Římanům a ukáže kde hledat.",
-      "Traianus nechá řeku znovu přesměrovat. Pod jejím dnem leží přes sto šedesát tun zlata a tři sta tun stříbra — největší kořist kterou římská armáda kdy v jednom místě zajistila. Celý poklad putuje do Říma na speciálně vypravených lodích a konvojích.",
-      "Traianus slaví druhý triumf a senát mu odhlasuje sto dvacet tři dní slavností — nejdelší slavnosti v historii státu. Z dáckého zlata vznikne Traianovo fórum, Traianův sloup a rozsáhlá síť silnic a akvaduktů po celém impériu. Řím si za cizí zlato postaví pomníky které stojí dodnes.",
-      "Dácie je bleskově transformována na novou provincii. Jsou zakládána kamenná města s fóry a amfiteátry. Do země bohaté na zlato a stříbro začínají proudit desetitisíce latinsky mluvících kolonistů, veteránů a obchodníků z celého impéria.",
-      "Zlomené území za Dunajem se stává pevnou součástí římského světa."
+      "III. Průběh konfliktu",
+      "Na jaře roku 105 Traianus překročí most a žene armádu do pohybu dřív než Decebalus dokončí mobilizaci. Sílu rozdělí do tří proudů. Decebalus musí bránit více průsmyků najednou a nemá na všechny dost mužů.",
+      "Decebalus zkouší přepady pochodových kolon. Skupiny bojovníků s falxy útočí ze zalesněných svahů na pochodující kolony, výpady v noci zapalují zásobovací vozy, ničí mostky přes horské potoky. Tam kde přepady zabrzdí pochod, Traianus pošle dopředu průzkum a obejde pozici jinou stezkou. Nabídky na rozhovory odmítá bez odpovědi. Decebalus zapaluje vlastní vesnice a sýpky aby Římanům nezůstalo co sbírat. Postup zpomalí, nezastaví.",
+      "Pevnosti padají jedna po druhé. Bez záchranné armády venku se každé obléhání uzavírá stejně. Inženýři sypanou rampou přiblíží berany k hradbám, katapulty drží cimbuří prázdné, kohorty obklíčí pevnost ze všech stran. Část posádek kapituluje, část bojuje do posledního muže.",
+      "Pevnost Blidaru na skalním výběžku chrání přímý přístup k Sarmizegetuse. Hradby z murus dacicus jsou zvláštní stavba: kamenné bloky bez malty, vnitřní výztuha z masivního dřeva. Dřevo absorbuje rázy beranu a kameny se nepoddají. Apollodoros nasadí berany souběžně na dvě místa a namíří katapulty na dřevěné spoje. Blidaru padne.",
+      "Sarmizegetusa Regia stojí na výběžku obklopeném propastmi ze tří stran.",
+      "Traianus hlavní město sevře prstencem opevnění podél celého obvodu přístupových cest. Přetne vodovody a stezky ke studnám. Balisty a katapulty drží cimbuří pod trvalou palbou, obránci nemohou opravovat poškození bez krytí. Uvnitř dochází zásoby a voda. Obránci podnikají výpady v noci a Římané je odrážejí a vracejí se k prstenci.",
+      "Stavba útočného ageru na strmém svahu je pomalá práce. Zemina se sesouvá, dřevěné výztuže je třeba do kopce přinášet ze vzdálených lesů, práci narušují dáčtí lučistníci z cimbuří. Apollodoros navrhne kamenné opěrné bloky vyplněné hlínou a spojené dřevěnými rošty. Sesuvy se zastaví a dobývací věže mohou postoupit k hradbám. Stavba trvá týdny.",
+      "Traianus odmítá všechny nabídky na vyjednávání.",
+      "Část dácké šlechty uvnitř pochopí jak to skončí. Nechce padnout do zajetí. Vypijí jed. Domy zapálí.",
+      "Decebalus prchne s hrstkou věrných jezdců tajnou cestou ven z pevnosti. Traianus za ním posílá elitní kavalérii.",
+      "Na horské cestě jezdci Decebala obklíčí. Je sám. Armádu ztratil, pevnost taky. Sleze z koně, vytáhne dýku a podřízne si hrdlo.",
+      "Jezdec Tiberius Claudius Maximus, jehož jméno zůstane vytesáno na náhrobním kameni, mu odřízne hlavu. Do Říma je odeslána jako důkaz vítězství a vystavena na Gemonských schodech.",
+      "Decebalus počítal s tímto koncem.",
+      "Roky před pádem nechal přesměrovat řeku Sargetii která tekla kolem jeho paláce, vyhloubil do jejího dna velkou komoru a zahrabal tam královský poklad. Zajatce kteří práci provedli dal po dokončení zabít. Pak nechal řeku vrátit do původního řečiště.",
+      "Jeden ze šlechticů, Bicilis, to věděl. Po pádu Sarmizegetusy přijde k Římanům a ukáže kde kopat.",
+      "Traianus nechá řeku přesměrovat. Pod jejím dnem leží přes sto šedesát tun zlata a tři sta tun stříbra.",
+      "Poklad putuje do Říma ve zvláštních přepravních kolonách. Traianus slaví druhý triumf. Senát odhlasuje sto dvacet tři dní slavností. Deset tisíc gladiátorů nastoupí do arény, jedenáct tisíc zvířat bude zabito.",
+      "Z dáckého zlata vznikne Trajánovo fórum, Trajánův sloup a síť silnic. Dácie se stane první provincií severně od Dunaje. V Hategské kotlině, čtyřicet kilometrů od staré Sarmizegetusy, vyroste nové město Ulpia Traiana Sarmizegetusa s fórem, amfiteátrem a chrámovým okrskem. Dvě legie, XIII. Gemina a V. Macedonica, dostanou stálé základny na novém území. Zlaté doly v dáckých horách začnou platit říši po generace. Do dobytého území přijdou desetitisíce latinsky mluvících kolonistů, veteránů a obchodníků z celého impéria."
     ],
     "pribeh": [
-    "Publius Aelius Marcellus, optio, druhá kohorta IV. legie Flavia Felix, obléhání Sarmizegetusy Regia, druhá dácká válka, 106 n. l.",
-    "Čtvrtý týden na ageru. Moje ruce přestaly bolet druhý týden — mozoly jsou teď tak silné, že krumpáč cítím jako prodloužení paže, ne jako nástroj.",
-    "Sypeme násep vrstva po vrstvě, ráno a odpoledne ve dvouhodinových směnách, pak přichází jiná kohorta a my jdeme jíst a spát. Zpočátku mi to připadalo nedůstojné — optio s krumpáčem místo s gladiem. Pak jsem si přestal myslet vůbec.",
-    "Apollodoros přišel dnes dopoledne s dvěma asistenty a celou hodinu ohledával roštovou konstrukci v dolní třetině násepu. Říká málo, ale ukazuje hodně — přesunul skupinu fabrů ke třetímu patru dřevěného roštu a osobně ukázal jak mají být trámy uloženy aby váha horních vrstev nesklouzávala dolů po mokrém kamení. Muž mluví řecky a já řecky neumím, ale jeho ruky mluví latinsky.",
-    "Večer stojím na hotové části násepu a dívám se nahoru na hradby. Jsou blíž než minulý týden — zdá se to absurdní říkat, protože hradby jsou nehybné, ale to my jsme pohybliví. Centimetr za centimetrem, vrstva za vrstvou.",
-    "Za hradbami je od včerejška ticho. Žádné šipky, žádné kameny, žádné pohyby na ochozech. Bassus říká buď kapitulace nebo průlom. Nevím co si přát — průlom by znamenal boj, kapitulace by znamenala konec, a já si uvědomuji že nevím co budu dělat až tady nebude co sypat.",
-    "Za tmy přijde rozkaz — uzavřít severní výstup, do rána. Přesuneme se potichu. Les je černý a tichý.",
-    "Slyšíme je za hodinu — kroky na kamení, rychlé a nerytmické. Vydám signál. Jezdci na pravém křídle se pohnou do tmy.",
-    "Čekám. Ruku mám na jílci gladia ale nevytahuju ho. Vedle mě Bassus drží dech. Někde v lese praskne větev, pak křik, pak ticho.",
-    "To je vše.",
-    "Ráno stojím na ageru a dívám se na hradby které teď nikdo nebrání. Čtyři týdny krumpáče, Apollodorovy rošty, Bassusovy nadávky, vrstva po vrstvě — a výsledek je muž s nožem na horské cestě ve tmě.",
-    "Nevím jestli jsem čekal něco jiného. Vím jen že násep stojí a hradba mlčí a že to zřejmě stačí."
-  ]
+      "30 — 2. dácká válka (106 n. l.)",
+      "Gaius Ulpius Arboris, legionář, Řeka Sargetia",
+      "Sedíme v táboře nedaleko zničeného nepřátelského města. Zbroj máme složenou. Smíchal jsem hrst písku s popelem a kusem hrubé látky opatrně čistím čepel gladia od zbytků zaschlé krve. Ke strážím u hlavní brány najednou dorazí otrhaný dácký šlechtic. Stráže ho bleskově povalí do prachu.",
+      "Dák zvedne zakrvácený obličej a lámanou latinou zaječí na celý tábor: „Poklad!“",
+      "Okamžitě ho odvlečou do velitelského stanu. O pár minut později se z koženého přístřešku vynoří legát. Má úsměv od ucha k uchu. Kývne na stráž a bleskově k sobě svolá všechny důstojníky. Ti se kolem něj seběhnou, vyslechnou si krátkou poradu, rozběhnou se zpět ke kohortám a začnou řvát rozkazy. Teprve pak vyrážíme na pochod.",
+      "Dák nás dovede k řece Sargetia. Naši ženisté odkloní dravou vodu do vedlejšího kanálu. Sestupujeme do rozbahněného říčního dna.",
+      "„Kopat!“ zařve centurion.",
+      "Zaboříme rýče do kamenité země. Vykopeme několik mělkých jam, ale všude je jen bahno a štěrk. Přesuneme se o kus dál. Kopu, dokud mi čepel rýče nenarazí na něco tvrdého. Odhrabu rukama mokrý jíl. V zemi leží černé, pevné dřevěné desky.",
+      "Rozštípeme prkna krumpáčem. Z hluboké jámy se vyvalí zatuchlý vzduch a vzápětí se něco zaleskne. Obří sudy a kolem nich hromady surového zlata a raženého stříbra, nasypané rovnou v zemině. Zvednu z bláta hrst stříbrných mincí. Tři si rychle strčím do kožené brašny u opasku. Podívám se na chlapy vedle mě a přiložím si prst na rty. Kývnou. V tichosti se sehneme, začneme vytahovat těžké zlaté pruty z jámy a nosit je nahoru na vojenské vozy."
+    ]
   }
 }

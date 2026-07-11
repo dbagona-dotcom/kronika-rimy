@@ -1,48 +1,67 @@
 {
   "id": 29,
-  "slug": "1_dacka_valka",
-  "title": "29 — 1. dacká válka (101–102 n. l.)",
+  "slug": "29_prvni_dacka_valka",
+  "title": "Kapitola 29 — První dácká válka (101–102 n. l.)",
   "century": "2_stoleti_n_l",
   "years": "101–102 n. l.",
-  "dokonceno": true,"images": { "hero": "img64.png", "mapa": { "src": "img65.jfif" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Na přelomu prvního a druhého století našeho letopočtu vládne Římu Marcus Ulpius Traianus. Na trůn se dostal díky revolučnímu rozhodnutí svého předchůdce, starého a bezdětného císaře Nervy. Ten poprvé v dějinách nevybral nástupce pokrevně ze senátorské aristokracie, ale adoptoval zkušeného velitele s vynikající vojenskou pověstí přímo z provincie.",
-      "Traianus se stal prvním císařem neitalského původu. His pozice nestála na dynastiích z minulosti ani na přímém násilí, nýbrž na prokazatelných vojenských zásluhách a absolutní loajalitě rýnských legií.",
-      "Za řekou Dunaj mezitím vyrostla pro impérium zásadní hrozba. Král Dáků Decebalus není běžným kmenovým náčelníkem. Buduje centralizovaný stát. Karpaty disponují obrovskými ložisky zlata a stříbra a Decebalus tyto zdroje využívá k masivnímu nákupu římských vojenských přeběhlíků, zbrojířů a řeckých techniků. Ti pro něj v horách staví kamenné pevnosti a učí Dáky pokročilé formaci i logistice.",
-      "V předchozím desetiletí donutil Decebalus císaře Domitiana podepsat kompromisní mír — Řím Dákům platil každoroční ponižující tribut a dobrovolně jim dodával inženýry.",
-      "Traianus tento vývoj odmítá tolerovat. Je to chladná strategická kalkulace: Decebalus systematicky buduje na hranicích mocnost jejíž zničení bude každým rokem těžší. Císař se rozhodne udeřit dokud má Řím výhodu."
+      "I. Historický kontext",
+      "Na přelomu prvního a druhého století vládne Římu Marcus Ulpius Traianus. Jeho předchůdce Nerva byl starý a bezdětný a poprvé nevybral nástupce z pokrevní linie, ale adoptoval zkušeného velitele přímo z provincie. Traianus pochází z Hispánie. Na trůn se dostal vojenskou pověstí a loajalitou rýnských legií.",
+      "Za Dunajem se mezitím formovala hrozba. Král Dáků Decebalus buduje centralizovaný stát. Karpaty jsou bohaté na zlato a stříbro a Decebalus tyto zdroje využívá soustavně. Kupuje římské vojenské přeběhlíky, najímá řecké stavitele a staví v horách kamenné pevnosti helénistického typu. Předchozí císař Domitianus byl nucen podepsat kompromisní mír a každoročně Dákům platit tribut. Řím navíc dobrovolně dodával Decebalovi inženýry.",
+      "Traianus tento stav odmítá tolerovat. Každým rokem bude Decebalova pozice silnější a dobývání Dácie dražší. Císař se rozhodne udeřit teď."
     ],
     "armada": [
-      "V létě roku 101 se na břehu Dunaje shromažďuje nejmasivnější síla jakou impérium soustředilo na jediné frontě od dob občanských válek. Traianus přivádí devět plných legií — celou třetinu římské armády — posílených o obrovské množství auxiliií. Útočná síla dosahuje sto tisíc mužů.",
-      "Římská těžká pěchota prošla technologickým vývojem který přímo reaguje na specifika nepřítele. Lorica segmentata je nyní standardem. Legionářské přilby dostaly masivně zesílené chrániče tváří a prodloužený šíjový štítek. Na ramena a předloktí jsou přidávána křížená kovová žebra.",
-      "Všechny tyto úpravy jsou obranou proti jediné a nejvražednější dácké zbrani — falxu. Jde o obouruční dopředu zahnutou srpovitou čepel na dlouhém ratišti kterou dácký bojovník z vrchu zaháchkne přes horní okraj scuta a jedním silným trhem štít rozštípne, nebo rovnou utne legionáři nechráněnou ruku v rameni. Kvůli snazší ovladatelnosti v karpatských lesích legie používají mírně menší a plošší variantu štítu.",
-      "Jádro dácké armády tvoří pileati — vojenská aristokracie vyzbrojená meči a bojující v organizovaných formacích. Doplňují je obrovské počty prostých bojovníků, comati, ozbrojených falxy. Decebalus nasazuje vlastní jezdectvo, obléhací stroje a díky cizím dezertérům zná slabiny kohortových formací."
+      "II. Armáda a vojenství",
+      "Na břehu Dunaje se v létě roku 101 shromáždí největší vojenská síla jakou impérium soustředilo na jedné frontě od dob občanských válek. Devět legií posílených o auxilia, celkem přes sto tisíc mužů.",
+      "Výzbroj kombinuje tři typy zbrojí. Kroužková lorica hamata a šupinová squamata jsou standardem pro auxiliárie i velkou část legionářů. Plátová lorica segmentata je v tomto tažení hojněji zastoupena než dřív, ale vedle ostatních dvou typů. Přilby typu Imperial Gallic dostaly na vrcholu křížovou výztuhu, dvě kovové lišty přivařené přes temeno. Dáci to vynutili.",
+      "Falx je hlavní zbraň dáckého vojáka. Obouruční zahnutá čepel na dlouhém ratišti, ostrá na vnitřní straně. Dácký bojovník ji zaháčkne zpoza horního okraje scuta a jedním trhnutím štít rozlomí, nebo rovnou přesekne legionáři ruku v rameni. Bez výztuhy na přilbě falx prorazí temeno úderem shora jako sekera.",
+      "Dácká armáda není neorganizovaný dav. Pileati, vojenská aristokracie, nosí kroužkové zbroje, bojují meči a drží formaci. Comati, prosté kmeny, jdou s falxy do přímého střetu kde jsou v těsném prostoru nebezpečnější. Decebalus k nim přidá sarmatskou těžkou jízdu a zná kohortní taktiku jako vlastní.",
+      "Ženijní jednotky zajišťují mosty, obléhací rampy, věže a zásobovací trasy. Pochodové tábory stavějí legionáři sami po každém přesunu, příkop, val, palisáda. Zásobování z Dunaje udržuje flotila na řece."
     ],
     "konflikt": [
-      "Na jaře roku 101 překračuje Traianus Dunaj u Viminacia. Obrovskou armádu rozděluje do dvou proudů aby usnadnil logistiku v těžkém terénu. Jeden proud pod velením legáta Liberia Maxima míří přes Banátské hory na severovýchod, druhý pod přímým Traianovým velením postupuje údolím řeky Olt přímo do srdce Dácie.",
-      "Decebalus reaguje s taktickou genialitou. Nesnaží se bránit přední horské linie — udeří přímo přes Dunaj do římské provincie Moesie. Využije toho že Traianus odtud stáhl legie pro svou ofenzivu. Moesijská města se ocitají pod tvrdým útokem a římský postup v Dácii je paralyzován. Císař musí přerušit ofenzivu a složitě přesunout část sil zpět k záchraně vlastního území.",
-      "Zásobovací linie jsou ale z římské strany připraveny důkladně. Traianus situaci v Moesii stabilizuje a znovu překračuje hranici. Obě hlavní armády se střetnou na náhorní plošině u Tapae — na stejném místě kde Domitianovi legionáři utrpěli před lety těžkou porážku.",
-      "Bitva je brutální a nepřehledná. Dáci dokonale využívají zalesněných svahů, ustupují do úzkých soutěsek kde legie nemohou držet jednolitou linii a údery obouručních srpů působí římským štítonošům masivní ztráty. V nejkritičtější fázi boje kdy vojenským medikům zcela dojdou obvazy nařizuje Traianus rozřezat císařské stany a vlastní pláště aby zachránil krvácející muže.",
-      "Římský tlak nakonec dáckou formaci prolomí. Traianus proniká do hornatého nitra země a s druhou bojovou sezónou zahajuje metodické dobývání Decebalových kamenných pevností. Klíčovým bodem je pevnost Blidaru, vysoko položený skalnatý komplex chráněný hradbami helénistického typu. Její pád otevírá cestu k samotnému dáckému hlavnímu městu — Sarmizegetuse.",
-      "Decebalus, vyčerpaný bez naděje na posily, žádá o jednání. Dácie musí vydat veškeré válečné stroje a římské odborníky, strhnout horská opevnění, odevzdat část území a přijmout trvalou římskou posádku přímo do hlavního města.",
-      "Decebalus kapituluje. Traianus se vrací do Říma slavit triumf a přijímá titul Dacicus.",
-      "Mír je podepsán, ale na hranici se okamžitě objevuje architekt Apollodoros z Damašku. Na přímý příkaz císaře začíná přes hluboký tok Dunaje stavět gigantický přes tisíc metrů dlouhý most nesený dvaceti mohutnými kamennými pilíři.",
-      "Nejdelší stálý most na světě."
+      "III. Průběh konfliktu",
+      "Na jaře roku 101 překročí Traianus Dunaj u Viminacia po pontonovém mostě. Armádu rozdělí do dvou proudů aby usnadnil pohyb v těžkém hornatém terénu. Legát Manius Laberius Maximus táhne přes Banátské hory na severovýchod. Traianus sám postupuje údolím řeky Olt přímo do nitra Dácie. Obě kolony nesou plnou zásobu na třicet dní pochodu.",
+      "Decebalus neudeří kde ho čekají.",
+      "Místo obrany v horách přejde s vybranými silami přes Dunaj do provincie Moesie. Traianus odtud pro svou ofenzívu stáhl legie a provincie leží otevřená. Moesijská města se ocitají pod tvrdým útokem, Dáci a jejich sarmatští spojenci pálí zásobovací depa, obsazují průsmyky, ohrožují zázemí celého tažení. Traianus musí přerušit postup a složitě přesunovat část sil zpět k záchraně vlastního území. Trvá to týdny. Pak situaci v Moesii stabilizuje a znovu překročí hranici.",
+      "Obě armády se střetnou na náhorní plošině u Tapae, na stejném místě kde Domitianovy legie utrpěly před lety porážku. Decebalus zná terén dokonale. Dáci zaujmou pozice v zalesněných svazích, nechají Řím vystoupat do průsmyku kde legie nemohou rozvinout plnou kohortní linii, a udeří z výhody výšky.",
+      "Comati s falxy útočí ze zálohy do boků kohort. Srpy sekají přes scuta a Římané padají s rozsekanými pažemi. Pileati tlačí zepředu s meči a píkami. Legie musejí bojovat v úsecích bez vzájemné podpory, každá kohorta sama za sebe. Vojenským lékařům záhy dojdou obvazy.",
+      "Traianus nechá rozřezat stany. Pak vlastní plášť. Látka jde na rány. Muži bojují dál.",
+      "Tlak ale nezastaví. Kohorta za kohortou tlačí nahoru, centurioni drží kohorty pohromadě, zálohy přicházejí ze svahu. Dácká formace pod soustředěným tlakem praskne a Traianova armáda proniká do nitra hornaté Dácie.",
+      "Decebalus ustoupí ke svým pevnostem. Traianus ho nepronásleduje rychle, přezimují na místě, budují tábory, zásobují se přes dunajskou flotilu. Jako první římský velitel stráví Traianus celou zimu se svou armádou v Dácii. Legie kopají hrotité příkopy tvaru V do zmrzlé půdy, stavějí dřevěné palisády, pokrývají ubikace senem a hlínou aby vydržely mráz. Zásoby přijíždějí ze zásobovacích dep na Dunaji, obilí, lůj, dřevo na topení, náhradní díly výstroje.",
+      "Na jaře roku 102 udeří Decebalus podruhé.",
+      "Koordinuje úder se svými sarmatskými spojenci, Roxolany. Těžká sarmatská jízda v plátových zbrojích překročí zamrzlý Dunaj a zaútočí přímo do Moesie, do římského zázemí, do zásobovacích dep, na mosty. Traianus musí znovu rozdělit síly. Část armády posílá zpět k Dunaji, zbytek drží v Dácii. Boj na dvou frontách zároveň trvá celé jaro.",
+      "Nakonec obě fronty stabilizuje a znovu zahájí postup na horské pevnosti.",
+      "Metodické dobývání trvá celé léto roku 102.",
+      "Decebalova obranná síť je propracovaná. Pevnosti sedí na kopcích s výhledem na průsmyky, navzájem si drží výhled na přístupy. Každá musí padnout samostatně. Obklíčení, berany k branám, věže k hradbám, škorpióni na obránce na cimbuří. Inženýři sypanou rampou přiblíží berany k hradební patě. Obránci rampu zapalují. Zásoby jim přicházejí tunely. Inženýři staví novou.",
+      "Klíčovým bodem je Blidaru, skalnatý komplex vysoko v Karpatech chráněný dvěma soustřednými hradbami murus dacicus. Kameny jsou bez malty, přesně přizpůsobeny k sobě, ve spárách kovové svorky. Pád Blidaru otevírá přístup k pohoří kde leží Sarmizegetusa Regia.",
+      "Sarmizegetusa je dácké hlavní město a náboženské centrum. Leží na vysokém výběžku obklopeném propastmi ze tří stran, kde přístupová cesta vede skrz systém propojených pevnůstek. Traianova armáda zahájí obléhání a odřeže všechny zásobovací cesty, průsmyky pod kontrolou, říční brody obsazeny, zásobovací karavany zastaveny. Uvnitř dochází zásoby.",
+      "V táboře za hradbami Decebalus v noci počítá muže. Ztráty za dva roky bojů jsou obrovské, zásoby na měsíce. Posádka Sarmizegetusy bude bojovat tak dlouho jak půjde. Decebalus ví přesně kdy to přestane jít.",
+      "Přijde za podmínkami.",
+      "V letní kampani roku 102, před hradbami obklíčeného města, klekne Decebalus v plné zbroji před Traianův vůz. Odloží zbraně. Traianus podmínky nadiktuje před celou armádou: vzdát veškeré válečné stroje a inženýry, vydat římské dezertéry, strhnout horská opevnění, přijmout trvalou římskou posádku v hlavním městě, vzdát se nezávislé zahraniční politiky. Traianus mu ponechá vládu nad Dácií jako klientský král.",
+      "Traianus se vrátí do Říma, slaví triumf a dostane titul Dacicus.",
+      "Na Dunaji mezitím začíná práce.",
+      "Apollodoros z Damašku, Traianův dvorní architekt, přijede k Drobetae. Má za úkol postavit stálý most přes řeku. Šířka Dunaje v místě přechodu přesahuje tisíc sto metrů. Hloubka dna proměnlivá, proud silný. Apollodoros navrhne dvacet kamenných pilířů zdí přímo do říčního dna, každý osm metrů široký, sedmnáct metrů hluboký, z litého betonu a cihel. Na pilíře dosednou dřevěné oblouky, na oblouky vozovka dost silná na přechod celé armády v plné výstroji se zásobovacími vozy. Stavba zabere přibližně dva roky. Tisíc vojáků a pracovníků pracuje najednou.",
+      "Decebalus se vrátí ke svým pevnostem. Zlaté zásoby Dácie jsou stále jeho. Podmínky míru porušuje záhy, v roce 103 začne znovu opevňovat hranice a verbovat žoldnéře.",
+      "Most se dostaví roku 105.",
+      "Ve stejném roce senát vyhlásí Decebalovi válku podruhé. Druhé tažení začne přechodem přes tento most, věcně a bez zbytečné přípravy, jako každá jiná operace."
     ],
     "pribeh": [
-    "Lucius Aemilius Structus, ženista, čtrnáctý pilíř Traianova mostu, řeka Dunaj, první dácká válka, 101 n. l.",
-    "Čtrnáctý pilíř od levého břehu je z části moje práce. Šest týdnů jsem u něj strávil — zarážení pilot do říčního dna, osazování kamenných bloků, kontrola svislice po každé vrstvě. Vím o každém kameni víc než vím o většině lidí ve svém oddíle.",
-    "Apollodoros nás řídil osobně — ne z břehu, přímo na mostě, s měřicí tyčí v ruce a hlasem který přebíjel řev Dunaje. Díval jsem se na něj jak pracuje a říkal si že tohle je jiný druh velení než centurionův — žádná hůl, žádný křik, jen přesnost a očekávání že ostatní tu přesnost sdílejí.",
-    "Nesdíleli vždy. Ale most stojí.",
-    "Když přes něj šly první kohorty stál jsem na břehu a počítal. Tisíce mužů v plné výzbroji, vozy s onagery, mezci se zásobami — a pilíř se nehýbe. Voda teče kolem šedivá a rychlá. Zatajil jsem dech při prvním voze s dělostřeleckým strojem — to je váha jiného řádu než pěšák. Pilíř se nepohnul ani o vlásek.",
-    "Centurion vedle mě, starý muž s jizvou přes levé ucho, řekl bez otočení hlavy: „Dobře jsi ho postavil.\"",
-    "Neodpověděl jsem.",
-    "Díval jsem se na legie jak přecházejí a najednou jsem ucítil vibraci — ne nárazovou, plynulou, jako když vítr rozechvěje lano. Procházela pode mnou od pilíře nahoru přes boty do lýtek. Most nesl tisíce mužů a ta váha se přenášela dolů přes kámen a dřevo až ke dnu řeky. Až k pilotám které jsem zarážel šest týdnů.",
-    "Stál jsem tam a cítil tu vibraci a neřekl jsem nic.",
-    "Decebalus tento most vidí. Výpad nepotřebuje most — výpad potřebuje člun a příznivý vítr. Most říká něco jiného. Most říká nejdeme na výpad, jdeme zůstat.",
-    "Za tři dny překročím most sám s ženijním oddílem. Budu mít v ruce nástroje, ne kopí. Ale za Dunajskou hranicí budeme stavět tábory, cesty, obléhací rampy — a bez toho neprojde jediná legie ani o krok dál.",
-    "Most který jsme postavili není začátek války. Je to válka sama — jen vyjádřená v kameni a dřevě místo v krvi."
-  ]
+      "29 (Motivace od velitele - Dácké války)",
+      "Titus Petronius Verus, legionář, Tapae",
+      "Probíhala už třetí rotace kohort a mrtvých jen přibývalo. Sám jsem měl zraněné zápěstí, krev mi stékala do dlaně, ale štít jsem pořád udržel. „Ty jejich meče jsou zlo, uřezávají nám s nimi ruce!“ zafuněl voják vedle mě. Měl pravdu. Všichni jsme se báli dělat dlouhé výpady.",
+      "Než jsme stihli dopít vodu, znovu zazněla ta zasraná trubka. Postupovali jsme vpřed. Centurie před námi už řvaly, ať si pohneme, že to neudrží. Těžká čepel se mi zaryla do štítu. Trhl jsem s ním dolů a Dák ztratil balanc. Do otevřeného břicha jsem mu vrazil meč a on se sesunul k zemi.",
+      "Jeho místo hned zaujal další. Falxem udělal drtivý nápřah přímo na mou helmu. Dostal jsem přímou ránu. Zatmělo se mi před očima a kolena mi vypověděla službu. Když se napřahoval k dorážce, voják za mnou mě surově strhl dozadu a vlastním štítem ránu vykryl.",
+      "Otočili nás. Vystřídala nás kohorta, která už měla znatelně prořídlé řady. Klopýtali jsme do týlu. K raněným dorazil na koni sám císař Traianus. Lékaři se k němu seběhli s tím, že jim došly obvazy. Císař sesedl, beze slova vzal svůj nádherný purpurový plášť, vytáhl dýku a rozřezal ho na kusy, které jim podal.",
+      "Když jsme to viděli my, čerstvě stažení z linie, vytáhli jsme nože and udělali s vlastními vlněnými plášti totž. O pár chvil později zazněl rozkaz k celkovému postupu. Na obou křídlech s řevem vyrazila naše kavalérie a plnou silou vpadla do nekrytých boků nepřítele."
+    ]
   }
 }

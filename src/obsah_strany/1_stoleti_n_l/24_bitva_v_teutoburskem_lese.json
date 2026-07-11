@@ -1,55 +1,74 @@
 {
   "id": 24,
-  "slug": "bitva_v_teutoburskem_lese",
-  "title": "24 — Bitva v Teutoburském lese (9 n. l.)",
+  "slug": "24_bitva_v_teutoburskem_lese",
+  "title": "Kapitola 24 — Bitva v Teutoburském lese (9 n. l.)",
   "century": "1_stoleti_n_l",
   "years": "9 n. l.",
-  "dokonceno": true,"images": { "hero": "img54.jpg", "mapa": { "src": "img55.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Čtyřicet let po Actiu vypadá impérium jako hotová věc. Středomoří je jedno, obchod proudí, silnice jsou bezpečné, provincie platí daně. Galie po Caesarových výbojích pomalu přijímá římský způsob života. Augustovi je dvaašedesát let a dílo jeho života stojí pevně.",
-      "Na severu není nic.",
-      "Za Rýnem leží svět který se Římu dosud nepodřídil. Hustý, bažinatý a těžko prostupný les táhnoucí se stovky mil na sever a východ. Území obývané kmeny bez kamenných měst, bez písma a bez centralizovaných zákonů — ale s bojovníky kteří mají absolutní znalost svého terénu a hluboký odpor k cizí moci.",
-      "Augustus věří že germánské kmeny lze do impéria postupně začlenit stejným způsobem jako Galy. Úkolem pověřuje Publia Quinctilia Vara, zkušeného správce osvědčeného v Sýrii a Africe. Výborný byrokrat a expert na provinciální administrativu. Není to vojevůdce."
+      "I. Historický kontext",
+      "Čtyřicet let Augustovy vlády se na říši podepsalo. Silnice z kamene spojují provincie od Hispánie po Sýrii. Obchod proudí pod ochranou práva. Galie, krvavě dobytá za Caesarových osmi let, pomalu přijímá latinský jazyk, římské stavby a provinciální správu. Augustovi je dvaašedesát let. Říká se mu otec vlasti.",
+      "Za Rýnem není nic z toho.",
+      "Hustý, bažinatý les táhne se stovky mil na sever a na východ. Území obývané kmeny bez kamenných měst a písma. Každý kmen stojí za sebe, zná svůj kraj a nemá zájem na tom, aby to platilo jinak.",
+      "Augustus věří, že je zvládne stejným způsobem jako Galii. K jejich správě pošle Publia Quinctilia Vara. Varus spravoval Sýrii a Afriku a proslul jako zkušený správce. Přijede do Germánie a začne je řídit stejně. Soudními dvory, pokutami, daňovými edikty. Zavolá náčelníky a začne soudit jejich spory podle římského práva. Germáni to snášejí. Nestěžují si. Kmen za kmenem mlčí a odchází.",
+      "Ve Varově štábu slouží syn náčelníka Cherusků. Arminius přišel do Říma jako chlapec — rukojmí za loajalitu hraničního kmene, běžný postup Říma. V Římě se naučil latinu, prošel vojenskou výukou a získal občanství i jezdecký stav. Vrátil se do Germánie jako muž, který chápe jak Řím přemýšlí, co velitel vidí a kde má pochod kolony slepá místa. Varovi se vzdělaný, romanizovaný aristokrat zalíbí natolik, že z něj udělá svého nejdůvěrnějšího rádce.",
+      "Arminius mezitím v naprostém utajení vybudoval koalici jinak znesvářených kmenů."
     ],
     "armada": [
-      "Armáda principátu je plně profesionální a dlouhodobě sloužící. Augustus zredukoval válečné stavy na dvacet osm stálých legií, každá o přibližně pěti tisících mužích těžké pěchoty, doplněná o pomocné sbory složené z neobčanů a lokálních spojenců. Legionář slouží dvacet let, pobírá pravidelný žold a po propuštění získává pozemek nebo finanční odměnu.",
-      "Výzbroj těžkooděnců prochází klíčovou proměnou. Kroužkovou košili lorica hamata začíná nahrazovat lorica segmentata — článkovaný pancíř skládající se z překrývajících se železných plátů. Pilum, gladius i scutum zůstávají.",
-      "Římská legie je navržena primárně pro otevřený terén. Tam dokáže rozvinout plnou kohortní formaci, velitelé mají přehled o celém bojišti a zálohy mohou okamžitě reagovat na hrozby. Germánský lesní podrost nabízí přesný opak.",
-      "Germánská válečná taktika nestojí na formovaných liniích, nezná obléhání ani logistické trasy. Funguje výhradně v lesních přepadech, v krátkém a brutálně intenzivním střetu nablízko a v rychlém ústupu do podrostu."
+      "II. Armáda a vojenství",
+      "Augustova profesionální armáda čítá dvacet osm stálých legií. Každá přibližně pět tisíc mužů těžké pěchoty, doplněných pomocnými sbory neobčanů. Legionář slouží dvacet let, pobírá pravidelný žold a po propuštění dostane pozemek nebo hotovost.",
+      "Podél Rýna a Dunaje roste limes romanus. Soustava pevností, strážních věží a hraničních silnic, které drží přechody pod kontrolou. Věže každé tři míle, stálé posádky, signální ohně. Řím buduje hranici jako soustavu pevností v krajině.",
+      "Výzbroj v legiích míchá tři typy. Kroužková zbroj je lehká, ohebná a po pochodu se dá vyčistit v sudu s říčním pískem a olejem,  hodina práce a je hotovo. Šupinová je odolnější na bocích. Nový typ, lorica segmentata, nabízí nejlepší ochranu před sečnými ranami a kopím. Čtyřicet dva překrývajících se plátů sklapnutých na mosazné přezky a kožené řemeny. V suchém počasí vynikající. Na mokrém pochodu přes germánský les zrezne přes noc a legionář stráví večer u ohně, odepíná pláty jeden po druhém a čistí každý zvlášť octem a pískem. Soused vedle dávno spí.",
+      "Pilum, gladius a scutum zůstávají. Legie je navržena pro otevřený terén, kde se dá rozvinout kohortní formace, vidět bojiště a posílat zálohy přesně tam kde jsou potřeba. Germánský les nenabízí nic z toho."
     ],
     "konflikt": [
-      "V Německu slouží v Varově štábu Arminius, syn náčelníka kmene Cherusků. Jako chlapec byl odveden do Říma coby rukojmí — standardní postup impéria k pojištění loajality hraničních kmenů. Během let v římské armádě získal občanství i jezdecký stav. Dokonale si osvojil latinu, taktiku a uvažování velitelů. Poté se vrátil do Germánie. Varus si inteligentního romanizovaného aristokrata oblíbil a udělal z něj svého hlavního poradce.",
-      "Arminius mezitím v naprostém utajení vybudoval obrovskou koalici jinak znesvářených germánských kmenů.",
-      "Na podzim roku 9 dostává Varus zprávu o lokálním povstání v odlehlé části provincie. Zprávu mu přináší osobně Arminius a doporučuje zkrátit si cestu k rebelům. Varus okamžitě zasáhne. Bere tři legie — XVII., XVIII. a XIX. — a vydává se trasou kterou Arminius určil. Celková síla kolony čítá přes dvacet tisíc mužů a je masivně zpomalena těžkým vozovým parkem, civilním doprovodem a rodinnými příslušníky důstojníků.",
-      "Kolona vstupuje do Teutoburského lesa. Úzké lesní stezky a bažiny donutí armádu roztáhnout pochodovou osu do délky několika mil. Kohorty ztrácejí vizuální kontakt, formace je rozbita stromy a prostor pro jakýkoliv obranný manévr neexistuje.",
-      "Germáni udeří za prudkého deště. Podmínky si zvolili záměrně — v mokru a bahně se těžká štítová hradba boří, pila se špatně hází a gladius na blízko ztrácí účinnost proti lehce ozbrojenému bojovníkovi který vzápětí zmizí zpět v podrostu. Útok přichází koordinovaně ze všech stran najednou, veden mužem který do detailu ví kde má neuspořádaná kolona slepá místa.",
-      "První den římská kolona za obrovských ztrát drží tvar a buduje nouzový tábor. Druhý den Germáni udeří znovu. Římané se pokoušejí probít do otevřenějšího terénu, ale v bažinách se jejich pochod definitivně rozpadá. Třetí den přestává existovat funkční velení. Varus, izolovaný a bez jakékoliv naděje na průlom, se probodne vlastním mečem aby nepadl do zajetí.",
-      "XVII., XVIII. a XIX. legie jsou do posledního muže vyhlazeny.",
-      "Když do Říma dorazí zprávy o katastrofě, Augustus přijímá ztrátu tří legií jako fyzickou ránu. V záchvatu zoufalství tluče hlavou do dveří paláce a křičí: „Vare, vrať mi mé legie!\"",
-      "Čísla sedmnáct, osmnáct a devatenáct už nebudou v římské armádě nikdy přidělena žádné nové jednotce. Trvale zmizí z armádních seznamů.",
-      "Expanze do Germánie končí. Rýn se stává pevnou hranicí římského světa.",
-      "Řím ale nezapomene.",
-      "Roku 14, rok po Augustově smrti, překročí Germanicus — adoptivní syn nového císaře Tiberia — Rýn s osmi legiemi. Nepřichází dobývat. Přichází zaplatit dluh.",
-      "Jeho vojáci najdou místo masakru přesně tak jak ho Germáni opustili. Kosti bez pohřbu roztroušené přes míle lesa. Lebky přibité na kmenech stromů. Zbytky zbraní a výstroje zarostlé mechem. Altáry na nichž byli zajatí důstojníci obětováni. Germanicus nechá armádu zastavit a pohřbí každou kost kterou lze najít. Legie staví mohylu přímo na místě porážky. Tacitus, který tu scénu zaznamenal, napsal že vojáci pracovali v tichu — ani veteráni nevědí zda truchlí za cizí či za vlastní.",
-      "V následujících dvou letech Germanicus opakovaně překročí Rýn a systematicky ničí kmeny které se zúčastnily masakru. V bitvě u Idistavia roku 16 Arminius nasadí stejnou taktiku jako v Teutoburgu — les, přepadení, fragmentace. Germanicus ji předvídá, drží legie v otevřeném terénu a Arminiu způsobí těžkou porážku. Dva ze tří ztracených legionářských orlů jsou navráceni do Říma. Třetí dostanou Římané zpět až za Claudia o čtvrt století později.",
-      "Tiberius Germanikem odvolá dřív než může kampaň dokončit. Příliš slavný vojevůdce s fanaticky loajální armádou — to je v Římě vždycky politický problém.",
-      "Arminius přežije porážku a pokusí se udržet moc mezi svými kmeny. Germánská koalice se bez společného nepřítele rozpadá a Arminius se sám stává tím nepřítelem — příliš mocný, příliš ambiciózní, čím dál tím více mluvící o královské koruně. Kolem roku 21 ho zavraždí vlastní příbuzní.",
-      "Muž který rozdrtil tři legie a zastavil římskou expanzi na celou generaci zemře rukou své vlastní rodiny. Tacitus o něm napsal: byl to bezpochyby osvoboditel Germánie — ne těch kteří ho zabili."
+      "III. Průběh konfliktu",
+      "Na podzim roku 9 dorazí k Varovi zpráva o lokálním povstání. Přinese ji osobně Arminius a navrhne kratší cestu přes les. Varus okamžitě vytáhne. Se sebou vezme tři legie — XVII., XVIII. a XIX.  přes dvacet tisíc mužů, vozy se zásobami a civilní doprovod důstojnických rodin.",
+      "Kolona vstoupí do Teutoburského lesa.",
+      "Úzké stezky a bažiny roztáhnou pochod na délku několika mil. Kohorty ztrácejí vizuální kontakt. Stromy rozbijí formaci. Pro jakýkoliv obranný manévr není místo.",
+      "Arminius zaútočí za prudkého deště, ve chvíli kdy se první řady probíjejí přes úzký průsmyk a zadní části kolony stojí v bahně a čekají. Ze stromů přiletí první oštěpy. Pak dav mužů naráz ze dvou stran. Legionáři se snaží formovat řady ale mezi stromy se nedá udělat linie. Každý centurion bojuje sám na svém úseku. Germáni udeří, zabíjejí a mizí zpátky do podrostu. Za hodinu útočí znovu.",
+      "První den Římané drží tvar a za obrovských ztrát postaví nouzový tábor. Druhý den se kolona pokouší probít do otevřenějšího terénu. Bažina ji zastaví. Třetí den přestane fungovat velení. Varus je odříznut, bez zpráv od ostatních jednotek, bez naděje na průlom. Probodne se vlastním mečem.",
+      "XVII., XVIII. a XIX. legie přestanou existovat.",
+      "Zpráva dorazí do Říma. Augustus ve svém paláci tluče hlavou do dveří a křičí do prázdna:",
+      "Vare, vrať mi mé legie.",
+      "Čísla sedmnáct, osmnáct a devatenáct zmizí z armádních seznamů navždy. Žádné nové jednotce je římská armáda nepřidělí.",
+      "Expanze za Rýn skončí. Řeka se stane hranicí.",
+      "V roce 15, rok po Augustově smrti, překračuje Germanicus, adoptivní syn nového císaře Tiberia, Rýn s osmi legiemi. Vojáci pochodují mlčky. Každý z nich ví kam jdou.",
+      "Místo masakru naleznou přesně tak jak ho Germáni opustili před šesti lety. Kosti roztroušené na míle do lesa. Lebky přibité na kmenech. Zbytky zbraní zarostlé mechem. Oltáře na nichž byli zajatí důstojníci obětováni germánským bohům. Germanicus nechá armádu zastavit.",
+      "Vojáci pohřbívají v tichu. Ani veteráni neví jestli truchlí za cizí nebo za vlastní.",
+      "Mohyla stojí přímo na místě porážky.",
+      "Ještě téhož roku se jeden z Germanicových velitelů, Aulus Caecina, dostane do situace která Teutoburg přesně zrcadlí. Se čtyřmi legiemi se stahuje přes Dlouhé mosty — úzký chodník přes neprostupné bažiny. Arminius ho čeká.",
+      "Kolona se zasekne v bahně. Trén se promíchá s bojovými jednotkami. Germáni udeří ze všech stran. Caecina padne z koně, kohorty se začnou rozpadat. Celou noc se drží obranné pozice, ale v táboře propukne panika. Skupina splašených koní způsobí ve tmě chaos. Legionáři jsou přesvědčeni že Germáni pronikli za hradby a řítí se k bráně. Caecina si lehne před práh. Muži musí přejít přes tělo vlastního velitele.",
+      "Zastaví se.",
+      "Caecina jim řekne, ať tasí meče a bojují.",
+      "Druhý den Germáni zaútočí na tábor. Arminius chce Římany nechat vypochodovat a zničit je na pochodu ale jeho bojovníci ho neposlouchají. Vidí zásoby, vidí unavené muže a chtějí kořist. Caecina to čeká. Nechá první vlnu přelézt opevnění a teprve pak vydá signál. Kohorty vyrazí ze dvou stran zároveň. Germáni nestihnou přeskupit a prchají do lesů. Caecina je žene až do večera.",
+      "Přivede legie k Rýnu celé.",
+      "Roku 16 Germanicus přivede armádu na rovinu u řeky Weser. Arminius postaví svá vojska na lesní okraj, část jezdců skrytých mezi stromy, pěchotu na hranu pole. Čeká na okamžik kdy Germáni začnou tlačit Římany zpátky do lesa, kde je terén jeho.",
+      "Germánští náčelníci jsou netrpěliví. Vidí před sebou Římany a chtějí útočit. Arminius je drží, varuje je, vykřikuje rozkazy. Neposlouchají. Část válečníků vytáhne ze stromů na otevřené pole.",
+      "Germanicus nasadí pomocnou jízdu na obě křídla a nechá legie pochodovat v sevřeném šiku. Germáni kteří vyběhli z lesa narazí do manipulů, stlačí se a nemohou se obrátit zpátky protože za nimi už dorážejí další. Jízda vpadne do boků. Arminius bojuje osobně, probije se obklíčením a prchá zraněný do lesa s tváří skrytou pod krví vlastních mužů, aby ho nikdo nepoznal.",
+      "Germánské linie se rozpadnou. Na poli zůstanou tisíce mrtvých.",
+      "Dva ze tří ztracených legionářských orlů se vrátí do Říma.",
+      "Tiberius Germanika odvolá. Vítěz od Weser s osmi legiemi oddanými veliteli byl pro císaře hrozbou. Germanicus odjede do Sýrie jako místodržitel. Za dva roky zemře. Zda byl otráven, se neprokázalo.",
+      "Arminius přežije porážku a pokusí se udržet moc mezi kmeny. Bez společného nepřítele se germánská koalice rozpadá. Arminius začne mluvit o královské koruně. Roku 21 ho zavraždí vlastní příbuzní.",
+      "Třetí orel se vrátí do Říma za Claudia, pětadvacet let po bitvě."
     ],
     "pribeh": [
-    "Quintus Fabius Rufus, dekán, první kohorta XVII. legie, Teutoburský les, 9 n. l.",
-    "Druhý den prší nepřetržitě od úsvitu.",
-    "Jdu vedle vozového vlaku a snažím se neposlouchat kola jak se propadají do bláta. Vůz se zaboří, muži ho tlačí, pohne se o tři kroky a znovu se zaboří. Kolona se zastavuje, čeká, pohybuje se dál — ale dál je vždy jen pár set kroků než se to zopakuje.",
-    "Les je tichý. To je to čeho se bojím nejvíce. Celý den se pohybujeme tímto šerem a les mlčí. Ptáci tu nejsou. Vítr tu není. Jen déšť na listech a naše kroky v blátě.",
-    "Lucius, který jde vedle mě, říká tiše skoro pro sebe: „Kde jsou?\" Neodpovím. Oba víme odpověď.",
-    "Útok přijde ze stromů bez varování. Zvuk oštěpu ve vzduchu je kratší než dech. Muž přede mnou padá — prostě je najednou na zemi s ratištěm trčícím z krku. Křičím svým deseti ať drží formaci — ale formace nemá kde stát. Vlevo stromy, vpravo vozový vlak, dopředu záda spolubojovníků, dozadu záda dalších. Jsme had sevřený v pěsti.",
-    "Druhá vlna oštěpů. Scutum nad hlavu, přitisknout se k sousedovi. Z leva Germáni — ne v linii, ne ve formaci, ale jako voda která nachází mezery. Velký muž se sekerou narazí přímo na mě a sekne shora. Dřevo štítu praská ale drží. Sekne znovu a já cítím jak se hrana trhá.",
-    "Bodnu naslepo do prostoru kde musí být jeho tělo. Trefím něco měkkého. Zakřičí a ustoupí. Jiný je na jeho místě okamžitě.",
-    "Nemůžeme manévrovat. Nemůžeme zaujmout pozici. Stojím a umíráme pomaleji než by chtěli.",
-    "Stojím.",
-    "Kolem mě padají muži a já křičím jejich jména a mezery zaplňuji těly živých dokud živí zbývají. Prší dál. V určitém okamžiku — nevím přesně kdy — přestanu jména znát. Mezery zaplňuji postavami v mlze, tváře nerozlišuji. Slyším jen své vlastní dýchání a déšť.",
-    "Nevím jak ta noc skončí. Vím jen že scutum dřím oběma rukama a vedle mě ještě stojí Lucius."
-  ]
+      "24 — Zkáza v Teutoburgu (9 n. l.)",
+      "Lucius Valerius Barbatus, legionář, Teutoburský les",
+      "Pochodujeme lesem. Začíná se stmívat a hustě prší. „Ne. Tady je něco špatně, nevěřím mu ani slovo,“ zahučí voják po mé levici a rozhlíží se mezi kmeny. Naše centurie je úplně na konci kolony. Zastavíme. Vůz před námi zapadl do bahna až po osu. Opřu scutum o strom, zabořím ruce do bláta a zaberu. V tu chvíli se z předku kolony ozve tlumený hluk a pak obrovský křik.",
+      "Z lesa vyletí první oštěpy. „Štíty k sobě!“ zařve centurion. Zvednu scutum. Ozve se praskání dřeva a křik raněných. Z lesa se valí Germáni. Za naší formací se krčí civilní zástup kupců a žen. Natlačíme část z nich za naše záda. Zepředu konečně zazní římská trubka – povel k pochodu vpřed, k hlavní legii.",
+      "Germáni do nás narazí. Obrovský válečník se zažene sekerou. Srazím ránu umbem, prudce nakloním scutum a spodním okovaným rohem mu drtivě narazím do holeně. Zaječí a klesne. Přitlačím ho vahou štítu ke kmeni dubu a zkráceným gladiem ho bodnu zespodu do břicha. Tlačíme se blátem kupředu. Kupec těsně za mnou podklouzne a zaboří se do hlubokého bahna. Překročím ho, nepustím štít a držím krok s formací. Zůstane za námi.",
+      "V noci dorazíme k rozestavěnému táboru a hned nastupujeme na hlídku. Stojím v dešti u valu a zírám do tmy, kde se míhají jen černé siluety. Když si jdu na chvíli lehnout na promáčenou hlínu, Germáni v lese začnou troubit na zvířecí rohy, ječet a smát se nám. Ráno proběhne zmatený nástup. Vyrážíme. Jsme teď uprostřed kolony.",
+      "Leje. Kůže pod zbrojí mrzne. Dřevěná scuta nasáknou vodou tak, že je neudržíme. Muži v předních řadách je začínají zahazovat do bláta. Centurion běží podél řady a mlátí chlapy holí, aby udržel formaci. Z křoví vyletí šíp a projede mu přímo krkem. Padne mrtvý pod nohy tažných mul.",
+      "Řada se rozpadne. Nohy v těžkém bahně se mi sotva pohnou. Ztrácím dech. Zpomalím. Ostatní mě předbíhají a strkají do mě. Noha mi vjede mezi slizké kořeny buku. Spadnu tvrdě na prsa a pustím meč. Zezadu zaslechnu svištění letícího oštěpu. Tlak v hrudníku se zastaví a na zádech cítím teplo."
+    ]
   }
 }

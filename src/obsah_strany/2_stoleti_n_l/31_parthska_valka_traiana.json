@@ -1,51 +1,62 @@
 {
   "id": 31,
-  "slug": "parthska_valka_traiana",
-  "title": "31 — Parthská válka Traiana (113–117 n. l.)",
+  "slug": "31_parthska_valka_traiana",
+  "title": "Kapitola 31 — Parthská válka Traiana (113–117 n. l.)",
   "century": "2_stoleti_n_l",
   "years": "113–117 n. l.",
-  "dokonceno": true,"images": { "hero": "img68.jpg", "mapa": { "src": "img69.webp" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Rok 113 našeho letopočtu. Císaři Traianovi je sedmapadesát let. Impérium má zabezpečené hranice v Evropě a státní pokladna je po dáckých válkách naplněna obrovskou kořistí zlata a stříbra.",
-      "Na východě leží Parthská říše, mocnost táhnoucí se od řeky Eufrat až k hranicím Indie. Od drtivé porážky římských legií u Karrh před více než sto padesáti lety udržují obě impéria křehký vojenský status quo. Pevnou hranici tvoří Eufrat a území Arménie funguje jako neutrální nárazníkové království. Jeho panovníka musí vždy předem schválit Řím i parthský dvůr.",
-      "Parthský král Osroes tuto smlouvu jednostranně poruší a dosadí na arménský trůn vlastního kandidáta bez předchozí římské konzultace. Traianus tento krok okamžitě označuje za casus belli.",
-      "Senát schvaluje vojenskou reakci. Obrovská invazní armáda se začíná stahovat z provincií do syrské Antiochie k největšímu východnímu výboji od dob republiky."
+      "I. Historický kontext",
+      "Rok 113. Císaři Traianovi je sedmapadesát let. Hranice říše jsou zabezpečené, dácké stříbro a zlato naplnilo státní pokladnu na generace a nové provincie na Dunaji fungují.",
+      "Na východě leží Parthská říše. Táhne se od Eufratu k hranicím Indie a drží kontrolu nad obchodními trasami ze Středozemí na východ. Od porážky Crassových legií u Karrh před více než sto padesáti lety udržují obě mocnosti křehký status quo. Arménie slouží jako nárazníkové království a nového panovníka musí vždy schválit oba dvory.",
+      "Parthský král Osroes tuto dohodu poruší a dosadí na arménský trůn vlastního kandidáta bez římské konzultace.",
+      "Traianus označí krok za casus belli. Senát schválí tažení a invazní armáda se začne stahovat z provincií do syrské Antiochie."
     ],
     "armada": [
-      "Na Východě čelí římské legie vojenské kultuře postavené na zcela odlišných základech než odpor kmenů v Evropě. Parthská armáda nedisponuje těžkou pěchotou s meči a štíty. Jde o jezdecké impérium jehož doktrína nestojí na držení linie, nýbrž výhradně na koni, luku a dlouhém kopí.",
-      "Údernou sílu tvoří katafrakti — těžce ozbrojení jezdci na mohutných koních plně chráněných lamelovou zbrojí. Samotný jezdec je od hlavy po kolena obalen kovovými pláty tak hustě že jej lze prorazit jen přesně mířeným úderem nablízko. Hlavní zbraní katafrakta je contus, přes tři metry dlouhé obouruční kopí. Čelní náraz obrněného jezdce v plném cvalu brutálně rozrazí a zadupe pevný pěší šik.",
-      "Druhou a neméně smrtící složkou jsou lehcí lučištníci na rychlých stepních koních. Používají kompozitní reflexní luky schopné vyslat šíp na dvě stě padesát metrů a prorazit kroužkovou zbroj na sto metrů. Jejich taktika spočívá v rychlém trysku k nepřátelské formaci, vypuštění masivní salvy a okamžitém ústupu — přičemž za plného cvalu otočeni v sedle střílejí i dozadu. Takzvaný parthský výstřel rozkládá oddíly které se je pokusí pronásledovat a likviduje těžkou pěchotu z dálky bez možnosti odpovědi.",
-      "Traianus na hrozbu reaguje cílenou úpravou invazní síly přesahující osmdesát tisíc mužů. Téměř třetinu armády tvoří jízdní oddíly: syrští jízdní lučištníci jako přímá protizbraň, numidská lehká kavalérie pro průzkum a těžké orientální katafrakti v rámci auxiliií. Těžká pěchota legií si na otevřených pláních Mezopotámie udržuje roli stabilní kotvy a hlavní síly pro dobývání opevněných měst."
+      "II. Armáda a vojenství",
+      "Římská armáda vstupuje na Východě do zcela jiného taktického světa. Parthská armáda stojí na koni. Jejich velitelé neplánují bitvu jako střet pěších šiků — plánují terén, vzdálenost a čas ústupu.",
+      "Údernou silou jsou katafrakti. Těžcí jezdci na mohutných koních, koně i jezdec obalení lamelovou zbrojí od hlavy po kolena tak hustě že je prorazí jen přesně mířený výpad nablízko. Hlavní zbraní je contus, obouruční kopí přes tři metry dlouhé. Čelní náraz katafrakta v plném cvalu rozrazí a zadupe pevný pěší šik.",
+      "Druhá složka jsou jízdní lučišníci. Na rychlých stepních koních s kompozitními reflexními luky přijedou k legionářům na dvě stě metrů, vypustí salvu a obrátí koně. Legionáři vyrazí za nimi. Jezdci prchají, otáčejí se v sedle a střílí zpátky za jízdy — každý výpad pronásledovatelů dostane salvu do tváře. Na konci pochodu přes otevřenou planinu leží mrtví Římané a Parthové jsou za horizontem.",
+      "Parthové se vyhýbají přímé srážce s těžkou pěchotou. Selhávají v členitém terénu a nemohou dobývat opevněná města.",
+      "Traianus na tento styl boje reaguje sestavením armády o síle přes osmdesát tisíc mužů. Téměř třetina jsou jízdní oddíly: syrští jízdní lučišníci jako přímá odpověď, numidská jízda pro průzkum, orientální katafrakti slouží jako auxiliární síla. Těžká pěchota legií drží pevnou linii pro boj ve městech a opevněném terénu."
     ],
     "konflikt": [
-      "Válka začíná roku 114 drtivým úderem na severu. Traianus s legiemi vpochoduje do Arménie, sesazuje parthského loutkového krále a nechává ho popravit. Neutrální nárazníkové pásmo je zrušeno. Arménie je formálně anektována a okamžitě se stává přímou římskou provincií.",
-      "Roku 115 obrací císař hlavní vojenský tlak na jih, překračuje Tigris a zahajuje invazi do severní Mezopotámie. Postupuje rychle. Parthská říše je vnitřně oslabena vleklými dynastickými spory a nedokáže zformovat jednotnou obranu. Severní Mezopotámie padne a je prohlášena provincií.",
-      "Rok 116 představuje bod maximální římské expanze v celých jejích dějinách. Traianovy legie dobývají samotné parthské hlavní město Ktésifón. Císař se zde nezastaví. Pokračuje s armádou až na úplný jih, dorazí k břehům Perského zálivu a vyhlíží na Indický oceán. Stává se prvním a jediným římským císařem jehož vojska dosáhla těchto hranic.",
-      "V okamžiku absolutního vojenského triumfu se obrovský nově dobytý prostor za jeho zády začíná hroutit.",
-      "Traianus roztáhl zásobovací a komunikační linie do kritické míry. Na nově dobytých územích okamžitě vypukají prudká lokální povstání. Situaci dále komplikuje obrovská vlna revolt židovské diaspory — takzvaná Kítova válka — která exploduje v Kyrenaice, na Kypru, v Egyptě i v samotné Sýrii. Rebelové masakrují římské i řecké obyvatelstvo a pálí infrastrukturu. Parthové bleskově využívají paralýzy a zahajují protiútoky na odříznuté posádky na severu.",
-      "Traianus opouští Perský záliv a zahajuje ústup na sever. Vedení těžkých bojů a potlačování vzpour vyčerpá římské síly. Zdraví jednašedesátiletého císaře fatálně selhává.",
-      "V srpnu roku 117 umírá Traianus v kilikijském městě Selinus, cestou zpět do Říma.",
-      "Na trůn nastupuje jeho adoptivní syn Hadrianus. Vyhodnotí situaci s chladným pragmatismem. Přestože římské krve bylo v Mezopotámii a Arménii prolito obrovské množství, nově nabytá území jsou logisticky neudržitelná a vojensky příliš zranitelná.",
-      "Hadrianus vydává rozkaz k absolutnímu ústupu. Řím se vzdává obou nových provincií a legie se stahují zpět za Eufrat."
+      "III. Průběh konfliktu",
+      "Válka začíná roku 114 na severu.",
+      "Traianus vtáhne do Arménie a parthský loutkový kandidát Parthamasiris požádá o vyjednávání. Přijde osobně do Traianova tábora, sundá z hlavy diadém a položí ho k nohám císaře. Čeká že mu ho Traianus vrátí, jde o zavedené gesto rituální podřízenosti, po němž panovník obvykle trůn dostane zpět jako klientský vazal.",
+      "Traianus ho nezvedne.",
+      "Parthamasiris stojí bez koruny před celou armádou. Arménie je formálně anektována jako provincie. Parthamasiris odejde z tábora a brzy zemře.",
+      "Roku 115 Traianus obrátí hlavní tlak na jih. Překračuje Tigris a zahajuje invazi do Mezopotámie. Parthská armáda se soustředěné konfrontaci vyhýbá, z otevřených plání ustupuje, ze zásobovacích tras útočí, do měst se stahuje. Jízdní lučišníci zasypávají pochodující kohorty salvami z bezpečné vzdálenosti a mizí dřív než se legionáři stačí zformovat k protiúderu. Legionáři vyrazí za nimi a dostanou salvu do tváře. Traianovi syrští jízdní lučišníci jsou jedinou odpovědí a boje o zásobovací trasy se táhnou celou kampaní. Města nestačí na legionářské obléhání a jedno po druhém padají. Nisibis, Singara, Dura Europos. Severní Mezopotámie je prohlášena provincií.",
+      "Roku 116 Traianus dobude parthské hlavní město Ktésifón. Osroes prchá před příchodem legií na východ. Traianus vstoupí do opuštěného paláce. Vzduch páchne po kouři, bránící se posádka zapálila zásoby a sklady před útěkem. Usedne na trůn odkud Parthové vládnou říši jejíž armáda zničila u Karrh Crassa a tři legie sto šedesát let předtím.",
+      "Pak pokračuje dál na jih.",
+      "Armáda dojde k Perskému zálivu. Traianus stojí na břehu a dívá se na otevřené moře. Je mu šedesát let a v životě prošel víc tažení než většina jeho velitelů. Kdyby byl mladší, plul by až do Indie.",
+      "Posadí se na loď a nechá se odvézt na moře. Pak se vrátí.",
+      "Za jeho zády se dobytá území začínají vymykat.",
+      "Zásobovací trasy se táhnou přes celou Mezopotámii a nestačí pokrýt potřeby armády. Na právě dobytých územích vypukají prudká povstání, arabské kmeny, parthské posádky které vzdaly jen dočasně, místní obyvatelstvo které se s novou správou nesmířilo. Povstání židovské diaspory, které Řekové nazvou Kitovou válkou, zachvátí celou zadní část impéria. Rebelové pod vedením svých kmenových náčelníků masakrují římské a řecké obyvatelstvo v městech a vesnicích, ničí chrámy, zapalují přístavy a zásobovací sklady. Kyrenaika přijde o desítky tisíc obyvatel, Kypr je na několik měsíců odříznut od pevniny, alexandrijské zásobovací sklady hoří. Traianus musí odeslat na západ část armády pod Lusiem Quietem k potlačení, tím dál oslabuje sílu která drží Mezopotámii.",
+      "Parthové využijí paralýzu. Protiútoky zasáhnou odříznuté posádky na severu, část čerstvě dobytých měst se znovu vrátí pod parthskou kontrolu. Armáda bojuje na třech frontách zároveň, bez zázemí, v letním teple mezopotámských rovin.",
+      "Traianus zahájí ústup ze zálivu na sever. Bojová tažení a potlačování vzpour armádu vyčerpávají. Zdraví jednašedesátiletého císaře selhává.",
+      "Srpen roku 117. Traianus umírá v kilikijském Selinu na cestě zpět do Říma. Zemře dřív než přepluje Středozemní moře.",
+      "Hadrianus, jeho adoptivní syn, přebere vládu a situaci vyhodnotí bez emocí. Mezopotámie leží příliš daleko od zásobovacích základen, je hustě obydlená nepřátelskými kmeny a sousedí s parthským jádrem. Arménie fungovala jako nárazníkové království po staletí bez nákladů přímé správy.",
+      "Vydá rozkaz k ústupu. Legie vyklidí obě nové provincie a stáhnou se zpět za Eufrat. Hranice se vrátí tam kde byla před Traianem. Parthský dvůr dostane signál že Řím uzná jeho sféru vlivu na východ od řeky.",
+      "Největší územní expanze Říma trvala méně než dva roky."
     ],
     "pribeh": [
-    "Quintus Marcius Turbo, decurion, druhá ala syrských lučištníků, Mezopotámie, parthská válka Traiana, 115 n. l.",
-    "Legie pochoduje uprostřed. My jedeme na bocích.",
-    "Práce auxiliární jízdy — ne útočit, ne držet linii, ale být oči a štít těžké pěchoty která vidí jen to co má před sebou. Parthové to vědí. Proto vždy míří na boky.",
-    "Přišli odpoledne z písečného hřebene napravo. Dvacet jezdců, možná třicet, kompozitní luky, koně lehcí a rychlí. Klasický manévr — přijet na dostřel, salva, otočit a zmizet. Legie se nemůže otočit dost rychle. Nemůže pronásledovat. Nemůže střílet zpátky.",
-    "Ale my nejsme legie.",
-    "„Barraqos — pravý bok. Ostatní za mnou.\"",
-    "Rozdělili jsme se za pochodu. Barraqos se rozjel obloukem doprava aby uzavřel parthský ústupový úhel. Já jsem vzal zbytek přímo proti nim — ne abych je porazil, ale abych je zastavil dost dlouho aby Barraqos zavřel oblouk.",
-    "Parthové to poznali pozdě. Zastavili se a otočili luky na mě.",
-    "Tady je ten okamžik který se nedá naučit na cvičišti — přijíždíš na jezdce kteří na tebe míří a jediná správná věc je nepřestat. Zastavit se znamená zemřít. Zpomalit znamená zemřít. Jedeš dál a doufáš že jejich nervy prasknou dřív než jejich šípy trefí.",
-    "První šíp mi přelétl nad ramenem — slyšel jsem ho, ostrý krátký zvuk. Druhý trefil koně mého muže zleva. Kůň klesl. Muž vstal. Nejel jsem zpátky.",
-    "Na čtyřicet kroků jsem napnul luk a pustil první šíp. Za pohybu, na pohybující se cíl. Parthský kůň přede mnou přeskočil do strany — zasáhl jsem ho nebo jen polekal, nevím. Vypustil jsem druhý šíp do té změti a projel jsem skrz jejich linii.",
-    "Otočil jsem koně. Barraqos zavíral oblouk zprava.",
-    "Parthové se ocitli mezi námi. Otočili koně na sever — jediný otevřený směr — a vyrazili. Barraqos je doprovázel střelbou dalších tři sta kroků. Šetřil šípy. Prchající jezdec je obtížný cíl.",
-    "Vrátili jsme se na bok legie. Pochodovala dál jako by se nic nestalo.",
-    "Muž jehož kůň padl stál u kraje cesty. Chytal koně od jednoho z mrtvých Parthů — tmavý, menší než naši, ale živý. Přejel po něm pohledem, zkontroloval nohy, pak naskočil. Přijel ke mně bez slova.",
-    "Tak to funguje. Legie drtí co stojí před ní. My se staráme o boky. Legie si toho většinou nevšimne. To nevadí. Víme co děláme."
-  ]
+      "31 — Parthská válka (115 n. l.)",
+      "Hamrat bar Zabda, equites sagittarii, Mezopotámie",
+      "Dorazíme k řece. Kamenný most před námi je stržený, zbývají jen ohořelé pilíře. Legie zastaví a bleskově kolem nás postaví pochodový tábor. Římští inženýři a legát okamžitě slezou k vodě a ukazují na zbytky konstrukce. Za chvíli se do okolí rozběhnou první centurie s rýči a sekerami shánět dřevo a kámen.",
+      "Příští dny legie tvrdě pracuje a staví nový most. Naše kohorta lehké jízdy prozkoumává břehy. Najdeme mělčinu. S našimi drobnými koňmi a v lehkých kroužkových košilích dravou řeku přebrodíme. Těžká římská pěchota to v brnění nezvládne. Hlídkujeme na parthském břehu úplně sami.",
+      "Ve stínu datlovníků zahlédnu oblak prachu. Parthská kavalérie. Bleskově zatroubím na roh. Legionáři, kteří na naší straně pracují u pilířů, okamžitě zahodí kladiva. Popadnou scuta a během několika vteřin vytvoří neprostupnou štítovou hradbu na břehu. My jdeme proti jízdě.",
+      "Rozdělíme se za jízdy. Vedu část čelně přímo na ně, abych je zpomalil, zbytek se je snaží odříznout obloukem zleva. Zastaví koně a otočí kompozitní luky na mě.",
+      "Ženu se rovnou proti hrotům jejich šípů. První střela mi přeletí těsně nad uchem. Na čtyřicet kroků se vzepřu ve třmenech a za plné jízdy pustím šíp na nejbližšího jezdce. Zasáhnu ho do ramene. Změníme směr. Kroužíme kolem nich v těsné formaci, střílíme a nutíme je držet pozice.",
+      "V ten moment se z řeky s ohlušujícím ržáním vyřítí zbytek naší auxiliární kavalérie. Přebrodili vodu, narazí Parthům přímo do boku a rozrazí jejich formaci. Parthové to okamžitě otočí a zmizí v poušti, zatímco za našimi zády už na říční břeh dopadají první nové nosné trámy mostu."
+    ]
   }
 }

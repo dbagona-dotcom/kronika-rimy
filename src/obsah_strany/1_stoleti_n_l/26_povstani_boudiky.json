@@ -1,50 +1,62 @@
 {
   "id": 26,
-  "slug": "povstani_boudiky",
-  "title": "26 — Povstání Boudiky (60–61 n. l.)",
+  "slug": "26_povstani_boudiky",
+  "title": "Kapitola 26 — Povstání Boudiky (60–61 n. l.)",
   "century": "1_stoleti_n_l",
   "years": "60–61 n. l.",
-  "dokonceno": true,"images": { "hero": "img58.webp", "mapa": { "src": "img59.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Sedmnáct let po přistání invazních legií vypadá Británie jako provincie v procesu romanizace. Camulodunum má forum, chrám zbožštělého Claudia a příliv vysloužilých legionářů kteří zde dostali pozemky. Londinium, teprve nedávno vzniklé centrum u brodu přes Temži, roste závratným tempem. Verulamium se transformuje v klasické provinciální město s pravoúhlou zástavbou.",
-      "Pod povrchem leží pnutí které žádná fora ani chrámy nevyřeší.",
-      "Romanizace Británie probíhá způsobem jenž místní elity připravuje o majetek místo aby je do systému začleňoval. Římský finanční aparát vybírá daně s bezohledností která přesahuje to co provinciální obyvatelstvo dokáže absorbovat. Veteráni dostávají půdu která předtím patřila britským kmenům. Římští obchodníci poskytují půjčky britské aristokracii za podmínek nastavených tak aby dluh nemohl být nikdy splacen.",
-      "Do tohoto prostředí vstoupí smrt krále Prasutagase, vládce kmene Icenů na východě ostrova. Prasutagas byl římský spojenec, klientský král jehož loajalita byla odměněna relativní autonomií. Ve své závěti odkázal království rovným dílem Římu a svým dvěma dcerám ve snaze ochránit rodinu před konfiskací.",
-      "Římská správa dokument okamžitě ignoruje. Území Icenů je násilně anektováno. Prasutagova vdova Boudika je vyvlečena ven a veřejně zbičována. Obě jeho dcery jsou před jejíma očima znásilněny."
+      "I. Historický kontext",
+      "Sedmnáct let po vylodění vypadá Británie jako provincie která přijímá římský řád. Camulodunum má fórum a chrám zbožštělého Claudia. Londinium roste u brodu přes Temži. Verulamium se proměnilo ve městečko s pravoúhlou zástavbou.",
+      "Pod povrchem leží jiný obraz. Veteráni dostávají půdu která patřila britským kmenům. Daňoví výběrčí pracují s bezohledností které místní nestačí čelit. Mezi věřiteli je i filosof Seneca, který britské aristokracii půjčil deset milionů sesterciů a vymáhá je způsobem, který dlužníka každým rokem pohřbívá hlouběji.",
+      "Do tohoto prostředí vstoupí smrt krále Prasutagase z kmene Icenů. Prasutagas byl římský spojenec. Ve své závěti odkázal království rovným dílem Římu a svým dvěma dcerám, aby rodinu ochránil před konfiskací.",
+      "Římská správa závěť okamžitě ignoruje. Území Icenů je zabrané. Prasutagova vdova Boudika je vyvlečena a veřejně zbičována. Obě dcery jsou před jejíma očima znásilněny.",
+      "Iceni se chopí zbraní. Přidají se Trinovantové, přidají se kmeny s jinými křivdami. Povstání se šíří dřív než Řím pochopí co se děje."
     ],
     "armada": [
-      "Britské provincie střeží v roce 60 čtyři stálé legie, ale ne všechny jsou k dispozici. Guvernér Gaius Suetonius Paulinus v momentě vypuknutí krize vede trestné tažení na ostrov Mona u waleského pobřeží — posvátné centrum druidského kultu a hlavní ideologické ohnisko britského odporu. Drtivá většina bojové síly je s ním odříznutá na druhém konci provincie.",
-      "Boudičina shromážděná armáda čítá obrovské desítky tisíc bojovníků. K Icenům se bleskově připojují sousední Trinovantové a další kmeny s křivdami vůči správě. Jde o sílu drtivě převyšující cokoliv co může v první chvíli Řím postavit do pole.",
-      "Keltská bojová tradice silně spoléhá na válečné vozy a obrovský psychologický nápor — válečný křik, rytmické bubnování, modré tetování těl a absolutní fyzickou brutalitu krátkého střetu. Taktická flexibilita, zálohy nebo koordinace ústupu na povel však do kmenového válečnictví nepatří.",
-      "Suetonius to ví. Ví také že legie jakkoli číslem slabší jsou stroj — a stroj funguje nejlépe když zvolí vlastní podmínky."
+      "II. Armáda a vojenství",
+      "Čtyři legie střeží britské provincie, ale v roce 60 nejsou zdaleka všechny po ruce. Místodržitel Gaius Suetonius Paulinus vede tažení na ostrov Mona u waleského pobřeží, centrum druidského kultu a zdroj odporu od počátku invaze. Drtivá většina bojové síly stojí odříznutá na druhém konci ostrova.",
+      "Na ostrově slouží legionáři i auxiliárie. Legionáři nosí kroužkovou, šupinovou nebo plátovou zbroj podle výbavy své jednotky. Auxiliárie přidávají to, co legie samy nemají: syrští lučištníci střílí na vzdálenosti kde legionář scutem nestíhá krýt, mauretánská jízda pokrývá průzkum. Celková síla po odchodu Suetonia k Moně je slabá a roztroušená."
     ],
     "konflikt": [
-      "Povstání udeří s rychlostí která naprosto zaskočí roztroušenou provinční správu. Boudika táhne nejdřív na Camulodunum. Město nemá hradby — veteráni je v zdánlivě bezpečné provincii nikdy nevybudovali — a posádka čítá jen několik set mužů. Camulodunum padne za dva dny. Chrám zbožštělého Claudia, který pro Brity symbolizuje římskou tyranii, hoří i s obránci celé tři dny.",
-      "Na pomoc urychleně vyráží IX. legie Hispana. Velitel Quintus Petilius Cerialis narazí na Boudičino vojsko ještě za pochodu a je zcela vyhlazen. Jeho pěchota je pobita do posledního muže a on zachrání život jen úprkem s malým zbytkem jezdectva.",
-      "Suetonius přijede do Londinia dostatečně rychle ale ne dostatečně na to aby ho ubránil. Dělá drastické vojenské rozhodnutí: nařídí evakuaci těch kteří mohou jít a stahuje se s legiemi do vnitrozemí. Obyvatelé kteří zůstanou jsou britským vojskem zmasakrováni. Londinium hoří do základů. Verulamium je vzápětí rovněž zpopelněno.",
-      "Suetonius mezitím stahuje všechny roztroušené posádky na které narazí. Má k dispozici celou XIV. legii Gemina, části dvacáté legie a auxiliární oddíly. Celková bojová síla sotva přesahuje deset tisíc mužů. Stojí proti drtivé početní přesile.",
-      "Zvolí bojiště s pedantickou přesností. Úzký skalnatý průsmyk s hustým lesem v zádech a otevřenou planinou vpředu. Omezí tím bitevní frontu aby Britové nemohli využít svůj obří počet k obklíčení. Postaví legionáře do těsné defenzivní formace, auxilia na boky a jízdu na křídla.",
-      "Boudičino vojsko se s řáděním vřítí do úzkého hrdla průsmyku. Salva dvou tisíc těžkých pil z těsné vzdálenosti zasáhne první řady a způsobí krvavý chaos. Římská legie vytvoří úderné klíny a s gladii postupuje drtivě kupředu. Britská armáda je v průsmyku příliš stísněná aby mohla použít dlouhé meče a pod tlakem kohort začíná ustupovat.",
-      "Za britskou formací však stojí masivní vozová hradba obsazená rodinami bojovníků kteří přijeli sledovat vyhlazení Říma. Ústup narazí na vlastní povozy, zašpuntuje se a Britové jsou uvězněni. Z boje se stává masakr desítek tisíc těl.",
-      "Boudika po bitvě vypije jed. Obří povstání je jednou bitvou rozdrceno.",
-      "Suetonius převezme absolutní kontrolu a v nadcházejícím roce vede do kmenových území krutou pacifikační kampaň."
-
+      "III. Průběh konfliktu",
+      "Boudika udeří s rychlostí která roztroušenou správu zcela zaskočí. Camulodunum nemá hradby. Veteráni je ve zdánlivě bezpečné provincii nikdy nevybudovali. Posádka čítá několik set mužů. Město padne za dva dny. Chrám Claudia hoří tři dny.",
+      "Na pomoc vyráží IX. Hispana. Její legát Quintus Petilius Cerialis narazí na Boudičino vojsko ještě za pochodu. Pěchota je pobita do posledního muže. Cerialis unikne s hrstkou jezdců.",
+      "Suetonius dorazí do Londinia dříve než Boudika, ale pochopí, že město ubránit nelze. Nařídí evakuaci těch kteří mohou jít a stáhne legie do vnitrozemí. Kdo zůstane, bude zabit. Londinium shoří. Verulamium shoří také. Celkem přijde o život přes sedmdesát tisíc Římanů a spojenců na třech místech.",
+      "Suetonius stáhne všechny posádky na které narazí. Celá XIV. Gemina, části XX. legie, auxiliárie. Dohromady sotva deset tisíc mužů.",
+      "Bojiště si vybere pečlivě.",
+      "Úzký průsmyk se skalnatými svahy po bocích, hustý les v zádech, otevřená planina před ním. Terén omezí bojovou frontu tak, aby Britové nemohli využít svůj obrovský počet k obklíčení. Legionáři stojí těsně za vstupem do průsmyku v sevřené formaci. Na bocích auxiliárie, na křídlech jízda.",
+      "Boudičina armáda se přivalí přes planinu. Pěšky i na vozech, s válečným křikem a bubnováním. Za frontovými řadami jedou na vozech rodiny bojovníků, které přijely sledovat vítězství.",
+      "Vstoupí do průsmyku.",
+      "Boudika projíždí na voze podél vlastních řad a mluví k vojákům. Ukazuje na dcery. Připomíná jim co se stalo. Sto tisíc mužů a žen. Iceni, Trinovantové, bojovníci z tuctu kmenů buší do štítů a řvou. Na druhém konci průsmyku stojí Římané v naprostém tichu.",
+      "Keltové se s řevem rozběhnou.",
+      "Suetonius nechá armádu čekat. Legionáři drží scuta před sebou a nepohnou se. Třicet metrů. Vydá rozkaz.",
+      "Tisíce pil vyletí naráz a zasypou přední vlny. Hroty z měkkého železa se zaboří do těl a štítů a ohnou se. Přední řady Keltů se zastaví, zaseknou, nakupí. Druhý déšť oštěpů letí do té změti.",
+      "Legionáři zformují klíny a vyrazí pevným krokem. Auxiliárie za nimi v těsném závěsu, jízda na křídlech. Keltové nemají prostor na máchání meči a krátké čepele Římanů do nich vráží. Legionáři postupují a do každé skulinky bodají.",
+      "Britové začnou ustupovat.",
+      "Za nimi stojí jejich vlastní vozy.",
+      "Celá hradba vozů s rodinami, které přijely sledovat vítězství, zatarasí cestu. Přední řady Keltů se tlačí zpátky, zadní je tlačí dopředu, celá masa se zaklíní mezi železo a dřevo. Jízda dokončí obklíčení z boků. Z průsmyku není úniku.",
+      "Boudika prchne z bojiště a vypije jed.",
+      "Suetonius převezme kontrolu nad ostrovem a v nadcházejících měsících vede tažení proti kmenovým územím."
     ],
     "pribeh": [
-    "Gaius Valerius Primus, signifer, první kohorta XIV. legie Gemina, bitva u Watling Street, povstání Boudiky, 61 n. l.",
-    "Vidím je přicházet z kopce. Nejdřív zvuk — bubnování, rohové nástroje, tón tak hluboký že ho cítím v hrudní kosti víc než ho slyším. Pak je vidím. Tisíce. Vlna barev a zbraní přes celou šíři roviny. A za nimi — za jejich linií — stojí vozy. Plné lidí. Přišli se dívat na vítězství.",
-    "Centurion vedle mě říká tiše: „Drž orla rovně. Ať ho vidí až do konce.\"",
-    "Nekývnu. Zpevním sevření.",
-    "Naše linie stojí v ústí průsmyku — les po obou stranách, pevný terén pod nohama. Místo vybral Suetonius a vybral ho dobře. Musí přijít přímo na nás a přímo na nás přicházejí.",
-    "Na dostřel hodíme pila. Zvuk který přijde zpátky — ne jediný výkřik ale tisíce najednou splývající do jednoho hukotu. Zavřu oči na zlomek vteřiny. Pak rozkaz a jdeme dopředu.",
-    "Tlak je fyzický. Tlačím orla dopředu, za mnou tlačí muži, před námi tlačí oni. Žerď mi vráží do dlaně pokaždé když se celá masa zastaví a znovu pohne. Na žerdi jsou nýty které znám nazpaměť — jeden ostrý pod palcem, jeden tupý uprostřed — a teď je cítím ostřeji než kdy předtím.",
-    "Pak se masa začne pohybovat jedním směrem.",
-    "Vidím to lépe než kdokoliv v první linii — signifer vidí celou šíři, to je prokletí i výsada jeho místa. Jejich přední řady ustupují do vlastních zadních. A zadní nemají kam. Za nimi jsou vozy. Vozy plné lidí kteří přišli slavit a teď blokují ústup.",
-    "Tlačenice se mění v něco jiného.",
-    "Naše linie postupuje krokem který se nezrychlí ani nezpomalí. Signifer kráčí s ní. Orel rovně, jak rozkázal centurion.",
-    "Dívám se na vozy na konci pole. Přestal jsem je počítat po prvním.",
-    "Orel je stále rovně."
-  ]
+      "26 — Boudičino povstání (61 n. l.)",
+      "Julius Petronius Mercator, signifer, Watling Street",
+      "Stojíme na dně úzké soutěsky. Les máme v zádech. Místo vybral Paulinus, Britové se sem vejdou jen zepředu. Jsem v zadní řadě první kohorty. V levé ruce svírám žerď se signem, v pravé pochvu meče",
+      "Z údolí se na nás valí křičící masa Britů. Země pod nohama duní. Nehýbeme se.",
+      "Když jsou na třicet kroků, zazní trubka. Vzduch potemní. Tisíce našich oštěpů dopadnou do jejich řad. Železo drtí dřevěné štíty i nechráněná těla. Přední vlna Britů se okamžitě skácí do hlíny a ti za nimi přes ně přepadávají.",
+      "Centurion mě hrubě chytí za rameno. „Dozadu ke štábu!“ strčí do mě.",
+      "Odstoupím za formaci. Kohorty se semknou do klínů a vyrazí vpřed. Zezadu vidím každý pohyb. Pěchota naráží do přeživších Britů. Zvednout štít, bodnout gladiem zespodu, krok. Britové nemají kam uhnout. Natlačují se na sebe a dusí se ve vlastních řadách.",
+      "Jejich nápor praskne. Otáčejí se a prchají. Na okraji pláně ale narazí na půlkruh vlastních tažných vozů. Přivezli si rodiny, aby se dívaly na vítězství. Dřevěné vozy teď úplně ucpávají ústupovou cestu.",
+      "Naše linie bez zastavení dojde až k nim. Ocelové čepele projíždějí natlačeným davem. Legionáři bodají britské válečníky, protahují se mezi vozy a přesekávají šlachy tažným koňům i křičícím ženám. Zastavím se, opřu žerď signa o zem a dívám se na zničené vozy, ze kterých kape krev do trávy."
+    ]
   }
 }

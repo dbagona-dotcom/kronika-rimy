@@ -1,44 +1,62 @@
 {
   "id": 16,
-  "slug": "spojenecka_valka",
-  "title": "Spojenecká válka (91–87 př. n. l.)",
+  "slug": "16_spojenecka_valka",
+  "title": "Kapitola 16 — Spojenecká válka (91–87 př. n. l.)",
   "century": "1_stoleti_pr_n_l",
   "years": "91–87 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img39.webp", "mapa": { "src": "img38.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Řím tentokrát nestojí proti vzdálenému nepříteli v cizí zemi. Stojí proti svým vlastním spojencům. Proti lidem kteří po staletí bojovali v jeho legiích, stavěli jeho silnice, živili jeho ekonomiku a umírali ve stejných bitvách jako římští občané. Lidem kteří chtěli jen jedno: být Římany.",
-      "Systém který Řím vybudoval po Latinské válce roku 338 fungoval na jednoduchém principu. Italské komunity pečlivě rozdělené do různých kategorií spojenectví, s různými právy a odlišnou mírou přístupu k občanství, neměly dost společného zájmu na to aby se spojily. Každý byl odděleně slabý.",
-      "Ale systém měl jednu zásadní trhlinu. Spojenci dodávali do legií přibližně stejný počet vojáků jako Řím samotný. Nesli totožná rizika a přinášeli stejné oběti. Po vítězné bitvě však dostávali menší podíl kořisti. Půdu dobytou válkou nemohli legálně vlastnit ve stejném rozsahu. A do senátu kde se rozhodovalo o jejich životech neměli přístup vůbec.",
-      "Dekáda navrstvila na dekádu nespokojenosti. Tiberius Gracchus se ji pokusil řešit pozemkovou reformou. Zaplatil životem. Gaius Gracchus navrhoval rozšíření občanství na Italy. Zaplatil životem. Marcus Livius Drusus mladší, tribunus plebis roku 91, předložil podobný návrh. Byl zavražděn.",
-      "Když byl Drusus zabit, pro mnohé italské komunity přišel okamžik kdy slova přestala mít smysl. Picenové jako první povraždili římské úředníky na svém území. Přidali se Marsi. Poté Samnité — staří nepřátelé kteří nikdy nezapomněli na Caudinské vidlice — vytáhli do boje s pocitem že nadešel jejich čas. Povstání se šíří jako oheň po suché trávě.",
-      "Itálie je ve válce sama se sebou."
+      "I. Historický kontext",
+      "Tribunus plebis Marcus Livius Drusus předložil roku 91 návrh na udělení občanství italickým spojencům. Senát ho odmítl. Drusus zemřel od nože. Nikdo nebyl obviněn.",
+      "Pompaedius Silo, vůdce kmene Marsů a Drusův blízký přítel, čekal v Římě na výsledek návrhu. Odjel domů.",
+      "Po Latinské válce roku 338 dostalo každé italické město jiné podmínky spojenectví. Každé bylo odříznuté od ostatních. Ale všechna platila stejnou cenu: vojáci z italických komunit tvořili přibližně polovinu každé legie. Bojovali ve stejných bitvách. Po vítězství dostávali menší podíl kořisti a méně práv k půdě. Do senátu přístup neměli. Tiberius Gracchus se to pokusil změnit. Zaplatil životem. Gaius taky. Drusus taky.",
+      "Picentové jako první povraždili římské úředníky na svém území. Přidali se Marsi. Samnité vytáhli jako třetí. Pamatují si Caudinské vidlice i zničené Bovianum."
     ],
     "armada": [
-      "Vojenská hrůza tohoto konfliktu nespočívá v početní převaze nepřítele. Spočívá v tom že je legiím prakticky totožný. Italičtí spojenci nebojovali po staletí vedle římských formací aniž by neabsorbovali vše co bylo k naučení. Jejich armády jsou organizovány podle stejného vzoru, vyzbrojeny stejnými zbraněmi a vedeny veliteli kteří prošli totožným výcvikem. Mnozí povstalečtí generálové sloužili jako důstojníci v římské armádě ještě rok před povstáním.",
-      "Povstalci vytvoří vlastní stát — Italia. Mají samostatnou vládu, senát o pěti stech členech a dva konzuly. Razí vlastní mince na kterých je zobrazeno italské býče dorážející na římskou vlčici. Armáda čítá na začátku konfliktu přes sto tisíc mužů rozdělených do dvou velitelských oblastí. Na severu velí Quintus Pompaedius Silo z kmene Marsů, jenž celé povstání politicky zorganizoval. Na jihu velí Gaius Papius Mutilus ze Samnitů, z kmene který si nese v kolektivní paměti staletí konfliktů s republikou.",
-      "Řím musí urychleně sestavit armádu z omezené báze vlastních občanů — spojenci tvořící obvykle polovinu legií stojí na opačné straně. Velení dostávají nejzkušenější dostupní muži. Gaius Marius, nyní šedesátník ale stále vojensky způsobilý, velí na severu. Lucius Cornelius Sulla, jehož hvězda od afrického tažení neustále stoupá, dostává jih.",
-      "Sullova tažení na jihu jsou systematickým dobýváním samnitských a lukánských opevnění. Bojuje s naprostou přesností, bezchybně využívá chyb nepřítele a vyhýbá se zbytečným ztrátám. Marius na severu bojuje tvrději, v obtížnějším terénu a s menším úspěchem. Šedesát let a dekády tažení se na jeho pohyblivosti začínají projevovat."
+      "II. Armáda a vojenství",
+      "Povstalci postaví stát.",
+      "Vytvoří Italii se senátem o pěti stech členech a dvěma konzuly. Hlavní město bude Corfinium, přejmenované na Italica. Sto kilometrů od Říma. Razí mince: italský býk dorážející na římskou vlčici. Na rubu je hlava boha Sabina. Povstalé kmeny jasně deklarují svůj záměr.",
+      "Staví armádu.",
+      "Italičtí spojenci bojovali v legiích vedle Římanů po generace. Pilum, gladius, scutum. Většina povstaleckých generálů sloužila jako důstojníci v římských legiích rok před povstáním. Pompaedius Silo sloužil u Maria. Gaius Papius Mutilus, který povede jižní frontu, prošel stejným vojenským vzděláním jako jeho protivníci. Povstalecká armáda nese do bitvy orly, zkopírované podle římských zástav.",
+      "Na začátku konfliktu mají povstalci přes sto tisíc mužů. Silo velí severu, Mutilus jihu.",
+      "Řím musí sestavit armádu bez spojenců, kteří tvořili polovinu každé legie. Gaius Marius velí na severu. Je mu přes šedesát. Lucius Cornelius Sulla dostává jih."
     ],
     "konflikt": [
-      "Válka začíná roku 91 rychle a brutálně. Konzul Quintus Servilius Caepio padne do zálohy a zahyne s celým svým oddílem. Konzul Lucius Iulius Caesar utrpí těžkou porážku na jihu.",
-      "Roku 90 Řím nasadí politický ústupek na který povstalci nedokážou vojensky reagovat. Senát přijme zákon Lex Iulia který nabízí plné římské občanství všem italickým komunitám jež dosud nepozvedly zbraně nebo je okamžitě složí. Je to přímé splnění toho oč Italové po desetiletí marně žádali. Velká část latinských komunit okamžitě přestává bojovat.",
-      "Kmenové skupiny se silnými historickými důvody k odporu — Samnité, Lukánové a část Marsů — válčí dál. Rok 89 přináší Římu hlavní vojenské průlomy. Sulla na jihu dobývá samnitské město Bovianum, jedno z klíčových center povstání. Gnaeus Pompeius Strabo na severu poráží marské a picentské síly a dobývá Asculum kde povstání fakticky začalo.",
-      "Roku 88 je válka vojensky rozhodnuta. Ne absolutní porážkou povstalců ale jejich postupným vyčerpáním a ztrátou spojenců kteří přijali Lex Iulia. Samnitský odpor v horách přetrvá ještě několik let, ale jako organizovaná síla schopná ohrozit Řím přestává Italia existovat.",
-      "Povstalci prohrávají válku ale získávají to za co bojovali. Zákon Lex Plautia Papiria rozšíří občanství prakticky na všechny svobodné obyvatele poloostrova na jih od Pádské nížiny. Itálie se stává Římem. Jeden lid, jeden zákon, jeden senát.",
-      "Z konfliktu se vrací Sulla jako vojenský vítěz a politická hvězda první velikosti. Získává konzulát pro rok 88 a s ním velení v nastávající válce proti Mithridatovi Pontskému. Gaius Marius, přesvědčený že toto velení náleží jemu jako někdejšímu zachránci státu, spustí politický manévr který Sullovi velení odejme.",
-      "Sulla zareaguje způsobem který byl do té chvíle nemyslitelný.",
-      "Obrátí legie nového Mariova vzoru, loajální jemu osobně, na Řím samotný."
+      "III. Průběh konfliktu",
+      "Válka začíná roku 91 rychle. Vettius Scato, jeden ze Silových velitelů, sloužil pod Mariem v Galii. Stojí nyní na opačné straně. Quintus Servilius Caepio táhne s oddílem vstříc povstalcům a padne do zálohy. Zahyne s celým doprovodem. Konzul Lucius Julius Caesar utrpí na jihu těžkou porážku. Řím ztrácí v prvních měsících desítky důstojníků.",
+      "Konzul Publius Rutilius Lupus táhne s armádou do území Marsů. Scato průsmyky kolem řeky Tolenus zná. Lupus vejde do údolí. Scato uzavře průchod za ním. Legie nemá kam ustoupit. Lupus padne v první hodině boje. Marius, který velí na vedlejším úseku, získá informace z bojiště a zaútočí na Scatovu druhou pozici téhož odpoledne. Porazí ho a přebere vedení po padlém konzulovi.",
+      "Marius dosáhne vítězství u Fucínského jezera a přeruší zásobování povstaleckých sil v centrálních Apeninách. Silo ustupuje do těžkého terénu. Ve věku jednašedesáti let Marius zpomaluje. Důstojníci vnímají jeho fyzický stav a Sulla z dálky rovněž.",
+      "Sulla přebírá jižní frontu. Mutilovy kohorty oblehnou římskou posádku v Nole. Sulla zásobí posádku přes obléhající linie. Mutilus zaútočí přímo na Sullovu armádu. Linie se prohne a standardonos na pravém křídle se začne otáčet k ústupu. Sulla ho zabije vlastní rukou před nastoupeným vojskem. Křídlo se zastaví. Sulla vydá rozkaz k protiútoku. Mutilus odtáhne.",
+      "Jižní tažení pokračuje metodickou důsledností obléhání. Luceria, Compsa, samnitská opevnění v Apulii padají jedno po druhém. Sulla neuzavírá kompromisy a nečiní sliby, které nedokáže splnit. Vyhraje méně bitev než Marius, ale na rozdíl od něj nestáhne jedinou ustupující legii.",
+      "Roku 90 senát přijme Lex Iulia: plné římské občanství dostanou všechny italické komunity, které dosud nepozvedly zbraně nebo je okamžitě složí. Velká část latinských obcí přestane bojovat téhož roku.",
+      "Marsi, Samnité a Lukánové válčí dál. Smlouva jim mrtvé nevrátí.",
+      "Roku 89 oblehne Gnaeus Pompeius Strabo město Asculum. Město, kde povstání začalo a kde byl zabit první římský praetor. Tento otec budoucího Pompeia Velikého odřízne pozice, odrazí záchrannou armádu a v zimě vezme Asculum útokem. Kořist neodevzdá do státní pokladny. Rozdělí ji vlastním vojákům. Navíc propůjčí občanství celé hispánské kavalerii na bitevním poli, bez schválení senátu. Zavazuje si muže.",
+      "Bovianum padne. Staré samnické centrum, které odolávalo dvě staletí konfliktů s Římem. Sulla ho nechá vzít z několika stran útokem zároveň.",
+      "Zákon Lex Plautia Papiria rozšíří občanství prakticky na všechny svobodné obyvatele poloostrova jižně od Pádu. Itálie se stane Římem.",
+      "Samnité v horách drží zbraně bez pomoci spojenců. Pompaedius Silo padne v bitvě roku 88.",
+      "Sulla dostane konzulát pro rok 88 a velení v nastávající válce proti králi Pontu, který obsadil celou Malou Asii a vyvraždil osmdesát tisíc římských a italských občanů v jediný den. Marius přesvědčí tribuna Sulpicia Rufa, aby přesunul velení této války na něj. Sulpicius přijme. Hlasování projde.",
+      "Sulla obrátí legie na Řím."
     ],
     "pribeh": [
-      "Quintus Egnatius, centurio, čtvrtá kohorta, obléhání Boviána, spojenecká válka, 89 př. n. l.",
-      "Bojoval jsem v Africe pod Mariem. Bojoval jsem na severu proti Kimbrům. Znal jsem válku jako řemeslo — pochod, tábor, bitva, tábor, pochod. Rytmus který se stane přirozeným jako dech. Tato válka byla jiná a chvíli mi trvalo než jsem pochopil proč.",
-      "Obléhali jsme Bovianum tři týdny. Uvnitř hradeb byli muži které jsem neznal osobně — ale znal jsem jejich způsob boje. Jejich formace, jejich reakce na výpad, jejich způsob stavění obranných linií. Byli to bývalí socii, spojenci kteří sloužili v legiích po boku našich kohort ještě před dvěma lety. Učili jsme je. A oni se naučili dobře.",
-      "Výpad přišel čtvrtý týden v noci, přes úsek valu kde naše záloha byla schválně slabší. Prolomili se přes ni přesně tam — protože přesně tam bych se prolomil i já, kdybych byl uvnitř. Záloha dorazila, výpad byl zatlačen zpět, a já jsem stál u valu a počítal mrtvé na obou stranách.",
-      "Jeden z nich měl na opaskovém nákončí rytinu — orla. Stejného jako nosíme my. Klepl jsem k němu a vzal mu ho do ruky. Kov byl ještě teplý od jeho těla. Dívala jsem se na toho orla a pak jsem ho položil zpátky. Nevzal jsem si ho. Nevím proč.",
-      "Sulla projel ráno podél linie a zastavil se u mě. Díval se na mě těma světlýma očima za kterýma se vždy něco počítá. Zeptal se: „Problém, centurione?“ Řekl jsem: „Žádný problém, pane.“ Kývl a odjel.",
-      "Bovianum padlo o tři dny později. Vstoupili jsme za úsvitu a bylo ticho — ale jiné ticho než v Kartágu. Kartágo bylo cizí. Nápisy na zdech tady byly latinsky. Jména na hrobech latinsky. Mírně odlišná, s italickým přízvukem, ale latina.",
-      "Procházel jsem ulicemi a říkal si, jak dlouho potrvá než tato válka bude hotova. Ne vojensky. Jinak. Uvnitř."
+      "16 — Spojenecká válka (89 př. n. l.)",
+      "Tiberius Julius Nerva, legionář, Asculum",
+      "Voda řeky Tolenus je ledová a sahá mi po pás. Konzul Lupus velí k okamžitému pronásledování. Povstalečtí Marsi narychlo přeběhli mělký brod a mizí v úzkém zalesněném údolí před námi.",
+      "Vystupujeme na břeh. Na mokrém blátě to klouže. Prostor mezi vodou a strmým srázem je tak těsný, že nedokážeme roztáhnout kohorty do široké linie. Mačkáme se štít na štít.",
+      "Zalesněné svahy nad námi náhle ožijí. Vzduchem zafičí stovky oštěpů a šípů. Přední řady padají do hlíny s proraženými krky a rameny dřív, než stihneme zvednout scuta k obraně. Ohlédnu se k vodě. Konzul Lupus padá z koně. Z obličeje mu trčí dlouhý hrot oštěpu a tělo mizí v rozšlapaném bahně.",
+      "Z lesa se na nás s řevem vyřítí hlavní síly Marsů. Vpadnou nám přímo do pravého boku a do obnažených zad.",
+      "Do mého štítu zezadu tvrdě narazí naši vlastní zpanikaření muži. Tlak mě sune zpět k řece. Italický povstalec proti mně se rozmáchne mečem. Srazím jeho ránu umbem a bodnu gladiem zespodu pod okraj jeho kroužkové zbroje. Klesne. Na jeho místo se okamžitě natlačí další. Není kam uhnout.",
+      "Na břehu vypukne čistý chaos. Stovky našich legionářů skáčou v hrůze do hlubokého proudu. Třicet kilo železné výstroje je okamžitě táhne pod hladinu. Šlapou jeden po druhém, dusí se a mizí ve zvířené hnědé vodě.",
+      "Zkrátím meč u boku a bodám naslepo před sebe. Krev na mých rukou se mísí s říčním bahnem.",
+      "Zčistajasna ustane tlak ze svahu. Přední řady Marsů přestanou dorážet na naše štíty. Rychle couvají, otáčejí se a stahují se zpět mezi stromy. Zmizí v lese. O několik kilometrů dál po proudu, přesně v místech, kde leží jejich vlastní nechráněný tábor, stoupá k nebi sloup hustého černého kouře.",
+      "Zůstáváme stát na rozšlapaném břehu, pod nohama těla vlastních mužů."
     ]
   }
 }

@@ -1,56 +1,70 @@
 {
   "id": 25,
-  "slug": "dobyti_britanie",
-  "title": "25 — Dobytí Británie (43 n. l.)",
+  "slug": "25_dobyti_britanie",
+  "title": "Kapitola 25 — Dobytí Británie (43 n. l.)",
   "century": "1_stoleti_n_l",
   "years": "43 n. l.",
-  "dokonceno": true,"images": { "hero": "img56.jpg", "mapa": { "src": "img57.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Třiatřicet let uplynulo od Teutoburského lesa. Řím se z rány vzpamatoval, nové legie zaplnily prázdná čísla v armádních seznamech a Germanicus podnikl trestná tažení za Rýn která vymstila Varovy padlé a vrátila ztracené orly. Pak přišlo stažení. Tiberius rozhodl že Germánie za ty ztráty nestojí.",
-      "Hranice zůstala tam kde ji vytyčila katastrofa.",
-      "Impérium se mezitím proměňovalo. Augustus zemřel roku 14, Tiberius vládl s rostoucím paranoidním odstupem z Capri, Caligula byl zavražděn v lednu roku 41. Na trůn nastoupil Claudius — chromý, koktající, dosavadní život strávil v ústraní nad historickými texty a etruskými slovníky. Senát ho pokládal za bezpečnou figurku.",
-      "Claudius si ale velmi dobře uvědomoval že jeho legitimita je křehká. K zajištění loajality armády a respektu senátu nutně potřebuje nezpochybnitelný vojenský triumf.",
-      "Potřebuje výboj.",
-      "Británie čekala. Caesar ji dvakrát navštívil, demonstroval sílu a odešel. Od té doby uplynulo téměř sto let. Záminku k invazi nabídne uprchlý britský kmenový náčelník Verica, který přijede do Říma prosit o pomoc.",
-      "Claudius záminku přijme."
+      "I. Historický kontext",
+      "Uplynulo třiatřicet let od přepadení v Teutoburském lese. Po trestních taženích Germanika rozhodl Tiberius, že Germánie za ztráty nestojí. Hranicí zůstal Rýn.",
+      "Impérium se mezitím proměňovalo. Augustus zemřel roku 14. Tiberius vládl s rostoucím odstupem z Capri. Caligula byl roku 41 zabit pretoriány. Na trůn nastoupil Claudius — chromý, se záseky v řeči, celý dosavadní život strávil v ústraní nad historickými texty. Senát ho pokládal za bezpečnou figurku. Pletl se. Claudius zpevnil státní správu, dokončil začlenění nových provincií a vládl s přesností, kterou od koktavého historika nikdo nečekal. Jedno mu chybělo: vojenský triumf. Bez vítězství v poli si v Římě vládu neupevnil dost.",
+      "Británie čekala. Caesar ji dvakrát navštívil a odešel. Uplynulo téměř sto let. Záminku k invazi nabídne uprchlý kmenový náčelník Verica z kmene Atrebatů, který přijede do Říma prosit o pomoc.",
+      "Na ostrově vládnou desítky kmenů. Catuvellauni pod náčelníky Caratakeem a Togodumnem ovládají jih a střed. Iceni sedí na východě s vlastními zájmy. Brigantes na severu mají vlastní královnu. Mezi kmeny vládne nevraživost, ale římská hrozba je na chvíli spojí."
     ],
     "armada": [
-      "Armáda která se v roce 43 shromažďuje na galském pobřeží představuje imperiální válečný stroj ve své plně vyzrálé podobě. Velení invaze získává Aulus Plautius, zkušený velitel stažený z tvrdé dunajské hranice.",
-      "Páteř invazní síly tvoří čtyři legie: II. Augusta, IX. Hispana, XIV. Gemina a XX. Valeria Victrix. Přibližně dvacet tisíc těžkých oděnců. Většina z nich oblékala lorica hamata — kroužkovou košili z propojených železných kroužků — nebo lorica squamata, šupinovou zbroj přišitou na plátno. Tyto dva typy tvořily základ výzbroje celých generací legionářů: levnější na výrobu, méně náchylné na korozi, snáze opravitelné v poli.",
-      "Část vojáků — odhadem pětina — nosila lorica segmentata, článkovaný plátový pancíř ze čtyřiceti dvou překrývajících se železných plátů svázaných koženými řemeny. Poprvé ji Římané s jistotou použili v Teutoburském lese roku 9 před naším letopočtem a prokázala mimořádné kvality: v pohybu překvapivě pohodlná, výborná ochrana před sečnými ranami, lehčí než kroužková košile. Její slabinou byly výroba náročná na kovářské umění, sklon k rezivění v mokrém klimatu a obtížná oprava v terénu. Standardní zbrojí celé armády se proto nikdy nestala.",
-      "Pěchotu doplňuje zhruba stejný počet auxiliií: batavští jezdci od Rýna, lukostřelci z východu, lehká mauretánská kavalérie. Auxilia pokrývají přesně to k čemu nejsou těžké formace legií určeny.",
-      "Technické a logistické zajištění amfibijní operace je masivní. Přeprava čtyřiceti tisíc mužů, tisíců koní a obléhací techniky přes otevřené moře stojí na vojenských inženýrech jejichž schopnosti jsou na historickém vrcholu.",
-      "Keltské kmeny na ostrově bojují ve volnějších formacích a spoléhají na masové nasazení válečných vozů — taktického prvku se kterým se Řím na kontinentu nesetkal od Caesarových dob. Britskou zranitelností je kmenová nejednotnost. Samostatní náčelníci s odlišnými zájmy nedokážou zformovat trvalou obrannou koalici."
+      "II. Armáda a vojenství",
+      "Velení invaze dostane Aulus Plautius, veterán stažený z dunajské hranice. Pod ním čtyři legie: II. Augusta, IX. Hispana, XIV. Gemina a XX. Valeria Victrix. Celkem přibližně čtyřicet tisíc mužů těžké pěchoty a auxiliárních sborů.",
+      "Každou legii vede legát senátorského stavu. Pod ním šest tribunů. Mladí muži z dobrých rodin, kteří sem přichází odsloužit si vojenský stupeň kariéry před vstupem do senátu. Velí na papíře. V poli velí šedesát centurionů.",
+      "Výzbroj prochází postupnou proměnou. Scutum přechází od oválného tvaru k obdélníkovému. Gladius hispaniensis ustupuje kratšímu typu mainz, přizpůsobenému těsné štítové hradbě. Kroužková a šupinová zbroj tvoří základ. Lorica segmentata se nosí v menšině,  je výborná ochrana, ale ve vlhkém klimatu rezne rychle a oprava v poli stojí legionáře celé noci.",
+      "Pěchotu doplňují auxiliárie. Batavci od dolního Rýna jsou specialisté na situace kde legionáři nic nezmůžou. Dokáží v plné zbroji přeplavat řeku i s koněm a vynořit se na druhé straně schopní útočit.",
+      "Britský bojovník jde do pole lehce vybaven. Kopí, meč, štít. Na koni nebo na válečném voze. Rychlé, pohyblivé, schopné roztrhnout linii a zmizet. Drží se pohromadě dokud je tu společný nepřítel."
     ],
     "konflikt": [
+      "III. Průběh konfliktu",
       "Invaze málem nezačne.",
-      "Před naloděním vypukne v táboře vzpoura. Legionáři odmítají nastoupit na lodě a vstoupit za oceán který v jejich představách tvoří samotný okraj světa. Situaci přijíždí řešit Claudiův propuštěnec Narcissus. Když předstoupí před vojáky na řečnickou tribunu, propuknou v hromadný smích — bývalý otrok jim nebude dávat rozkazy. Absurdita situace však napětí uvolní. Vzpoura se láme a muži se vzápětí naloďují.",
-      "Flotila přistává v oblasti dnešního Richborough. Britské kmeny kvůli původní vzpouře vyhodnotily že invaze je odložena, rozpustily předsunuté hlídky a vylodění zcela zmeškaly.",
-      "K prvnímu drtivému střetu dochází u řeky Medway. Spojené britské síly pod vedením náčelníků Carataka a Togodumna drží severní břeh ve víře že Římané širokou řeku bez mostů nepřekonají. Plautius posílá batavské pluky. Batavové zvyklí operovat v říčních ramenech řeku v plném proudu podplavou a udeří britským formacím do boku, cíleně zraňují koně zapřažené do válečných vozů. Hlavní zbraň Keltů je paralyzována. Přes řeku pak pronikají legionáři. Boj trvá dva dny a končí ústupem britské koalice.",
-      "Plautius zastavuje další postup a zakládá pevný tábor na Temži.",
-      "Čeká.",
-      "Z Říma osobně dorazí císař Claudius s obrovským průvodem v němž nechybí ani bojoví sloni. Přijímá velení, v čele legií vpochoduje do Camulodunia — hlavního sídla kmene Trinovantů — a přijímá formální kapitulaci jedenácti britských náčelníků. Po šestnácti dnech strávených na ostrově se vrací do Říma slavit triumf.",
-      "Po jeho odjezdu přechází invazní armáda k tvrdé plošné pacifikaci. Plautius postupuje na sever. Na jihozápad se stáčí legie II. Augusta, které velí budoucí císař Vespasianus. Je to muž bez aristokratického lesku, s praktickým přístupem k válce a instinktem pro terén. Jeho vojáci nemilosrdně prorážejí keltský odpor a během rychlého tažení fyzicky dobývají přes dvacet silně opevněných oppid. Vespasianus jihozápad Británie nepokořil jen svým velením — měl štěstí na dva důstojníky kteří dělali ta rozhodnutí jež se do hlášení nepíší. Kdo přesně to byl, prameny mlčí. Bez nich by několik těch oppid možná stálo dál.",
-      "Legie se začínají zarývat hluboko do britského vnitrozemí.",
-      "Togodumnus je zabit záhy po bitvách na řekách. Caratak přežije, odejde na západ do Walesu a začne znovu. Dalších osm let organizuje odpor mezi kmeny Silurů a Ordoviků — přepadení, ústupy do hor, boje v terénu kde těžká legionářská pěchota ztrácí výhodu. Každý rok přežití je pro britský odpor vítězství samo o sobě.",
-      "Roku 51 ho nový místodržitel Publius Ostorius Scapula donutí k otevřené bitvě. Caratak prohraje. Rodina padne do zajetí, spojenci se vzdají. On sám uprchne na sever ke královně Brigantů Cartimandui s nadějí na útočiště. Cartimandua ho vydá Římanům v řetězech.",
-      "Je odvlečen do Říma jako válečná trofej. Má být zabit po Claudiově triumfálním průvodu.",
-      "Claudius mu přesto dovolí promluvit. Caratak stojí před císařem a senátem v řetězech a neprosí. Řekne jim že jeho tvrdý odpor přinesl Římu větší slávu než rychlá kapitulace — a zeptá se: jestli chcete panovat celému světu, znamená to snad že celý svět musí přijmout otroctví? Claudius ho propustí. Caratak zůstane v Římě se svou rodinou.",
-      "Jednoho dne prochází propuštěný náčelník ulicemi města. Dívá se na fóra, akvadukty, mramor, paláce táhnoucí se přes celé kopce. Potom řekne nahlas to co mu přijde na mysl přirozeně: když máte toto všechno, proč jste vůbec chtěli naše chýše?",
-      "Nikdo mu na to neodpověděl."
+      "Legionáři odmítají nastoupit na lodě a vstoupit za oceán, který v jejich představách tvoří samotný okraj světa. Velitelé ztrácejí slova. Z Říma osobně dorazí Claudiův propuštěnec Narcissus.",
+      "Když předstoupí na řečnickou tribunu, vojáci propuknou v hromadný smích. Io Saturnalia  výkřik pro doby kdy se role obrátí a otroci rozkazují pánům. Napětí se rozpadne. Muži se nalodí.",
+      "Flotila přistane u Richborough. Britské kmeny čekaly invazi dříve. Když se zdálo, že se Řím rozmyslel, jejich předsunuté síly se rozptýlily. Vylodění proběhne bez odporu.",
+      "Caratak a Togodumnus shromáždí koalici na řece Medway. Drží severní břeh ve víře, že Římané řeku bez mostu nepřekonají.",
+      "Plautius zaútočí.",
+      "Legionáři vstoupí do řeky na mělčinách a tlačí dopředu. Britové útočí shora, ze strmého břehu, do mužů kteří brodí po hrudník a nemohou držet scutum ani vrhat pilum. Přesto postupují. Ve vodě a pak na kamenitém dně pod břehem srazí štíty a tlačí výš. Kohorta za kohortou z vody, formace se znovu skládá, tlak roste. Britové bojují tvrdě ale Plautius jim nedá čas přeskupit.",
+      "Pak ze severu, bez varování zaútočí Batavci.",
+      "Přeplavali řeku výše po proudu a vynořili se přímo za britskou linií. Zaútočí na koně zapřažené do válečných vozů. Britská jízda zkusí reagovat, ale Batavci jsou na ně už příliš rychlí. Britská linie dostane ránu zezadu v okamžiku kdy čelní tlak legionářů naplno dorazí.",
+      "Boj první den skončí bez rozhodnutí.",
+      "Druhý den Togodumnus stáhne vojáky z řeky na opevněné pozice na vyvýšeném terénu. Počet obránců neklesl a přes noc dorazily zálohy ze spojeneckých kmenů. Hosidius Geta vede útok přes otevřený svah a dostane se do situace kde mu hrozí obklíčení. Sousední kohorty přijdou zachránit bok dřív než se obklíčení uzavře. Geta přežije natolik těsně, že po bitvě dostane ornamenta triumphalia, vyznamenání udělovaná za výjimečnou statečnost v boji. Britská linie se na konci druhého dne zlomí. Keltové ustoupí za Temži.",
+      "Přechod Temže stojí Římany další krev. Keltové drží protější břeh a útočí z výšky na přecházející vojáky. Legie přejdou přesto.",
+      "Plautius zastaví postup a čeká.",
+      "Z Říma dorazí Claudius s průvodem. Nechybějí bojoví sloni. Přijme velení, vpochoduje do Camuloduna a přijme kapitulaci jedenácti britských náčelníků. Po šestnácti dnech na ostrově se vrátí do Říma slavit triumf.",
+      "Po jeho odjezdu legie přejdou k dobývání provincie.",
+      "Na jihozápad se stáčí II. Augusta. Velí jí Vespasianus. Žádný aristokratický lesk a sláva. Jenom instinkt pro terén a schopnost udělat správné rozhodnutí rychle. Jeho legie obléhají oppidum za oppidem. Inženýři přijdou první a měří terén. Obléhací stroje zaujmou pozice. Pak pěchota. Dvacet oppid padne jedno za druhým a jeho legie dobudou jihozápad Británie bez jediné zbytečné bitvy.",
+      "Sám to ale nedokázal. Měl dva důstojníky kteří dělali ta rozhodnutí, jež se do hlášení nepíší. Kdo přesně to byl, prameny mlčí. Bez nich by několik těch oppid možná stálo dál.",
+      "Togodumnus padne záhy po bitvách na řekách. Caratak přežije a odejde na západ.",
+      "Dalších osm let organizuje odpor mezi kmeny Silurů a Ordoviků ve Walesu. Způsob boje je opačný než na Medway — žádné otevřené pole, žádné frontální střety. Přepadení na úzkých horských stezkách, rychlé útoky na zásobovací kolony, ústupy do hor kde těžká pěchota nemá jak pronásledovat. Každé léto přijde nový místodržitel s plánem Carataka obklíčit a každé léto se Caratak stáhne dřív než ho obklíčí. Do Říma jdou hlášení o klidné provincii. Na horských stezkách mizí hlídky. Průzkumné skupiny se nevracejí.",
+      "Roku 51 ho nový místodržitel Publius Ostorius Scapula donutí k otevřené bitvě na svahu kde Caratak drží opevněnou pozici. Bitva je těžká — Keltové drží kopec a háží dolů kameny a oštěpy — ale Římanům se nakonec povede prorazit hradbu štítů a Caratakovo vojsko se rozpadne. Rodina padne do zajetí. Caratak uprchne na sever ke královně Brigantů Cartimandui s nadějí na útočiště. Cartimandua ho vydá v řetězech.",
+      "Je odvlečen do Říma.",
+      "Claudius mu dovolí promluvit. Caratak stojí před císařem a senátem. Říká jim, že jeho tvrdý odpor přinesl Římu větší slávu než rychlá kapitulace — a ptá se: jestli chcete panovat celému světu, znamená to snad že celý svět musí přijmout otroctví?",
+      "Claudius ho propustí. Caratak zůstane v Římě se svou rodinou.",
+      "Jednoho dne prochází propuštěný náčelník ulicemi města. Dívá se na fóra, akvadukty, mramor, paláce táhnoucí se přes celé kopce. Pak řekne nahlas to co mu přijde na mysl:",
+      "Když máte toto všechno, proč jste vůbec chtěli naše chýše?"
     ],
-"pribeh": [
-    "Titus Flavius Sabinus, centurion, třetí kohorta II. legie Augusta, přechod řeky Medway, dobytí Británie, 43 n. l.",
-    "Batavové vstoupili do řeky a zmizeli v proudu — zbroj, štíty, zbraně, a přesto plavali jako by to nebylo nic. Sledoval jsem je z břehu. Pak přišel rozkaz pro nás.",
-    "Voda je studená i v létě. Po kolena, pak po pas, pak mi proud začne tlačit do scuta takovým způsobem že musím štít otočit bokem jinak mě strhne. Ztratím přehled o mužích po stranách — vidím jen hladinu šedohnědou a rozbouřenou a na druhém břehu siluety britských bojovníků kteří čekají.",
-    "Jeden z mých mužů klopýtne o kámen na dně. Chytím ho za řemen dřív než ho proud vezme. Nedívám se na něj — dívám se na břeh. Břeh je jediné na co teď smím myslet.",
-    "Vystoupíme z vody a Britové zaútočí okamžitě. Jsme mokří, těžcí, prochladlí, zpola bez dechu. První rána sekerou do štítu mi otřese celou paží až po rameno. Ustoupím o krok — noha se mi zabořila do bahna po kotník — a ten krok zpět mě málem stál rovnováhu.",
-    "„Držte!\" Přesuneme váhu. Zabereme pozici. Začneme tlačit zpátky.",
-    "Pomalu. Bahno je stejné pro obě strany ale my máme linii a oni ji nemají. Muž přede mnou se rozmáchne obouručním mečem — příliš široký švih na úzký břeh. Jdu pod ním. Štítem do hrudníku vší vahou a on padá dozadu do bahna. Přešlápnu ho a tlačím dál.",
-    "Druhý břeh Medwaye dobýváme krok za krokem. Každý krok do bahna.",
-    "Večer sedím na břehu a dívám se na řeku. Boty mám plné vody od rána. Teprve teď to cítím — chladnou, stojatou vodu která se nehýbe i když chodím. Celý den tam byla a já si toho nevšiml.",
-    "Přešli jsme."
-  ]
+    "pribeh": [
+      "25 — Invaze do Británie (43 n. l.)",
+      "Martinus Septimus Maro, auxilia (batavská kohorta), Medway",
+      "Došli jsme k řece Medway. Na druhém břehu stojí ohromná armáda Britů s válečnými vozy. Voda je široká, hluboká a bez mostů. Britové nehlídají břehy důsledně, věří, že těžká pěchota bez člunů neprojde. Plautius posílá dopředu naši batavskou kohortu.",
+      "Odtrhneme se od legií a přesuneme se potichu po proudu dál. Nesvlékáme se. Kroužkovou zbroj máme utaženou na těle, spathu na boku a náš batavský plochý štít s oštěpy držíme vysoko nad hlavou. Vstoupíme do ledové vody. Dravý proud mě okamžitě táhne dolů, ale kopu nohama a plavu šikmo k protějšímu břehu.",
+      "Vynoříme se z vody. Všichni. Z formace Britů k nám nikdo nekouká, upírají zrak k hlavní římské armádě za řekou. Rychle se proplížíme lužním lesem a vyrazíme přímo do jejich obnaženého týlu. Nemíříme na lidi. Rozdělíme se a vtrhneme rovnou do ohrad, kde mají zapřažené koně k válečným vozům.",
+      "Tasím spathu. Doběhnu k prvnímu koni a širokým švihem mu z boku přeříznu šlachy na zadní noze. Kůň se s jekotem zhroutí do oje vozu a zlomí ho. Běháme mezi vozy a surově mrzačíme zvířata dřív, než do nich Britové stihnou naskočit. Dalšímu koni rozpářu břicho. Zvířata šílí pachem krve, vzpínají se, lámou kůly a drtí vlastní vozataje.",
+      "Chaos v týlu upozorní britskou pěchotu. Masa Keltů se otočí a s řevem se vyřítí na nás. Kelt s oštěpem po mně bodne. Srazím jeho ránu okrajem plochého štítu, zkrátím vzdálenost a vrazím mu spathu hluboko do hrudníku. Hned je tu další. Držíme pozice uprostřed trosek jejich zničených vozů a mršin koní.",
+      "V ten moment se zpoza řeky ozve hluboke troubení. Britové se v panice ohlédnou zpět k vodě. Náš manévr splnil účel. Vespasianovy legie začaly překračovat řeku přímo do jejich oslabeného středu."
+    ]
   }
 }

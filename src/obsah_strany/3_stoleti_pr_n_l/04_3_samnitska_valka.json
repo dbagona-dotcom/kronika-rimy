@@ -1,51 +1,54 @@
 {
   "id": 4,
-  "slug": "4_3_samnitska_valka",
-  "title": "3. samnitská válka",
-  "century": "3_stoleti_pr_n_l",
+  "slug": "4_treti_samnitska_valka",
+  "title": "Kapitola 4 — Třetí samnitská válka",
+  "century": "4_stoleti_pr_n_l",
   "years": "298–290 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img10.jfif", "mapa": { "src": "img11.gif" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Mír z roku 304 nikdo v senátu nepovažoval za konec. Samnité podepsali smlouvu, ale nebyla to kapitulace — bylo to vydechnutí. Čtrnáct let tvrdého boje je vyčerpalo stejně jako Řím, ale jejich horská území zůstala nedotčena, kmenová struktura nerozlomena a paměť na Caudinské vidlice živá. Řím mezitím pokračoval v tom co uměl nejlépe: budoval silnice, zakládal kolonie a systematicky obkličoval samnitské území sítí spojeneckých měst.",
-      "Samnitské kmeny přišly o muže, zásoby a část území. Řím mezitím rostl dál. Každým rokem který uplynul bez války byl pro Samnity rokem kdy se nůžky dále rozevíraly.",
-      "Na severu poloostrova se pohybovaly galské kmeny hledající nová území. Etruské obce sledovaly římskou expanzi s rostoucí úzkostí. Umbrijské kmeny čekaly. Samnité pochopili — jejich jedinou šancí není další izolovaná válka s republikou, ale velká koalice. Samnité, Galové, Etruskové a Umbrijci dohromady. Síla, jaké Řím dosud nečelil.",
-      "Roku 298 samnitské útoky na spojenecká území na jihu roztočí kola války. Začíná třetí samnitská válka."
+      "I. Historický kontext",
+      "Po míru roku 304 se Samnité vrátí do hor a šest let budou shromažďovat spojence.",
+      "Na sever posílají posly ke galským kmenům. Galové žijí v Pádské nížině od doby kdy ji zabrali a část kmenů stále hledá prostor pro nová sídla. Řím jim roste vstříc. Samnitská zpráva jim dává záminku k pohybu.",
+      "Na západ posílají Samnité posly k Etruskům. Jejich bohatá pobřežní města žila generace z mořského obchodu a válčila se sousedy ve vlastních hoplitských liniích. Nikdy nečelila armádě která zakládá pevná města přímo u jejich hranic. Umbrijské kmeny mezi nimi čekají na to, která strana bude silnější.",
+      "Roku 298 zaútočí Samnité na římské spojence. Válka začíná znovu. Řím stojí proti koalici na dvou frontách zároveň."
     ],
     "armada": [
-      "Třetí samnitská válka zastihuje legii ve chvíli kdy manipulární systém dosahuje zralosti. Dvě předchozí války byly tvrdým výcvikovým programem který přinutil Řím adaptovat taktiku na podmínky pro které původně nebyla navržena. Výsledkem je armáda pohyblivější, zkušenější a odolnější než kdy dřív.",
-      "Výzbroj těžké pěchoty zůstává stejná. Co se mění je rozsah. Řím nasazuje více armád najednou na různých frontách — a to vyžaduje větší počty. Výrazně roste role spojeneckých oddílů. Latinská města a kampánské obce dodávají legiím srovnatelný počet vojáků ve formaci zvané alae sociorum, spojenecká křídla která kryjí boky legie v bitvě. Bez nich by Řím nemohl čelit hrozbám na severu i jihu najednou.",
-      "Koalice kterou Samnité sestavili kombinuje různé způsoby boje. Samnitská pěchota v ozdobených přilbách a s velkými štíty tvoří střed. Galští válečníci přidávají surovou útočnou sílu a bojové vozy — zbraň kterou legionáři znali dosud jen z doslechu. Etruské a umbrijské oddíly doplňují křílka. Řím musí v jedné bitvě reagovat na několik odlišných stylů zároveň. Manipulární systém se k tomu ukáže jako ideálně připravený — jeho modulárnost umožňuje přesouvat jednotky tam kde je třeba bez rozpadnutí celkové linie.",
-      "Slabinou koalice zůstává koordinace. Příliš mnoho velitelů, příliš různé priority. Ale v roce 295 to ještě nikdo neví."
+      "II. Armáda a vojenství",
+      "Legie se dělí na více sborů a operuje na oddělených frontách, každý pod konzulem nebo prétorem. Manipul čítá přibližně sto dvacet mužů v předních dvou liniích a šedesát triariů vzadu. Velí jim centurioni, kteří zůstávají u legie kampaň za kampaní a znají každého muže ve svém oddílu.",
+      "Římská jízda je slabá. Řím nikdy nebyl koňský národ a legionáři na koni nikdy nedosáhli síly severních jezdců. V bitvě kryjí křídla alae sociorum, spojenecká jízda z latinských a kampánských obcí, která dodává přibližně polovinu celkové bojové síly. Bez ní by Řím nemohl držet dvě fronty zároveň.",
+      "Koalice přináší jiný problém. Samnitské pohyblivé skupiny, galské bojové vozy a etruské hoplitské linie jsou tři různé způsoby boje a každý vyžaduje jinou odpověď."
     ],
     "konflikt": [
-      "Počáteční roky války probíhají bez rozhodnutí. Samnité útočí na jihu, Řím reaguje, první střety nepřinášejí výsledek. Samnité ustupují do hor a čekají na okamžik kdy bude koalice pohromadě.",
-      "Roku 295 se vše sejde. Senát vyšle čtyři konzulární armády. Dvě z nich — vedené konzuly Quintem Fabiem Rulliánem a Publiem Deciem Musem, synem muže který se obětoval u Veseris pětatřicet let dříve — se setkají s hlavní koaliční silou u Sentina v Umbrii.",
-      "Bitva u Sentina je největším střetem jakého se Řím dosud účastnil. Levé křídlo pod velením Decia se ocitá pod drtivým tlakem galské jízdy a bojových vozů. Formace se začíná lámat. Decius, přesně jako jeho otec před lety, vyhlásí rituální sebeobětování a vrhne se do středu galských řad. Padne.",
-      "Na pravém křídle Fabius záměrně vyčkává. Nechá koaliční armádu spotřebovat energii prvního náporu, pak vydá rozkaz k protiútoku italskou jízdou do samnitského boku. Koalice která do té chvíle tlačila dopředu se ocitá pod útokem ze strany. Formace se rozpadají. Ústup se mění v útěk.",
-      "Sentinum rozhodne válku. Ne ihned — samnitský odpor pokračuje ještě pět let — ale koalice se po téhle porážce nikdy nesloží znovu. Etruskové uzavřou separátní mír, Galové se stáhnou na sever, Umbrijci se podřídí. Samnité bojují dál sami, bez spojenců.",
-      "Roku 290 uzavírají mír. Jejich území jsou výrazně omezena, musejí vstoupit do systému římských závislostí — stejného systému který po Latinské válce pohltil jejich dřívější komplice. Tentokrát bez výhod které si Latinové vyjednali.",
-      "Půl století samnitských válek končí. Řím stojí jako pán celé střední a jižní Itálie. Na jihu už čeká Tarentum — a za ním stín epeirského krále Pyrrha, který připluje s vojskem a slony a přinese Římu úplně jiný druh války."
+      "III. Průběh konfliktu",
+      "První roky probíhají bez rozhodnutí. Samnité útočí na jihu, Galové a Etruskové tlačí na severu. Roku 297 konzul Quintus Fabius Maximus Rullianus porazí samnitskou armádu u Tiferna a zatlačí ji zpět do hor.",
+      "Roku 295 se koaliční síly soustředí u Sentina v Umbrii. Senát vyšle čtyři konzulární armády na různé fronty, dvě se setkají s hlavní silou. Na pravém křídle Fabius Rullianus, na levém Publius Decius Mus, muž nesoucí jméno otce, který padl u Veseris před pětatřiceti lety. Přibližně čtyřicet tisíc Římanů a spojenců proti padesáti tisícům koaličních vojsk.",
+      "Obě armády nastoupí na otevřené planině v triplex acies. Galové stojí na jednom křídle se svými bojovými vozy, Samnité tvoří střed. Vozy vyjedou do Deciova křídla, kola duní po zemi, koně se splašují dřív než vozy dorazí. Spojenecká jízda se zhroutí a stáhne pěchotu s sebou. Hastati ustupují za principes, linie se láme.",
+      "Decius povolá pontifika. Přehodí tógu přes hlavu, přiloží ruku k bradě a předříká stejnou formuli jako jeho otec u Veseris. Zasvětí své tělo i těla nepřátel bohům podsvětí. Nasedne na koně a vjede přímo do galských řad.",
+      "Padne probodnut kopími.",
+      "Křídlo vydrží.",
+      "Na pravém křídle Fabius záměrně vyčkává. Nechá samnitský střed spotřebovat energii prvního náporu, pak vydá rozkaz k protiútoku spojeneckou jízdou do samnitského boku. Formace se rozpadají. Ústup se mění v útěk.",
+      "Etruskové uzavřou separátní mír. Galové se stáhnou za Pád. Umbrijci se podřídí. Samnité bojují dál sami.",
+      "Roku 293 konzul Lucius Papirius Cursor oblehne Aquilonii. Přibližně čtyřicet tisíc Samnitů drží pevnost, Cursor přivede srovnatelnou sílu. Samnité postaví do první linie Legio Linteata, Lněnou legii, šestnáct tisíc vojáků v bílých tunikách s výzbrojí pobitou stříbrem a zlatem. Před bitvou složili krevní přísahu: kdo ustoupí, padá rukou vlastního souseda v řadě. Cursor vyšle pomocné sbory na kopec za samnitskými liniemi s rozkazem táhnout za sebou větve po zemi. Oblaka prachu přesvědčí vyčerpané Samnity že přichází druhá konzulární armáda. Lněná legie se v panice rozpadne spolu se zbytkem obrany.",
+      "Roku 290 konzul Manius Curius Dentatus dotáhne závěrečná tažení do samnitských hor. Samnité podepíší mír. Jejich území se zmenší a musejí vstoupit do systému římských závislostí. Kmenová struktura v horách ale zůstane nerozlomena a vlastní vojsko zachovají.",
+      "Půl století samnitských válek končí. Řím stojí na jihu a před ním už leží jen bohaté řecké přístavy. A na samém konci sítě čeká Tarentum."
     ],
     "pribeh": [
-      "Titus Quinctius, princeps, první manipul, bitva u Sentina, 295 př. n. l.",
-      "Galy jsem viděl poprvé v životě. Nebyli to obři z povídaček u táborového ohně. Byli šlachovití, obličeje pomalované hlinkou, vlasy natužené vápnem do tvrdých bodlin. A před nimi válečné vozy.",
-      "Země se třásla. Dusot kopyt, řinčení kol, praskot dřeva.",
-      "Naše levé křídlo se pod náporem vozů začalo hroutit. Ten zvuk nezapomenu — lámání štítů, jekot koní, řev mužů přejížděných koly.",
-      "„Držte linii! Kdo couvne, zabiju ho sám!\" řval centurion a bil holí do zad.",
-      "Pak zepředu, z řady přede mnou, něco, co zastavilo všechno ostatní.",
-      "„Decius! Konzul se obětuje!\"",
-      "Otočil jsem hlavu. Projížděl v purpuru podél linie. Oči upřené dopředu. Neohlédl se. Zaboření ostruh, skok tryskem přímo do galského středu. Zmizel pod čepelemi.",
-      "Starší muži vedle mě ztichli. Slyšel jsem jednoho zamumlat: „Jako otec. U Veseris.\" Padesát let. Stejné jméno, stejné roucho, stejný kůň. Jako by se to rozhodli opakovat, dokud to bude fungovat.",
-      "Fungovalo to.",
-      "Z jejich středu vyšel zvuk, který jsem předtím neznal — řev, který se zasekl v hrdle. Galové na okamžik znejistěli. Tlak zadních řad nás popohnal dopředu.",
-      "„Za konzula!\" zařve centurion.",
-      "Srazil jsem se s potetovaným Galem. O hlavu vyšší. Rozmáchl se dlouhým mečem shora, aby mi rozštípl helmu.",
-      "Ten švih byl příliš široký. Taková zbraň potřebuje prostor a v linii prostor není. Zvedl jsem scutum šikmo — jeho předloktí narazilo na horní hranu štítu a čepel sjela mimo.",
-      "Než stihl zbraň zvednout podruhé, vrazil jsem mu hranu scuta do brady. Zuby klaply naprázdno, hlava odletěla dozadu. Rychlý úkrok doprava — na jeho slepou stranu, kde štít nekryje — a bodl jsem gladiem do krku nad okrajem plátu. Krátce. Přímo.",
-      "Vytrhl jsem čepel. Krev v oblouku přes můj štít a dál.",
-      "Kolem mě chaos, který nikdo neřídil. Galové a naši, zaklesnutí do sebe. Vozy bez jezdců se řítily nikam. Kůň bez jezdce se vzpínal u padlého Gala a kopal do těla.",
-      "Vydechl jsem jednou. A vyrazil k dalšímu."
+      "04-3.samnitská válka",
+      "Decius Tulius Musae, princeps, Aquilonia",
+      "Hastati před námi se zastaví. Centurion jim řve do zad, ale nikdo nepokračuje. Pak to uvidím taky. Samnitská Lněná legie. Stojí přes celou pláň v bílých lněných tunikách, štíty potažené telecí kůží, nehybní jako zeď. Každý z nich složil přísahu — kdo couvne, zemře rukou vlastního souseda.",
+      "„Co to je?“ zamumlá Gaius vedle mě. „Drž hubu a koukej dopředu.“",
+      "Trubka zazní. Hastati se konečně pohnou a my za nimi. Třicet kroků. Dvacet. „Pila!“ Zapřu nohu a mrštím. Kolem mě letí desítky oštěpů. Železné krčky se s praskotem zarážejí do samnitských štítů a ohýbají se vlastní vahou. První řada nepřítele se snaží strhat pokroucené ratiště z potaženého dřeva. Někteří to vzdají a odhodí štíty. Ale necouvnou. Nemohou.",
+      "Srážka. Hastati narazí do nich a zvuk je jako lámání vozových kol. Řev, praskot, nadávky. Boj se zasekne — naši tlačí dopředu, oni nepouštějí ani krok. Muži bez štítů bodají a sekají jako posedlí, protože útěk znamená smrt od vlastních. Hastati se začnou vyčerpávat.",
+      "Zazní rozkaz ke střídání. Proběhnu mezerou mezi ustupujícími a nacpu se do první linie. Samnita přede mnou má pošramocený kyrys a v ruce jen meč — jeho štít leží za ním s ohnutým pilem. Sekne po mé hlavě. Zvednu scutum, čepel sjede po okované hraně. Než stáhne ruku, vrazím mu spodní okraj štítu na nárt. Kosti pod okovanou hranou prasknou. Padá na koleno. Muž za mnou ho přes mé rameno probodne hastou do krku.",
+      "Vtom se za námi zvedne oblak prachu. Z dálky to vypadá jako druhá armáda v pochodu. Rozpad. Ne pozvolný ústup. Celá formace se rozsype naráz. Muži, kteří před chvílí raději umírali, najednou prchají všemi směry. Rozběhnu se. Přede mnou leží samnitský válečník na zádech, drží si rozřízlé stehno. Překročím ho. Gaius za mnou ne — slyším krátký úder a dech, který se zastaví."
     ]
   }
 }

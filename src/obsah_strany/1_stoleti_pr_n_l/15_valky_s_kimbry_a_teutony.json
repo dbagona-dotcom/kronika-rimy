@@ -1,51 +1,71 @@
 {
   "id": 15,
-  "slug": "valky_s_kimbry_a_teutony",
-  "title": "Války s Kimby a Teutony (113–101 př. n. l.)",
-  "century": "1_stoleti_pr_n_l",
+  "slug": "15_valky_s_kimbry_a_teutony",
+  "title": "Kapitola 15 — Války s Kimbry a Teutony (113–101 př. n. l.)",
+  "century": "2_stoleti_pr_n_l",
   "years": "113–101 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img36.jpg", "mapa": { "src": "img37.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Jugurtha byl v poutech odveden do vězení a Řím slavil triumf. Gaius Marius, homo novus, první konzul z Arpina, stál na vrcholu slávy jako zachránce Afriky.",
-      "Pak dorazily zprávy ze severu.",
-      "Kimbrové a Teutoni, dva obrovské germánské kmeny ke kterým se přidali Ambroni a menší skupiny keltských válečníků, se daly do pohybu z oblastí severní Evropy. Vyhnáni povodněmi a nedostatkem půdy tvoří živou vlnu statisíců lidí směřujících na jih.",
-      "Nejprve narazily na Římany v Noriku roku 113 a konzul Gnaeus Papirius Carbo utrpěl zdrcující porážku. Germáni se stáhli na západ do Galie, kde roku 109 porazili dalšího konzula a roku 107 zničili armádu Lucia Cassia Longina — jeho vojáci museli projít pod potupným jhem. Vrchol přišel roku 105 u Arausia na řece Rhôně. Dvě římské armády zde kvůli osobnímu sporu velitelů nebojovaly společně ale zcela odděleně. Osmdesát tisíc římských vojáků a spojenců padlo v jediný den.",
-      "Největší porážka od Kann.",
-      "Panika v ulicích Říma je reálná. Nic nestojí mezi germánskými kmeny a severní Itálií. Nic kromě Galie, a Galie právě padla.",
-      "Senát sáhne po jediném člověku do kterého vkládá naději. Gaius Marius je okamžitě zvolen konzulem podruhé. Následně potřetí, počtvrté, popáté. Zákon který zakazoval opakovat konzulát dříve než po deseti letech je v této situaci pohodlně přehlédnut. Marius dostává veškeré zdroje a úkol zachránit Itálii."
+      "I. Historický kontext",
+      "Roku 113, dva roky po Jugurthově smrti v Tullianu, narazí konzul Gnaeus Papirius Carbo v Noriku na Kimbry. Utrpí zdrcující porážku.",
+      "Kimbrové jsou kmen z Jutska. Povodně a nedostatek půdy je vyhnaly. Přidají se k nim Teutoni, Ambroni a menší keltské skupiny. Celá masa se valí na jih. Bojovníci, ženy, děti, dobytek, vozy. Statisíce.",
+      "Germáni se stáhnou do Galie. Roku 109 porazí dalšího konzula. Roku 107 zničí armádu Lucia Cassia Longina. Vojáci projdou pod jhem.",
+      "Vrchol přijde roku 105 u Arausia na řece Rhôně. Dvě římské armády stojí na dvou březích. Caepio a Maximus se nenávidí. Odmítají bojovat společně. Caepio zaútočí sám a je rozbit. Maximus zaútočí sám a je rozbit. Osmdesát tisíc římských vojáků a spojenců padne v jediný den.",
+      "Galie je ztracena. Mezi Germány a Itálií nic nestojí.",
+      "Senát opakovaně zvolí Gaia Maria konzulem, čímž zákon o kumulaci této funkce přestává dočasně platit. Marius dostane veškeré zdroje a úkol zachránit Itálii."
     ],
     "armada": [
-      "Mariova reforma legií načatá v Africe se během germánských válek dovršuje do podoby která zcela definuje pozdně republikánské vojenství.",
-      "Nejviditelnější změna je ta kterou pocítí každý nový rekrut okamžitě. Dostane výzbroj od státu: kroužkovou košili, bronzovou helmu, scutum, pilum a gladius. Nezáleží jak chudý je jeho původ — muž vedle něj drží totéž. Tradiční dělení na hastaty, principes a triarii které odráželo majetkové třídy stejně přesně jako bojovou roli zcela mizí. Výzbroj si voják splácí přímo z žoldu takže jeho výdělek kontroluje armáda a její velitel. Tato jednoduchá ekonomická vazba víc než cokoliv jiného určuje pro koho nakonec voják bojuje.",
-      "Pilum prochází zdokonalením. Měkký železný krček fungoval už dříve — Marius nechá jeden z kovových nýtů nahradit dřevěným kolíkem. Při dopadu do štítu se kolík zlomí a hrot se ohne tak že kopí nelze vytáhnout ani vrátit zpět.",
-      "Zásadně se mění organizační struktura. Základní taktickou jednotkou se stává centuria, osmdesát mužů vedených centurionem. Šest centurií tvoří kohortu, deset kohort tvoří legii. Manipuly přežívají jako administrativní páry uvnitř kohorty ale přestávají být základní bojovou jednotkou. Kohorta je větší, masivnější a schopnější naprosto samostatné akce v členitém terénu.",
-      "Páteří nové legie je centurion. Na povel má optia který hlídá kázeň v zadních řadách a přebírá velení pokud centurion padne. Řadový voják v bitevní vřavě vidí jen svého centuriona — to on ho rekrutoval, cvičil a trestal. Velitel je z jeho pohledu vzdálený zhruba stejně jako samotný senát.",
-      "Vojáci nově slouží šest let. Nejsou to rolníci kteří odloží pluh na sezónu — jsou to muži jejichž jediným domovem je vojenský tábor. Půdu po skončení služby nedostanou od státu automaticky, ale zařídí jim ji jejich velitel pokud má dostatečný politický vliv. Loajalita těžkooděnců tak nevyhnutelně gravituje od abstraktní republiky k veliteli osobně."
+      "II. Armáda a vojenství",
+      "Starý legionář měl pole. Nový má jen tábor. Přichází z tábora a vrátí se do tábora. Půda po šesti letech služby záleží na veliteli, ne na státu.",
+      "Výzbroj dostane od státu a splácí ji z žoldu, což vojáky existenčně svazuje s jejich generálem. Kroužková košile lorica hamata. Bronzová přilba s lícnicemi. Obdélníkové scutum zahnuté kolem těla. Gladius na pravém boku, dýka pugio na levém. A dvě pila, jedno těžší, jedno lehčí.",
+      "Marius nechá jeden z kovových nýtů upevňujících železný hrot k násadě nahradit dřevěným kolíkem. Při dopadu do štítu se kolík zlomí. Hrot se ohne. Kopí nelze vytáhnout ani vrátit. Muž zatížený pilum v štítu ho zahodí a stojí bez krytí. Nástup gladiu.",
+      "Na pochodu nese voják přes třicet kilogramů na dřevěné furce. Rýč a skoba na vykopání příkopu. Tři až sedm dřevěných kolíků na palisádu. Kotlík. Vak s obilím na patnáct dní. Plášť.",
+      "Tradiční dělení na hastaty, principes a triarii zmizí. Jsou jen legionáři. Šest centurií po osmdesáti mužích tvoří kohortu. Deset kohort tvoří legii. Kohorta představuje taktický celek schopný samostatného operování a v členitém terénu Galie a alpských průsmyků bude záležet na každé z nich.",
+      "Centurion velí centurii z první řady. Nese vitis,  prut z révy vinné, znak hodnosti i nástroj trestu. Cvičí muže, trestá je a v bitvě stojí před nimi. Řadový voják v bojové vřavě vidí jen svého centuriona, člověka který ho naverboval i vycvičil. Velitel legie je pro něj vzdálený zhruba stejně jako senát.",
+      "Po centurionově levici stojí optio — přebírá velení pokud centurion padne, udržuje kázeň v zadních řadách. Signifer nese standard a spravuje úspory mužů. Tesserarius přenáší rozkazy a velí noční stráži.",
+      "Vojáci slouží šest let. Nejsou to rolníci kteří odloží pluh na sezónu ale jsou to muži jejichž jediným domovem je vojenský tábor. Loajalita patří veliteli."
     ],
     "konflikt": [
-      "Marius přebírá vrchní velení roku 104 a první dva roky nevede jedinou velkou bitvu. Místo toho cvičí. Každý den, v každém počasí. Tvrdé pochody s plnou výzbrojí, stavění táborů, manévry.",
-      "Mezitím se obří migrace rozdělí. Kimbrové zamíří do Španělska, Teutoni zůstávají v Galii. Marius může čelit každé hrozbě zvlášť.",
-      "Roku 102 zahájí Teutoni a Ambroni pochod na Itálii. Marius je sleduje s armádou ale přímé konfrontaci se vyhýbá. Drží vojáky v opevněných pozicích a nechá barbarský průvod projít kolem tábora zatímco bedlivě analyzuje jejich disciplínu a pohyby. Během pochodu Germáni na římské jednotky na valu křičí a ptají se zda mají pro jejich ženy v Itálii nějaký vzkaz, protože už brzy z nich budou otrokyně. Marius je ignoruje. Čas přijde sám.",
-      "Rozhodující bitva přijde u Aquae Sextiae v jižní Galii. Střet začne náhodně u řeky kde narazí římské oddíly hledající vodu na tábořící Ambrony. Marius je nucen zasáhnout dříve než plánoval, ale terén má důkladně přečtený a skrytý oddíl tří tisíc legionářů leží připravený nad místem hlavního útoku.",
-      "Ambroni jsou poraženi první den. Druhý den nastupují Teutoni s intenzitou lidí bojujících o holou existenci. Mariova linie vydrží prvotní drtivý náraz, záložní oddíl v pravý okamžik udeří do boku a zezadu. Formace je obklíčena. Na konci masakru padne jejich král Teutobod zajat.",
-      "Marius ihned stáčí armádu zpět na východ. Kimbrové přešli alpské hřebeny a ocitli se v severní Itálii. Zrychleným přesunem se u Padu spojí s prokonzulem Lutatiem Catulem.",
-      "Roku 101 se Římané s Kimbry utkají u Vercell na rovině Campi Raudii. Barbarů je víc ale Mariova šest let trénovaná armáda je na vrcholu sil a disciplíny. V letním vedru navíc Římané drží slunce za zády. Kimbrové zvyklí na severské klima se v prachu obrovské masy vyčerpávají dřív než dojde ke střetu. Kimbrijský útok ztrácí hybnost v rovině a vzápětí přichází úder jízdy z boku.",
-      "Kimbrové jsou vyhlazeni. Zbytek žen v ležení po ztrátě bitvy zabíjí své děti a páchá hromadnou sebevraždu.",
-      "Hrozba trvající sedm let mizí během jednoho horkého odpoledne na padánské rovině.",
-      "Marius se vrací do Říma jako zachránce Itálie. Získává šestý konzulát a senát mu propůjčuje do té doby nemyslitelný titul.",
-      "Třetí zakladatel Říma, hned vedle Romula a Camilla."
+      "III. Průběh konfliktu",
+      "Marius přebírá velení roku 104 a první dva roky nevede jedinou velkou bitvu.",
+      "Cvičí.",
+      "Ráno nástup, pak pochod. Přes třicet kilogramů, plné vybavení, linie po čtyřech. Čtyřicet kilometrů za den. Na konci pochodu dorazit na táborové místo, vyměřit prostor, vytáhnout furcu, zarazit kolíky, vykopat příkop do setmění. Ráno zasypat příkop, vytáhnout kolíky, pochod dál. Znovu. Znovu. Dva roky.",
+      "Dřevěné nosné tyče se zařezávají do ramen. Chodidla pokryjí mozoly. V létě kovové články lorica hamata drží horko, v zimě mráz. Marius jí stejné jídlo a spí pod stejným plátnem jako jeho muži.",
+      "Mezitím se obří migrační vlna rozdělí. Kimbrové zamíří do Španělska, Teutoni s Ambrony zůstávají v Galii. Marius může čelit každému kmeni zvlášť.",
+      "Roku 102 vyrazí Teutoni na Itálii přes jižní Galii. Marius je čeká v opevněném táboře u řeky Rhodanus. Nechá je projít kolem.",
+      "Šest dní pochoduje migrační vlna podél valu. Muži na hradbách počítají a mlčí. Germáni křičí přes opevnění: máte vzkazy pro vaše ženy? Brzy budou otrokyněmi. Marius nenechá nikoho vyjít. Sleduje germánskou kolonu.",
+      "Čas přijde u Aquae Sextiae.",
+      "Začne náhodou. Římské oddíly jdou pro vodu k řece a narazí na tábořící Ambrony. Ti zaútočí. Ambroni bojují dobře. Ligurské ženy z římského tábora se přidají do boje holýma rukama. Ambroni jsou poraženi. Marius v noci pošle tribuna Claudia Marcella s třemi tisíci muži do rokle.",
+      "Druhý den nastupují Teutoni. Pod nimi svah. Nahoře římská linie. Útočí. Mariova linie vydrží první náraz. Drží druhý. Drží třetí. Marcellův oddíl udeří z rokle. Teutoni jsou sevřeni ze dvou stran na svahu kde nemohou rozvinout svoji šířku. Formace se trhá a propadá.",
+      "Jejich obrovitý král Teutobod, o němž se vyprávělo, že přeskočí šest koní v řadě za sebou, uprchne, ale chytí ho v křoví a projde Římem v okovech.",
+      "Marius otočí armádu. Kimbrové mezitím přešli Alpy. Sjeli ze zasněžených svahů a průsmyků přímo do italských údolí. Prokonzul Lutatius Catulus se pokusil bránit průchody. Stáhl se. Kimbrové prošli.",
+      "Když se první kolony začaly objevovat na severní straně hor, italské vesnice pod průsmyky se vyprázdnily přes noc. Rolníci nechali dobytek v chlévě a utekli na jih. Celá města se vyprázdnila ještě dřív než přišla germánská přední stráž. Poprvé od chvíle, kdy se galská vojska prohnala severem v roce 390, stojí obří kmenová masa na italské půdě.",
+      "U řeky Pád se Marius spojí s Catulem. V létě roku 101 se armády střetnou u Vercell.",
+      "Kimbrové přijdou v ranní mlze. Přední řady se navzájem přivážou řetězy. Za nimi tisíce mužů. Za nimi vozy se ženami a dětmi. Marius rozestaví armádu. Kimbrové útočí do slunce.",
+      "Střet se rozhoří dřív než Marius plánoval. Catulova linie narazí na průzkumníky. Mariova jízda udeří do boku a zvedne oblak prachu. Kimbrové pochodují hodiny v horku, v plné výstroji. Začnou padat ještě před dosažením linie. Přední řady přivázané k sobě nemohou ustoupit. Legie pronikají mezerami. Kimbrijský útok ztrácí hybnost v rovině a jízda udeří z boku do rozpadající se formace.",
+      "V táboře za bojištěm zabijí kimbrijské ženy své děti. Pak sebe navzájem. Obávaná síla mizí za jediné horké odpoledne.",
+      "Marius se vrátí do Říma. Dostane šestý konzulát. Senát ho vnímá jako třetího zakladatele Říma hned po Romulovi a Camillovi."
     ],
     "pribeh": [
-      "Marcus Sertorius, legionář, šestá kohorta, bitva u Aquae Sextiae, 102 př. n. l.",
-      "Tři dny jsem stál na valu a díval se dolů na proud, který nepřestával. Velcí lidé — větší než kdokoliv z Itálie, vlasy sepjaté do uzlů, kopí vyšší než já. Jeden zavolal něco ve svém jazyce a jeho sousedé odpověděli smíchem. Centurion Gabinius stál vedle mě a díval se dolů s výrazem člověka počítajícího zásoby obilí. Pak řekl tiše, bez obrácení hlavy: „Zapamatuj si je.“ Zapamatoval jsem si je.",
-      "Bitva začala dřív než kdokoliv čekal — naši muži hledali vodu a narazili na Ambróny v brodu a pak to šlo rychle, příliš rychle na rozkazy. Ambroni útočili od řeky do kopce. Věděli, že je to nevýhoda, a útočili stejně — protože jejich ženy za nimi křičely z druhého břehu.",
-      "Nikdy předtím jsem neslyšel ženy křičet do bitvy. Není to pláč. Je to rozkaz. A na okamžik — jen na okamžik — jsem ucítil něco, co nebyl strach. Bylo to horší. Bylo to pochybování, zda ti lidé dole jsou vůbec zastavitelní.",
-      "Pak přiletělo první pilum zprava a ten okamžik pominul.",
-      "Hodil jsem do první vlny shora dolů, s větrem. Těžké železo si razilo cestu skrz štít i tělo za ním. Po druhé vrstvě pil bylo těžko jít kopcem přes mrtvé v blátě. Tasil jsem gladius a čekal.",
-      "Muž co ke mně dorazil byl veliký a utahaný tím stoupáním. Rozmáchl se zeširoka — tak jak se rozmáhají lidé zvyklí mít kolem sebe prostor. V řadě ten prostor nebyl. Zachytil jsem jeho předloktí hranou scuta, přesměroval jsem ten švih do prázdna a bodl do mezery pod paží. Klesl přes mrtvého před sebou.",
-      "Záloha udeřila v pravou chvíli. Slyšel jsem ji dřív než jsem ji viděl — změnu zvuku, nový chaos za jejich linií. Pak změnu v jejich obličejích. Ten konkrétní výraz kdy člověk pochopí že to co se děje nemůže zastavit.",
-      "Stál jsem večer na bojišti a vzpomněl jsem si na toho muže co se smál na valu. Nevím jestli byl mezi mrtvými."
+      "15-Teutoni",
+      "Torquatus, optio, Aquae Sextiae",
+      "Odevzdám omlácenou zbroj z Afriky a vyfasuju novou kroužkovou košili, gladius a těžké scutum. Odsloužené roky rozhodnou rychle. Centurion mi rovnou vtiskne do ruky révovou hůl optia. Pochodujeme Itálií. Krok za krokem vtloukám do rekrutů disciplínu. Když nováčci padnou vyčerpáním do prachu, rovnám je do řady a nutím je běžet dál s třiceti kily výstroje.",
+      "Zastavíme se až na valech v údolí Rhôny. Dny kolem nás procházejí desetitisíce germánských válečníků a pokřikují na nás zespodu posměšky. Dojde jen k jedné ostré šarvátce u řeky, kde naši vodonoši narazí na Ambrony. Zbytek bitvy nás mine. Naším úkolem je les.",
+      "S třemi tisíci muži opouštíme tábor potmě. Postupujeme nočním srázem, vyhýbáme se kořenům a držíme zbraně pevně u těla, aby kov nechrastil. Za svítání ležíme v hustém lesním svahu. Zespodu od řeky k nám doléhá hřmění srážky. Nevidíme hlavní linii.",
+      "Centurion zvedne meč a zařve rozkaz.",
+      "Vyrazíme dolů z lesa. Na povel zastavíme dvacet kroků od zadních pozic Ambrónů. Vrhneme první vlnu pil. Nové dřevěné kolíky se při nárazu lámou, ratiště se ohýbají a nepřátelské štíty těžknou pod váhou deformovaného ocelového dříku. Germáni je v chaosu zahazují. Okamžitě letí druhá salva našich oštěpů. Železo projíždí nekrytými těly, rve svaly a kosí přední řady. Zmatení barbaři se nestíhají otočit. S řevem do nich vtrhneme.",
+      "Zadní řady našich rekrutů zpanikaří touhou po kořisti a začnou se divoce cpát dopředu.",
+      "„Zpátky! Držte rozestupy!“ řvu na ně a tluču je holí přes ramena.",
+      "Rovnám linii a držím chlapy v šiku, aby přední řada měla prostor pro práci mečem a unavení mohli včas rotovat dozadu.",
+      "Přímo přede mnou dostane centurion nečekanou ránu sekerou do krku a klesne do hlíny. Pustím hůl a tasím gladius. Stoupnu na jeho místo. Zachytím germánský nápřah horní hranou scuta, srazím mu paži dolů a zkrácenou čepelí ho bodnu přímo do podbřišku, v místech pod úrovní opasku. Tlak našich zadních řad nás jako lidské beranidlo sune dál přes jejich mrtvá těla."
     ]
   }
 }

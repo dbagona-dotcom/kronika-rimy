@@ -1,45 +1,48 @@
 {
   "id": 2,
   "slug": "2_latinska_valka",
-  "title": "Latinská válka",
+  "title": "Kapitola 2 — Latinská válka",
   "century": "4_stoleti_pr_n_l",
   "years": "340–338 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img4.jpg", "mapa": { "src": "img5.webp", "caption": "" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Ink na mírové smlouvě se Samnity nestačil ani zaschnout. Rok 340 před naším letopočtem a Řím čelí nové válce — tentokrát ne za Apeninami, ale doma, v samotném srdci Latia.",
-      "Tibur, Praeneste, Lanuvium, Aricia — města která mluví stejným jazykem, uctívají stejné bohy a léta krvácela po boku římských legií. Po desetiletích vojenské spolupráce si spočítala, co dávají a co dostávají zpět. Vojáků posílají do pole přibližně stejně jako Řím a nesou stejná rizika. Ale když se přerozděluje kořist a obsazují politické posty, latinský hlas se ztrácí ve stínu senátních rodů.",
-      "Jejich ultimátum je prosté: buď plné občanství a rovný podíl na moci, nebo samostatnost. Senát odmítne. Odpověď neleží v náhlé zradě ani staré krevní mstě — leží v chladné matematice moci, která dosáhla svého stropu."
+      "I. Historický kontext",
+      "Mírová smlouva se Samnity sotva vstoupila v platnost. V roce 340 před naším letopočtem čelí Řím nové válce, ne za Apeninami, ale doma v srdci Latia.",
+      "Tibur, Praeneste, Lanuvium, Aricia. Města která mluví stejným jazykem, uctívají stejné bohy a léta krvácela po boku římských legií. Po desetiletích vojenské spolupráce si spočítala, co dávají a co dostávají zpět. Vojáků posílají do pole stejně jako Řím, rizika nesou stejná. Lví podíl kořisti a politické posty ale připadají Římu. Latinové dostanou zbytek.",
+      "Jejich ultimátum je prosté: jeden konzul musí být Latin, polovina senátu musí patřit Latinům. Senát odmítne. Latinská liga vyhlásí válku. Přitáhne na svou stranu Kampánce a postaví armádu, která se Římu rovná počtem i výcvikem."
     ],
     "armada": [
-      "Řím nestojí proti neznámé hrozbě z hor. Stojí proti zrcadlu.",
-      "Latinské obce roky budovaly svá vojska přesně podle římského vzoru. Stejné scutum, stejná pila, stejný manipulární systém — velites v první vlně, hastati v druhé, principes jako hlavní úderná síla, triarii vzadu jako poslední záloha. Důstojníci na obou stranách prošli společnými taženími a znají protivníkovy manévry zpaměti. Centurioni kteří teď stojí na opačných stranách bojiště se možná kdysi dávno radili u stejného táborového ohně.",
-      "Až se tyto dvě armády střetnou, nerozhodne výzbroj. Obě strany mají stejné nástroje. Rozhodne schopnost udržet formaci ve chvíli kdy proti vám jdou muži, které znáte jménem."
+      "II. Armáda a vojenství",
+      "Armáda která táhne na jih není ta samá jako před pěti lety. Samnitské války si vyžádaly cenu a vrátily zkušenosti. Manipuly se pohybují v členitém terénu kde falanga padá. Centurioni rozhodují rychleji a s menší závislostí na rozkazech shora.",
+      "Latinské obce tuto armádu po generace kopírovaly. Velites v první vlně, hastati za nimi, principes a triarii vzadu. Centurioni na obou stranách prošli společnými taženími a znají protivníkovy manévry."
     ],
     "konflikt": [
-      "Latinská liga si na spojenectví počkala. Přitáhla na svou stranu Kampánce a část samnitských kmenů a postavila armádu která se Římu rovná počtem i taktikou. Obě strany vědí, že tentokrát se nerozhoduje o hranicích. Rozhoduje se o tom, kdo bude vládnout střední Itálii.",
-      "K první velké bitvě dojde u Veseris poblíž Vesuvu. Konzul Publius Decius Mus obdrží před střetem věštbu — bohové dávají najevo, že vítězství připadne armádě jejíž velitel se obětuje podsvětním bohům. Uprostřed bitvy, kdy se římské linie začínají pod latinským náporem nebezpečně prohýbat, Decius jedná. Oblékne se do obřadního roucha, vyhoupne se na koně a sám vjede přímo do středu nepřátelských řad. Padne probodnut kopími. V ten okamžik se v římských liniích něco zlomí — ne hrůzou, ale zuřivostí. Legie zatlačí zrcadlového nepřítele zpět.",
-      "Druhý konzul, Titus Manlius Torquatus, dovede bitvu do konce. Před bitvou vydal přísný rozkaz: nikdo neopustí formaci a nevyzve nepřítele na individuální souboj bez výslovného příkazu. Jeho vlastní syn rozkaz porušil. Vyjel před linie, zvítězil a přinesl otci krvavou trofej jako důkaz statečnosti. Torquatus nechal syna předvést před nastoupenou armádu a dal ho popravit. Bez váhání, bez výjimky. Zpráva která proletěla celým táborem byla jasná: neexistuje nikdo, na koho by se římská disciplína nevztahovala. Ani konzulův syn.",
-      "Válka potrvá tři roky. Řím latinský odpor zlomí ne jedinou rozhodující bitvou, ale soustavným tlakem na více frontách, zatímco Latinská liga se rozpadá pod tíhou rozdílných zájmů svých členů. Příliš mnoho měst, příliš různé priority.",
-      "Mír z roku 338 je mistrovský tah. Každé poražené město dostane jiné podmínky — jedno plné občanství, druhé omezená práva, třetí autonomii bez práva uzavírat vlastní spojenectví. Žádná dvě města nejsou ve stejné situaci a žádné se nemůže spoléhat na solidaritu ostatních."
+      "III. Průběh konfliktu",
+      "Latinsko-kampánská koalice táhne na jih do Kampánie. Oba konzulové roku 340 vedou legie vstříc. Publius Decius Mus a Titus Manlius Torquatus. Setkají se u Veseris poblíž Vesuvu, na otevřené planině pod sopečnými svahy.",
+      "Před bitvou přinese věštec zprávu. Vítězství připadne té armádě jejíž velitel se obětuje podsvětním bohům. Decius povolá pontifika. Oblékne obřadní roucho, přehodí tógu přes hlavu po etruském způsobu, přiloží ruku k bradě a stojí na oštěpu položeném na zemi. Pontifex mu předříká formuli. Slova zasvětí jeho tělo i těla nepřátel bohům podsvětí. Pak se Decius vyhoupne na koně.",
+      "Vjede přímo do středu latinských řad. Latinská kopí ho zasáhnou pod ramenem, pak přes krk. Vidí to muži v první řadě. Římské levé křídlo se zvedne a zatlačí Latiny zpět.",
+      "Torquatus pravé křídlo drží a bitvu dorazí. Před jejím začátkem vydal rozkaz: nikdo neopustí formaci, nikdo nevyzve nepřítele na osobní souboj bez výslovného příkazu. Jeho vlastní syn rozkaz porušil. Vyjel před linie, zvítězil v souboji a přinesl otci ukořistěnou zbroj. Torquatus se na ni nepodívá. Nechá nastoupit armádu. Syn klečí v prachu před první linií. Liktor zvedne sekeru. Krev vsákne do země.",
+      "Ještě téhož roku se Kampánci pokusí o nový střet u Trifana poblíž řeky Volturnus. Torquatus vytáhne s legií, zatlačí je zpět a rozloží zbývající odpor na jihu.",
+      "Válka potrvá tři roky. Řím dobývá latinská města jedno po druhém, každé bez pomoci ostatních. Tibur se vzdá. Aricia se vzdá. Lanuvium se vzdá. Velitrae, která se ke vzpouře přidala, dostane nejtvrdší podmínky: hradby strženy, přední občané deportováni za Tiber. Pedum se brání jako poslední, malé město bez spojenců. Padne roku 338.",
+      "Antium, přístav na tyrhénském pobřeží proslavený piráty, se vzdá jako jedno z posledních. Řím mu vezme lodě. Kovové přídě ulomené ze zajatých plavidel přivezou do Říma a zasadí do řečniště na Fóru. Od té chvíle promlouvají řečníci k lidu přímo z ukořistěných lodních klounů.",
+      "Roku 338 přicházejí poražená města vyjednávat každé zvlášť, aniž by věděla co dostane soused. Aricia a Lanuvium obdrží plné římské občanství. Capua dostane občanství bez hlasovacích práv. Smí se nazývat součástí Říma, platit daně a posílat vojáky do legií, ale na volebním poli nemá co říct. Další města dostanou autonomii bez práva uzavírat vlastní spojenectví. Žádná dvě města nejsou ve stejné situaci. Žádné se nemůže spoléhat na solidaritu ostatních.",
+      "Latinský problém je vyřešen. Za Apeninami na Řím čekají Samnité."
     ],
     "pribeh": [
-      "Gaius Servilius, optio, třetí manipul hastatů, bitva u Veseris, 340 př. n. l.",
-      "Stojím za poslední řadou a v ruce svírám révovou hůl. Moje místo. Vepředu vrhají pila, já hlídám záda.",
-      "„Držte linii! Kdo couvne, ochutná hůl!\"",
-      "Před námi Latinové. Stejná scuta, stejné gladie, stejná latina. Jako bychom stáli proti vlastním manipulům. Některé obličeje v první řadě znám od pohledu — před dvěma lety pochodovali s námi.",
-      "Pak to projede řadami. Zepředu dozadu, šeptem, pak hlasitěji. Decius. Konzul se oblékl do obětního roucha.",
-      "Zahlédnu ho. Projede podél linie v purpuru, oči upřené dopředu, neotočí hlavu. Zaboří ostruhy a vyrazí přímo do středu Latinů.",
-      "Z jejich řad řev — ale špatný. Zmatený. Vidím, jak se jejich linie na okamžik zavlní.",
-      "Trubka. „Kupředu!\"",
-      "„Pohyb, vy prašiví psi!\" vrazím holí do zad mladíka přede mnou, který zkameněl. Posune se.",
-      "Náraz. Tlak okamžitě. Není prostor na rozmach, na krok, na nadechnutí. Zaklesneme se do nich scutum na scutum a tlačíme.",
-      "Mladík přede mnou dostane čepel přes horní hranu štítu. Chrčí a sveze se na kolena. Díra.",
-      "Pouštím hůl. Tasím gladius — poprvé dnes. Krok vpřed. Šlápnu mu na rameno, abych stál tam, kde stál on.",
-      "Latin se na mě tlačí celou vahou. Cítím z něj pot a kyselé víno. Tohle není moje místo — moje místo je s holí za linií. Ale díra je tady a já jsem nejbližší.",
-      "Zapřu do něj scutum. Stáhnu pravačku těsně k boku — gladius je krátký z dobrého důvodu — a krátkým trhavým pohybem bodnu do mezery mezi jeho štítem a stehnem. Ostří projde. Tlak jeho těla poleví. Nevytáhnu hned, počkám, až se sesype.",
-      "Zůstanu stát. Řvu na muže vedle, aby zavřeli řadu.",
-      "Překračovat mrtvé nechám jiné. Já hlídám, aby jich bylo co nejmíň."
+      "02-2. latinská válka",
+      "Septimus Gaius Genucius, hastatus, Veseris",
+      "Křídlo praská. Koukám vedle sebe a vidím, jak další principes ustupují. Tlak latinské koalice nás drtí a náš centurion leží mrtvý v prachu. Panika mi svírá plíce. Otáčím se k ústupu, ale vtom zleva zaduní kopyta. Konzul Decius Mus v obětním rouchu vráží s řevem přímo do latinského středu a padá pod jejich kopími.",
+      "Proč to udělal? Útěk se ve mně zlomí. Vztek a stud spálí strach na popel.",
+      "„Zvedněte se a bojujte!“ řve optio a mlátí ustupující muže holí, aby srovnal linii. „Vpřed!“",
+      "Zarazím paty do hlíny a otočím se. S řevem se rozběhneme zpět. Naproti mně běží Latin se stejným štítem a výcvikem, jaký mám já. Náraz mě odhodí. Zachytím jeho čepel na zpevněnou hranu scuta a krátkým výpadem mu vrazím meč hluboko do podpaží."
     ]
   }
 }

@@ -1,53 +1,54 @@
 {
   "id": 3,
-  "slug": "3_2_samnitska_valka",
-  "title": "2. samnitská válka",
+  "slug": "3_druha_samnitska_valka",
+  "title": "Kapitola 3 — Druhá samnitská válka",
   "century": "4_stoleti_pr_n_l",
   "years": "326–304 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img8.jpg", "mapa": { "src": "img7.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Dvanáct let po míru z roku 338 je Řím jiným městem než byl. Latinské spolky jsou rozbity, jejich města svázána individuálními smlouvami, každé za jiných podmínek, každé odříznuté od solidarity ostatních. To co vypadalo jako série válek se zpětně jeví jako jeden dlouhý projekt — systematické budování sítě závislostí, která drží pohromadě pevněji než jakékoliv dobyté území.",
-      "Právě tato rostoucí moc nevyhnutelně přitáhla pozornost Samnitů. První válka byla jen odkladem. Samnité tehdy ustoupili, ale nebyli poraženi — zachovali si armádu, území i sebevědomí horských bojovníků. Řím mezitím upevnil Kampánii, rozšířil spojeneckou síť a posílil legie zkušenostmi z latinského konfliktu. Dvě expandující mocnosti se znovu sbližují.",
-      "Záminkou se stane spor o Neapolis, bohaté řecké město na kampánském pobřeží. Samnitský vliv v jeho okolí narůstá, část obyvatel s ním sympatizuje, část volá o pomoc Řím. Senát zasáhne. Je to stejný scénář jako před Kampánií — ochrana spojence jako první krok k trvalé přítomnosti. Samnité ho tentokrát odmítnou akceptovat.",
+      "I. Historický kontext",
+      "Neapolis, řecké přístavní město na kampánském pobřeží, žije od svého založení obchodem. V jeho ulicích posledních let roste samnitský vliv. Část obyvatel se s ním sžila, část posílá posly do Říma. Senát zasáhne a obsadí město.",
+      "Pro Samnity to znamená jedno: Řím stojí na jejich prahu. Odmítnou to přijmout.",
       "Roku 326 začíná druhá samnitská válka."
     ],
     "armada": [
-      "Legie která vstupuje do této války je zdokonalenou verzí té z první samnitské. Manipulární systém se plně osvědčil a zakořenil. Co se mění je výzbroj — a jedna změna stojí za pozornost.",
-      "Scutum, štít který legionáři nosili od počátků manipulárního systému, prošlo proměnou. Starší oválný tvar ustupuje obdélníkovému, zahnutému do mírného oblouku podél těla vojáka. Výsledkem je lepší krytí boků při sevřeném boji a efektivnější práce se štítem jako zbraní — zkušený legionář jím umí nepřítele srazit z rovnováhy ještě před první ránou mečem. Tato inovace ustálí vzhled římského těžkooděnce na několik dalších staletí.",
-      "Velení zůstává konzulské — dva konzulové vedou oddělené armády a umožňují paralelní tažení na více frontách. Centurionský sbor prochází nenápadnou profesionalizací. Nejde už jen o rolníky kteří se vrátí po tažení na pole — jsou to muži kteří válčí kampaň za kampaní a jejichž zkušenosti se stávají živou pamětí legie.",
-      "Samnitská armáda se od první války zásadně neliší. Pohybliví kmenový bojovníci odmítají otevřené střety a spoléhají na terén, zálohy a rychlé přesuny. Každý průsmyk, každé údolí, každá soutěska je pro ně domácí terén. A právě tuto znalost využijí v roce 321 způsobem, který Řím nezapomene celé generace."
+      "II. Armáda a vojenství",
+      "Legie se poučila ze dvou předchozích válek. Manipul funguje jako vlastní taktická jednotka, pohybuje se a útočí bez čekání na sousedy. Armáda se formuje do tří řad: hastati vpředu, principes za nimi, triarii vzadu jako poslední záloha.",
+      "Pilum dostalo měkký železný krček. Voják ho hodí, bodec se zarazí do nepřátelského štítu a krček se ohne. Vytáhnout ho nelze, odhodit zpět taky ne. Nepřítel musí štít zahodit a stojí bez krytí. Scutum, obdélníkový štít přebraný od Samnitů, přilne k tělu vojáka a chrání boky v sevřeném boji lépe než starší oválný tvar.",
+      "Tato výhoda platí jen na rovině. V apeninských průsmycích rozhoduje terén a Samnité ho znají lépe."
     ],
     "konflikt": [
-      "Počáteční fáze války přináší Římu úspěchy. Neapolis přechází pod římskou ochranu, samnitské kmeny ztrácejí pozice v nížinách.",
-      "Pak přijde rok 321. A s ním Caudinské vidlice.",
-      "Konzulové Spurius Postumius Albinus a Titus Veturius Calvinus vedou armádu přes apeninské průsmyky do Apulie. Dostanou zprávu — nebo spíše záměrně podvrženou informaci — že samnitské obléhání Lucerie potřebuje naléhavou pomoc. Cesta vede přes úzkou horskou soutěsku u Caudium. Armáda vstoupí do průsmyku a postupuje kupředu. Na druhém konci narazí na zatarasení — paseky, skácené stromy, skalní bloky. Obrátí se zpět. Vstup do soutěsky je také uzavřen. Samnitský velitel Gaius Pontius uzavřel past dokonale.",
-      "Celá římská armáda sedí v horském koridoru bez možnosti úniku, zásobování ani boje. Dva konzulové, tisíce legionářů. Není co dobýt ani bránit. Je jen čekat.",
-      "Pontius situaci mohl vyřešit masakrem. Místo toho zvolil rituál. Propustil Římany, ale každý legionář — od nejnižšího velites po oba konzuly — musel projít pod jhem, symbolickým obloukem ze tří kopí. Ztráta cti v římské kultuře znamenala víc než ztráta životů.",
-      "Senát smlouvu uzavřenou v Caudiu odmítl ratifikovat. Oba konzuly vydal Samnitům jako osobně zodpovědné jedince. Pontius je přijal s pohrdáním a poslal zpět do Říma.",
-      "Válka pokračuje dál. Postupně se rovnováha obrací. Řím přestane spoléhat jen na legie a sáhne po nástroji který se ukáže jako stejně účinný — logistice. Via Appia, první z velkých římských silnic, vzniká právě v tomto období. Není to jen cesta. Je to zásobovací tepna která umožňuje rychlý přesun vojsk a trvalou přítomnost hluboko na nepřátelském území. Ke silnicím přibývají kolonie — pevné body římské moci zasazené přímo do samnitského srdce.",
-      "Samnité dokáží vyhrát bitvy. Nedokáží vyhrát čas. Roku 304 je uzavřen mír.",
-      "Není to drtivé vítězství, ale Samnitská moc je od tohoto okamžiku pomalu, ale nevratně na ústupu."
+      "III. Průběh konfliktu",
+      "Počáteční léta přinesou Římu úspěchy. Neapolis přejde pod římskou ochranu. Samnité ztrácejí pozice v nížinách a ustupují do hor. Roku 325 vede konzul Lucius Furius Camillus tažení přímo do Samnia, proniká přes apeninské hřebeny a tlačí kmenová vojska zpět.",
+      "V roce 321 vedou konzulové Spurius Postumius Albinus a Titus Veturius Calvinus armádu přes apeninské průsmyky do Apulie. Dostávají zprávu, že samnitské obléhání Lucerie potřebuje naléhavou pomoc. Cesta vede přes úzkou soutěsku u Caudium. Armáda vstoupí, projde na druhý konec a narazí na zátaras. Pokácené stromy, skalní bloky. Armáda se vydá zpět. Vstup do soutěsky je taky uzavřen.",
+      "Samnitský velitel Gaius Pontius zavřel past na obou stranách zároveň. Zpráva o Lucerii byla podvržená od začátku.",
+      "Celá armáda sedí v horském koridoru. Zásoby docházejí, bojovat není s kým ani kde, ven nevede žádná cesta. Dva konzulové a tisíce legionářů čekají na rozhodnutí muže v horách nad nimi.",
+      "Pontius nechá postavit oblouk ze tří kopí. Každý Říman, od nejnižšího velites po oba konzuly, projde pod jhem. Pak je Pontius propustí.",
+      "V Římě senát smlouvu odmítne ratifikovat. Oba konzuly vydá Samnitům jako osobně zodpovědné za podmínky v Caudiu. Pontius je přijme s pohrdáním a pošle zpět do Říma. Válka pokračuje jako by Caudium nepřišlo.",
+      "Roku 320 konzulové Lucius Papirius Cursor a Quintus Publilius Philo porazí Samnity a dobudou Lucerii zpět. Průlom nepřijde rychle. V roce 315 Samnité zvítězí u Lautulae a znovu ohrozí Kampánii. Řím přijde o několik spojeneckých měst, stáhne se a přeskupí.",
+      "Roku 312, uprostřed nejtěžších bojů, cenzor Appius Claudius Caecus přes odpor senátu začne stavět silnice. Přímá trasa z Říma do Capuy přes bažiny a hory, každou míli označená kameny, průchodná v každém počasí. Legie se přesunou na front za dny místo týdnů. Ve stejném roce nechá Caecus vyhloubit první římský akvadukt. Aqua Appia přivede do Říma vodu nezávisle na řekách a studnách. Oba projekty nesou jméno cenzora, kterému říkali Slepý.",
+      "Za silnicemi přijdou kolonie. Luceria v Apulii roku 314, Saticula, Interamna. Samnita který vyjde z hor a sestoupí do údolí narazí na opevněné město s římskými rodinami, chrámy a zákony, uprostřed svého území.",
+      "Roku 305 prorazí konzul Lucius Postumius Megellus přes apeninské hřebeny do samnitského nitra. Zaútočí na Bovianum, kmenové centrum Pentrijských Samnitů. Město padne po krátkém obléhání. Poprvé stojí Říman uprostřed samnitského hlavního města.",
+      "Roku 304 je uzavřen mír. Samnitská autonomie formálně přetrvá. Síť silnic a kolonií sahá hluboko do jejich území."
     ],
     "pribeh": [
-      "Marcus Atilius, hastatus, druhý manipul, průsmyk Caudium, 321 př. n. l.",
-      "Stěny průsmyku se svíraly. Prach od tisíců sandálů stál ve vzduchu a nebylo kam se mu vyhnout. Zbroj mě dřela, ale horší byl ten pocit v žaludku. Bio tu příliš ticho.",
-      "Kolona se zastavila s řinčením výstroje.",
-      "„Co se děje?\" zafuněl Quintus.",
-      "Po linii k nám doběhl optio. Tvář bílá. „Zatarasili cestu. Stromy přes celou šíři. Obracíme!\"",
-      "Než jsme se stihli otočit, zepředu — ne, zezadu — zoufalý křik. „Spustili balvany! Zadní cesta je pryč!\"",
-      "„Ke stěnám! Štíty nahoru!\" řval centurion. V hlase mu znělo něco, co jsem u něj nikdy neslyšel.",
-      "Vysoko na srázech se vyrojily siluety. Stovky. Tisíce. Samnité po obou stranách průsmyku.",
-      "Pak začalo pršet kamení.",
-      "Muž přede mnou dostane balvan velikosti hlavy do hrudi. Žebra křupla jako suché větve. Krev mi stříkla na tuniku. Padl na záda a dusil se.",
-      "„Scutum nad hlavu! Kryjte se!\" strhl jsem Quinta k sobě a zvedl štít.",
-      "Rány do dřeva. Jedna za druhou. Ruka mi pod tou vahou dřevěněla. Nemohli jsme k nim nahoru. Neměli jsme kam dolů. Stáli jsme v průsmyku a nechali se kamenovat.",
-      "Voda nám došla třetí den.",
-      "Nechali nás svléknout všechno. Zbroj, pásy, pláště, dokonce caligae. Stál jsem v prachu v propocené tunice a čekal, až na mě přijde řada.",
-      "Postavili jho ze tří kopí zaražených do země. Sklonil jsem hlavu tak hluboko, až jsem se čelem dotýkal bláta. Prolezl jsem pod dřevem.",
-      "Samnita u pravého kopí se mi zasmál do tváře a plivl mi na krk. Nezvedl jsem oči. Neotřel jsem si to.",
-      "Polknul jsem, postavil se a šel dál. Za mnou prolézal další.",
-      "Jednou mě potká. Někde, někdy. A zjistí, že jsem ten plivanec neumyl za celou tu dobu, co jsem si ho nesl."
+      "03 — 2. samnitská válka (321 př. n. l.)",
+      "Lucius Fabius Sera, hastatus, Furcae Caudinae",
+      "Rychlým pochodem vstupujeme do soutěsky. Ženeme se vpřed, abychom samnitskou armádu dohnali co nejdřív. Přední řady najednou zastaví. Cesta před námi je kompletně zavalená kmeny a balvany.",
+      "„Proč stojíme?!“ řvou chlapi zezadu. „Zátaras!“ křičíme zpět.",
+      "Někdo ukáže nahoru. Na obou hřebenech nad námi stojí celá samnitská armáda. Rozběhneme se k okrajům soutěsky pod skály.",
+      "„Štíty nahoru!“ Kryjeme se.",
+      "Shora se ozve hlasitý smích. Náš konzul dojde dopředu. Samnitský velitel na něj volá z okraje srázu. Nabízí nám život, když zahodíme zbraně a vzdáme se. „Nikdy, vy barbaři!“ zařve konzul.",
+      "Třetí den v soutěsce. Jídlo došlo. Vyklepáváme z čutor poslední kapky vody. Konzul prochází mezi vyčerpanými muži a vidí to. Samnita se znovu objeví na skále a zopakuje svou výzvu. Konzul beze slova přijme.",
+      "Nastoupí nás na planině před soutěskou. Beze zbraní. Jako hastati stojíme úplně vpředu. Samnité se nám posmívají do obličeje a plivou do prachu. Nehýbu se. Zírám před sebe, jak náš konzul a po něm všichni důstojníci krok za krokem, se svěšenou hlavou podlézají jho ze dvou svázaných kopí."
     ]
   }
 }

@@ -1,45 +1,57 @@
 {
   "id": 19,
-  "slug": "spartakovo_povstani",
-  "title": "Spartakovo povstání (73–71 př. n. l.)",
+  "slug": "19_spartakovo_povstani",
+  "title": "Kapitola 19 — Spartakovo povstání (73–71 př. n. l.)",
   "century": "1_stoleti_pr_n_l",
   "years": "73–71 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img44.jpg", "mapa": { "src": "img45.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Řím roku 73 před naším letopočtem je město přeplněné otroky. Desetiletí nepřetržitých válek přivedla do Itálie statisíce zajatců z Řecka, Malé Asie, Afriky, Španělska i Galie. Pracují na obřích latifundiích, v dolech, v domácnostech aristokracie i v řemeslných dílnách. Jsou absolutním majetkem. Zákon jim neposkytuje žádnou ochranu a pán má nad otrokem beztrestné právo života a smrti.",
-      "Dvě velká otrocká povstání na Sicílii v letech 135 a 104 jasně ukázala rozsah nebezpečí pokud se nahromaděné zoufalství promění v organizovaný odpor. Obě vzpoury byly potlačeny s brutální důsledností. Ekonomický model postavený na otrocké síle se nezměnil.",
-      "Do tohoto prostředí se v gladiátorské škole v Capui vzbouří skupina sedmdesáti mužů vyškolených k boji v aréně. Jejich vůdcem se stává Thrák jménem Spartakus — bývalý římský pomocný voják, dezertér a nakonec zajatec. Kombinace těchto rolí mu dala tvrdý výcvik, znalost fungování římských legií a odhodlání člověka který už nemá co ztratit.",
-      "Sedmdesát otroků uteče z Capuy a skryje se v těžko prostupném terénu na svazích Vesuvu. Řím je v té době naplno zaměstnán válkou se Sertoriem ve Španělsku a s králem Mithridatem na Východě."
+      "I. Historický kontext",
+      "Itálie roku 73 drží přibližně tři miliony otroků,  asi třetinu celkového obyvatelstva poloostrova. Dvě generace válek přivedly do Itálie statisíce zajatců z Řecka, Malé Asie, Kartága, Španělska i Galie. Pracují na latifundiích, v dolech, v domácnostech aristokracie a v řemeslných dílnách. Zákon jim neposkytuje ochranu. Pán má nad otrokem právo života a smrti. Ve stříbrných dolech žijí v průměrně méně než osm let po prvním sestupu do šachty. Bez otrocké práce se neobdělá pole, nevyrobí keramika, nepostaví akvadukt.",
+      "Dvě velká povstání na Sicílii z let 135 a 104 ukázala co se stane, pokud se zoufalství promění v organizovaný odpor. Obě Řím potlačil a stav společnosti zůstal zachován.",
+      "V gladiátorské škole Lentula Batiata v Capui se roku 73 vzbouří sedmdesát mužů."
     ],
     "armada": [
-      "Počáteční skupina utečenců nemá naprosto nic. Nemají zbraně — zpočátku bojují pouze s nástroji z kuchyní, dřevorubeckými sekerami a zaostřenými tyčemi. Nemají výcvik v koordinovaném polním boji, protože gladiátoři jsou cvičeni výhradně pro individuální souboj. Chybí jim zásobování, vojenská hierarchie i jezdectvo.",
-      "Spartakus toto vše vytvoří z ničeho.",
-      "V prvních týdnech skupina přepadává izolovaná zemědělská sídla, osvobozuje otroky a zbrojí se ukořistěnými nástroji. Pak přepadne první malý římský oddíl a vezme si jeho armádní výzbroj. Porazí druhý oddíl, pak třetí. Každé vítězství znamená novou ocel a prudký příliv dalších uprchlíků.",
-      "Spartakus armádu organizuje přesně podle římského vojenského systému. Dělí muže do jednotek, jmenuje velitele, zavádí výcvik a pevnou disciplínu. Příchozí masy rozřazuje podle schopností — fyzicky nejsilnější jedinci obdrží legionářskou zbroj a tvoří těžkou pěchotu, muži s jezdeckou zkušeností tvoří jízdu, lehčí a hůře vybavení zajišťují průzkum a logistiku.",
-      "Z původních sedmdesáti mužů se povstalecká síla do konce roku 73 rozroste na desítky tisíc.",
-      "Řím proti nim zpočátku nasazuje síly jako na lokální policejní akci — pretorské kohorty a pomocné jednotky nižší kvality. Teprve když Spartakovo vojsko tyto síly opakovaně a drtivě rozdrtí, senát s hrůzou zjišťuje že čelí regulérnímu generálovi."
+      "II. Armáda a vojenství",
+      "Ze školy utečou s tím co mají: kuchyňské nástroje a několik gladiátorských mečů. Po první přepadené zásobovací koloně mají pilum a scuta. Po druhé mají výzbroj celé kohorty. Spartakus také zřídí kovárny kde uprchlí otroci přetaví zemědělské železo na hroty a čepele.",
+      "Spartakus organizuje armádu podle římského vzoru od prvního týdne. Muže rozděluje do jednotek, jmenuje velitele, zavádí výcvik. Nejlépe vyzbrojení a fyzicky nejsilnější tvoří těžkou pěchotu. Muži se zkušeností s koňmi tvoří jízdu z koní ukořistěných z poražených táborů.",
+      "Jádrem jsou gladiátoři. Muži cvičení pro individuální souboj, kteří čtou pohyb soupeře dřív než legionář dokončí výpad. Kolem tohoto jádra se skupinami přidávají zemědělští otroci bez výcviku. Spartakus je třídí a cvičí dokud se z davu nestane armáda."
     ],
     "konflikt": [
-      "Spartakus otevírá konflikt tvrdou improvizací. Povstalci se pod rouškou tmy potichu slaní po vinné révě přímo z kráteru sopky, obejdou hlídaný římský tábor a zaútočí ze slepého úhlu z místa které Římané považovali za neprůlezně strmé. Na konci roku má Spartakus k dispozici fungující armádu.",
-      "Rok 72 představuje jeho vojenský vrchol. Konzulové Gellius a Lentulus jsou vysláni s plnými konzulárními armádami aby povstání definitivně rozdrtili. Spartakus uplatní klasickou taktiku manévrového boje: nedovolí jim spojit síly a bleskově zaútočí na každou armádu zvlášť v okamžiku kdy stojí v terénu osamoceně. Poráží oba.",
-      "Spartakus chce následně přejít Alpy a vyvést otroky z Itálie aby se rozešli do svých domovských zemí. Jeho obrovská armáda opojená dosavadní neporazitelností tento plán rozzuřeně odmítne. Zfanatizované masy nechtějí odejít — žádají plundrování Itálie, kořist a pomstu bývalým pánům. Spartakus je přetlačen tlakem vlastního vojska a obrací pochod zpět na jih poloostrova.",
-      "Senát reaguje plnou krizovou mobilizací. Marcus Licinius Crassus, nejbohatší muž republiky, dostává mimořádné prokonzulské pověření a šest nových legií. Začíná aplikovat to v čem je nejlepší — systematické a chladné škrcení.",
-      "Crassus nechá prokopat masivní příkop a navršit val přes celý jihoitalský poloostrov od moře k moři. Spartakova armáda je neprodyšně uzavřena v Kalábrii. Spartakus sice během zimní noci prorazí bariéru, ale následný pokus o evakuaci na Sicílii fatálně ztroskotá. Zaplacení kilikijští piráti vezmou zlato ale slíbené lodě nedodají.",
-      "V závěrečné bitvě roku 71 je armáda otroků zdecimována a Spartakus padne přímo ve vřavě. Jeho tělo není na bitevním poli nikdy nalezeno.",
-      "Část přeživších prchá na sever kde narazí na Pompeia který se se svými legiemi vrací ze španělského tažení. Pompeius uprchlíky pobije a v dopise senátu si politicky přivlastní zásadní podíl na ukončení války.",
-      "Marcus Licinius Crassus na tuto krádež slávy reaguje vlastním nepřehlédnutelným gestem. Šest tisíc zajatých otroků nechává přibít na kříže podél Via Appia od Capuy až k samotným branám Říma.",
-      "Kříže stojí v přesných intervalech třiceti metrů po celé délce cesty."
+      "III. Průběh konfliktu",
+      "Pretor Gaius Claudius Glaber zablokuje jedinou přístupnou cestu z Vesuvu dolů a čeká. Uprchlíci mají zásoby na pár dní, pak budou muset sestoupit. Glaber nestráží skály. Na vulkanických svazích roste réva.",
+      "Spartakus nechá muže uplést provazy z výhonků révy. V noci se celá skupinka spustí po srázu do tmy za Glaberovým táborem. Stráže postřehnou hrozbu, až když do nich propukne. Útok přichází z místa, které Glaber považoval za naprosto neprůlezné. Tábor padne. Zásoby a zbraně přejdou k povstalcům.",
+      "Senát pošle druhého prétora, Publia Varinia, s větší silou. Spartakus jeho vojáky neustále vyčerpává přepady a ústupy, přepadá zásobovací konvoje a rozkládá oddíly než se stačí soustředit. Nakonec Varinia zasáhne přímo. Tábor se zásobami padne a Spartakus ukořistí Variniovy odznaky velení, jeho liktory i koně.",
+      "Do konce roku 73 stojí pod Spartakovými standartami přes sedmdesát tisíc mužů.",
+      "Rok 72 přinese obě konzulární armády. Senát pošle Gellia a Lentula s plnými legiemi. Crixus, galský velitel pod Spartakovým velením, se mezitím vydá na jih se třiceti tisíci muži. Gellius ho zachytí u hory Garganus v Apulii a porazí. Crixus padne.",
+      "Spartakus shromáždí před armádou tři sta šedesát šest římských zajatců, přikáže jim vzít meče a bojovat mezi sebou. Vzniknou pohřební hry na počest Crixe a role gladiátorů pro tuto chvíli převzali samotní Římané. Pak obrátí armádu na sever, zaútočí na Lentula dřív než se Gellius stačí vrátit a porazí ho. Záhy rozdrtí i Gellia.",
+      "Spartakus zavelí k Alpám. Svolá velitele a vysvětlí plán: přejít hory, armáda se rozejde do svých domovských zemí. Galské a germánské velitele plán nezajímá. Kam se má vrátit muž, jehož vesnice byla vypálena a rodina prodána? Mnozí otroci jsou v Itálii celý život — Itálie je jejich domov, ať se jim to líbí nebo ne. Zůstávají. Buď zvítězí nebo zemřou v zemi kde byli otroky. Spartakus otočí pochod na jih.",
+      "Senát svěří Marcu Liciniu Crassovi pověření nad šesti novými legiemi. Spartakus mezitím navazuje kontakt s kilikijskými piráty a plánuje přepravu armády na Sicílii. Galští velitelé Castus a Cannicus přepravu odmítnou. Nechtějí ze Sicílie — chtějí pokračovat v přepadech v centrální Itálii. Po hádce u velitelského stanu vezmou své oddíly a odejdou. Crassus zaútočí na každou skupinu zvlášť dřív než se mohou znovu spojit. Castus a Cannicus padnou. Spartakova armáda přijde o část nejzkušenějších bojovníků těsně před rozhodující fází.",
+      "Jedna z Crassových kohort se při dalším střetu rozpadne a uprchne z pole. Crassus nechá těchto přibližně pět set mužů nastoupit na prázdném prostranství. Každou desítku oddělí. V každé skupině padne los. Vybraný muž předstoupí. Zbylých devět vezme hole a ubije ho před zraky ostatních. Padesát mrtvých.",
+      "Pak rozdá lopaty. Příkop přes celou Kalábrii od moře k moři. Přes padesát kilometrů, čtyři metry hluboký, za ním val a palisáda. Spartakus je uzavřen na jihu poloostrova.",
+      "Spartakus najme kilikijské piráty na přepravu armády na Sicílii. Piráti vezmou zálohu a zmizí.",
+      "Prolomení přijde za zimní bouře. Spartakus nechá ucpat část příkopu větvemi, hlínou a těly vlastních padlých a vede armádu přes palisádu pod sněhem. Prorazí  ale víc než dvě třetiny armády zůstanou za zdí.",
+      "V závěrečné bitvě u řeky Silarus roku 71 Spartakus zabije vlastního koně před zraky vojáků. Starý zápasnický způsob jak říct: buď zvítězím a vezmu si Crassova, nebo ho nepotřebuji. Obě formace se srazí. Do boje se zapojují kohorty z obou znesvářených stran. Spartakus se probíjí přímo k Crassovi,  zabije dva centuriony kteří mu stojí v cestě, bodne třetího. Zasáhnou ho do stehna. Bojuje na koleni roztříštěným štítem. Kohorty uzavřou kruh. Tělo se v hromadách mrtvých nikdy nenajde.",
+      "Pompeius přijede ze Španělska těsně po bitvě. Pobije zbytky prchajících a v dopise senátu si připíše podíl na vítězství. Crassus mu neodpoví.",
+      "Šest tisíc zajatých otroků nechá ukřižovat podél Via Appia od Capuy do Říma. V intervalech třiceti metrů. Po obou stranách cesty."
     ],
     "pribeh": [
-      "Titus Munatius, legionář, šestá kohorta, bitva na řece Silarus, Spartakovo povstání, 71 př. n. l.",
-      "Říkali nám že jsou otroci. Ale otroci se nechovají takhle.",
-      "Stáli v linii a čekali na nás klidně. Žádný zmatený dav, žádný křik. Jejich přední řada měla scuta — naše scuta, ze zabitých konzulárních vojáků — a stála jako stojí linie která to už dělala mnohokrát. Centurion přede mnou to viděl taky. Neřekl nic.",
-      "Střet byl tvrdý. Muž který na mě vyrazil byl veliký Thrák se sekerou. První švih přišel shora a já jsem šel s ním — stáhl jsem scutum dolů po švihu, nedával mu pevný bod na odraz, a čepel mi sklouzla přes horní hranu do země. Thrák se naklonil dopředu pod vahou toho zmeškaného švihu. Vkročil jsem mu na ratiště sekery, abych mu ji zablokoval, a vrazil mu koleno do stehna. Zakřičel. Než se vzpamatoval, byl jsem za jeho obranou.",
-      "Dorazil jsem ho rychle.",
-      "Opřel jsem se o scutum a pokoušel se popadnout dech. Muž po mé pravici bojoval se dvěma najednou — viděl jsem to koutkem oka, ale nemohl jsem pomoct. Měl jsem svůj prostor, on měl svůj. Tak to funguje. Buď drží, nebo ne.",
-      "Spartakus byl prý někde vpředu. Nikdy jsem ho neviděl — nebo jsem ho viděl a nevěděl že to je on. Crassus ho hledal po bitvě mezi mrtvými a nenašel celé tělo. Možná to bylo milosrdenství, možná jen chaos. Bojiště po bitvě je místo kde se pravda ztrácí stejně snadno jako lidé.",
-      "Via Appia byla lemována kříži ještě týdny. Jezdil jsem kolem nich každý den. Přestal jsem je počítat po prvním dnu — bylo jich víc než dní co mi zbývalo do konce služby. To číslo se v hlavě nedrží dobře."
+      "19 — Spartakovo povstání (71 př. n. l.)",
+      "Titus Vibius Macer, legionář, Bitva u Silaru",
+      "Stojíme v záložní linii těsně před Crassovým štábem. Z nepřátelského středu vyjede jezdec. Sesedne, jedním tahem podřízne svému koni hrdlo a něco křičí k obrovské mase povstalců. Nerozumím mu. Vidím jen, jak zvedne meč a ukáže přímo na náš střed.",
+      "Srazí se to. Ti chlapi bojují jinak. Snaží se strhávat scuta, rozbít naši štítovou hradbu a vtáhnout nás do osobních soubojů. Naše přední řady ale drží. Kdo padne, toho hned nahradí další. Naše disciplína je pomalu drtí.",
+      "Zničehonic se ozve řev. Naše přední centurie praskne. Trhlinou se k nám probíjí skupina obrovských mužů pomalovaných krví.",
+      "Vletí rovnou do naší linie. Z prachu se na mě vyřítí svalnatý Thrák s dlouhým mečem. Zvednu scutum. Náraz těžké čepele mi roztříští horní hranu dřeva a síla rány mě srazí na obě kolena. Vyrazí mi to dech. Gladiátor zvedne meč k dorážce shora.",
+      "Dřív než čepel dopadne, ozve se tupé mlasknutí. Thrák ztuhne. Voják z mé pravé strany mu bleskově vrazil gladius do nekrytých žeber.",
+      "Bratr ve zbrani mě chytne za řemení zbroje a vytáhne zpátky na nohy. Ohlédnu se. Ten muž, co před bitvou podřízl koně, prorazil až k našim zástavám. Řítí se na Crassa. Tři naši centurioni se na něj vrhnou ze stran současně. Ubodají ho k smrti dřív, než stihne udělat další krok."
     ]
   }
 }

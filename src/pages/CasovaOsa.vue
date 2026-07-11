@@ -19,13 +19,13 @@
         </div>
 
         <div class="kapitoly-list">
-          <div
-            v-for="kapitola in skupina.kapitoly"
-            :key="kapitola.id"
-            class="kapitola-row"
-            :class="{ precteno: isRead(kapitola.slug) }"
-            @click="$router.push('/kapitola/' + kapitola.slug)"
-          >
+          <router-link
+  v-for="kapitola in skupina.kapitoly"
+  :key="kapitola.id"
+  class="kapitola-row"
+  :class="{ precteno: isRead(kapitola.slug) }"
+  :to="'/kapitola/' + kapitola.slug"
+>
             <div class="kapitola-num">{{ String(kapitola.id).padStart(2, '0') }}</div>
             <div class="kapitola-info">
               <div class="kapitola-nazev">{{ kapitola.title }}</div>
@@ -35,7 +35,7 @@
               <span v-if="isRead(kapitola.slug)" class="status-precteno">✓</span>
               <span v-else class="status-arrow">→</span>
             </div>
-          </div>
+          </router-link>
         </div>
       </div>
 

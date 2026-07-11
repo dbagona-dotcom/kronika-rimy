@@ -1,52 +1,64 @@
 {
   "id": 9,
-  "slug": "9_2_makedonska_valka",
-  "title": "2. makedonská válka",
+  "slug": "9_druha_makedonska_valka",
+  "title": "Kapitola 9 — Druhá makedonská válka (200–196 př. n. l.)",
   "century": "3_stoleti_pr_n_l",
   "years": "200–196 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img24.webp", "mapa": { "src": "img74.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Rok 201 před naším letopočtem. Kartágo právě podepsalo mír a Scipio Africanus se vrací do Říma jako největší hrdina své generace. Po sedmnácti letech války si republika konečně oddychla.",
-      "Místo toho přijdou poslové z východu.",
-      "Pergamon a Rhodos, dvě z nejbohatších řeckých mocností egejského světa, pošlou do Říma naléhavé zprávy. Filip V. Makedonský a seleukovský král Antiochos III. uzavřeli tajnou dohodu o rozdělení ptolemaiovského Egypta a jeho egejských držav. Hrozí že celý východní středomořský svět padne pod kontrolu dvou ambiciózních králů kteří pak budou mít zdroje k čemukoliv — včetně ohrožení Říma samotného.",
-      "Pro senát byl argument přesvědčivý. Filip se nepotrestaný vyklouzl z první makedonské války. Teď se Řím, posílený vítězstvím nad Kartágem, vrátí. Tentokrát s plnou silou.",
-      "Lidové shromáždění nejdřív odmítne vyhlásit válku — vojáci jsou unaveni a chtějí domů. Konzul Publius Sulpicius Galba přesvědčí hlasující že Makedonie přijde do Itálie sama, pokud ji Řím nezastaví za mořem. Hlasování se opakuje. Válka prochází."
+      "I. Historický kontext",
+      "Scipio Africanus se vrátil do Říma roku 201. Za sebou měl rozbitou kartáginskou velmoc a sedmnáct let války. Republika si oddechla.",
+      "Posly z Pergamonu a Rhodu nikdo nečekal.",
+      "Obě řecké mocnosti přivezly stejnou zprávu: Filip V. Makedonský uzavřel tajnou dohodu s Antiochem III. Seleukovským o rozdělení ptolemaiovského Egypta a jeho egejských držav. A jejich obavy nebyly akademické. Makedonský král ve stejnou dobu napadl Cios a prodal jeho obyvatelstvo do otroctví, dobyl Thasos, přepadal ptolemaiovské přístavy v egejském prostoru. Antiochos mezitím táhl přes Thrákii. Dva nejsilnější helénistické vládci se pohybovali zároveň,  jeden na severu, druhý na jihu, oba směrem k cizímu majetku.",
+      "Senát vzal argument vážně. Vládce Makedonie vyklouzl z první makedonské války nepotrestán. Antiochos ovládá říši od Malé Asie po Persii. Pokud by tito dva spojili zdroje, dalece přesáhnou možnosti Kartága. Scipio Africanus, jehož politická váha po Zamě dosahuje vrcholu, hlasování podpoří.",
+      "Lidové shromáždění nejdřív válku odmítne. Vojáci jsou unaveni a cizí konflikty přes moře nikoho netáhnou. Konzul Publius Sulpicius Galba přijde se srozumitelným argumentem: pokud Řím nezastaví Makedonii za mořem, přijde její král do Itálie sám. Vzpomínky na Hannibala jsou čerstvé. Hlasování se opakuje. Válka prochází."
     ],
     "armada": [
-      "Makedonská falanga dosáhla za Filipa V. vrcholu své technické dokonalosti. Výcvik sarissoforoi je intenzivní a dlouhodobý. Držet čtyřmetrové kopí oběma rukama, udržet krok s řadou, zachovat hustotu šiku i při pohybu — to nejsou věci které se naučí za sezónu. Výsledkem je formace která na rovném terénu v přímém čelním střetu prakticky nemá slabé místo. Pět řad saris míří na nepřítele zároveň, první dvě jsou zasunuty mezi štíty, tři další visí nad nimi jako oceánová vlna zmrazená v pohybu.",
-      "Jenže falanga má svůj achilles — a tím je terén. Na zvlněném povrchu nebo mezi kopci přestává fungovat jako celek. Sarisy se kříží, muži ztrácejí kontakt se sousedy, šik se trhá. A v mezerách falangy je makedonský voják téměř bezbranný — drží obouruční kopí, jeho štít je malý a uvázaný na předloktí.",
-      "Přesně tuto slabinu využívá manipulární legie. Manipuly po stu dvaceti mužích operují nezávisle a reagují na terén bez potřeby udržet jeden nepřerušený šik. Centurioni velí v přímém kontaktu s muži, rozhodnutí se dělají rychle a lokálně. Legie se dokáže roztáhnout, stáhnou, obejít nebo zaplnit mezeru zatímco falanga stále hledá rovný povrch.",
-      "Řím navíc poprvé v plné míře využívá spojeneckou jízdu — aitólskou kavalerii a pergamské oddíly jako mobilní složku doplňující pěchotní sílu legií."
+      "II. Armáda a vojenství",
+      "Makedonská falanga dosáhla za Filipa V. vrcholu své technické dokonalosti. Sarissoforoi trénují roky aby udrželi šik v pohybu. Držet čtyřmetrové kopí oběma rukama, krok se sousedem, hustotu řady i při přesunu a to nejsou věci které se naučí za sezónu. Na rovném terénu v čelním střetu je výsledná formace téměř nezastavitelná. Pět řad saris míří na nepřítele zároveň, první dvě jsou zasunuty mezi štíty, tři další visí nad nimi na výšce hrudi.",
+      "Slabinou falangy je terén. Na zvlněném povrchu přestává fungovat jako celek, sarisy se kříží, muži ztrácejí kontakt se sousedy, šik se trhá. Voják v mezeře falangy je skoro bezbranný: drží obouruční kopí a malý štít uvázaný na předloktí.",
+      "Manipulární legie na to má odpověď. Manipuly po stu dvaceti mužích operují nezávisle a reagují na terén bez nutnosti udržet jeden nepřerušený šik. Centurioni velí v přímém kontaktu s muži, rozhodnutí se dělají lokálně a rychle. Legie se dokáže roztáhnout, stáhnout, obejít. Falanga vyžaduje rovnou pláň a terén v Řecku málokdy vyhovuje.",
+      "Řím navíc přivede spojeneckou jízdu, aitólské oddíly a pergamskou kavalerii."
     ],
     "konflikt": [
-      "Počáteční fáze tažení probíhá bez rozhodující bitvy. Řím přepraví armádu do Ilýrie a postupuje Makedonií. Filip se vyhýbá přímému střetu — opevňuje průsmyky, vypaluje zásobovací trasy a manévruje. Dva roky vojska táhnou Řeckem bez rozhodující konfrontace.",
-      "Roku 198 přebírá velení Titus Quinctius Flamininus. Mladý, plynně řecky mluvící, s hlubokým porozuměním helénistické politice. Dokáže jednat s řeckými spojenci jako rovný s rovnými. Obratnou diplomacií rozbije Filipovu spojeneckou síť, přetáhne na římskou stranu Achajský spolek a izoluje Makedonii politicky předtím než ji porazí vojensky.",
-      "Rozhodující okamžik přijde roku 197 na kopcích u Kynoskefal v Thessálii. Obě armády se setkají na zvlněném terénu, který si Filip nevybral, v ranní mlze která situaci jen znepřehlední.",
-      "Pravé křídlo falangy bojující z kopce dolů tvrdě zatlačí římskou levici — chvíli to vypadá jako za Pyrrhových válek. Ale levé křídlo falangy které právě přestupuje přes hřeben kopce není plně zformováno. Sarisy v pohybu, šik necelistvý, muži hledají místo v řadě.",
-      "V tomto okamžiku jeden z Flamininových vojenských tribunů jedná bez rozkazu. Vezme dvacet manipulů z vítězícího pravého křídla a zaútočí na rozvíjející se makedonské levé křídlo ze strany a zezadu. Falanga napadená ze směru na který není připravena se rozpadá. Vojáci v zadních řadách začínají otáčet sarisy hrotem dolů — starověké gesto kapitulace. Co bylo ještě před chvílí neprostupnou zdí se mění v dav mužů bezmocně svírajících příliš dlouhá kopí.",
-      "Filip prchá. Přes osm tisíc Makedonců padne, dalších pět tisíc končí v zajetí.",
-      "Následujícího roku vystoupí Flamininus během Isthmijských her v Korintu před zaplněný stadion a nechá trubače odtroubit ticho. Hlasatel před zraky desítek tisíců Řeků čte proklamaci: Řím propouští všechna helénská města z makedonského područí — svobodná, bez posádek, bez daní, pod vlastními zákony. Dav reaguje takovým řevem že padají ptáci z nebe.",
-      "Flamininus byl pro jeden zářivý okamžik absolutním osvoboditelem.",
-      "Smlouva je podepsána. V Řecku ale stále zůstávají římské posádky, v klíčových přístavech hlídkují římské lodě a na peloponéských pevnostech dál vlají orlice."
+      "III. Průběh konfliktu",
+      "Armáda přejde Jadran roku 200. První dvě léta přinášejí manévrování a obléhání. Makedonský velitel se vyhýbá přímému střetu, brání průsmyky a táhne válku do délky. Oblehne Atrax v Thessálii a drží ho měsíce. Římané několikrát zaútočí na jeho linii obrany v průsmycích Epiru bez průlomu. Válka drhne.",
+      "Roku 198 převezme velení Titus Quinctius Flamininus. Je mu jednatřicet. Je to nejmladší konzul jakého si Řím pamatuje. Flamininus mluví plynně řecky a jedná s řeckými spolky jako rovný s rovnými. Jedná jako politik který přišel vyjednávat. Svolá kongres Achájského spolku v Sikyonu a nabídne jim to co Makedonie nikdy nenabídla: autonomii bez posádek. Achájci přejdou na římskou stranu. Po nich se přidá Aitólie a vzápětí Boiótie. Makedonie se ocitá politicky izolována ještě předtím než přijde bitva.",
+      "Ta přijde roku 197 u Kynoskefal v Thessálii. Rok předtím se Flamininus s králem setkali u Nikaie k mírovým jednáním. Makedonie nabídla návrat ke stavu před válkou. Flamininus požadoval stažení ze všech řeckých měst. Panovník odmítl a příměří se rozpadlo, obě armády se vrátily do pole.",
+      "Bitva u Kynoskefal začne bez plánování. Obě armády se setkají na vlnitém terénu v ranní mlze, bez plného průzkumu. Předvoje narazí na sebe na hřebenech kopců a velitelé musejí nasadit hlavní síly v terénu který si nikdo nevybral.",
+      "Pravé křídlo falangy bojuje z kopce dolů a tvrdě zatlačí římskou levici. Makedonci drží šik a tlačí. Masa saris rozmetá vše před sebou jako za Pyrrhových válek. Ale levé křídlo falangy právě přestupuje přes hřeben kopce. Sarisy v pohybu, šik v přeskupení, muži hledají místo v řadě.",
+      "Jeden z Flamininových tribunů jedná bez rozkazu.",
+      "Vezme dvacet manipulů z vítězícího pravého křídla a zaútočí na rozvíjející se makedonské levé křídlo ze strany a zezadu. Manipuly udeří do míst kde sarisy ještě nejsou v bojové poloze, kde muži nestojí v řadách ale přecházejí kopec.",
+      "Falanga napadená ze směru na který není připravena se rozpadá. Vojáci v zadních řadách začínají otáčet sarisy hrotem dolů, starověký signál kapitulace. Část Římanů ho nevidí nebo nerespektuje a boj pokračuje i v části falangy která se vzdává. Přes osm tisíc Makedonců padne, pět tisíc skončí v zajetí.",
+      "Král prchá.",
+      "Následujícího roku Flamininus vystoupí na Isthmijských hrách v Korintu před zaplněný stadion. Trubači odtroubí ticho. Hlasatel před zraky desítek tisíců Řeků čte proklamaci: všechna helénská města jsou od toho okamžiku svobodná — bez makedonských posádek, bez daní, pod vlastními zákony.",
+      "Stadion vybuchne. Lidé padají na sebe, mačkají se k hlasateli, někteří se rozbrečí. Řekové čekali na tuto zprávu čtyřicet let.",
+      "Poražený panovník zaplatí tisíc talentů, vzdá se flotily kromě pěti lodí a přijme římský dohled nad zahraniční politikou. Makedonie zůstane jako stát. Řím nemá zájem ji spravovat, jen neutralizovat.",
+      "Roku 194 Flamininus stáhne legie z Řecka a v Římě oslaví triumf. V Řecku mu stavějí sochy a razí mince s jeho portrétem, je prvním žijícím Římanem který takovou poctu od cizích Řeků dostane. Vyklidí i Korint, Chalkidu a Demetrias. Tři pevnosti které Makedonci nazývali okovy Řecka. Vojáci se nalodí a odplují.",
+      "A na druhém konci Egeje Antiochos III. sledoval celou válku. Zatímco Řím řešil Makedonii, Antiochos dobyl Thrákii. Teď se dívá přes Egejské moře na řecká města kde Řím právě odvolal posádky.",
+      "Na jeho dvoře mezitím sedí Hannibal Barkas. Poražený u Zamy, pronásledovaný kartáginskými aristokraty kteří ho udali Římu, uprchl roku 195 z Kartága. Přišel nabídnout Antiochovi plán jak porazit Řím. Antiochos ho vyslechne."
     ],
     "pribeh": [
-    "Quintus Marcius, centurio, druhý manipul principů, bitva u Kynoskefal, 197 př. n. l.",
-    "Naše pravé křídlo rozrazilo jejich lehkou pěchotu. Stál jsem opřený o scutum, plíce v ohni, a pokoušel se v tom dusivém prachu popadnout dech.",
-    "Pak jsem se podíval doleva. Naše druhé křídlo umíralo.",
-    "Makedonská falanga je drtila z kopce dolů. Ten zvuk nešlo přeslechnout ani ve vřavě celého údolí — drcení, praskání, řev, který neměl začátek ani konec. Nemohli jsme dělat nic, jen se dívat.",
-    "Vedle mě se vynořil jezdec. Tribun, jehož jméno neznám dodnes. Z koně mu kapala pěna a z meče krev. Nekázal, neřval rozkazy. V tom hluku by ho nikdo neslyšel.",
-    "Přijel přímo k signiferovi. Popadl žerď s praporem a hrubou silou ji strhl doleva, ke svahu, za záda postupující falangy.",
-    "Rozkaz byl jasný. Říman následuje svůj prapor.",
-    "„Doleva! Za zástavou!\" zařval jsem a začal fyzicky strkat muže štítem do nového směru.",
-    "Běželi jsme rozervaným svahem. Noha mi zajela do díry v zemi a v koleni mě prudce škublo. Nezdržel jsem se ani na vteřinu — bylo nás příliš mnoho za zády. Šel jsem dál a teprve po deseti krocích jsem pochopil, že to nebolí. Zatím.",
-    "Makedonci o nás nevěděli. Tlačili dopředu a my jsme narazili do jejich boku.",
-    "Vletěl jsem do trhliny mezi dvěma muži. Ten nalevo si mě všiml pozdě. Zkusil otočit sarisu, ale šestimetrové dřevo se zablokovalo o rameno vlastního spolubojovníka. Srazil jsem mu ratiště dolů hranou štítu a narval se na něj.",
-    "Gladius zajel pod řemen kyrysu hluboko do žeber.",
-    "Makédonec klesl. Já chtěl tasit čepel a jít dál — ale nešlo to. Žebra a sval ji sevřely jako kleště. Táhl jsem, čepel se nehýbala. Táhl jsem podruhé. Nic.",
-    "Pustil jsem jílec a sáhl na dýku. Makédonec ještě žil, oči otevřené, rty se pohybovaly. Gladius trčel z jeho boku jako kůl.",
-    "Tasil jsem dýku a šel dál.",
-    "Makedonci se nemohli otočit, nemohli zkrátit sarisy, nemohli nic. Past z překřížených kopí, kterou si sami vytvořili, se stala jejich hrobem. Procházel jsem tím hrobem s dýkou v ruce a dělal svou práci."
-  ]
+      "09 — 2. makedonská válka (197 př. n. l.)",
+      "Titus Antonius Cursor, tribunus militum, Kynoskefaly",
+      "Prach na hřebeni se víří. Sedím na koni a sleduji bojiště. Naše druhé křídlo pod tlakem dlouhých sariss ustupuje dolů po svahu. Řady praskají a lámou se.",
+      "Z oblaku prachu vyrazí jezdec. Kůň pod ním těžce oddechuje.",
+      "„Jejich levé křídlo teprve přechází hřeben!“ křikne. „Nemají srovnané řady!“",
+      "Rozhlédnu se po poli. Konzul je v obrovském zmatku dole na svahu, zcela mimo dosah. Na čekání není čas. Pobídnu koně a tryskem dojedu k nejbližšímu manipulu.",
+      "„Dej mi to!“ zařvu a vytrhnu signiferovi vexillum z rukou.",
+      "Zvednu prapor vysoko nad hlavu a mávnu jím směrem ke stoupajícímu kopci. Ostatní signiferi v linii si mě všimnou. Okamžitě se ke mně sbíhají centurioni z dvaceti okolních manipulů.",
+      "Ukážu mečem přímo na hřeben. Makedonci se tam teprve formují, špice jejich kopí trčí svisle k nebi.",
+      "„Jdeme do nich!“ zavelím. „Pěchota čelně, já beru jízdu do boku!“",
+      "Centurioni se bleskově rozběhnou zpět ke svým mužům. Trubky ostře zaječí. Legionáři srazí štíty a vyrazí do strmého svahu. Srazí se s Makedonci v tvrdém nárazu, dřevo skřípe o dřevo. Pěchota se do nepřítele okamžitě zakousne.",
+      "Otočím koně. Kavalerie mě následuje. V plném trysku vrazíme do jejich nechráněného boku dřív, než stihnou sklopit hroty. Můj kůň srazí prvního falanxistu ramenem do hlíny. Seknu po dalším shora dolů a projíždíme skrz hroutící se masu těl. Jejich šik praská zevnitř."
+    ]
   }
 }

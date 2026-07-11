@@ -1,44 +1,61 @@
 {
   "id": 20,
-  "slug": "3_mithridatska_valka",
-  "title": "3. mithridatská válka (73–63 př. n. l.)",
+  "slug": "20_treti_mithridatska_valka",
+  "title": "Kapitola 20 — Třetí mithridatská válka (73–63 př. n. l.)",
   "century": "1_stoleti_pr_n_l",
   "years": "73–63 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img46.jpg", "mapa": { "src": "img47.jpeg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Mithridates VI. Pontský byl jedním z nejpozoruhodnějších nepřátel které Řím kdy poznal. A bezesporu nejodolnějším. Dvě předchozí války s ním skončily jeho porážkou a jeho návratem. Pontský král kombinoval diplomatickou mazanost, osobní statečnost a schopnost obnovit království z trosek způsobem který římské velitele přiváděl k šílenství generaci za generaci.",
-      "První válka skončila roku 85 Sullovým mírem — Sulla potřeboval volné ruce pro Itálii a přijal podmínky které Mithridata fakticky nezničily. Druhá válka roku 83 skončila tak nerozhodně že ji někteří historici označují spíše za rozšířenou pohraniční potyčku. Mithridates obnovil armádu, upevnil spojenectví s arménským králem Tigranem a čekal na příležitost.",
-      "Roku 74 mu příležitost přinesl osud. Bithýnie, malé království na severozápadě Malé Asie, odkáže svá území Římu jako dědictví. Mithridates okamžitě pochopí že pokud Řím Bithýnii přijme, bude Pontus ze tří stran obklopen římskými provinciemi. Zaútočí jako první. S armádou přesahující sto tisíc mužů a s přesvědčením že Řím je příliš zaměstnaný Sertorijskou válkou ve Španělsku a Spartakovým povstáním v Itálii na to aby zareagoval plnou silou.",
-      "Mithridates se přepočítá.",
-      "Senát obratem vysílá legie. Vrchní velení získává Lucius Licinius Lucullus, Sullův bývalý kvestor — aristokrat, epikurejský filozof a milovník umění, který se ukáže jako jeden z nejbrilantnějších vojenských myslí své generace."
+      "I. Historický kontext",
+      "Mithridates VI. od dětství žil v strachu z otrav. Jeho vlastní otec byl pravděpodobně otráven. Jako mladý začal systematicky testovat jedy na sobě. Malé dávky arsenu, akonitu a dalších látek, každodenně po léta. Lékař Krateros mu namíchal přípravek z 54 složek: bolus, myrha, šafrán, opium a desítky dalších. Výsledkem byl muž jehož tělo přestalo na jedy reagovat normálně.",
+      "Mithridates vládl Pontu na jižním pobřeží Černého moře a dvakrát prohrál s Římem. Roku 85 Sulla potřeboval volné ruce pro Itálii a přijal podmínky které Mithridata fakticky nezničily. Druhá válka roku 83 skončila nerozhodně. Mithridates obnovil armádu, upevnil spojenectví s arménským králem Tigranem a připravoval se.",
+      "Roku 74 Bithýnie odkáže svá území Římu. Je to malé království na severozápadě Malé Asie. Mithridates zaútočí jako první se sto dvaceti tisíci pěšáky a šestnácti tisíci jezdci. Řím je právě zaměstnaný Sertorijskou válkou ve Španělsku a Spartakovým povstáním v Itálii. Dvě souběžné krize na opačných okrajích světa. Senát přesto pošle legie. Vrchní velení dostane Lucius Licinius Lucullus."
     ],
     "armada": [
-      "Římská armáda nasazená v Asii je plně mariánská. Kohorty definitivně nahradily manipuly, sezónní občanskou domobranu nahradili profesionální vojáci se standardizovanou výzbrojí. Výkon legie nestojí na sociálním původu mužů, nýbrž na tvrdém výcviku a vnitřní disciplíně.",
-      "Mithridatovo vojsko mezitím prošlo zásadní transformací. Pontský král najal římské emigranty a vojenské zběhy z poraženého mariánského tábora. Pod jejich vedením přebudoval pontskou pěchotu přesně podle římského vzoru — kohorty, pilum, scutum, gladius, vše opisem římského originálu. K této základně přidává těžkou arménskou jízdu katafraktů chráněnou šupinovým brněním od hlavy ke kopytům a sarmatské lučištníky schopné přesné střelby za plné jízdy i při ústupu.",
-      "Řím tak stojí před armádou která kombinuje západní disciplínu s východní mobilitou."
+      "II. Armáda a vojenství",
+      "Legie v Malé Asii jsou v tomto období nejzkušenější co má Řím v poli. Takzvané fimbrijské legie veteráni z první mithridatské války, předaní od Sully přes Fimbriu a zpět, přenesení na Lucullovo velení. Nesou v sobě deset let nepřetržitých tažení. Každý z nich byl u Chaironeie nebo Orchomenu. Vesnici za mořem mnozí nepamatují. Jsou vybaveni standardní výzbrojí pomariovského legionáře: lorica hamata, gladius hispaniensis, pilum, scutum. Výcvik je srostlý s tělem.",
+      "Lucullus byl Sullův kvestor, aristokrat a epikurejský filosof. Pozdní kariéra ho proslaví gastronomickými večírky. V poli ale nedovolí žádnému veliteli vstoupit do bitvy bez předchozího průzkumu. Přichází se třiceti tisíci muži. Mithridates má přes sto tisíc.",
+      "Mithridatova armáda není ta z první války. Pontský král najal mariánské dezertéry a přebudoval pontskou pěchotu přesně podle římského vzoru. Kohorty, pilum, scutum, gladius. K tomu přidá těžkou jízdu katafraktů v šupinovém brnění a sarmatské lučištníky schopné přesné střelby za plné jízdy. Lucullus bude čelit armádě která se naučila od Římanů bojovat jako Římané."
     ],
     "konflikt": [
-      "Lucullova fáze začíná roku 73. U Kyziku obklíčí Mithridatovu armádu na poloostrově a nechá ji vyhladovět místo přímého útoku. Pontský král ztratí třicet tisíc mužů bez jediné velké bitvy — ne v boji ale na ústupu přes zimu bez zásobování.",
-      "Lucullus postupuje hluboko do Pontu a dobývá jedno město za druhým. Mithridates prchá na dvůr arménského krále Tigrana. Lucullus překračuje hranice Arménie a s armádou necelých dvaceti tisíc mužů udeří na Tigranovo hlavní město Tigranokertum. Arménské vojsko je pětinásobné ale organizačně roztříštěné. Lucullus využije využije členitého terénu a arménská formace se rozpadne s minimálními ztrátami na římské straně.",
-      "Pak začnou jeho problémy. A jsou to problémy ne vojenské ale lidské.",
-      "Fimbrijské legie, složené z veteránů sloužících nepřetržitě již od Sullova tažení, odmítají postupovat dál na východ. Jsou vyčerpaní, tisíce kilometrů od domova a Lucullus nedokáže vzpouru potlačit. Mithridates využije paralýzy a okamžitě se vrací do Pontu.",
-      "Roku 66 schvaluje senát zákon Lex Manilia a předává vrchní velení Pompeiovi. Oba velitelé se setkají v Malé Asii. Jejich setkání je ledové.",
-      "Pompeiovo tažení staví na nekompromisní rychlosti. U pontské řeky Lykos napadne v noci Mithridatův tábor a způsobí zdrcující ztráty. Král prchá na Krymský poloostrov. Pompeius pronásledování zastavuje a obrací pozornost na Arménii. Tigranes přijíždí do Pompeiova tábora a skládá královský diadém k jeho nohám. Pompeius mu korunu vrátí, ale všechna jeho vnější dobytá území definitivně připojuje k republice.",
-      "Mithridates izolovaný na Krymu plánuje pozemní tažení přes stepní národy Černomoří přímo na Itálii. Roku 63 se však proti němu vzbouří jeho vlastní syn Farnakés a obklíčí ho v paláci. Král se pokusí otrávit, ale léta požívání malých dávek jedů jako prevence proti atentátu způsobí že žádný jed na něj neúčinkuje. Nařizuje proto svému osobnímu strážci aby ho probodl mečem.",
-      "Strážce uposlechne.",
-      "Řím anektuje Pontus, Bithýnii i Sýrii a ustavuje přímou kontrolu nad celým Blízkým východem. Pompeius se vrací s nejmasivnějším triumfem v dosavadních dějinách města. Asijská kořist naplní státní pokladnu na desítky let dopředu."
+      "III. Průběh konfliktu",
+      "Mithridates oblehne Kyzikus, opevněné město na poloostrově u Marmarského moře. Lucullus pozoruje z kopce a neudeří. Místo toho pomalu přeřeže každou zásobovací cestu vedoucí k Mithridatovu táboru. Pontský král obléhá Kyzikus ale nemůže zásobit vlastní armádu.",
+      "Přijde zima. V Mithridatově táboře nejprve zmizí chléb. Pak maso. Vojáci jedí kůži z obuvi. Přijdou nemoci. Za osm měsíců zemře hladem a nemocemi přes třicet tisíc Pontských bez jediné velké bitvy. Mithridates se pokusí evakuovat zbytky armády po moři — bouře potopí část flotily. Vrátí se do Pontu se zlomkem původní síly.",
+      "Lucullus ho pronásleduje. U Kabeiry Mithridatovy zásobovací oddíly padnou do obklíčení při výpadu za jídlem. Zpráva o porážce dorazí k postupujícím jednotkám a do chvíle kdy doputuje k zadním řadám, nikdo neví co se doopravdy stalo, každý ví jen to co slyšel od prchajícího muže před ním. Mithridatův tábor se rozloží v panice. Pontský král prchne s hrstkou jezdců na dvůr arménského krále Tigrana.",
+      "Lucullus požaduje vydání. Tigranes odmítne a shromáždí přes sto padesát tisíc mužů. Když ho informují o příchodu Římanů, odpovídá: příliš mnoho pro poselstvo, příliš málo pro armádu.",
+      "U Tigranocerty Tigranes nasadí jízdu na pravém křídle aby obklíčil Lucullův útočný klín. Lucullus posílá vlastní jízdu přímo na ni. Arménská kavalerie zaváhá — útočit na Lucullovo křídlo nebo bránit vlastní bok? Vteřiny váhání. Lucullova pěchota vráží do levého křídla dřív než se rozhodnou. Tigranova kavalérie prchá zpátky do vlastní pěchoty a rozbíjí formaci. Vojáci v ozdobných přilbách a purpurových pláštích zahazují zbraně a prchají — Lucullus přijde o méně než pět set mužů.",
+      "Lucullus postupuje dál do Arménie. V zimě roku 68 se zastaví před svými legiemi.",
+      "Fimbrijané odmítají pochodovat. Nestojí s kopím v ruce ale sedí u stanů zabalení do plášťů a nedívají se na velitele. Lucullus prochází táborem a mluví ke svým mužům. Chce táhnout na Artaxatu, arménské hlavní město. Muži mlčí. Jsou tisíce kilometrů od Itálie a nepamatují si datum kdy si mysleli že se vrátí domů. Tribun Publius Clodius Pulcher chodí od stanu ke stanu a dává nespokojenosti hlas. Legie se nepohne.",
+      "Mithridates využije chvíle nečinnosti a vrátí se do Pontu.",
+      "Senát předá vrchní velení Pompeiovi zákonem Lex Manilia roku 66. Cicero k návrhu promluví v senátu. Lucullus předá legie, vrátí se do Říma a ustoupí do ústraní svých nově vybudovaných zahrad.",
+      "Pompeius napadne Mithridatův tábor u řeky Lykos za noci. Měsíc vychází za jeho armádou a osvětlí pontský tábor shora — vojáci dole vidí jen siluety útočníků na světlé obloze, nemohou odhadnout vzdálenost ani počet. Mithridates prchá v chaosu s hrstkou jezdců. Pontský tábor se rozpadne.",
+      "Tigranes přijede do Pompeiova tábora bos, s diadémem v ruce. Složí korunu k Pompeiovým nohám. Pompeius mu ji vrátí. Bere si všechna dobytá území.",
+      "Mithridates dorazí na Krym přes sedmdesát let starý. Plánuje pochod přes stepní národy přímo na Itálii. Syn Farnakés zorganizuje vzpouru,  vojáci nechtějí tažení, chtějí domů. Mithridates je obklíčen v paláci v Pantikapaiu.",
+      "Sáhne po jedu.",
+      "Nic.",
+      "Zavolá galského strážce Bitoita. Žádá ho aby ho probodl mečem.",
+      "Bitoitos uposlechne.",
+      "Pompeius se vrátí do Říma s triumfem největším v dosavadních dějinách. Pontus, Bithýnie i Sýrie jsou anektovány. Řím kontroluje celý Blízký východ."
     ],
     "pribeh": [
-      "Titus Labienus, centurio první kohorty, noční útok na pontský tábor u řeky Lykos, třetí mithridatská válka, 66 př. n. l.",
-      "Měsíc byl za mraky. Signál bylo pouhé klepnutí na štít, přenesené po řadě jako šepot. Šli jsme bez pochodní, bez hlasu, tři hodiny před úsvitem.",
-      "Pontský tábor v noci je labyrint stanů a ohňů a spících mužů. Strážní u severního vchodu nás uslyšeli pozdě — o krok pozdě, což je přesně dost. Prvního jsem srazil štítem bez výpadu, druhého zachytil muž za mnou. Prošli jsme dovnitř.",
-      "Moje kohorta měla velitelský stan — ne Mithridata, ten byl za gardou, ale jeho štábní důstojníky a zásoby. Uvnitř jeden muž vzhůru — starší, s tabulkami v ruce, pravděpodobně logista. Podíval se na mě s výrazem člověka který přesně chápe co se děje a ví že nemá smysl křičet. Svázali jsme ho a šli dál.",
-      "Mithridates utekl přes severní bránu na bílém koni. Viděl jsem tu postavu — ostatní jezdci kolem ní jako ochrana — jak mizí do tmy na sever. Pompeius stál na kopci nad táborem a díval se za nimi. Pak se otočil k legátovi a řekl jediné slovo: „Ráno.\"",
-      "Sedím teď u ohně a oheň dohoří.",
-      "Lucullus odjel před týdnem bez ceremony, bez rozloučení s vojáky. Čtyři roky jsem se pod ním učil věci které žádné cvičiště nevyučuje — číst terén, odhadnout zásobování tři týdny dopředu, udeřit na místo nejmenšího odporu místo na místo největší slávy. Obtížný muž, studený. Ale velitel. Pompeius přijal jeho tábor, jeho mapy, jeho zásobovací plány — a Lucullia propustil způsobem který byl technicky zdvořilý a prakticky ponižující.",
-      "Pokládám na zem svou révovou hůl. Dřevo je na jednom místě prošlapané od let — místo kde ji každý den svírám. To prošlapané místo je Lucullovo. Vzal jsem ji z jeho tábora po jeho odjezdu. Nikdo si toho nevšiml.",
-      "Ráno pochodujeme na sever."
+      "20 — 3. mithridatská válka (69 př. n. l.)",
+      "Timos Varanes Durus, auxilia (lučištník), Tigranocerta",
+      "Pláň pod Tigranocertou je zaplavená lidmi. Arménská armáda v klidu čeká na náš postup. Jejich elitní obrněná jízda stojí natlačená těsně pod strmým kopcem. Muži i koně jsou pokrytí těžkými železnými šupinami.",
+      "Lucullus si všimne, že samotný hřeben nad nimi je úplně prázdný.",
+      "Zatímco naše kavalérie vyrazí dopředu a dělá hluk, dvě naše kohorty se v tichosti odtrhnou od šiku. Běžíme podél řeky, šplháme přes sráz a za chvíli stojíme na kopci přímo za zády železné jízdy.",
+      "„Vítězství je naše, vojáci!“ zařve Lucullus, tasí meč a ukáže dolů ze svahu. „Zahodit pila! Hned do nich!“",
+      "Rozběhneme se dolů. Katafrakti namačkaní pod svahem se v úzkém prostoru nedokážou otočit. Vletíme přímo mezi ně. Obklopí nás hradba železných těl. Zkrátím gladius u boku a bodám tam, kde končí těžká zbroj. Přímo do nechráněných svalů na nohou a pod břicha zvířat.",
+      "Můj výpad zajede hluboko do měkké tkáně. Kůň zaječí, vzepne se na zadní a shodí těžce okovaného jezdce rovnou pod moje caligae. Překročím ho a bodám dál.",
+      "Postupujeme vpřed. Zvířata šílí bolestí. Obrněná jízda se snaží ustoupit před našimi čepelemi, ale nemá kam. Nacouvají vší vahou rovnou do vlastní postupující arménské pěchoty.",
+      "Zezadu slyšíme praskot kostí a řev, jak těžká kopyta drtí jejich vlastní lidi. Zastavíme se pod kopcem. Se zakrvácenými meči v rukou zíráme, jak se ta obrovská armáda v prachu rozšlapává úplně sama."
     ]
   }
 }

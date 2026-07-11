@@ -1,49 +1,57 @@
 {
   "id": 10,
   "slug": "10_syrska_valka",
-  "title": "Syrská válka",
+  "title": "Kapitola 10 — Syrská válka (192–188 př. n. l.)",
   "century": "2_stoleti_pr_n_l",
   "years": "192–188 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img75.jpg", "mapa": { "src": "img27.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Flamininova proklamace na Isthmijských hrách roku 196 zněla jako velkorysé gesto. Řím osvobodil Řecko, stáhl legie a nechal řecká města žít pod vlastními zákony. Pro mnoho Řeků to bylo upřímně přijaté osvobození.",
-      "Ne všichni ale sdíleli tento pohled. V Korintu a Spartě se ozývaly hlasy které v římské přítomnosti viděly nikoliv osvoboditele ale nového hegemona čekajícího na příležitost. A v Aitólii, spolku který Řím před lety použil jako nástroj proti Filipovi a pak jeho zájmy přehlédl při mírovém jednání, narůstala zášť která hledala spojence.",
-      "Spojence nalezla v Antiochovi III., seleukovském králi rozlehlé říše sahající od Sýrie přes Persii až po hranice Indie. Antiochos byl přesvědčený o vlastním alexandrovském předurčení a expanze na západ do Malé Asie a Thrákie ho přivedla do přímého střetu s římskými zájmy na egejském pobřeží. Varovné dopisy ze senátu přijímal zdvořile a ignoroval jejich obsah.",
-      "Pak přišel k jeho dvoru člověk jehož jméno samo o sobě mělo váhu varování — Hannibal Barkas. Po porážce u Zamy uprchl z Kartága a přišel k Antiochovi s plány a nenávistí k Římu která za dvacet let nezeslábla ani o stupeň. Antiochos mu naslouchal — ale ne vždy ho poslouchal. To bude jeden z jeho osudových omylů.",
-      "Roku 192 překročí Antiochos se svou armádou do Řecka na pozvání Aitólců. Přiveze deset tisíc vojáků, zlomek toho co mu Hannibal doporučoval, a spoléhá na to že se k němu Řecko spontánně přidá. Nepřidá. Řím zahájí přesně tu válku které se Antiochos pokoušel vyhnout."
+      "I. Historický kontext",
+      "Aitólský spolek bojoval po boku Říma čtyři roky a skončil s prázdnýma rukama. Flamininus přidělil osvobozená města jiným spojencům a územní požadavky Aitólů zůstaly nevyslyšeny. Hledají protiváhu.",
+      "Najdou ji na východě. Seleukovský král Antiochos III. rozšiřuje říši přes Malou Asii do Thrákie a roku 192 přijme aitólské pozvání do Řecka. Přiveze deset tisíc mužů a čeká, že se k němu přidají řecká města. Ta právě vychutnávají svobodu vyhlášenou Flamininem a o novém vládci nemají zájem.",
+      "Hannibal Barkas na jeho dvoře stále prosazuje plán přímé invaze do Itálie. Antiochos ho odmítne. Rozhodne se udržet se v Řecku.",
+      "Senát vyšle konzula s armádou. Posádky v Korintu, Chalkidě a Demetriovi, které si Řím ponechal po druhé makedonské válce, dají operaci pevný základ."
     ],
     "armada": [
-      "Antiochova armáda je živou ukázkou helénistického vojenství v jeho plné šíři — i se všemi jeho slabinami.",
-      "Jádrem je falanga vyzbrojená sarissami po vzoru makedonské tradice. Kolem tohoto jádra se rozkládá pestrobarevná směs jednotek ze všech koutů obrovské říše — syrští lučišníci, parthská jízda, kappadočtí jezdci, arabské velbloudí oddíly. Zcela novou zbraní pro západní svět jsou katafrakti, těžká kavalerie oděná v šupinové zbroji od hlavy k patám. Král přiváží i šestnáct indických slonů s věžičkami na hřbetech plnými lučištníků.",
-      "Tato obrovská síla má jeden zásadní problém — příliš mnoho různých součástí s různými způsoby boje a různými jazyky. Koordinovat takový kolos vyžaduje velitele Alexandrovy úrovně. Antiochos jím není.",
-      "Páteř centurionského sboru tvoří veteráni druhé punské a druhé makedonské války. Muži kteří prošli Hannibalem i Kynoskefaly. Legie tak poprvé vstupují do Asie — na území kde dosud žádný římský voják nestál.",
-      "Velení asijského tažení získává Lucius Scipio. Klíčovou zárukou je přítomnost jeho legáta — znovu nastupuje vítěz od Zamy, Scipio Africanus."
+      "II. Armáda a vojenství",
+      "Dvě římské a dvě spojenecké legie tvoří přibližně třicet tisíc mužů. Římské jezdectvo nestačí spojeneckým ani seleukovským silám. Eumenes II. z Pergamu, jehož království leží přímo na ráně, přivede vlastní těžkou jízdu a lehké pěší oddíly.",
+      "Naproti nim stojí armáda sestavená z celé šíře seleukovské říše. Sedmdesát tisíc mužů. Jádrem je falanga šestnácti tisíc vojáků rozestavených do hloubky třiceti dvou řad, dvojnásobek obvyklého. Antiochos ji sestaví tak, aby ji nešlo čelně prorazit. Výsledkem je zeď která se nepohne  a která se nedokáže otočit. Na křídlech stojí katafrakti, jezdci pancéřovaní od hlavy k patám stejně jako jejich koně. Před celou linii vyjede padesát čtyři indických slonů a srpové vozy s kosami přivázanými na osách kol.",
+      "Legie nikdy nestála proti armádě sestavené z tolika různých způsobů boje najednou."
     ],
     "konflikt": [
-      "Antiochovo řecké tažení skončí rychle. Thermopyly — průsmyk kde tři sta Sparťanů zastavilo perskou armádu tři staletí dříve — se stanou i místem jeho porážky. Roku 191 konzul Marcus Acilius Glabrio zaútočí na Antiochovy pozice v průsmyku. Aitólci kteří měli krýt boční cestu přes kopce ji nechají nechráněnou. Římský oddíl ji najde a zaútočí na Antiochův tábor ze zálohy shora. Seleukovská armáda se okamžitě rozpadne a Antiochos prchá do Asie s hrstkou přeživších.",
-      "Řím ho bude následovat. Roku 190 překročí legie Hellespont a poprvé v dějinách postaví římský sandál na asijskou půdu.",
-      "Rozhodující bitva se odehraje u Magnésie v Lýdii. Antiochos sestaví armádu která číselně Římany výrazně převyšuje — sedmdesát až osmdesát tisíc mužů proti třiceti tisícům. Falangu postaví do středu, na křídla kavalerii a katafrakty, slony rozmístí podél celé linie.",
-      "Bitva začne zdánlivě dobře pro Antiocha. Osobně vede pravé křídlo kavalerie, průlomem rozežene levé římské křídlo a pronásleduje prchající jezdce až k římskému táborovému opevnění. Zatímco na tomto konci bojiště slaví vítězství, na druhém konci se rozhoduje válka.",
-      "Pergamský král Eumenés II. velící spojenecké jízdě na pravém římském křídle zaútočí na Antiochovy slony ze strany. Sloni vylekaní a dezorientovaní se obrátí zpět do seleukovských řad. Panika se šíří falangou — formace která potřebuje absolutní klid se rozpadá když jejími řadami procházejí vlastní sloni. Manipuly se vrhnou do mezer. Falanga obklopená a napadená zevnitř padne.",
-      "Když se Antiochos vrátí z pronásledování zjistí že celá jeho armáda leží poražená na poli. Prohrál bitvu přestože sám na svém úseku zvítězil.",
-      "Mír uzavřený roku 188 v Apameji seleukovskou říši devastuje. Vyklidit celou Malou Asii po řeku Taurus, vzdát se válečného loďstva, vydat slony, zaplatit obrovskou náhradu. A v jedné symbolické podmínce — vydat Hannibala. Punský velitel o podmínkách ví a prchá dál. Bude uprchlíkem ještě několik let, než ho v Bithýnii dohoní zpráva o vydání. Raději zemře jedem než by padl do římského zajetí.",
-      "Největší nepřítel Říma odejde sám, bez triumfu, bez fanfár. Jen pohár s jedem v cizí zemi.",
-      "Po Magnésii Řím vojensky kontroluje celý východní středomořský svět. Nikde na západ od Eufratu nestojí síla která by se mu mohla rovnat. Provincie ale nevytvoří. Východ začne řídit přes spojenecká království Pergamon a Rhodos."
+      "III. Průběh konfliktu",
+      "Antiochos obsadí Thermopyly a opakuje defenzivní scénář, úzký průsmyk mezi mořem a skálou kde malá síla zastaví velkou. Konzul Manius Acilius Glabrio zaútočí čelně a váže pozornost. Bývalý konzul Marcus Porcius Cato vezme oddíl a za tmy vyrazí přes kopce boční stezkou. Aitólové kteří hlídají hřeben jsou roztaženi na příliš dlouhé linii, ve tmě nevidí dál než na pár kroků. Cato projde. Za úsvitu udeří na seleukovský tábor seshora, muži se budí do boje, přeskupení není možné. Antiochova armáda se rozprchne. Král uprchne do Asie s hrstkou přeživších.",
+      "Pronásledovat ho přes moře ale Řím zatím nemůže. Seleukovské loďstvo drží Egejské moře. Dvě námořní bitvy situaci změní: u Koryku roku 191 spojenecká flotila rozbije seleukovské lodě, u Mionnesu rok nato je rhodská eskadra definitivně zažene. Hellespont se otevře.",
+      "Lucius Cornelius Scipio přejde s armádou do Asie. Jako jeho legát jde bratr, Publius Scipio Africanus, vítěz od Zamy. Před samotnou bitvou ale onemocní a zůstane v přístavu Elaia. Poprvé v dějinách stojí římské legie na asijské půdě a překračují hranici známého světa.",
+      "Obě armády nastoupí na pláni u Magnésie. Antiochos stojí na pravém křídle s katafrakty, falanga plní střed, srpové vozy čekají před linií.",
+      "Srpové vozy vyjedou jako první. Kola bijí do suché země, železné kosy na osách hvízdají vzduchem a koně před nimi instinktivně uhýbají. Eumenes vyrazí s pergamskou jízdou a lehkooděnci přímo na ně. Lukostřelci zasypou koně šípy, prakovníci házejí kameny. Koně se splaší dřív než vozy dojedou k římské linii. Obrátí se zpět. Vozy s kosami projíždějí vlastní jízdou, sekají koně a muže kteří nestihnou uhnout. Seleukovské levé křídlo se v chaosu rozprchne.",
+      "Antiochos na pravém křídle nevidí co se děje nalevo. Vede katafrakty do římského levého křídla, prolomí je a pronásleduje prchající Římany až k jejich táboru. Tábor vydrží. Antiochos útočí na val, pak znovu, pak se otočí zpět na bojiště.",
+      "Eumenes mezitím obrátí jízdu a zaútočí na odkryté seleukovské levé křídlo. Zahání ho, pak se otočí ke slonům. Sloni pod tlakem střel a hluku se splaší a obrátí do vlastní falangy. Čtyřtunový slon v panice šlape po všem, co mu stojí v cestě. Falanga stojí sražená ve dvaatřiceti řadách a nemá kam couvnout. Manipuly vniknou do mezer. Falanga se rozpadá zevnitř.",
+      "Antiochos se vrátí z pronásledování a najde armádu v útěku.",
+      "Mír podepsaný roku 188 v Apameii ukončí seleukovskou velmoc. Antiochos vyklidí Malou Asii po pohoří Taurus, vzdá se slonů a loďstva a zaplatí patnáct tisíc talentů ve splátkách. Pergamon dostane velkou část uvolněných území.",
+      "Roku 183 Římané vypátrají Hannibala v Bithýnii. Když vojáci obklíčí dům, Hannibal projde všechny východy. Každý střeží ozbrojení muži. Sáhne do prstenu.",
+      "Ve stejném roce zemře Scipio Africanus. Oba daleko od domova, ani jeden jako vítěz."
     ],
     "pribeh": [
-    "Publius Valerius, optio, čtvrtý manipul hastatů, bitva u Magnésie, 190 př. n. l.",
-    "Stál jsem za řadou a sledoval jejich linii. Delší než cokoliv, co jsem viděl v Řecku nebo Ilýrii. Uprostřed falanga, po stranách jezdci — a pak ty siluety. Příliš velké na koně. Slony jsem viděl jednou předtím, v triumfálním průvodu v Římě, kde byli v řetězech. Tady byli volní a věděli to.",
-    "Levé křídlo odešlo rychle. Oblak prachu vstal z místa kde před chvílí stáli naši jezdci, a pak nic. Centurion přede mnou neřekl ani slovo. Otočil hlavu zpět k nepřátelské linii a čekal. Já taky čekal.",
-    "Pak se sloni obrátili.",
-    "Nevím co je vystrašilo. Říkali nám pak různé věci — Eumenovy koně, hluk, šípy. Nikdo to přesně neví. Ale najednou zatroubila způsobem, který jsem cítil v žaludku, a začala se pohybovat dozadu. Pomalu nejdřív — obrovská těla která ztrácejí směr — pak rychleji. Dovnitř vlastní falangy.",
-    "Slyšel jsem to dřív než jsem to viděl. Ne troubení — ale jiný zvuk ze seleukidských řad. Křik který není bojový. Praskot dřeva jak se sarisy ve stísněném šiku lámaly pod váhou zvířat tlačících se zpět. Falanga se nezlomila od nás. Zlomila se sama od sebe.",
-    "Centurion vydal rozkaz ještě před trubkou.",
-    "Běželi jsme dopředu. Do prachu, do mezery kde před chvílí stála neprostupná stěna saris. Čekal jsem odpor — kopí, tlak, ránu. Místo toho chaos. Muž přede mnou se otočil zády — ne ke mně, ke slonovi za sebou. Srazil jsem ho štítem, jen vahou těla do jeho boku. Spadl do souseda. Ten zakopl o ratiště vlastního kopí.",
-    "Bodl jsem do vzniklé mezery a šel dál.",
-    "Zastavil jsem se na vteřinu — nevím proč, tělo se rozhodlo samo. Pokrčil jsem se, ruce na kolenou, a pokoušel se popadnout dech. Plíce pálily. Tep mi bil v krku tak silně, že jsem ho cítil v čelisti.",
-    "Kolem se linie rozpadala zevnitř. Muži kteří bojovali dobře ještě minutu předtím nevěděli čeho se bojí víc — nás nebo zvířat za svými zády. Tenhle druh strachu disciplína nezastaví. Disciplína funguje když víš odkud přichází nebezpečí. Tady přicházelo ze všech stran najednou.",
-    "Narovnal jsem se a šel dál sklízet co začala sklízet jejich vlastní panika."
-  ]
+      "10 — Syrská válka (190 př. n. l.)",
+      "Sextus Paternius Quadus, princeps, Magnesia",
+      "Stojíme v řadě a zíráme přes pláň. Před námi se rozprostírá obrovská masa lidí. Stovky zástav, těžká jízda, sloni a zástupy pěchoty z celé Asie.",
+      "Z jejich středu najednou vyrazí srpové vozy. Kola víří hustá oblaka prachu.",
+      "Naši lehkooděnci vyběhnou před první linii. Vzduchem okamžitě zafičí stovky oštěpů a olověných žaludů z praků. Napjatě sledujeme ten mrak prachu blížící se k nám. Zleva se ozve ostré ržání koní a rachot lámaného dřeva. Zvuk se najednou stočí a začne se rychle vzdalovat pryč od naší linie.",
+      "Nikdo v manipulu netuší, co přesně se tam děje.",
+      "„Kupředu!“ zařve centurion a uhodí jílcem do scuta.",
+      "Přejdeme do klusu. Běžíme přes rozrytou pláň. V prachu přede mnou se objeví zničený vůz. Z polámaných kol trčí zakřivené srpy. Vedle něj leží mrtvý kůň a dvě rozsekaná těla asijských vojáků. Překročím je a běžím dál.",
+      "Narazíme do jejich pěchoty. Náraz štítů zaduní celým polem. Seleukovský falanxista proti mně zvedne kopí. Srazím mu ratiště okrajem scuta k zemi a bez nápřahu mu vrazím gladius do břicha. Klesne k zemi. Okamžitě nastoupí další. Bodám zkrácenou čepelí zespodu.",
+      "Tlačíme je zpátky. Kolem nás divoce probíhají utíkající koně bez jezdců. Seleukovská linie nevydrží tlak zepředu a zjevný chaos ve vlastních zadních řadách. Láme se. Boj se mění v obyčejné nahánění. Nepřátelé odhazují zbraně a prchají. Ženeme se za nimi a dorážíme muže, kteří padnou vyčerpáním do hlíny.",
+      "Zezadu ostře zaječí trubka. Dostáváme rozkaz zastavit. Opřu se o štít a ztěžka vydechnu."
+    ]
   }
 }

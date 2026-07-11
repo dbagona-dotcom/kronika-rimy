@@ -1,62 +1,63 @@
 {
   "id": 27,
-  "slug": "rok_ctyr_cisaru",
-  "title": "27 — Rok čtyř císařů (69 n. l.)",
+  "slug": "27_rok_ctyr_cisaru",
+  "title": "Kapitola 27 — Rok čtyř císařů (69 n. l.)",
   "century": "1_stoleti_n_l",
   "years": "69 n. l.",
-  "dokonceno": true,"images": { "hero": "img60.jpg", "mapa": { "src": "img61.png" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Nero zemřel devátého června roku 68 s pomocí propuštěnce a mečem u hrdla. Posledním císařem julio-claudijské dynastie nebyl ani voják ani správce. Byl to člověk jehož vláda se proměnila v autodestrukci, jemuž senát odhlasoval smrt a jehož prétoriánská garda opustila jako první. Odešel bez dědice, bez nástupce, bez systému který by přechod moci nějak ukotvil.",
-      "A právě v tom byl problém.",
-      "Augustus před osmdesáti lety vybudoval principát jako dynastický systém, ale nikdy mu nedal ústavní formu. Císař nebyl zvolený — byl aklamovaný. Armádou, senátem, gardou, kýmkoliv kdo byl dost silný a dost rychlý. Dokud přechod probíhal v rámci jedné rodiny, systém fungoval. Jakmile rodina vymřela, systém odhalil svou prázdnotu.",
-      "Bylo prozrazeno tajemství vlády: císaře lze učinit i jinde než v Římě. Toto poznání jednou vyslovené nešlo vzít zpět. A čtyři muži v roce 69 se ho chopí každý po svém."
+      "I. Historický kontext",
+      "Devátého června roku 68 Nero prchá z Říma a nakonec si podřeže hrdlo v předměstské vile s pomocí propuštěnce. Senát ho prohlásil nepřítelem státu, prétoriánská garda přísahala jinému.",
+      "Julio-claudijská dynastie skončila. Nero zemřel bez dědice.",
+      "Když byl v roce 41 zabit Caligula, prétoriáni vyhledali Claudia skrývajícího se za záclonami a provolali ho císařem. Byl bratrem Germanika a potomkem Augusta, to stačilo. Přechod proběhl rychle a bez války.",
+      "Teď tato linie vymřela. Přijde ten kdo bude rychlejší."
     ],
     "armada": [
-      "Rok 69 není vojenským konfliktem v klasickém smyslu. Není tu jeden nepřítel, jedno bojiště, jedna taktická otázka. Je to série občanských válek vedených souběžně na více frontách kde každý velitel disponuje profesionální legií a kde největší slabinou každé strany není výzbroj ani taktika, ale čas a vzdálenost.",
-      "Impérium v tomto období disponuje přibližně třiceti legiemi rozmístěnými od Británie po Sýrii. Každá je vázána na svůj region a svého velitele. Legie na Rýně prosadí svého kandidáta. Legie na Dunaji svého. Legie na východě svého. Prétoriánská garda v Římě bude v průběhu jediného roku aklamovat tři různé muže.",
-      "Tento rok odhalí slabinu na níž Augustus nikdy nepomyslel: co se stane když profesionální armáda pochopí že její souhlas je podmínkou vlády.",
-      "Stane se z ní politický hráč který si svůj souhlas nechá platit."
+      "II. Armáda a vojenství",
+      "Výzbroj flaviovské armády prochází pomalou proměnou. Scutum přešlo z klenutého oválného štítu na plochý obdélníkový, který těsněji přiléhá k sousedu ve formaci. Gladius se zkrátil z hispaniensis přes mainzský typ na pompeijský. Kratší čepel, přesný bod za hranou scuta v těsném šiku. Přilby Imperial Gallic nahrazují starší vzory.",
+      "Prétoriáni při každé změně vlády dostanou donativum. Kdo platí, toho aklamují.",
+      "Rýnské legie hlídají hranici přes osm set kilometrů. Přepadení v germánském podrostu, zimní pochody, léta v pohraničních pevnostech. V roce 69 mají kandidáta na trůn a rýnský velitel Aulus Vitellius o tom ví.",
+      "Dunajské legie slouží na delší hranici s méně přímými boji. Jsou disciplinovanější, trpělivější a čekají na okamžik kdy mohou jednat. K rýnským legiím chovají rivalitu starou jako obě hranice. Až přijde jejich okamžik, nevytáhnou pro Řím, ale pro svého kandidáta."
     ],
     "konflikt": [
-      "Galba nastoupí jako první. Starý voják, v době kdy mu legie v Hispanii přísahají je mu dvaasedmdesát, přísný, úsporný, přesvědčený že impérium potřebuje po Neronově marnotratnosti tvrdou ruku. Má pravdu v diagnóze.",
-      "Léčba ho zabije.",
-      "Prétoriáni očekávají po každé změně vlády finanční dar jako odměnu za loajalitu. Galba odmítne. Prohlásí větu která je v jistém smyslu krásná a v každém jiném smyslu sebevražedná: vojáky vybírám, nekupuji. Prétoriáni si zapamatují.",
-      "Rýnské legie odmítnou Galbovi přísahat věrnost. Místo toho aklamují Aula Vitellia, svého velitele. Galba zároveň veřejně adoptuje nástupce Pisona, čímž připraví o naděje Marka Salvia Othona který čekal na adopci sám. Otho přejde k prétoriánům a nabídne jim to co Galba odmítl. Galbu zavraždí na Foru.",
-      "Trvá to sedm týdnů od jeho nástupu.",
-      "Otho pošle posly na Rýn s nabídkou smíru. Vitellius odmítne. Vitelliovy legie sestoupí z Rýna do Itálie dvěma kolonami — jedna přes Velký Bernardský průsmyk, druhá přes Malý. Jsou to bitkami zocelené rýnské veterány, přes sedmdesát tisíc mužů, a pohybují se rychle.",
-      "Othonovi velitelé se přou. Zkušení generálové doporučují čekat na posily a bojovat po výhodných podmínkách. Otho nechá přehlasovat radu a vydá rozkaz k postupu. Obě armády se střetnou u Bedriaka nedaleko Cremony na silnici Via Postumia. Othonovy legie jsou po dlouhém pochodu vyčerpané, bojují bez koordinace a bez velitele — Otho sám čeká daleko vzadu v Brixellu. Na křídle udeří batavská pomocná jízda a zlomí levé křídlo. Othonovy legie se hroutí.",
-      "Otho odmítne pokračovat v odporu ačkoliv má zálohy a stoupence ochotné bojovat. Prohlásí že žádný lidský život nestojí za další občanskou válku.",
-      "Probodne se mečem. Vládl čtyři měsíce.",
-      "Vitellius vstoupí do Říma a zahájí vládu způsobem který je dokonalou ukázkou toho co se stane když se dostane moci člověk bez vize. Bankety, výdaje, reorganizace prétoriánů. Impérium potřebuje centrum. Vitellius nabídne jídelní lístek.",
-      "A pak přijde východ.",
-      "Titus Flavius Vespasianus vede v roce 69 válku v Judei. Původem není aristokrat — pochází z rodiny výběrčích daní ze Sabinských hor. V systému kde rodový původ rozhodoval o kariéře se dostal tam kde byl tvrdou prací a výsledky. Nero ho přes veškerou vzájemnou antipatii pověřil Judeou protože ho potřeboval. Vespasianus byl jednoduše nejlepší dostupný vojenský velitel.",
-      "Dostane zprávu o Galbově smrti. Čeká. O Othonově. Čeká. O Vitelliově nástupu.",
-      "Přestane čekat.",
-      "Nejprve si zajistí východ. Mucianus, místodržitel Sýrie, je přesvědčen k podpoře. Egypt — zásobárna obilí pro celé impérium — přísahá Vespasianovi jako první. Bez egyptského obilí Řím doslova hladoví.",
-      "Pak přijdou dunajské legie. Nevytáhnou na Vespasianův rozkaz. Vytáhnou spontánně, protože sami chtějí, a svého kandidáta doženou před hotovou věcí.",
-      "Antonius Primus, velitel VII. legie, fakticky celé tažení vyhraje z vlastní iniciativy a s rychlostí která Vitellia nepřipraví na odpověď. Vitelliovy legie vyráží vstříc ale jejich velitel Caecina se pokusí v polovině cesty přeběhnout k Vespasianovi — vlastní vojáci ho dají do okovů. Armáda bez velitele čeká u Cremony.",
-      "Antonius udeří v noci. Druhá bitva u Bedriaka se odehraje ve tmě, na stejném místě kde pět měsíců předtím padl Otho. Tacitus ji popíše jako chaos — legie poznávají nepřátele podle hlasu, boj se vede pod měsícem, nikdo přesně neví kde je fronta. Do rána jsou Vitelliovy legie rozprášeny.",
-      "Cremona nezáchranně padne. Dunajští vojáci ji čtyři dny drancují a pak zapálí. Jednoho z nejbohatších měst severní Itálie zmizí z mapy. Tacitus napíše že z města které stálo přes dvě stě let nezbylo nic co by stálo za pohled.",
-      "Pak dunajské armády pochodují na Řím.",
-      "V prosinci roku 69 hoří Kapitol. Vitelliovi příznivci a Flaviovi vojáci bojují v ulicích Říma. Vitellius je nalezen schovaný v paláci, vlečen ulicemi a zabit. Jeho tělo je vhozeno do Tibery.",
-      "Vespasianus je prohlášen senátem za císaře. Do Říma dorazí až v létě roku 70. Najde město vyčerpané, finance rozvrácené a armádu která si právě ověřila že může svrhnout tři císaře za rok. Nastolí pořádek bez dramatu a bez triumfalismu — zavedením tvrdých restrikcí, naplněním vyrabované pokladny a absolutní dominancí vládce.",
-      "Občanská válka je u konce. Začíná nová dynastie."
+      "III. Průběh konfliktu",
+      "Galba přijede z Hispánie jako první. Starý voják, přísný, dvaasedmdesát let. Prétoriáni čekají na donativum. Galba prohlásí: vojáky vybírám, nekupuji.",
+      "Rýnské legie odmítnou přísahat věrnost a prohlásí Vitellia císařem. Galba veřejně adoptuje Pisona, čímž připraví o naděje Marka Salvia Othona. Otho přejde k prétoriánům a nabídne jim co Galba odmítl. Dvaadvacátého ledna vytáhnou prétoriáni na Fórum. Galbu zavraždí sedm týdnů od jeho nástupu.",
+      "Otho pošle Vitelliovi nabídku smíru. Vitellius odmítne. Rýnské legie sestoupí Alpami dvěma kolonami přes oba Bernardské průsmyky. Přes sedmdesát tisíc mužů zocelených lety v germánském pohraničí.",
+      "Othonovi generálové radí čekat na posily z Dunaje a protáhnout zásobovací linie Vitelliových legií z Alp. Otho čekat nechce.",
+      "Obě armády se střetnou u Bedriaka nedaleko Cremony v dubnu roku 69. Othonova strana má přibližně čtyřicet tisíc mužů, prétoriány, první legii z Itálie a pomocné sbory z Dalmácie, ale přicházejí po dvou dnech nuceného pochodu, vyčerpaní, bez centrálního velení. Otho sám čeká v Brixellu třicet kilometrů vzadu. Linie se střetnou na rovném poli podél Via Postumia. Pěchota na obou stranách drží pozice, boj v centru se protahuje. Pak batavská pomocná jízda na pravém křídle Vitelliovy armády obejde Othonovo levé křídlo a udeří zezadu. Levý bok se zlomí. Panika se šíří do středu. Othonovy kohorty se stahují a přestávají fungovat jako celek.",
+      "Otho sedí ve stanu a vyslechne důstojníky. Dunajské legie jsou na cestě, říkají mu. Ještě nic není ztraceno. Otho je vyslechne. Pak řekne, že za něho jedna občanská válka nestojí. Stráví klidný večer, vyřídí korespondenci. Ráno vezme dýku a vrazí si ji do hrudi.",
+      "Vládne čtyři měsíce.",
+      "Vitellius vstoupí do Říma. Jeho vojáci mají ještě bláto z alpských cest na botách, když začnou přípravy na první hostinu. Reorganizuje prétoriány. Rozhazuje peníze. Impérium čeká na rozhodnutí. Vitellius jí.",
+      "Na východě Titus Flavius Vespasianus vede válku v Judeji. Nero ho sem poslal navzdory vzájemné nevraživosti protože ho potřeboval a Vespasianus přinášel výsledky. Pochází z rodiny výběrčích daní ze Sabinských hor.",
+      "Zpráva o Galbově pádu ho zastihne v táboře. Zůstane kde je. Po Othonově smrti zůstane kde je. Teprve Vitelliova vláda přesvědčí východní legie, že impérium potřebuje jiného muže.",
+      "Egypt přísahá Vespasianovi jako první. Mucianus, místodržitel Sýrie, se přidá. Vespasianovy lodě začnou blokovat sicilské zálivy a jihoitalské přístavy. Konvoje s egyptským obilím nemají kudy projet. Přístav po přístavu, zásobování Říma se zastavuje.",
+      "Dunajské legie se zvednou v srpnu bez rozkazu. Rivalita s rýnskými je stará a Vitellius není jejich člověk. Antonius Primus, velitel VII. legie, pošle Vespasianovi zprávu, pak nevyčká na odpověď a pochoduje na Itálii sám. Vitelliovy legie vyráží vstříc, ale jejich velitel Caecina zkusí cestou přeběhnout k Vespasianovi. Vlastní vojáci ho dají do okovů. Armáda bez velitele čeká u Cremony.",
+      "Antonius udeří v říjnu v noci na stejném místě kde na jaře padl Otho. Tma, rozbitá fronta, zmatek. Boj trvá celou noc. Do rána jsou Vitelliovy legie rozprášeny.",
+      "Cremona, bohaté obchodní město nedaleko Bedriaka, padne. Dunajští vojáci ji drancují čtyři dny a pak zapálí. Z města které stálo přes dvě stě let nezůstane nic stát.",
+      "Mucianus mezitím pochoduje ze Sýrie na západ s Vespasianovou zbývající silou. Řím hladoví. Blokáda přístavů funguje a egyptské obilí nepřijíždí. Vitelliova podpora se rozpadá. V prosinci roku 69 Mucianovy a Antoniovy legie vstoupí do Říma.",
+      "Vitelliovi příznivci se zabarikádují na Kapitolu. Vespasianovi vojáci zaútočí po svahu. Boj je těsný, tělo na tělo mezi sloupy uvnitř samotného chrámu. Vzplane oheň. Staleté trámy se lámají, sloupy se hroutí, roztavené zlato ze soch stéká po kamenných schodech. Chrám Jova Kapitolského stojící od dob Tarquinia lehne popelem.",
+      "Vitelliovi přátelé ho přemluví k abdikaci. Vychází z paláce beze zbraně. Dav ho zastaví a zatlačí zpět.",
+      "Vytáhnou ho z paláce, ženou ho ulicemi na Fórum a umlátí. Tělo hodí do Tibery.",
+      "Vespasianus dorazí do Říma v létě roku 70. Najde prázdnou státní pokladnu, vyčerpanou armádu a spálený Kapitol. Zavede nové daně, naplní pokladnu z judejské kořisti a začne stavět. Nový chrám Jova, nové fórum, Koloseum tam kde stály Neronovy zahrady."
     ],
     "pribeh": [
-      "Lucius Petronius Celer, tesserarius, sedmá kohorta VII. legie Claudijské, tábor na Dunaji, rok čtyř císařů, 69 n. l.",
-      "Když přišla zpráva, celý tábor byl na nohou dřív než ji tribun dočetl. Nikdo neví jak se to šíří — jeden muž řekne slovo druhému u ohniště, druhý třetímu u studny, a za hodinu ví každý voják totéž: Vitellius drancuje Řím a Vespasianus je náš.",
-      "Náš. To slovo mě zarazí. Nikdo ho nevyslovil nahlas. Nikdo nemusel.",
-      "Antonius Primus svolal velitele kohort za soumraku. Nestál jako řečník ani jako velitel který chce přesvědčit — stál jako člověk který ví co se stane a chce se ujistit že to víme i my. Řekl nám o Egyptě, o Sýrii, o dunajských legiích na západ od nás. Pak řekl: vytáhneme ráno dřív než přijde rozkaz, protože rozkaz přijde tak jako tak a každý den navíc je den kdy Řím čeká.",
-      "Nikdo neprotestoval.",
-      "Vespasiana jsem viděl jednou, v Judeji. Jel kolem tábora na koni bez fanfár. Jeden z mých mužů se ho zeptal jestli si pamatuje jak jsme mu za Cremony kryli levé křídlo. Vespasianus se zastavil. Podíval se na nás a řekl: Pamatuji si každého kdo mi kryl levé křídlo. Pak odejel.",
-      "Nevím jestli to byla pravda. Ale stačilo to.",
-      "Ráno stojím před svou kohortou a předávám heslo dne. Tesserarius nosí destičku se slovem od velitele k veliteli — jednoduchá práce, ale důležitá. Ve tmě nebo v chaosu bitvy je heslo jediná věc která odděluje přítele od nepřítele.",
-      "U třetí kohorty mě zastaví starý optio Bassus. Vezme destičku, přečte slovo a podívá se na mě. Pak řekne tiše: válečné heslo. Ne hraniční, ne táborové. Válečné.",
-      "Kývnu. On kývne. Vrátí mi destičku.",
-      "Dali jsme se do pochodu před úsvitem. Kroky na tvrdé dunajské půdě, zbroj která za studených rán září, řeka za zády.",
-      "Destičku nesu stále v levé ruce. Mám ji tam celý pochod — dřevěná, malá, s jedním slovem vyškrábaným do povrchu. Nemusel jsem ji číst dvakrát. Ale drží mi ji v dlani ten pocit jako by bylo důležité ji nepustit. Jako by to slovo odtud mohlo zmizet.",
-      "Bassus pochoduje dvacet kroků přede mnou. Neotočil se ani jednou. Zkušený voják ví že se před bitvou neohlíží — dopředu je vždy dost věcí na které se dívat."
+      "27 — Rok čtyř císařů (69 n. l.)",
+      "Gaius Scribonius Albus, prétorián, Bedriacum I",
+      "Rýnští veteráni se nám smějí. Prý jsme jen vyparádění vojáčci z paláce, co hlídají císaře a neznají skutečnou krev. Slunce pálí. Pochodujeme rovnou do jejich linií. Terén u Bedriaca je rozrytý příkopy a plný stromů omotaných vinnou révou.",
+      "Zařveme a vrazíme přímo do jednadvacáté legie. Rýnský voják proti mně se napřáhne mečem. Srazím jeho ránu okrajem scuta a bez nápřahu mu vrazím gladius pod okraj zbroje. Klesne do bláta a hned nastoupí další. Tlačíme s fanatickým odhodláním.",
+      "Prorazíme jejich první linii. Bojuje se tělo na tělo v bahně pod větvemi révy. Muži z mé centurie se probijí rovnou do jejich středu. Náš signifer s křikem strhne k zemi ukořistěného stříbrného orla jednadvacáté legie. Prorazili jsme.",
+      "Chceme se zformovat k postupu, když se hluk zničehonic změní.",
+      "Ohlédnu se doleva. Othovi rekruti z italských měst hromadně zahazují štíty. Nedrží formaci a rýnští veteráni je srážejí do hlubokých příkopů. Do prázdné mezery vzápětí vpadnou batavské pomocné kohorty a začnou naše nováčky sekat z boku. Celý střed armády praskne.",
+      "Náš útok se okamžitě zastaví. Zůstali jsme na křídle úplně sami. Rýnské jednotky, které jsme před chvílí rozehnali, se teď zavírají kolem nás ze tří stran. Couváme k městu. Rýnská kavalérie vyjíždí na otevřenou silnici a začíná najíždět do utíkajících zbytků našeho středu, zatímco my couváme blátem hlouběji do vinice."
     ]
   }
 }

@@ -1,48 +1,55 @@
 {
   "id": 13,
   "slug": "13_numantinska_valka",
-  "title": "Numantinská válka",
+  "title": "Kapitola 13 — Numantinská válka (143–133 př. n. l.)",
   "century": "2_stoleti_pr_n_l",
   "years": "143–133 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img32.webp", "mapa": { "src": "img33.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Rok 146 před naším letopočtem. Kartágo v troskách, Korint vypleněn, jeho obyvatelstvo prodáno do otroctví. Řím se stal nesporným pánem středomořského světa.",
-      "A přesto uvnitř této obrovské moci začínalo být něco vážně špatně.",
-      "Drobní rolníci kteří tvořili páteř legií se vraceli z dlouhých tažení a zjišťovali že jejich políčka zarostla nebo je odkoupila za zlomek ceny bohatá aristokracie. Velcí statkáři přišli na to že otrok je levnější než svobodný nádeník. Statisíce zajatců z dobytých zemí zaplavily Itálii a vytlačily svobodné rolníky z trhu. Řím sytil celý svět a vlastní lid chudl.",
-      "Do tohoto napětí vstoupilo Španělsko.",
-      "Ibérský poloostrov nebyl od dob druhé punské války nikdy skutečně podmaněn. Série povstání a lokálních válek zde s přestávkami hoří od roku 155. A v jejich středu stálo jedno město. Numancia — malé keltiberské město na kopci nad řekou Durius, nebohaté, ale opřené o loajalitu okolních kmenů a terén stvořený pro válku ze zálohy. Jeden konzul za druhým se od jeho hradeb vrátil poražen nebo s ponižující smlouvou kterou senát odmítl ratifikovat.",
-      "Po dvaceti letech neúspěchů byl do Španělska vyslán Scipio Aemilianus — tentýž, který stál na kopci nad hořícím Kartágem."
+      "I. Historický kontext",
+      "Hispánie byla pro římské vojáky nejméně oblíbenou provincií. Od konce druhé punské války se pokusy o plnou kontrolu Iberského poloostrova zvrhly do desítek let lokálních konfliktů a povstání. Terén, drsné klima a neochota kmenů k trvalému podřízení tvořily prostředí, které Řím vysilovalo. Žádná velká sláva, žádná bohatá města k plenění, jen vytrvalý guerillový boj.",
+      "Keltiberské kmeny ve střední Hispánii kladly vytrvalý odpor. Centrem tohoto vzdoru se stala Numantie. Pevnost ležela na strmém kopci nad řekou Durius, přírodně chráněna soutěskami a lesy. Sama o sobě nebyla obrovským městem, ale pro Ibery symbolizovala nezávislost, kterou Řím nedokázal zlomit.",
+      "Římští velitelé se před hradbami střídali. Někteří utrpěli vojenské porážky, jiní zkoušeli uzavírat mírové smlouvy, které senát následně odmítal ratifikovat. Jeden takový mír dojednal i Tiberius Gracchus. Odmítnutí smlouvy v Římě jen potvrdilo hispánským kmenům, že dohodám se nedá věřit.",
+      "V roce 134, po více než deseti letech neúspěchů, ztrát a klesající morálky, senát sáhl po ověřeném muži. Publius Cornelius Scipio Aemilianus, dobyvatel Kartága, znovu získal výjimku k opětovnému konzulátu a vyrazil do Hispánie s jasným úkolem. Skončit to."
     ],
     "armada": [
-      "Tradiční odvod na základě majetkového cenzu začíná naráz narážet na demografické limity. Drobní vlastníci ubývají protože jejich půda přešla do rukou aristokracie. Armáda která technicky stále funguje na občanském principu se v praxi plní muži bez pevného zázemí, muži pro které je vojenská služba méně povinností a více živobytím.",
-      "A to Scipio pozná hned první den.",
-      "Vojsko které roku 134 převezme prohrálo příliš mnoho bitev aby věřilo svým velitelům, a vyhrálo příliš málo aby věřilo samo sobě. V táboře jsou obchodníci, prostitutky, věštci a stovky příživníků kteří demoralizované legie obklopují.",
-      "Scipio zopakuje přesně to co udělal před Kartágem. Vykáže všechny nepotřebné osoby. Zavede výcvik každodenní, vyčerpávající, bez výjimek. Zakáže luxus, přikáže jednoduchou stravu a pochody s plnou výzbrojí za každého počasí.",
-      "Numantijci nevyjdou legiím vstříc na rovném poli. Stavět osm tisíc mužů proti dvaceti tisícům legionářů v přímém střetu by znamenalo okamžitý konec. Přepadají proto zásobovací kolony v lesích, útočí za noci na tábory, mizí do nepřehledného terénu dřív než se legie stačí zformovat a vyčkávají za hradbami. Taková válka se nevyhrává v jedné bitvě. Vyhrává ji ten kdo má více jídla, více trpělivosti a méně mrtvých na zásobovacích trasách. A právě v tom dosavadní římští velitelé opakovaně selhali."
+      "II. Armáda a vojenství",
+      "Armáda, která Scipiona na Iberském poloostrově čekala, se utápěla v apatii. Táborový život provázela uvolněná disciplína a nedostatek vojenského ducha. Keltiberové je pravidelně poráželi v malých střetech a legionáři ztratili důvěru ve své velitele i v sebe sama.",
+      "Iberští bojovníci byli mistry nerovného boje. Hlavní zbraní byla falcata. Tento těžký, zahnutý meč, ostřený na vnitřní straně s přidaným břitem na zadní špičce, kombinoval pádnost sekery s přesností meče. Prorážel dřevo štítu, štípal bronzové přílby a usekával paže od ramene dolů. Pro římského legionáře zvyklého na bodný gladius byl střet s falcatou děsivou záležitostí.",
+      "Scipio si uvědomil, že v přímém poli Numantii nedobude. Iberové znali terén, bojovali s fanatickým odhodláním a jeho vlastní armáda nebyla připravena na krvavé ztráty. Rozhodl se, že boj nevyhraje mužem proti muži, ale ženijní prací."
     ],
     "konflikt": [
-      "Scipio mění strategii okamžitě po převzetí velení. Žádný přímý útok na hradby. Žádné legie v horském terénu kde mají Keltiberci výhodu.",
-      "Bude stavět.",
-      "Kolem Numancie nechá vybudovat sedm táborů spojených opevněnými liniemi. Přes čtyři kilometry hlubokých příkopů, valů a věží obepnou město do plného kruhu. Mezi tábory hlídkuje kavalerie, na řece kotevní bóje s háky zabraňující nočnímu přísunu zásob po vodě. Numancia je neprodyšně odříznuta od světa.",
-      "Uvnitř hradeb je osm tisíc bojovníků a tisíce civilistů. Scipio to ví. A čeká.",
-      "Numantijci se pokusí o několik zoufalých výpadů. Jeden se odehraje v husté mlze kdy bojovníci proniknou přes první linii valů a zasadí Římanům citelné ztráty. Jakmile se mlha zvedne, Scipio tvrdě uzavře mezery dříve než se průlom dokáže rozšířit.",
-      "Hlad přichází pomalu. A pak najednou.",
-      "Nejprve zmizely zásoby obilí. Pak kůže a řemeny. Pak mrtvá dobytčata. Pak lidská těla padlých.",
-      "Roku 133 vysílají Numantijci posly ke Scipionovi s žádostí o vyjednávání. Dostávají jedinou odpověď: bezpodmínečná kapitulace.",
-      "Po návratu poslů do města volí velká část obránců smrt vlastní rukou místo nevyhnutelného zajetí a zapaluje svá obydlí. Když římské oddíly vstoupí do otevřených bran, najdou jen hořící trosky a mrtvé. Zbývající hrstka živých je odvedena do Říma jako kořist pro Scipionův triumf.",
-      "Scipio nechává Numancii strhnout do základů a vrací se do Itálie s druhým přízviskem Numantinus.",
-      "Zemře o pět let později za nejasných okolností, v noci předtím než má pronést projev v senátu. Řím roku 129 je napjatým městem kde politická vražda přestává být nemyslitelnou. Bratři Gracchové otevírají reformy za které se brzy začne platit krví. Republika se začíná třást v základech."
+      "III. Průběh konfliktu",
+      "Scipio nejprve převychoval armádu. Nejméně schopné oddíly poslal do Říma. Vyhnal trhovce a zakázal v táboře zbytečný luxus. Převedl vojáky na tvrdý výcvik — budování táborů, pochody v plné polní, cvičení s těžšími zbraněmi, než byly ty bitevní. Až když se armáda opět začala podobat legii, přitáhl k Numantii.",
+      "K přímému útoku na hradby se neodhodlal. Místo toho nařídil postavit kolem celého města sedm římských táborů. Tyto tábory propojil dvojitým systémem hradeb o délce devíti kilometrů. Vnější val chránil armádu před pokusy o záchranu města zvenčí, vnitřní val směřoval k Numantii a bránil výpadům. Na řece Durius nechal natáhnout přes hladinu lana s čepelemi, která znemožňovala zásobování loděmi i plavcům. Uzavřel Numantii ze všech stran.",
+      "Začalo čekání.",
+      "Obyvatelé Numantie zkoušeli výpady. Naráželi do pevného římského valu, ze kterého pršely šípy a kameny. Scipio na výzvy k přímému souboji nereagoval a udržoval neprostupné obléhání.",
+      "Obyvatelé začali jíst koně, pak kůže a mrtvé, aby se udrželi naživu. V zoufalství se jeden z numantinských velitelů s hrstkou mužů probil římskou linií a hledal pomoc u sousedních kmenů. Scipio pomocné síly dostihl, tvrdě potrestal uťatýma rukama a vrátil se k blokádě.",
+      "Po osmi měsících obléhání došly v Numantii poslední zbytky všeho, co se dalo jíst. Město požádalo o podmínky kapitulace. Scipio trval na bezpodmínečném vzdání se a odevzdání zbraní. Část obyvatel se rozhodla spáchat raději sebevraždu a město předtím podpálila. Ti, kteří se vzdali, byli po Scipionově triumfu prodáni do otroctví a Numantie byla srovnána se zemí.",
+      "Zatímco Numantie padla, Římem otřásala první politická krev. Tiberius Gracchus prosadil jako tribun lidu agrární zákon bez souhlasu senátu a usiloval o opětovné zvolení. Skupina senátorů vytáhla ze zasedání a ubila ho k smrti. Tímto násilným činem padlo tabu, které po staletí chránilo nedotknutelnost tribuna i vnitřní politický mír."
     ],
     "pribeh": [
-      "Decimus Flavius, centurio, druhý manipul, obléhací linie u Numancie, 133 př. n. l.",
-      "Stavěli jsme šest týdnů. Každý den — vstát před úsvitem, vzít motyku nebo lopatu nebo trám a jít pracovat na valu. Legionáři si stěžovali. Říkali, že nejsou dělníci. Říkal jsem jim, že jsou co velitel řekne, a šel pracovat s nimi. Centurion který nestojí vedle svých mužů v blátě nestojí za nic.",
-      "Scipio procházel liniemi každé ráno pěšky. Zastavoval se, díval se na práci, ptal se na detaily. Jednou se zastavil u mě a zeptal se jestli je příkop dostatečně hluboký. Řekl jsem že ano, ale navrhl jsem palisádu na vnější straně. Podíval se na mě, kývl a šel dál. Druhý den přišel rozkaz — palisáda na celém úseku. Takoví velitelé se rodí jednou za generaci.",
-      "Výpad přišel za mlhy — ze dvou bran zároveň, křičící a zoufale odhodlaní. Probili se přes první linii a zabili pět mých mužů dřív než jsem stihl zformovat odpověď. Popadl jsem scutum a vyrazil do vřavy sám. Centurion který stojí a řve rozkazy zatímco jeho muži umírají pět kroků od něj nestojí za víc než dělník co odmítá motyku.",
-      "Numantský válečník se na mě vyřítil z mlhy s krátkým mečem. Sekl shora. Zvedl jsem štít šikmo, čepel sjela po hraně, a než se nadechl k druhé ráně, vrazil jsem mu železný bodec spodku štítu do nártu. Zakřičel a podklesly mu kolena. Přikročil jsem a bylo hotovo.",
-      "Ruka mi po tom nárazu třásla. Nepatrně, rychle přešlo — ale všiml jsem si toho. Šest týdnů motyky a pak tohle. Svaly nebyly připravené na jiný druh práce.",
-      "Mlha začala ustupovat. Zálohy dorazily z vedlejšího tábora a Numantinci se stáhli zpátky do kopce. Stál jsem na valu a díval se za nimi. Bojovali dobře — lépe než hladovějící armáda má právo bojovat.",
-      "Když město otevřelo brány — ne kapitulací, ale tichem, protože uvnitř nebylo dost živých — prošel jsem jako jeden z prvních. Ulice prázdné. Domy otevřené. V jednom dvorci seděl u studny starý muž, mrtvý bez viditelného zranění. Vedle něj pes, také mrtvý. Nehnul jsem se z místa asi minutu. Pak jsem se otočil a šel zpátky na val."
+      "13 — Numantinská válka (133 př. n. l.)",
+      "Marcus Octavianus Pius, legionář, Numantia",
+      "Dřevěné cvičné meče tupě narážejí do kůlů zaražených do ztvrdlé hlíny. Pot ze mě leje a štípe v očích. Centurion prochází řadou a bije révovou holí každého, kdo jen na vteřinu povolí zápěstí.",
+      "„Tlačit z nohou!“ zařve a švihne holí muže po mé levici.",
+      "„Kdyby nám tu aspoň nechali ty děvky,“ procedí přes zuby voják vedle mě.",
+      "Od chvíle, co dorazil Scipio, se režim utáhl. Z tábora zmizely vozy kupců, markytánky i víno. Dostali jsme do rukou rýče a cvičné zbraně s dvojnásobnou váhou.",
+      "O pár týdnů později stojíme před Numantií. Nejdeme do útoku. Kolem celého města kopeme nekonečný příkop ve spálené hispánské zemi. Stavíme devět kilometrů dlouhý val s dřevěnou palisádou. Ruce máme plné prasklých, krvácejících puchýřů, ale postupujeme bez odpočinku.",
+      "Dostáváme rozkaz uzavřít řeku Durius. Natahujeme přes silný proud hrubá lana s navázanými železnými čepelemi. Stojíme po pás v dravé a ledové vodě. Chlapi vedle mě tahají těžký mokrý provaz k protějšímu břehu.",
+      "Voják napravo uklouzne na slizkých kamenech. Kroužková zbroj lorica hamata ho okamžitě táhne pod hladinu. Zmizí v kalné vodě a už se nevynoří. Na hladině se objeví jen shluk vzduchových bublin. Znovu nabereme lano a upevníme ho k zaraženému kůlu.",
+      "Obléhání trvá měsíce. Jednoho odpoledne se brána Numantie otevře. Vyjde z ní otrhaný, na kost vyzáblý muž. Celá naše armáda v tichosti nastoupí do pevné linie před hradbami. Vůdce rebelů dojde až ke Scipionovi a vymění si s ním ostrá slova. Římský velitel neuhne ani o krok. Numantinec se svěšenou hlavou otočí a kráčí zpět.",
+      "Těžké dřevěné brány se za ním zabouchnou. Vzápětí se zpoza kamenných zdí ozve šílený lidský jekot a tlumené rány. Přes okraj hradby vyletí zkrvavená hlava vyjednavače a dopadne do prachu přímo před náš příkop.",
+      "Další dny posloucháme zpoza hradeb ryk podřezávaných a utrácených zvířat.",
+      "Opírám se o rýč na vrcholu valu a dívám se do údolí. Zpoza hradeb stoupá k nebi hustý černý dým a plameny pohlcují zbytky města."
     ]
   }
 }

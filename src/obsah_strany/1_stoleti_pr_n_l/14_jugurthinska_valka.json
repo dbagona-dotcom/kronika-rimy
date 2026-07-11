@@ -1,48 +1,62 @@
 {
   "id": 14,
   "slug": "14_jugurthinska_valka",
-  "title": "Jugurthinská válka",
-  "century": "1_stoleti_pr_n_l",
+  "title": "Kapitola 14 — Jugurthinská válka (112–105 př. n. l.)",
+  "century": "2_stoleti_pr_n_l",
   "years": "112–105 př. n. l.",
-  "dokonceno": true, "images": { "hero": "img35.jpg", "mapa": { "src": "img34.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Scipionův svět je pryč. Systém nobilitou ovládaného senátu a tradičních občanských legií se za pouhé dvě dekády proměnil k nepoznání. Bratři Gracchové, Tiberius a Gaius, se pokusili o pozemkové reformy které by vrátily půdu zchudlým rolníkům a obnovily občanskou základnu armády. Oba zaplatili životem. Tiberius byl roku 133 ubit k smrti v senátu, Gaius roku 121 donucen k sebevraždě. Politická vražda přestala být skandálem. Stala se nástrojem.",
+      "I. Historický kontext",
+      "Tiberius Gracchus byl roku 133 umlácen k smrti v senátu. Gaius roku 121 donucen k sebevraždě. Z politické vraždy se stala legitimní metoda boje o moc.",
       "Do tohoto Říma přišla zpráva z Afriky.",
-      "Numidie, království na severoafrickém pobřeží a věrný římský spojenec od dob druhé punské války, se ocitla uprostřed dynastického konfliktu. Ale tentokrát byl v konfliktu muž jehož metody přesahovaly provinční dvorskou intriku.",
-      "Jugurtha byl nemanželský syn numidského prince a člověk který léta sloužil pod Scipionem Aemilianem u Numancie. V římském táboře se naučil dvě věci které nikdy nezapomněl: jak bojuje římská armáda a jak funguje římská korupce.",
-      "Po smrti numidského krále Micipsy roku 118 sdílí Jugurtha trůn se svými adoptivními bratry. Jednoho nechá brzy zavraždit, druhý, Adherbal, uprchne s žádostí o pomoc do Říma. Senát Numidii rozdělí. Jugurtha přijme rozdělení, počká několik let a zaútočí. Cirta padne roku 112 po dlouhém obléhání. Adherbal je umučen k smrti a italičtí obchodníci pobývající ve městě jsou Jugurthovými muži plošně povražděni.",
-      "Senát mrtvé Římany ignorovat nemůže. Ale Jugurtha, jehož zlaté dary dlouhodobě plynou do správných kapes, ještě chvíli lavíruje. Když opouští Itálii, pronese větu která definuje celou epochu: „Město na prodej. Brzy zahyne, najde-li kupce dost bohatého.\"",
-      "Válka je vyhlášena."
+      "Numidie, království na severoafrickém pobřeží a věrný spojenec od dob druhé punské války, se ocitla uprostřed dynastického konfliktu. Dějinnou roli v něm nepřevzal cizí vládce, ale muž který léta strávil v Scipionově táboře u Numancie. Jugurtha, nemanželský syn numidského prince, se tam naučil jak bojuje římská armáda. A jak se kupuje.",
+      "Po smrti krále Micipsy roku 118 sdílel Jugurtha trůn se dvěma bratry. Prvního nechal zavraždit. Druhý, Adherbal, uprchl do Říma. Senát Numidii rozdělil. Jugurtha přijal rozdělení, počkal několik let a zaútočil. Roku 112 Cirta padla. Adherbal byl umučen. Italičtí obchodníci ve městě povražděni.",
+      "Senát mrtvé Římany ignorovat nemůže. Válka je vyhlášena."
     ],
     "armada": [
-      "Majetkový census na jehož základě se po staletí rekrutovaly legie přestává fungovat. Příliš mnoho potenciálních vojáků přišlo o majetek. Příliš mnoho polí leží ladem nebo je v rukou aristokracie. Výsledkem jsou legie ve kterých zkušení centurioni ubývají a nahrazují je neozkoušení rekruti. Umějí se bít na rovném poli, ale v africké pustině kde soupeř sám určuje kdy a kde se bojuje se ztrácejí.",
-      "Jugurtha velí lehkým numidským jezdcům na malých extrémně vytrvalých koních. Bez těžké zbroje, s oštěpy a luky představují nejrychlejší kavalérii Středomoří. Nezdržují se dobýváním táborů ani nevyčkávají v liniích. Zaútočí, zasáhnou a rozplynou se v terénu dřív než se legie zformuje k protiútoku. Těžká pěchota která se pustí do pronásledování brzy končí roztažená po poušti bez vody, bez formace a čelí útokům ze slepých úhlů.",
-      "Řím posílá do Afriky jednoho velitele za druhým. Výsledky se opakují.",
-      "Pak přijde Gaius Marius.",
-      "Marius není aristokrat. Pochází z venkovského Arpina a je první ve své rodině kdo dosáhl senátorského postavení. Homo novus — nový člověk, kterým stará krev tiše pohrdá. Je to však voják který prošel od nejnižších hodností k nejvyšším díky vlastním schopnostem.",
-      "Roku 107 je zvolen konzulem a obdrží velení africké armády. Vzápětí udělá krok který pobouří senát: otevře náborové kanceláře pro bezmajetné. Kdokoliv fyzicky způsobilý může odteď vstoupit do legie bez ohledu na majetek.",
-      "Zbroj jim dodá stát."
+      "II. Armáda a vojenství",
+      "Rolníci tvořící jádro legií ubývají. Drobní vlastníci mizí, pole přecházejí do rukou aristokracie. Do legií přicházejí muži bez zkušenosti. Centurioni stárnou. Noví nepřicházejí.",
+      "Jugurtha velí lehkým numidským jezdcům. Malí koně, vytrvalí na poušti. Bojují s oštěpy a luky a nenosí zbroj. Zaútočí. Zasáhnou. Rozplynou se dřív než se legie zformuje. Těžká pěchota, která se za nimi pustí, rychle ztratí vodu i formaci. Numidský jezdec udeří ze strany a zmizí.",
+      "Gaius Marius pochází z Arpina. První ve své rodině kdo dosáhl senátu. Homo novus. Stará krev jím pohrdá. Prošel od nejnižších hodností k nejvyšším. Každou si vybojoval.",
+      "Roku 107 je zvolen konzulem. Otevře odvody pro muže bez půdy. Každý kdo unese zbroj může do legie. Bez ohledu na majetek. Stát mu dodá zbroj. Hastati, principes, triarii mizí. Jsou jen legionáři. Každý nese přes třicet kilogramů. Pilum, gladius, rýč, kolíky na palisádu, kotlík a zásoby pšenice na patnáct dní pochodu. Říká se jim Mariovy muly. Zásobovací vozy mizí. Legie se přesouvá tak rychle jak její muži ujdou.",
+      "Roku 104 Marius zruší staré standardy. Vlky, kance, minotaury. Zavede jediný symbol. Orla. Každá legie má svého. Ztratí-li ho, je to konec."
     ],
     "konflikt": [
-      "Počáteční fáze války je sérií ponížení. Konzul Lucius Calpurnius Bestia uzavře s Jugurthou kompromisní mír plný podezření z korupce — senát jej odmítne ratifikovat. Jugurtha je povolán do Říma vysvětlit situaci, kde pod diplomatickou imunitou nechá zavraždit svědka který by mohl svědčit proti němu. Řím ho vykáže.",
+      "III. Průběh konfliktu",
+      "Konzul Bestia uzavře s Jugurthou mír. Senát odmítne. Každý ví proč. Jugurtha přijede do Říma pod diplomatickou imunitou a nechá zavraždit svědka který by mohl promluvit. Řím ho vykáže. Při opouštění Itálie pronese: město na prodej. Brzy zahyne, najde-li kupce dost bohatého.",
       "Válka pokračuje.",
-      "Konzul Spurius Postumius Albinus utrpí roku 110 drtivou porážku. Jeho armáda je obklíčena v poušti a nucena projít pod jhem přesně tak jako Římané prošli u Caudinských vidlic před sto sedmdesáti lety.",
-      "Quintus Caecilius Metellus situaci v roce 109 částečně stabilizuje. Obnoví disciplínu a dosáhne lokálních úspěchů, nedokáže ale Jugurthu chytit ani přinutit k bitvě. Právě jemu dělá legáta Gaius Marius. Po osobních rozepřích Marius odjíždí do Říma, získává konzulát a roku 107 přebírá vrchní velení.",
-      "Přivádí nově rekrutovanou armádu bezmajetných a jako kvestora si s sebou bere Lucia Cornelia Sullu. Patricijský elegán jehož zdánlivá povrchnost zakrývá železnou vůli a chladnou vypočítavost, tvoří s Mariem velitelský tandem který válku rozhodne.",
-      "Mariovo tažení je systematické. Místo honění jezdců po poušti začne postupně dobývat a likvidovat Jugurthovy zásobovací základny, města i pevnosti v oázách. Jugurtha ztrácí zdroje a prostor. Nakonec se uchýlí pod ochranu svého tchána, mauretánského krále Boccha.",
-      "Sulla je vyslán k tajnému vyjednávání. Kombinací obratné diplomacie, výhrůžek a zlata přesvědčí Boccha k jedinému možnému kroku. Roku 105 je Jugurtha zrazen, svázán do pout a vydán Římanům.",
-      "Numidský král projde Římem během Mariova velkolepého triumfu jako hlavní trofej. Vzápětí zemře v římském podzemí."
+      "Konzul Albinus utrpí roku 110 drtivou porážku u Suthul. Armáda je obklíčena v poušti. Musí projít pod jhem. Jako u Caudia před sto sedmdesáti lety. Tentokrát v africkém písku. Metellus obnoví disciplínu. Jugurtha uniká dál.",
+      "Gaius Marius to sleduje z Metelova štábu s rostoucí netrpělivostí. Po rozepři s Metellem odjede do Říma. Získá konzulát. Vrátí se s novou armádou. Za kvestora si vezme Lucia Cornelia Sullu.",
+      "Sulla pochází ze starého patricijského rodu, chybí mu ale majetek i vojenské úspěchy. Ví že tahle válka je jeho cesta. Zatímco Marius útočí, Sulla čeká.",
+      "Marius přestane honit jezdce po poušti. Dobývá oázy. Jednu po druhé. Jugurtha ztrácí vodu, úkryt, jídlo. Uprchne k tchánovi, mauretánskému králi Bocchovi.",
+      "Sulla je vyslán dohodnout podmínky míru s mauretánským vládcem.",
+      "Vjede v noci do Bocchova tábora s malým doprovodem. Stan páchne velbloudí kůží a kouřem. Mauretánské stráže stojí za jeho zády. Sulla sedí rovně a vyhrožuje Římem. Na jedné straně Jugurtha. Na druhé mír, území, římské stříbro.",
+      "Bocchus přikývne, Jugurthu vyláká na schůzku a tam ho předá Sullovi.",
+      "Vládce Numidie projde Římem za Mariovým vozem v řetězech. Pak ho svlečou a uvrhnou do Tullianu, což je vlhká kobka pod Kapitolem. Vzduch páchne mokrým kamenem. Jugurtha tam přežívá šest dní potmě, žíznivý a hladový. Při svlékání zvolá: Herkule, jak studené jsou vaše lázně.",
+      "Zemře tam.",
+      "Marius získá triumf. Sulla si nechá vyrýt pečetní prsten s motivem Boccha předávajícího spoutaného nepřítele přímo do jeho rukou. Prsten nosí do konce života."
     ],
     "pribeh": [
-      "Lucius Atilius, legionář, třetí kohorta, africká poušť, jugurthinská válka, 109 př. n. l.",
-      "Třetí den pochodu jsme přestali narážet na stopy osídlení. Žádné studny, žádné ohniště, žádný dobytek. Jen písek, skály a nebe příliš modré a příliš vysoké na to aby bylo útěchou.",
-      "Jugurthovy jezdce jsme zahlédli odpoledne — siluety na hřebenech dun, příliš vzdálené na dostřel, příliš pohyblivé na pronásledování. Centurion říkal ať držíme formaci a tempo. Všímali jsme si. Nešlo jinak.",
-      "V noci přepadli zásobovací vůz na konci kolony. Přišli ze tmy, zabili čtyři muže a zmizeli dřív než dorazila záloha. Ráno jsme našli vůz prázdný a jejich stopy vedoucí do pouště.",
-      "Nejhorší nebyly útoky. Nejhorší bylo ticho mezi nimi. Ležet ve stanu a vědět že někde venku jsou lidé kteří znají tuto zem jako my vlastní dvory, kteří čekají na okamžik který si sami vyberou. Bitva má začátek a konec. Poušť obklopená neviditelnými jezdci — to nemá ani jedno.",
-      "Té noci jsem nespal. Ležel jsem na zádech a díval se na plátno stanu. Slyšel jsem dech mužů kolem sebe — pravidelný, těžký. Nevím kdy usnuli. Mně to nešlo. Každý zvuk zvenku — vítr, pohyb hlídky, vzdálené zavolání strážného — mi stáhl žaludek. Vstal jsem před úsvitem a sáhl po scutu. Byl studený od noční pouště, až mě to překvapilo. Přes den rozpálený k nesnesení, v noci chladný jako kámen.",
-      "Čtvrtý den vyslal centurion průzkum — šest mužů dopředu. Vrátili se čtyři. Ostatní dva jsme nenašli. Ani stopy po boji, ani těla. Jen prázdné místo kde měli být.",
-      "Metellus projel podél kolony bez slova. Díval se na poušť. Pak pokračoval. Věděl co my všichni věděli — v tomto terénu nejsme lovci. Jsme kořist která se tváří jako lovec."
+      "14 — Jugurthinská válka (107 př. n. l.)",
+      "Publius Valerius Pulcher, legionář, Severní Afrika",
+      "Slunce pálí a kroužková zbroj peče do ramen. Nesu na dřevěné furce výstroj, rýč, kolíky na palisádu, těžký kotlík a pytel obilí na patnáct dní pochodu. Nohy se při každém kroku boří do sypkého písku. Jazyk mám suchý a přilepený na patro.",
+      "„Ještě jedna taková míle a chcípnu,“ zachroptí voják vedle mě s popraskanými rty.",
+      "Neodpovím. Zastavíme až pozdě odpoledne před kamennou numidskou pevností. Hned shazujeme nosné tyče do písku a do ztvrdlých dlaní bereme krumpáče. Hloubíme příkop a narážíme do země palisádu.",
+      "Když je tábor hotový, padnu do stanu na udusanou hlínu. Usnu vteřinu poté, co zavřu oči.",
+      "Uprostřed noci mnou někdo surově zatřese. Centurion mě vyžene do tmy na hlídku. Pouštní mráz mi okamžitě zalézá pod tuniku. Stojím u valu, svírám promrzlé ratiště pila a zírám do absolutní tmy směrem k nepřátelské stěně.",
+      "Ráno nás seřadí. Do rukou dostáváme těžké dřevěné žebříky.",
+      "Rozběhneme se přes písek přímo k hradbám. Shora se na nás okamžitě sype kamení a oštěpy. Žebřík s tupým bouchnutím narazí na kamennou stěnu pevnosti. Chytím se hrubých příček a šplhám nahoru. Scutum držím levačkou zvednuté těsně nad hlavou. Dřevo štítu praská pod dopadajícími balvany. Levou paži mám od neustálých nárazů úplně necitlivou.",
+      "Muž na žebříku vedle mě dostane velkým kamenem přímo do obličeje a s křikem se zřítí do prachu.",
+      "Přehoupnu se přes cimbuří na ochoz. Numidský obránce proti mně vyrazí s krátkým kopím. Srazím jeho ránu okrajem štítu a bez nápřahu mu vrazím gladius do krku. Odstrčím jeho tělo a seskočím z hradeb dolů na vnitřní nádvoří.",
+      "Naši se valí přes zeď těsně za mnou. Narazíme na poslední linii jejich obrany. Srazíme se s nimi v těsném prostoru u zdi hlavní budovy. Nepřátelské čepele drhnou o kov mojí zbroje. V té mačkanici držím gladius kolmo u boku a bodám zespodu přímo do nechráněných slabin. Numidijci se kácí pod naše nohy do krve smíchané s prachem. Zatlačíme je až k protější stěně. Dojde jim místo. Zkrátíme krok a zařízneme je jednoho po druhém."
     ]
   }
 }

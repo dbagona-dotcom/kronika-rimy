@@ -1,51 +1,70 @@
 {
   "id": 17,
-  "slug": "sullovy_obcanske_valky",
-  "title": "Sullovy občanské války (88–81 př. n. l.)",
+  "slug": "17_sullovy_obcanske_valky",
+  "title": "Kapitola 17 — Sullovy občanské války (88–81 př. n. l.)",
   "century": "1_stoleti_pr_n_l",
   "years": "88–81 př. n. l.",
-  "dokonceno": true,"images": { "hero": "img40.jpg", "mapa": { "src": "img41.jpg" } },
+  "dokonceno": true,
+  "images": {
+    "hero": "img1.jpg",
+    "mapa": {
+      "src": "img2.jpg",
+      "caption": ""
+    }
+  },
   "sections": {
     "kontext": [
-      "Jsou okamžiky v dějinách které nelze odvolat. Okamžiky po nichž je svět jiný, ne postupně, ne pomalu, ale najednou a nezvratně. Sulla a jeho legie překračující brány Říma roku 88 před naším letopočtem jsou takovým okamžikem. Nic podobného se dosud nestalo. Řím existoval pět set let jako republika, jako systém v němž armáda slouží státu a velitel skládá zbraně když ho senát odvolá. V jediném večeru se toto pravidlo rozbije způsobem, který nelze neopravit zákonem ani senátním usnesením. Lze ho ignorovat, zamlčet, odsoudit.",
-      "Nelze ho odvolat. A každý kdo přijde po Sullovi to bude vědět.",
-      "Řím po Spojenecké válce je město vyčerpané, napjaté a plné veteránů kteří přišli z fronty ne jako hrdinové ale jako muži kteří právě bojovali proti svým vlastním sousedům. Senát se snaží absorbovat statisíce nových občanů do volebních kmenů způsobem který zachová stávající mocenské rozložení, a italský lid zuří protože vidí že formální občanství bez reálného volebního vlivu je prázdné gesto.",
-      "Do tohoto napětí vstoupí zpráva z východu. Mithridates VI., král Pontu na černomořském pobřeží, zahájil masivní expanzi do Malé Asie. V jednom koordinovaném dni roku 88 nechá povraždir osmdesát tisíc italických obchodníků a jejich rodin rozesetých po celé Malé Asii. Osmdesát tisíc lidí. V jeden den. Na rozkaz jednoho muže. Řím nemůže neodpovědět.",
-      "Konzul Lucius Cornelius Sulla dostane velení mithridatské výpravy jako logický výsledek svého vojenského výkonu ve Spojenecké válce. Pak vstoupí do hry Gaius Marius — starý, nemocný, politicky marginalizovaný, ale stále hořící touhou po dalším velení. Prostřednictvím tribuna Publia Sulpicia Rufana, jenž ovládl lidové shromáždění kombinací demagogické výmluvnosti a organizovaného násilí, prosadí převelení velení na sebe.",
-      "Sullovi přijdou zprávy do tábora v Nole kde stojí se šesti legiemi. Zavolá velitelský sbor a sdělí situaci. Většina důstojníků ho opustí — nejít proti Římu je pro ně stále silnější instinkt než loajalita ke konkrétnímu veliteli. Zůstanou mu centurioni a vojáci. Profesionálové bez půdy a bez budoucnosti mimo armádu, jejichž osud závisí na velitelově politickém úspěchu. Sulla jim vysvětlí co ztratí pokud ho nahradí Marius: nové velení přinese nové vojáky a ony staré odstaví bez odměny.",
-      "Legie se vydají na pochod na Řím."
+      "I. Historický kontext",
+      "Tribun Publius Sulpicius Rufus prohlašuje přesun velení mithridatské výpravy z konzula Sully na Gaia Maria.",
+      "Sullovy zprávy dorazí do tábora v Nole.",
+      "Sulla zavolá velitelský sbor. Vysvětlí situaci. Důstojníci z celého štábu ho s výjimkou jednoho okamžitě opustí. Pochod s legiemi na vlastní hlavní město leží daleko za nepřekročitelnou hranicí římského zákona. Zůstanou mu centurioni a řadoví vojáci. Sulla jim oznámí důsledky: nové mariánské velení přinese nové jednotky. Veteráni zůstanou po letech tvrdých bojů odstavěni bez odměny a bez slíbené půdy.",
+      "Šest legií se vydá na pochod na Řím.",
+      "Sulla vstoupí do města bez boje. Marius a Sulpicius uprchnou, Sulpicius bude záhy zabit. Sulla prohlásí klíčové mariánce za nepřátele státu, odvolá Sulpiciovy zákony a odpluje na východ.",
+      "Marius unikne k italskému pobřeží. U města Minturnae ho zadrží a uvrhnou do cely. Kimbrijský voják dostane rozkaz bývalého konzula popravit. Marius ho zastaví pouhým pohledem. Voják upustí zbraň a odejde. Úřady Maria propustí a seženou mu loď, se kterou se dostane k břehům Afriky.",
+      "V Africe usedne poblíž trosek Kartága, kde vyčkává a buduje kolem sebe kruh afrických klientů i propuštěných veteránů.",
+      "Mithridates VI., král Pontu, již mezitím ovládl celou Malou Asii. V jediném koordinovaném dni roku 88 nechal povraždit italské obchodníky a jejich rodiny napříč podrobeným územím. Bylo jich osmdesát tisíc."
     ],
     "armada": [
-      "Sullovy občanské války přinášejí vojenský paradox který nemá v celé historii republiky obdoby. Legie bojují proti legiím, centurioni vedou muže do útoku na pozice které stavěli jejich kolegové, a celý sofistikovaný aparát římského válečnictví se obrátí sám proti sobě.",
-      "Obě strany jsou vyzbrojeny a organizovány podle stejného vzoru. Mariova reforma platí pro celou armádu — kohorty nahrazují manipuly, pilum a gladius jsou standardní výbavou každého těžkého legionáře. Rozdíl nespočívá ve výzbroji ani v taktice. Spočívá v loajalitě, a v tom jak tato loajalita funguje v prostředí kde republika přestala být neutrální autoritou nad armádou a stala se cílem.",
-      "Sulla je jako velitel v tomto období na absolutním vrcholu svých schopností. Taktická přesnost a strategická trpělivost, kombinace již prokázaná v Africe a ve Spojenecké válce, jsou doplněny politickou chladností která v té době nemá v Římě konkurenci. Sulla nikdy nepanikaří. Nikdy nejedná ze vzteku. Každý jeho krok, i ty nejbrutálnější, působí jako výsledek kalkulace, nikoliv emocí.",
-      "Na východě bude Sulla operovat bez spolehlivého zásobování z Říma — mariánská vláda mu záměrně odmítne posílat posily a zásoby. A přesto dosáhne výsledků které by za normálních okolností vyžadovaly plnou státní podporu."
+      "II. Armáda a vojenství",
+      "Profesionální legionáři teď bojují proti dalším Římanům. Centurioni vedou své oddíly proti pevnostem a táborům, o jejichž konstrukci vědí naprosto vše, protože obě strany v konfliktu používají totožnou výzbroj, metody i formace. Rozhoduje oddanost generálovi, který řídí celou armádu.",
+      "Sulla směřuje na východ k řešení pontské krize, aniž by k tomu měl podporu římských institucí. Mariánská vláda zablokuje posily i zásobování.",
+      "Mithridatova armáda přebírá starší modely bitevních postupů. Tvoří ji těžká falangová pěchota vybavená sarissami podle makedonského stylu. Armádu posilují katafrakti na silně obrněných koních, lehká asijská jízda a oddíly lukostřelců. Součástí jsou rovněž srpové vozy osazené čepelemi na kolech, které Mithridates nasazuje s podobným výsledkem jako Seleukovci o století dříve.",
+      "Celé toto vojsko čítá u Chaironeie přibližně sto dvacet tisíc mužů. Sulla přivede třicet tisíc."
     ],
     "konflikt": [
-      "Sulla vstoupí do Říma roku 88 bez boje. Marius a jeho spojenci uprchnou než legie dorazí k hradbám. Sulla nechá prohlásit Mariem a jeho nejbližší spojence za nepřátele státu, odvolá Sulpiciovy zákony a odpluje na východ.",
-      "Nechává za sebou křehkou stabilitu. A nechává za sebou Mariem, který se skrývá v Africe.",
-      "A čeká.",
-      "Čekat příliš dlouho Marius nemůže — je příliš starý na dlouhé čekání. Roku 87 se vrátí do Itálie, spojí se s konzulem Luciem Corneliem Cinnou a táhne na Řím. Tentokrát bez Sully a bez jeho legií. Řím padne druhým přechodem v jediné dekádě. Mariánská vláda nastolí teror: proscripce, politické vraždy, vyvražďování sullánské aristokracie. Marius bude zvolen konzulem posedmé, ale zemře sedmnáct dní po nástupu do úřadu, roku 86, ve věku přibližně sedmdesáti let. Starý, nemocný, pronásledovaný halucinacemi a nočními můrami, umírá ve svém domě zatímco jeho muži vraždí jeho nepřátele v ulicích.",
-      "Cinna bude vládnout jako de facto diktátor tři roky. Roku 84 ho zabijí jeho vlastní vojáci při vzpouře v táboře.",
-      "Sulla mezitím vede na východě válku bez zásobování z Říma. Atény padnou roku 86. U Chaironeie a Orchomenu v Boiótii porazí Archelaovy pontské armády — falanga naráží na kohorty na nerovném terénu a opakuje se Kynoskefaly a Pydna. U Orchomenu Sullovo levé křídlo začne ustupovat. Sulla seskočí z koně, vezme orly a vykřičí na prchající muže že se budou moci říci že svého velitele opustili v Boiótii. Muži se otočí. Archelaos je poražen.",
-      "Mithridates přijme podmínky. Vyklidí všechna dobytá území, vydá flotilu a zaplatí odškodnění. Je to mír který Sulla potřebuje — ne proto že by Mithridates byl poražen tak jak Kartágo bylo poraženo, ale proto že v Itálii mariánská vláda čeká a Sulla potřebuje volné ruce.",
-      "Roku 83 přistane Sulla v jižní Itálii. Přijdou k němu mladí aristokraté jejichž rodiny byly mariánskou vládou pronásledovány: Quintus Caecilius Metellus Pius, Marcus Licinius Crassus a devatenáctiletý Gnaeus Pompeius, který přivede tři legie sestavené z klientů svého otce. Řím unavený mariánskou diktaturou se přikloní na Sullovu stranu rychleji než kdokoliv čekal.",
-      "Poslední bitva přijde roku 82 u Collinské brány. Sullovo pravé křídlo je zatlačeno a situace je kritická. Ale Crassus na levém křídle zvítězí a obrátí síly na pomoc. Samnité — poslední velká povstalecká síla, kmeny které bojovaly za italskou svobodu od Spojenecké války — jsou drceni. Jejich velitel Telesinus prý křičel svým mužům před bitvou, že Itálie nebude nikdy svobodná dokud nestojí vlci Říma mrtví. Telesinus padne. Samnité jsou jako bojová síla definitivně zničeni.",
-      "Sulla vstoupí do Říma podruhé a nechá se jmenovat diktátorem. Pak zahájí proscripce. Tři seznamy, celkem přes čtyři tisíce jmen. Hlavy jsou přibíjeny na Fóru. Crassus si při proscripcích udělá počáteční kapitál — majetek proscribovaných se prodává levně a člověk s hotovostí může zbohatnout přes noc.",
-      "Jeden mladý muž z aristokratické rodiny, příbuzný Mariem, s podezřelými demokratickými styky a odmítající rozluky se svou ženou která není Sullovi po chuti, je také na seznamu. Sulla ho nakonec omilostní na přímluvu vestálek a přátel, ale prý prohlásí že v tomto mladíkovi vidí mnoho Mariů.",
-      "Mladíkovo jméno je Gaius Iulius Caesar.",
-      "Je mu sedmnáct let.",
-      "Sulla bude diktátorem tři roky. Pak, v činu který nemá v dějinách antického Říma obdoby, se roku 79 vzdá moci dobrovolně. Odejde na své venkovské sídlo do Kampánie, bude psát memoáry, pít, lovit a žít způsobem který antičtí autoři popisují jako mravně pochybný a fyzicky výstřední. Zemře roku 78 na jaterní selhání."
+      "III. Průběh konfliktu",
+      "Sulla přistane v Řecku roku 87. Athény se postaví na Mithridatovu stranu a uzavřou brány. Sulla oblehne město. Chybí mu obléhací stroje a dřevo k jejich stavbě získá vykácením Platónovy Akademie i přilehlých hájů. Athény padnou roku 86 a ulice zaplavuje krev represí.",
+      "U Chaironeie v Boiótii stojí Sulla se třiceti tisíci muži proti Archelaovi, Mithridatovu generálovi. Archelaus nasadí srpové vozy jako první vlnu. Sulla přikáže vykopat řadu hlubokých příkopů, do kterých vozy vjíždějí. Pak nastoupí pontská falanga. Sullovo levé křídlo začne ustupovat. Sulla seskočí z koně, vytrhne orla a zařve na ustupující řady, že na bojišti v Boiótii mohou tak akorát vyprávět, jak svého velitele nechali samotného čelit nepříteli. Římské křídlo se zformuje a získá převahu. Archelaus je poražen.",
+      "Roku 85 u bažinatého jezera Kopais nedaleko Orchomenu zvolí Archelaus pro bitvu opět nepříznivý prostor. Sullova formace čelí tlaku a začne znovu praskat v levé části. Generál vyrazí vstříc utíkajícím mužům a chytá prchající jednotky údery vlastního meče naplocho. Křídlo srovná. Pak přikáže mužstvu v přilehlém močálu vykopat odvodňovací kanály. Legionáři za svitu pochodní stráví noc zpevňováním podloží k útoku. Ráno vtrhnou přes sušší vrstvu bláta přímo na Archelaovu armádu a dorazí ji.",
+      "Mithridates přijme podmínky. Vyklidí dobytá území, vydá flotilu a zaplatí odškodnění.",
+      "Roku 87 se Marius vrátí z Afriky s malou armádou. Spojí se s konzulem Luciem Corneliem Cinnou a táhne na Řím. Město padne. Mariánský teror začne a ulice se plní seznamy proskripcí. Marius vstoupí do sedmého konzulátu a umírá pouhých sedmnáct dní po zahájení funkce roku 86 na selhání organismu.",
+      "Cinna bude vládnout senátu a státu další tři roky. Roku 84 ho zabijí jeho vlastní vojáci při vzpouře v táboře.",
+      "Sulla přistane v jižní Itálii roku 83 se čtyřiceti tisíci veterány. Přicházejí k němu mladí aristokraté, jejichž rodiny utrpěly Cinnovou krutostí: Quintus Metellus Pius, Marcus Licinius Crassus a devatenáctiletý Gnaeus Pompeius. Pompeius za Sullou přichází do tábora v čele tří legií najatých ze zdrojů jeho otce. Sulla ho přijme a osloví ho titulem Veliký. Pompeius je na konzulát i senát příliš mladý, ale Sulla mu oslovení přesto ponechá.",
+      "Sullovo tažení Itálií trvá rok a půl. Mariánské armády bez pevného velení ustupují a opouštějí jedno město za druhým.",
+      "Samnický vůdce Pontius Telesinus stále drží bojeschopné vojsko, vyrazí osvobodit obléhanou Praeneste, kde je ukryt poslední mariánský konzul. Po zhodnocení vlastních možností vytáhne s tisícovými davy na sever přímo na Řím.",
+      "Rozhodující bitva přijde první den listopadu 82 před Collinskou branou. Telesinus hlásí, že Itálie nenalezne mír, dokud vlci Říma nebudou ležet mrtví. Křídlo, kde velí Sulla, ztrácí pod náporem a stahuje se ke zdi města, boje trvají hluboko do noci a Sulla řídí obranné snahy fyzickou přítomností v první linii.",
+      "Až v průběhu tmy oddíly pravého křídla vedeného Crassem prorazí obranné samnické boky. Telesinus zahyne a po bitvě se tisíce přeživších nepřátel vzdá zbraní.",
+      "Sulla je soustředí do nedaleké struktury Circu. Ráno vystupuje s projevem před zbylými představiteli senátu v sousedním chrámu. V průběhu proslovu se zvenčí začínají rozléhat smrtelné výkřiky. Senátoři se nedokážou soustředit. Sulla je upozorní, aby pokračovali v jednání, protože hluk způsobují pouze muži, pro které on nalezl zasloužený trest. Těla nechá vyvézt z města.",
+      "Generál přijme doživotní titul diktátora. Zveřejní tři vlny proskripčních tabulí nesoucích celkem přes čtyři tisíce jmen. Kdokoli má právo proskribovaného muže usmrtit, jeho zabavené majetky pak padnou do státní dražby. Crassus zde získá obrovské bohatství skupováním obrovských podílů panství za zlomek jejich reálné hodnoty.",
+      "Gaius Julius Caesar je osmnáctiletý aristokrat vzešlý z mariánské větve rodiny a manžel dcery zavražděného Cinny. Sulla od něj očekává zrušení sňatku, Caesar však příkaz odmítá plnit. Jeho jméno následně míří na seznam. Caesar unikne do Sabinských hor. Římští vlivní představitelé a vestálky pro něj nakonec vyprosí amnestii. Sulla rozsudek odvolá a k jeho jménu pronese poznámku o tom, že v něm vidí mnoho Mariů.",
+      "Změna římské ústavy navyšuje senát na šest stovek míst, odebere moc tribunům k navrhování zákonů bez předchozího senátního souhlasu a vrací jurisdikci soudů patricijským hodnostářům.",
+      "Sulla z pozice suveréna ustoupí o vlastní vůli v roce 79. Odejde zpět na fórum, projde se městem bez vojenské asistence a dá každému možnost ho předvolat před soud. Nikdo se nepřihlásí. Stahuje se na své panství do Kampánie, kde v roce 78 po zhoršení zdraví skoná."
     ],
     "pribeh": [
-    "Publius Servilius, legionář, druhá kohorta, Collinská brána, Sullovy občanské války, 82 př. n. l.",
-    "Viděl jsem hradby. Ne nepřátelské — naše. Římské kamenné bloky které jsem znal od dětství. Na těch hradbách stáli naši vlastní lidé a dívali se dolů na bitvu.",
-    "Samnité útočili bez váhání. Telesinus byl prý vpředu na koni, v dostřelu, a křičel věci které jsem neslyšel jasně — ale tón jsem znal. Tón muže který věří každému slovu které říká. Naše pravé křídlo začalo ztrácet rytmus — cítil jsem to víc než viděl, změna zvuku zprava, jiný tlak než by měl být. Centurion se otočil a řekl jediné slovo: držte.",
-    "Drželi jsme. Nevím jak dlouho. V tu chvíli hodiny přestávají mít smysl — existuje jen linie před vámi a váha štítu v ruce. Ta váha mi po hodinách boje přestala být nepříjemná. Stala se prostě součástí těla, jako by tam štít vždycky byl. To je moment kdy víš, že bojuješ příliš dlouho.",
-    "Samnitský voják se ke mně prodrál z tlačenice, vyčerpaný a zuřivý zároveň. Zaháknul svůj štít za můj a trhl — klasický pokus odklopit obranu. Přitáhl jsem se s ním, nedal mu vzdálenost na ránu, a celou vahou jsem ho zahnal bokem do muže za ním. Oba zavrávoral, já ne. Bodl jsem do mezery která vznikla.",
-    "Pak přišla zpráva — Crassus drží, Crassus vítězí, Crassus se obrací. Samnité to věděli dřív než my, protože jejich linie začaly ztrácet pevnost ještě před rozkazem k protiútoku. Telesinus padl vlevo. Neviděl jsem to — slyšel jsem jiný křik, ten který přijde když padne symbol. Rozdíl mezi armádou která věří a armádou která útočí ze setrvačnosti poznáte okamžitě.",
-    "Stál jsem po bitvě před Collinskou bránou a díval se nahoru na zeď. Starý civil v prostém plášti se na mě podíval dolů a odvrátil pohled. Nevím co viděl na mém obličeji.",
-    "Sulla vjel do Říma na bílém koni a díval se rovně dopředu. Město kolem něj bylo tiché způsobem který není mír — ticho lidí kteří nevědí jestli mají jásat nebo plakat a volí mlčení jako nejbezpečnější variantu."
-  ]
+      "17 — Bitva u Collinské brány (82 př. n. l.)",
+      "Gaius Julius, eques, Porta Collina (ráno)",
+      "Stojíme s koňmi za zavřenou Collinskou bránou. Je nás sotva stovka. Většinou mladí synové ze senátorských rodin. Slunce sotva vyšlo a zvenčí slyšíme hluk desítek tisíc nohou. Pontius Telesinus přitáhl k Římu dřív než Sullova armáda. Město za našimi zády je prázdné a nechráněné.",
+      "Velitel oddílu zvedne ruku. Těžká dubová vrata se s vrzáním otevřou. Vyjedeme ven.",
+      "Pláň před hradbami je plná samnitské pěchoty. Zastavíme. Velitel tasí spathu. Každá minuta, kterou tu hordu zdržíme, dává Sullovi čas dorazit na bojiště.",
+      "Pobídneme koně do trysku. Vrazíme přímo do jejich předsunuté linie. Můj kůň hrudí tvrdě smete samnitského lehkooděnce. Bodnu kopím dolů, hrot projede krkem dalšího muže. Zastavíme se hluboko v jejich řadách a ztratíme hybnost. Ze všech stran se na nás sesype masa pěchoty. Kůň vedle mě zaječí, když mu oštěp projde slabinami. Jezdec padá pod desítky okovaných bot. Mého koně chytí za ohlávku obrovský Samnita. Zkrátím úchop meče a seknu ho přes obličej.",
+      "Numerius Marcius Malleus, legionář, Porta Collina",
+      "Máme za sebou celodenní usilovný pochod. Jakmile dorazíme k hradbám Říma, Sulla z koně okamžitě nařizuje útok. Žádný odpočinek. Zrovna když slunce začíná klesat, srazíme se se Samnity přímo před branou.",
+      "Je jich mnohem víc. První linie se do nás okamžitě zakousne s fanatickou zuřivostí. Chlap proti mně prudce bodne zespodu. Kryju to štítem, ale tlak mě posune vzad. Zapřu se nohama. Zaháknu horní hranu jeho štítu svým scutem a plnou silou ho strhnu dolů. Odkryju mu obličej a vrazím tam gladius.",
+      "Padne, ale hned ho přeleze další. Tlačí nás nesmírnou silou. Celé naše levé křídlo couvá krok za krokem k vysokým cihlovým zdem města. Nad hlavami nám sviští oštěpy.",
+      "Zády tvrdě narazím na zdivo. Strážní nahoře na hradbách vidí, že se k průjezdu valí nepřítel smíchaný s našimi ustupujícími řadami. Zevnitř zazní panický křik. Těžká železná mříž brány s ohlušujícím rachotem sjede dolů.",
+      "Ostré hroty mříže projedou přímo skrz ramena a záda dvou našich legionářů, kteří uvízli v průchodu. Krev vystříkne na kamennou dlažbu. Mříž nás odřízne venku.",
+      "Zapadne slunce. Bojujeme dál potmě, zády natlačení na zdi vlastního města. Bodáme do stínů a řídíme se jen hmatem a sluchem. Okolo mě na bílém koni projíždí Sulla, křížem krážem pod hradbami, a snaží se udržet rozbité kohorty pohromadě. Kolem půlnoci se prodere davem jezdec od Crassa. Hlásí, že pravé křídlo rozdrtilo nepřítele, a žádá o jídlo pro vítězné muže.",
+      "Nad ránem je po všem. Zbylá samnitská armáda je rozbitá kleštěmi. Jdu po bojišti, scutum mám rozštípané na třísky. Spolu s ostatními bodáme ratišti oštěpů do zad zajatých Samnitů a ženeme ten tisícový, zakrvácený zástup směrem k ohradám státní vily na Martově poli."
+    ]
   }
 }

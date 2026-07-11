@@ -15,7 +15,7 @@
           <div class="op-divider-line"></div>
         </div>
         <p class="op-subtitle">
-          Studentský projekt — historický web vyprávějící šest století římských vojenských konfliktů formou storytellingu.
+          Studentský projekt mapující šest století římských vojenských dějin prostřednictvím 32 konfliktů od první samnitské války roku 343 př. n. l. až po markomanská tažení císaře Marka Aurelia roku 180 n. l.
         </p>
       </div>
 
@@ -26,9 +26,9 @@
           <h2 class="op-sekce-title">Co je Kronika Říma</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Projekt pokrývá 32 vojenských konfliktů od první samnitské války roku 343 př. n. l. po markomanská tažení Marca Aurelia roku 180 n. l. Šest století během kterých se Řím proměnil z jednoho z měst v Latiu na hegemona celého středomořského světa.</p>
-          <p class="op-text">Není to encyklopedie. Není to odborný článek ani populárně naučný text. Něco mezi. Každá kapitola vysvětluje kde jsme, co se děje a proč, bez toho aby čtenáře utopila ve složitých formulacích. Na konci má mít pocit že viděl něco co formovalo antický svět.</p>
-          <p class="op-text">Každá ze 32 kapitol má čtyři části: historický kontext, armádu a vojenství, průběh konfliktu a osobní příběh. Příběhy jsou first-person pohled konkrétního vojáka který tam byl. Od hastata po signifera, od ženistu po Caesara samotného.</p>
+          <p class="op-text">Kronika Říma sleduje období, během něhož se z jednoho města v Latiu stala mocnost ovládající většinu Středomoří. Nejde o encyklopedii ani odbornou publikaci. Cílem bylo vytvořit čtivý historický web, který zachovává fakta, ale zároveň se dobře čte.</p>
+          <p class="op-text">Každá kapitola odpovídá na tři základní otázky. Kde se nacházíme. Co se právě děje. A proč je daný konflikt důležitý. Text se snaží vysvětlovat souvislosti srozumitelně, bez zbytečně složitých formulací a dlouhých odboček.</p>
+          <p class="op-text">Všech 32 kapitol má stejnou strukturu. Nejprve představují historický kontext, poté římskou armádu a způsob válčení, následně průběh samotného konfliktu a nakonec osobní příběh. Ten ukazuje události očima římského vojáka, který je jejich přímým účastníkem. V různých kapitolách se tak čtenář dívá na válku z pohledu obyčejného legionáře, důstojníka, ženisty nebo významného velitele.</p>
         </div>
       </section>
 
@@ -39,34 +39,23 @@
           <h2 class="op-sekce-title">Jak Kronika vznikala</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Začal jsem stylem storytellingu. Nechtěl jsem populárně naučný ani odborný text. Chtěl jsem něco osobitého — něco co se vyzdvihne mezi podobnými publikacemi.</p>
-          <p class="op-text">Nejdřív jsem si vybral období a konflikty. Šest století jsem rozdělil na 32 kapitol. Vybral jsem ověřené zdroje a začal psát s pomocí Claude AI postupně od první kapitoly.</p>
-          <p class="op-text">První verze se mi líbila. Pak jsem ji po čase pročítal znovu a uvědomil si že to není ono. Vypadalo to jako ostatní generické články.</p>
-          <p class="op-text">Přišla verze druhá. Přidával jsem napětí, drama, cliffhangery na konci kapitol. Chtěl jsem aby byl text čtivý, ale přehnal jsem to. V kapitolách se opakovaly stejné ohrané fráze. Popisy postav zabíraly tři řádky. Po pár kapitolách jsem byl sám zmatený a říkal si — sakra, tohle jsem teď nečetl?</p>
-          <p class="op-text">Pak se povedla jedna kapitola. Sullovy občanské války. Tam to sedlo. Kolem ní jsem začal stavět pravidla.</p>
-          <p class="op-text">Vznikly tři příručky.</p>
-          <p class="op-text">První popisuje co má text dělat, jak a proč. Druhá je o čištění — pravidla pro mazání generických frází, komentářů vypravěče, zbytečně dlouhých popisů. Aplikoval jsem ji na všechny kapitoly. Otravné fráze zmizely. Jenže s nimi zmizela i duše textu. Zase to skončilo jako akčnější populárně naučný článek.</p>
-          <p class="op-text">Přišla třetí příručka. Ta popisuje jak vyprávět. Jak necpát napětí na sílu ale budovat ho. Po třetím průchodu jsem měl text který je teď na stránce.</p>
-          <p class="op-text">Po celou dobu jsem i přes ověřené zdroje musel opravovat historické a stylistické chyby. Některé kapitoly prošly čtyřmi verzemi než jsem s nimi byl spokojený.</p>
+          <p class="op-text">Projekt vznikal postupně od první kapitoly. Nejprve jsem vybral konflikty, rozdělil celé období do 32 kapitol a ke každé z nich shromáždil ověřené historické zdroje. Při samotném psaní jsem využíval Claude AI, ale výsledný text prošel rozsáhlými úpravami.</p>
+          <p class="op-text">Od začátku jsem měl jasnou představu o stylu. Nechtěl jsem psát odbornou publikaci ani klasický populárně naučný článek. Cílem bylo vytvořit text, který historii vypráví, ale zároveň nechává prostor samotným událostem. Čtenáře nevede za ruku a nesnaží se mu říkat, co si má myslet.</p>
+          <p class="op-text">První verze ukázaly řadu problémů. Objevovaly se opakující se fráze, přehnané dramatické pasáže i dlouhé popisy, které zpomalovaly tempo vyprávění. Každá další úprava některé nedostatky odstranila, ale často přinesla nové.</p>
+          <p class="op-text">Postupně jsem si proto začal zapisovat pravidla, která se během práce osvědčila. Z nich vznikly tři příručky popisující stavbu textu, jeho úpravy i způsob budování atmosféry. Právě podle nich vznikla finální podoba všech kapitol.</p>
+          <p class="op-text">Nejnáročnější část představovaly osobní příběhy. Nechtěl jsem, aby všechny bitvy působily stejně nebo aby každý voják mluvil stejným hlasem. Každý příběh proto stojí na situaci, která je typická právě pro daný konflikt. Někde dominuje velká bitva, jinde průzkum, přepad nebo dlouhé čekání. Díky tomu má každá kapitola vlastní charakter.</p>
         </div>
       </section>
 
-      <!-- III. TECH -->
+      <!-- III. SLOVO NA ZÁVĚR -->
       <section class="op-sekce">
         <div class="op-sekce-header">
           <span class="op-sekce-num">III.</span>
-          <h2 class="op-sekce-title">Technické řešení</h2>
+          <h2 class="op-sekce-title">Slovo na závěr</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Projekt je napsaný ve VS Code. Frontend stojí na Vue.js 3 s frameworkem Quasar. Pod kapotou klasické HTML, CSS a JavaScript. Data jsou oddělená od UI — každá ze 32 kapitol žije jako samostatný JSON soubor.</p>
-          <div class="tech-grid">
-            <div class="tech-item"><div class="tech-name">Vue.js 3</div><div class="tech-desc">Composition API, reaktivní state, dynamické importy kapitol</div></div>
-            <div class="tech-item"><div class="tech-name">Quasar</div><div class="tech-desc">Framework, routing, useMeta() pro dynamické titulky stránek</div></div>
-            <div class="tech-item"><div class="tech-name">localStorage</div><div class="tech-desc">Progress tracking — přečtené kapitoly uložené v prohlížeči na zařízení</div></div>
-            <div class="tech-item"><div class="tech-name">32 JSON souborů</div><div class="tech-desc">Data oddělená od UI, dynamicky importována při přechodu kapitol</div></div>
-            <div class="tech-item"><div class="tech-name">CSS proměnné</div><div class="tech-desc">Kompletní light/dark mode přes custom properties, bez JS přepočtů</div></div>
-            <div class="tech-item"><div class="tech-name">HTML / CSS / JS</div><div class="tech-desc">Klasický frontend základ pod celou strukturou projektu</div></div>
-          </div>
+          <p class="op-text">Nejstarší kapitoly jsou kratší než pozdější části projektu. Období rané republiky je doloženo menším množstvím spolehlivých pramenů a významnou roli v něm hraje politika, zatímco samotných popsaných střetů je méně.</p>
+          <p class="op-text">Přesto jsou tyto kapitoly důležité. Ukazují začátek cesty, na jejímž konci stojí říše schopná čelit Hannibalovi, porazit helénistická království nebo ovládnout téměř celý středomořský svět.</p>
         </div>
       </section>
 
@@ -74,10 +63,11 @@
       <section class="op-sekce">
         <div class="op-sekce-header">
           <span class="op-sekce-num">IV.</span>
-          <h2 class="op-sekce-title">Tři příručky</h2>
+          <h2 class="op-sekce-title">Příručka projektu</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Během psaní vznikly tři příručky. Každá řeší jinou vrstvu práce s textem. Dohromady drží styl napříč všemi 32 kapitolami.</p>
+          <p class="op-text">Během několika verzí projektu vznikly tři interní příručky. Z nich jsem poté sestavil jednu obsáhlou, která systematicky řeší vše — stavbu textu, jeho úpravu i budování atmosféry.</p>
+          <p class="op-text">Ukázky z příručky:</p>
 
           <div class="prirucky">
 
@@ -158,8 +148,6 @@
                 <div class="prirucka-blok">
                   <div class="prirucka-nadpis">Problém 1 — Komentář vypravěče</div>
                   <p>Autor říká čtenáři jak má reagovat, co je důležité, nebo co něco znamená. Text hodnotí místo aby ukazoval. Pokud věta říká čtenáři jak se cítit nebo co si myslet — škrtni ji.</p>
-                  <p class="prirucka-priklad"><strong>Špatně:</strong> „Tato mezera v paměti sama o sobě říká jak bezprecedentní je situace."</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> Škrtnout. Předchozí věta (dvě stě sedmdesát let) to říká sama.</p>
                 </div>
 
                 <div class="prirucka-blok">
@@ -170,62 +158,22 @@
                 </div>
 
                 <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 3 — Redundance unikátnosti</div>
-                  <p>Více vět v jednom odstavci říká totéž — že něco je výjimečné, bezprecedentní. Jednou stačí.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 4 — Výčet místo situace</div>
+                  <div class="prirucka-nadpis">Problém 3 — Výčet místo situace</div>
                   <p>Seznam věcí bez ukázky jak fungují. Každý výčet nahradit jednou konkrétní situační větou.</p>
                   <p class="prirucka-priklad"><strong>Špatně:</strong> „Výzbroj zůstává standardní — pilum, gladius, scutum, bronzová helma."</p>
                   <p class="prirucka-priklad"><strong>Správně:</strong> „Pilum které prorazí štít a ohne se tak že ho nepřítel nemůže hodit zpět zůstává standardem."</p>
                 </div>
 
                 <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 5 — Vata</div>
-                  <p>Věta která zabírá místo ale neříká nic konkrétního. Pokud ji škrtneš a text dává smysl dál — škrtni ji.</p>
+                  <div class="prirucka-nadpis">Problém 4 — Armádní sekce bez obsahu</div>
+                  <p>Sekce Armáda a vojenství má odpovídat na otázku „co bylo v tomto konfliktu jinak?" Ne „jak armáda vypadala." Kdyby čtenář sekci přeskočil, přišel by o informaci která mu pomůže pochopit proč bitva dopadla tak jak dopadla?</p>
                 </div>
 
                 <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 6 — Vysvětlování jasného</div>
-                  <p>Autor vysvětluje čtenáři význam věcí které jsou z kontextu zřejmé. Pokud čtenář pochopí z kontextu — nevysvětlovat.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 7 — Armádní sekce bez obsahu</div>
-                  <p>Sekce Armáda a vojenství má odpovídat na otázku „co bylo v tomto konfliktu jinak?" Ne „jak armáda vypadala." Kontrolní otázka: kdyby čtenář sekci přeskočil, přišel by o informaci která mu pomůže pochopit proč bitva dopadla tak jak dopadla?</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 8 — Závěry které sumarizují</div>
+                  <div class="prirucka-nadpis">Problém 5 — Závěry které sumarizují</div>
                   <p>Poslední věta sekce nemá shrnovat co bylo — má naznačovat co přijde, nebo nechat fakta viset bez komentáře.</p>
                   <p class="prirucka-priklad"><strong>Špatně:</strong> „Toto byl zlomový moment v dějinách impéria."</p>
                   <p class="prirucka-priklad"><strong>Správně:</strong> Fakta o důsledku — čtenář k závěru dorazí sám.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 9 — Přestřelená dramatičnost</div>
-                  <p>Jedna silná dramatická věta na kapitolu. Maximálně dvě. Každá navíc oslabuje všechny ostatní.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 10 — Prolomení čtvrté zdi</div>
-                  <p>Každá kapitola musí fungovat samostatně. Žádné „jak jsme viděli", „jak víme", „vývoj který jsme sledovali".</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 11 — Pravopis</div>
-                  <p>Opravit všechny zjevné chyby. Časté problémy: překlepy, chybějící čárky v souvětích, nesoulad rodu a pádu.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 12 — Reference na moderní historiky</div>
-                  <p>Veškeré zmínky o „moderních historicích", „archeologických nálezech", „dodnes rekonstruují" škrtnout nebo přepsat na přímé konstatování faktu.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Pravidlo rytmu</div>
-                  <p>Každý odstavec by měl obsahovat alespoň jednu kratší větu a alespoň jednu delší větu. Tři krátké věty za sebou = žádná z nich není důrazná.</p>
                 </div>
 
                 <div class="prirucka-blok">
@@ -249,63 +197,63 @@
 
                 <div class="prirucka-blok">
                   <div class="prirucka-nadpis">Princip 1 — Zpomalení před úderem</div>
-                  <p>Před každým klíčovým faktem potřebuje čtenář nádech. Krátká věta pro důraz funguje jen když před ní bylo dost prostoru. Před silný moment vlož jednu větu která zpomalí — rozšíří kontext nebo prodlouží souvětí těsně před úderem.</p>
+                  <p>Před každým klíčovým faktem potřebuje čtenář nádech. Krátká věta pro důraz funguje jen když před ní bylo dost prostoru.</p>
                   <p class="prirucka-priklad"><strong>Špatně:</strong> „Sulla a jeho legie překračující brány Říma roku 88 jsou takovým okamžikem."</p>
                   <p class="prirucka-priklad"><strong>Správně:</strong> „Jsou okamžiky v dějinách které nelze odvolat. Okamžiky po nichž je svět jiný, ne postupně, ne pomalu, ale najednou a nezvratně. Sulla a jeho legie překračující brány Říma roku 88 jsou takovým okamžikem."</p>
                 </div>
 
                 <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 2 — Most mezi fakty</div>
-                  <p>Věta která spojuje dva fakty tak aby mezi nimi bylo napětí, ne jen chronologie. Bez mostu text skáče od faktu k faktu. S mostem čtenář cítí příčinu a důsledek.</p>
-                  <p>Most nesmí být komentář vypravěče. „Řím nemůže neodpovědět" — konstatování reality, povoleno. „Bylo to hrozné a Řím musel jednat" — komentář, zakázáno.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 3 — Jedna věta která zůstane v hlavě</div>
+                  <div class="prirucka-nadpis">Princip 2 — Jedna věta která zůstane v hlavě</div>
                   <p>Každá kapitola má mít jednu větu kterou čtenář nevědomě uloží do paměti. Tuto větu chránit — neškrtat ani když porušuje jiná pravidla.</p>
-                  <p>Příklady silných vět z Kroniky:</p>
                   <p class="prirucka-citace">„Nelze ho odvolat. A každý kdo přijde po Sullovi to bude vědět."</p>
                   <p class="prirucka-citace">„Je mu sedmnáct let."</p>
                   <p class="prirucka-citace">„A čeká."</p>
-                  <p>Jsou krátké, konstatují bez hodnocení, nechávají čtenáře v prostoru kde si domyslí zbytek.</p>
                 </div>
 
                 <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 4 — Gradace místo popisu</div>
-                  <p>Místo aby text říkal že něco bylo závažné — ukáže to řadou faktů které gradují od menšího k většímu. Poslední fakt v řadě musí být největší nebo nejpřekvapivější.</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> „Sulla posílil senát. Omezil tribuny. Uzákonil systém který měl zabránit dalšímu Mariovi."</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 5 — Konkrétní obraz místo obecného tvrzení</div>
-                  <p>Každé obecné tvrzení o charakteru postavy nebo atmosféře nahradit jednou konkrétní akcí. Obecné tvrzení čtenář přečte a zapomene. Konkrétní obraz si představí a pamatuje.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 6 — Nevyřízené účty místo historického přehledu</div>
-                  <p>Motivace postav vyjádřená přes napětí a důsledky, ne přes historický výklad. Čtenář se neztotožní s postavou která „sledovala geopolitické zájmy". Ztotožní se s postavou která „má doma nevyřízené účty".</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 7 — Ticho po silném momentu</div>
+                  <div class="prirucka-nadpis">Princip 3 — Ticho po silném momentu</div>
                   <p>Po silné větě nenásleduje žádný komentář, vysvětlení ani rozvití. Text pokračuje dál jako by se nic nestalo. Čtenář který se zastaví a přemýšlí je silnější zážitek než čtenář který dostane vysvětlení hned za větou.</p>
                 </div>
 
                 <div class="prirucka-blok">
                   <div class="prirucka-nadpis">Červené vlajky — kdy atmosféra zmizela</div>
-                  <p>Tři odstavce za sebou začínají datem nebo jménem. Žádná věta v sekci není kratší než dvacet slov. Poslední věta sekce shrnuje co bylo řečeno. Postava je popsána adjektivy, ne akcemi. Čtenář ví co se stalo ale neví proč mu na tom záleží.</p>
+                  <p>Tři odstavce za sebou začínají datem nebo jménem. Žádná věta v sekci není kratší než dvacet slov. Poslední věta sekce shrnuje co bylo řečeno. Postava je popsána adjektivy, ne akcemi.</p>
                 </div>
               </div>
             </div>
 
           </div>
+
+          <div class="feedback-box" style="margin-top: 1.5rem;">
+            <div class="feedback-label">Zájem o celou příručku?</div>
+            <p class="feedback-text">Pokud máš zájem o kompletní příručku projektu, napiš mi na mail nebo zprávu na LinkedIn.</p>
+          </div>
         </div>
       </section>
 
-      <!-- V. KONTAKT -->
-      <section class="op-sekce op-sekce-kontakt">
+      <!-- V. TECHNICKÉ ŘEŠENÍ -->
+      <section class="op-sekce">
         <div class="op-sekce-header">
           <span class="op-sekce-num">V.</span>
+          <h2 class="op-sekce-title">Technické řešení</h2>
+        </div>
+        <div class="op-sekce-content">
+          <p class="op-text">Projekt je napsaný ve VS Code. Frontend stojí na Vue.js 3 s frameworkem Quasar. Pod kapotou klasické HTML, CSS a JavaScript. Data jsou oddělená od UI — každá ze 32 kapitol žije jako samostatný JSON soubor.</p>
+          <div class="tech-grid">
+            <div class="tech-item"><div class="tech-name">Vue.js 3</div><div class="tech-desc">Composition API, reaktivní state, dynamické importy kapitol</div></div>
+            <div class="tech-item"><div class="tech-name">Quasar</div><div class="tech-desc">Framework, routing, useMeta() pro dynamické titulky stránek</div></div>
+            <div class="tech-item"><div class="tech-name">localStorage</div><div class="tech-desc">Progress tracking — přečtené kapitoly uložené v prohlížeči na zařízení</div></div>
+            <div class="tech-item"><div class="tech-name">32 JSON souborů</div><div class="tech-desc">Data oddělená od UI, dynamicky importována při přechodu kapitol</div></div>
+            <div class="tech-item"><div class="tech-name">CSS proměnné</div><div class="tech-desc">Kompletní light/dark mode přes custom properties, bez JS přepočtů</div></div>
+            <div class="tech-item"><div class="tech-name">HTML / CSS / JS</div><div class="tech-desc">Klasický frontend základ pod celou strukturou projektu</div></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- VI. KONTAKT -->
+      <section class="op-sekce op-sekce-kontakt">
+        <div class="op-sekce-header">
+          <span class="op-sekce-num">VI.</span>
           <h2 class="op-sekce-title">Kontakt</h2>
         </div>
         <div class="op-sekce-content">
@@ -468,7 +416,6 @@ function toggle(num) {
   line-height: 1.5;
 }
 
-/* PŘÍRUČKY — ACCORDION */
 .prirucky {
   margin-top: 1.75rem;
   display: flex;
@@ -520,7 +467,6 @@ function toggle(num) {
   line-height: 1;
   flex-shrink: 0;
 }
-
 .prirucka-obsah {
   padding: 1.5rem;
   border-top: 1px solid var(--border-gold);
@@ -545,10 +491,7 @@ function toggle(num) {
   border-left: 2px solid var(--pribeh-line);
   margin-bottom: 1.75rem;
 }
-
-.prirucka-blok {
-  margin-bottom: 1.5rem;
-}
+.prirucka-blok { margin-bottom: 1.5rem; }
 .prirucka-blok:last-child { margin-bottom: 0; }
 .prirucka-nadpis {
   font-family: 'Cinzel', serif;
@@ -567,10 +510,7 @@ function toggle(num) {
   margin-bottom: 0.6rem;
 }
 .prirucka-blok p:last-child { margin-bottom: 0; }
-.prirucka-duraz {
-  font-weight: 600;
-  color: var(--text-primary) !important;
-}
+.prirucka-duraz { font-weight: 600; color: var(--text-primary) !important; }
 .prirucka-citace {
   font-style: italic;
   color: var(--text-pribeh) !important;
@@ -592,7 +532,6 @@ function toggle(num) {
 }
 .prirucka-varovani .prirucka-nadpis { color: var(--text-red); }
 
-/* KONTAKT */
 .op-sekce-kontakt .op-sekce-content { border-left-color: var(--border-gold); }
 .kontakt-grid {
   display: grid;
