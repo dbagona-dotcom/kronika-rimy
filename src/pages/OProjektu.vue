@@ -70,159 +70,46 @@
           <p class="op-text">Ukázky z příručky:</p>
 
           <div class="prirucky">
+  <div class="prirucka">
+    <div class="prirucka-obsah">
 
-            <!-- PŘÍRUČKA 1 -->
-            <div class="prirucka" :class="{ 'prirucka--open': open === 1 }">
-              <button class="prirucka-btn" @click="toggle(1)">
-                <span class="prirucka-num">Příručka I</span>
-                <span class="prirucka-nazev">Jak funguje text</span>
-                <span class="prirucka-sipka">{{ open === 1 ? '−' : '+' }}</span>
-              </button>
-              <div class="prirucka-obsah" v-show="open === 1">
-                <p class="prirucka-uvod">Každá kapitola má jeden cíl: čtenář který o Římu nic neví musí chtít číst dál. Čtenář který o Římu všechno ví nesmí zavřít záložku po druhé větě.</p>
+      <p class="prirucka-uvod">
+        Během několika verzí projektu vznikly tři interní příručky. Z nich nakonec vzešla jedna, která systematicky řeší vše najednou — rytmus textu, opakující se chyby i práci s atmosférou. Níže jsou ukázky.
+      </p>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Rytmus je základ</div>
-                  <p>Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta která přijde po ní dostane veškerou váhu. Funguje jen když je vzácná — pokud jsou všechny věty krátké, žádná není důrazná.</p>
-                  <p>Klíčový moment dostane vlastní řádek.</p>
-                  <p class="prirucka-duraz">Sám.</p>
-                  <p class="prirucka-duraz">Bez okolního textu.</p>
-                </div>
+      <div class="prirucka-blok">
+        <p class="prirucka-citace">Text nikdy neříká čtenáři, co si má myslet. Ukáže situaci a pokračuje dál.</p>
+        <p class="prirucka-citace">Atmosféra nevzniká přídavnými jmény, ale konkrétními detaily.</p>
+      </div>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Fakta přes situaci, ne přes výčet</div>
-                  <p>Jak pilum funguje se ukáže přes to co se stane nepříteli který ho dostane do štítu. Sociální rozdíly v armádě se ukážou přes to že bohatší muž stojí v bitvě lépe chráněn než jeho soused z vedlejší vesnice. Čtenář má věci pocítit, ne se je naučit.</p>
-                </div>
+      <div class="prirucka-blok">
+        <div class="prirucka-nadpis">Princip 1 — Rytmus</div>
+        <p>Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta, která přijde po ní, dostane veškerou váhu. Funguje jen tehdy, když je vzácná — pokud jsou všechny věty krátké, žádná není důrazná.</p>
+      </div>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Gradace mluví sama</div>
-                  <p>Nejprve zmizely zásoby obilí. Pak kůže a řemeny. Pak mrtvá dobytčata. Pak lidská těla padlých.</p>
-                  <p>Žádný komentář na konci. Žádné „bylo to hrozné". Čtenář tam dorazí sám a ta rána je silnější protože ji nikdo neohlásil.</p>
-                </div>
+      <div class="prirucka-blok">
+        <div class="prirucka-nadpis">Co jsme se naučili během prvních 15 kapitol</div>
+        <p>Toto je seznam nejčastějších prohřešků, identifikovaných a opravených v průběhu projektu. Je nutné je mít neustále na paměti.</p>
+      </div>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Text nikdy neříká čtenáři jak má reagovat</div>
-                  <p>Ukazuje situaci a odchází. Komentář vypravěče oslabuje každý silný moment.</p>
-                </div>
+      <div class="prirucka-blok">
+        <div class="prirucka-nadpis">Kontrolní seznam — projít před uložením</div>
+        <p class="prirucka-duraz">Délka a struktura</p>
+        <ul class="prirucka-checklist">
+          <li>Sekce I+II+III dohromady 8 500–11 500 znaků</li>
+          <li>Každá sekce má svůj fokus, nepřekrývají se</li>
+          <li>Sekce II není výčet — čtenář, který ji přeskočí, ztratí pochopení bitvy</li>
+          <li>Sekce III je primárně o Římu, ne o nepříteli</li>
+        </ul>
+      </div>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Každá kapitola navazuje na předchozí</div>
-                  <p>Zmiňuje kolik let uplynulo, co přetrvává, co se změnilo. Čtenář má pocit že sleduje jeden dlouhý příběh, ne sbírku samostatných článků.</p>
-                </div>
+      <p class="prirucka-uvod">
+        Máte zájem o celou příručku? Ozvěte se mi a rád ji pošlu.
+      </p>
 
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Závěry sekcí otevírají, nesumarizují</div>
-                  <p>Poslední věta neshrnuje co bylo — naznačuje co přijde.</p>
-                  <p class="prirucka-citace">Příští válka mezi nimi nebude trvat dva roky. Bude trvat dvacet.</p>
-                  <p>Čtenář otočí stránku.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Dramatičnost je vzácná a tím silná</div>
-                  <p>Přestřelená dramatičnost každou druhou větou přestane fungovat. Silná fráze jednou za kapitolu zasáhne. Silná fráze každý odstavec znudí.</p>
-                </div>
-              </div>
-            </div>
-
-            <!-- PŘÍRUČKA 2 -->
-            <div class="prirucka" :class="{ 'prirucka--open': open === 2 }">
-              <button class="prirucka-btn" @click="toggle(2)">
-                <span class="prirucka-num">Příručka II</span>
-                <span class="prirucka-nazev">Čištění textu</span>
-                <span class="prirucka-sipka">{{ open === 2 ? '−' : '+' }}</span>
-              </button>
-              <div class="prirucka-obsah" v-show="open === 2">
-                <p class="prirucka-uvod">Pracovní návod pro editaci každé kapitoly. Obsahuje seznam všech opakujících se problémů, pravidlo pro každý z nich a konkrétní příklady.</p>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Jak postupovat</div>
-                  <p><strong>Fáze 1 — Analýza.</strong> Přečti kapitolu jednou bez zásahu. Poté projdi bod po bodu podle návodu a vypiš všechny problémy: sekce, odstavec, problém, původní text, návrh opravy, zdůvodnění.</p>
-                  <p><strong>Fáze 2 — Oprava.</strong> Teprve po výpisu všech problémů zapiš opravený text kapitoly. Změny aplikuj přesně — nic navíc, nic méně.</p>
-                </div>
-
-                <div class="prirucka-blok prirucka-varovani">
-                  <div class="prirucka-nadpis">Varování — příliš agresivní škrtání</div>
-                  <p>Cílem není text vyprázdnit. Cílem je odstranit vatu a nechat atmosféru. Pokud škrtnutí věty způsobí že odstavec ztratí spád, napětí nebo obraz — větu nešmrt. Pravidla jsou nástroj, ne cíl.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 1 — Komentář vypravěče</div>
-                  <p>Autor říká čtenáři jak má reagovat, co je důležité, nebo co něco znamená. Text hodnotí místo aby ukazoval. Pokud věta říká čtenáři jak se cítit nebo co si myslet — škrtni ji.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 2 — Adjektivní stohování</div>
-                  <p>Tři nebo více přídavných jmen za sebou která popisují totéž různými slovy. Maximálně jedno přídavné jméno na charakteristiku.</p>
-                  <p class="prirucka-priklad"><strong>Špatně:</strong> „Sulla chladný, vypočítavý, vždy věděl co dělá, nenechal se ovládat emocemi."</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> „Sulla přivedl legie k branám Říma. Jako první v dějinách republiky."</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 3 — Výčet místo situace</div>
-                  <p>Seznam věcí bez ukázky jak fungují. Každý výčet nahradit jednou konkrétní situační větou.</p>
-                  <p class="prirucka-priklad"><strong>Špatně:</strong> „Výzbroj zůstává standardní — pilum, gladius, scutum, bronzová helma."</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> „Pilum které prorazí štít a ohne se tak že ho nepřítel nemůže hodit zpět zůstává standardem."</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 4 — Armádní sekce bez obsahu</div>
-                  <p>Sekce Armáda a vojenství má odpovídat na otázku „co bylo v tomto konfliktu jinak?" Ne „jak armáda vypadala." Kdyby čtenář sekci přeskočil, přišel by o informaci která mu pomůže pochopit proč bitva dopadla tak jak dopadla?</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Problém 5 — Závěry které sumarizují</div>
-                  <p>Poslední věta sekce nemá shrnovat co bylo — má naznačovat co přijde, nebo nechat fakta viset bez komentáře.</p>
-                  <p class="prirucka-priklad"><strong>Špatně:</strong> „Toto byl zlomový moment v dějinách impéria."</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> Fakta o důsledku — čtenář k závěru dorazí sám.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Pravidlo jedné silné věty</div>
-                  <p>Každá kapitola musí mít jednu větu která zůstane v hlavě. Tuto větu neškrtat ani když porušuje některá pravidla.</p>
-                </div>
-              </div>
-            </div>
-
-            <!-- PŘÍRUČKA 3 -->
-            <div class="prirucka" :class="{ 'prirucka--open': open === 3 }">
-              <button class="prirucka-btn" @click="toggle(3)">
-                <span class="prirucka-num">Příručka III</span>
-                <span class="prirucka-nazev">Storytelling a atmosféra</span>
-                <span class="prirucka-sipka">{{ open === 3 ? '−' : '+' }}</span>
-              </button>
-              <div class="prirucka-obsah" v-show="open === 3">
-                <p class="prirucka-uvod">Návod pro práci s atmosférou, napětím a dramatickým momentem. Předpokládá že první vrstva čištění je hotová. Teď jde o to aby text nečetl jako historický článek ale jako vyprávění.</p>
-
-                <p class="prirucka-hlavni">Hlavní pravidlo: atmosféra se buduje střídmostí, ne přidáváním. Jeden silný moment ve správnou chvíli je silnější než deset dramatických vět za sebou.</p>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 1 — Zpomalení před úderem</div>
-                  <p>Před každým klíčovým faktem potřebuje čtenář nádech. Krátká věta pro důraz funguje jen když před ní bylo dost prostoru.</p>
-                  <p class="prirucka-priklad"><strong>Špatně:</strong> „Sulla a jeho legie překračující brány Říma roku 88 jsou takovým okamžikem."</p>
-                  <p class="prirucka-priklad"><strong>Správně:</strong> „Jsou okamžiky v dějinách které nelze odvolat. Okamžiky po nichž je svět jiný, ne postupně, ne pomalu, ale najednou a nezvratně. Sulla a jeho legie překračující brány Říma roku 88 jsou takovým okamžikem."</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 2 — Jedna věta která zůstane v hlavě</div>
-                  <p>Každá kapitola má mít jednu větu kterou čtenář nevědomě uloží do paměti. Tuto větu chránit — neškrtat ani když porušuje jiná pravidla.</p>
-                  <p class="prirucka-citace">„Nelze ho odvolat. A každý kdo přijde po Sullovi to bude vědět."</p>
-                  <p class="prirucka-citace">„Je mu sedmnáct let."</p>
-                  <p class="prirucka-citace">„A čeká."</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Princip 3 — Ticho po silném momentu</div>
-                  <p>Po silné větě nenásleduje žádný komentář, vysvětlení ani rozvití. Text pokračuje dál jako by se nic nestalo. Čtenář který se zastaví a přemýšlí je silnější zážitek než čtenář který dostane vysvětlení hned za větou.</p>
-                </div>
-
-                <div class="prirucka-blok">
-                  <div class="prirucka-nadpis">Červené vlajky — kdy atmosféra zmizela</div>
-                  <p>Tři odstavce za sebou začínají datem nebo jménem. Žádná věta v sekci není kratší než dvacet slov. Poslední věta sekce shrnuje co bylo řečeno. Postava je popsána adjektivy, ne akcemi.</p>
-                </div>
-              </div>
-            </div>
-
-          </div>
+    </div>
+  </div>
+</div>
 
           <div class="feedback-box" style="margin-top: 1.5rem;">
             <div class="feedback-label">Zájem o celou příručku?</div>
@@ -293,15 +180,12 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
+
 import { useMeta } from 'quasar'
 
 useMeta({ title: 'O projektu | Kronika Říma' })
 
-const open = ref(null)
-function toggle(num) {
-  open.value = open.value === num ? null : num
-}
+
 </script>
 
 <style scoped>
