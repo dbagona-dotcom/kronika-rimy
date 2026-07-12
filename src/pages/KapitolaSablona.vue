@@ -553,9 +553,10 @@ watch(aktualniId, (id) => {
    RESPONZIVITA
 ═══════════════════════════════════════ */
 @media (min-width: 769px) and (max-width: 1024px) {
-  .hero { height: 65vh; }
-  .hero-content { padding: 2rem 3rem 2rem; }
-  .kapitola-wrap { padding: 3rem 3rem 6rem; max-width: 680px; }
+  .hero { height: 60vh; }
+  .hero::after { height: 45%; }
+  .hero-content { padding: 2rem 3rem 1.75rem; }
+  .kapitola-wrap { padding: 2rem 3rem 6rem; max-width: 680px; }
   .sekce-pribeh { padding: 2rem 1.5rem; }
   .kap-nav { gap: 0.75rem; }
   .nav-btn { padding: 0.6rem 1rem; }
@@ -563,9 +564,37 @@ watch(aktualniId, (id) => {
 
 @media (max-width: 768px) {
   .progress-bar { top: 0; }
-  .hero { height: 55vh; min-height: 320px; }
-  .hero-content { padding: 2rem 1.5rem 1.5rem; }
-  .kapitola-wrap { padding: 3rem 1.25rem 4rem; }
+
+  .hero {
+    height: 45vh;
+    min-height: 280px;
+  }
+
+  .hero::after {
+    height: 40%;
+  }
+
+  .hero-content {
+    padding: 1.5rem 1.25rem 1.25rem;
+  }
+
+  .hero-title {
+    font-size: clamp(1.3rem, 5vw, 1.9rem);
+    margin-bottom: 0.75rem;
+  }
+
+  .hero-meta {
+    margin-bottom: 0.5rem;
+  }
+
+  .kapitola-wrap {
+    padding: 1.5rem 1.25rem 4rem;
+  }
+
+  .back-btn {
+    margin-bottom: 1.5rem;
+  }
+
   .kap-title { font-size: 1.6rem; }
   .sekce-content { padding-left: 0.75rem; }
   .sekce-pribeh { padding: 1.5rem 1rem; }
