@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 29,
   "slug": "29_prvni_dacka_valka",
   "title": "Kapitola 29 — První dácká válka (101–102 n. l.)",
@@ -6,21 +6,21 @@
   "years": "101–102 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img57.jpg",
+    "hero": "images/img57.jpg",
     "mapa": {
-      "src": "img58.jpg",
+      "src": "images/img58.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Na přelomu prvního a druhého století vládne Římu Marcus Ulpius Traianus. Jeho předchůdce Nerva byl starý a bezdětný a poprvé nevybral nástupce z pokrevní linie, ale adoptoval zkušeného velitele přímo z provincie. Traianus pochází z Hispánie. Na trůn se dostal vojenskou pověstí a loajalitou rýnských legií.",
       "Za Dunajem se mezitím formovala hrozba. Král Dáků Decebalus buduje centralizovaný stát. Karpaty jsou bohaté na zlato a stříbro a Decebalus tyto zdroje využívá soustavně. Kupuje římské vojenské přeběhlíky, najímá řecké stavitele a staví v horách kamenné pevnosti helénistického typu. Předchozí císař Domitianus byl nucen podepsat kompromisní mír a každoročně Dákům platit tribut. Řím navíc dobrovolně dodával Decebalovi inženýry.",
       "Traianus tento stav odmítá tolerovat. Každým rokem bude Decebalova pozice silnější a dobývání Dácie dražší. Císař se rozhodne udeřit teď."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Na břehu Dunaje se v létě roku 101 shromáždí největší vojenská síla jakou impérium soustředilo na jedné frontě od dob občanských válek. Devět legií posílených o auxilia, celkem přes sto tisíc mužů.",
       "Výzbroj kombinuje tři typy zbrojí. Kroužková lorica hamata a šupinová squamata jsou standardem pro auxiliárie i velkou část legionářů. Plátová lorica segmentata je v tomto tažení hojněji zastoupena než dřív, ale vedle ostatních dvou typů. Přilby typu Imperial Gallic dostaly na vrcholu křížovou výztuhu, dvě kovové lišty přivařené přes temeno. Dáci to vynutili.",
       "Falx je hlavní zbraň dáckého vojáka. Obouruční zahnutá čepel na dlouhém ratišti, ostrá na vnitřní straně. Dácký bojovník ji zaháčkne zpoza horního okraje scuta a jedním trhnutím štít rozlomí, nebo rovnou přesekne legionáři ruku v rameni. Bez výztuhy na přilbě falx prorazí temeno úderem shora jako sekera.",
@@ -28,7 +28,7 @@
       "Ženijní jednotky zajišťují mosty, obléhací rampy, věže a zásobovací trasy. Pochodové tábory stavějí legionáři sami po každém přesunu, příkop, val, palisáda. Zásobování z Dunaje udržuje flotila na řece."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Na jaře roku 101 překročí Traianus Dunaj u Viminacia po pontonovém mostě. Armádu rozdělí do dvou proudů aby usnadnil pohyb v těžkém hornatém terénu. Legát Manius Laberius Maximus táhne přes Banátské hory na severovýchod. Traianus sám postupuje údolím řeky Olt přímo do nitra Dácie. Obě kolony nesou plnou zásobu na třicet dní pochodu.",
       "Decebalus neudeří kde ho čekají.",
       "Místo obrany v horách přejde s vybranými silami přes Dunaj do provincie Moesie. Traianus odtud pro svou ofenzívu stáhl legie a provincie leží otevřená. Moesijská města se ocitají pod tvrdým útokem, Dáci a jejich sarmatští spojenci pálí zásobovací depa, obsazují průsmyky, ohrožují zázemí celého tažení. Traianus musí přerušit postup a složitě přesunovat část sil zpět k záchraně vlastního území. Trvá to týdny. Pak situaci v Moesii stabilizuje a znovu překročí hranici.",
@@ -55,7 +55,7 @@
       "Ve stejném roce senát vyhlásí Decebalovi válku podruhé. Druhé tažení začne přechodem přes tento most, věcně a bez zbytečné přípravy, jako každá jiná operace."
     ],
     "pribeh": [
-      "29 (Motivace od velitele - Dácké války)",
+      
       "Titus Petronius Verus, legionář, Tapae",
       "Probíhala už třetí rotace kohort a mrtvých jen přibývalo. Sám jsem měl zraněné zápěstí, krev mi stékala do dlaně, ale štít jsem pořád udržel. „Ty jejich meče jsou zlo, uřezávají nám s nimi ruce!“ zafuněl voják vedle mě. Měl pravdu. Všichni jsme se báli dělat dlouhé výpady.",
       "Než jsme stihli dopít vodu, znovu zazněla ta zasraná trubka. Postupovali jsme vpřed. Centurie před námi už řvaly, ať si pohneme, že to neudrží. Těžká čepel se mi zaryla do štítu. Trhl jsem s ním dolů a Dák ztratil balanc. Do otevřeného břicha jsem mu vrazil meč a on se sesunul k zemi.",

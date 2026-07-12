@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 18,
   "slug": "18_sertorijska_valka",
   "title": "Kapitola 18 — Sertorijská válka (80–72 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "80–72 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img35.jpg",
+    "hero": "images/img35.jpg",
     "mapa": {
-      "src": "img36.jpg",
+      "src": "images/img36.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Sullova diktatura přepsala ústavu, rozšířila senát a vyčistila Řím od mariánců. Zbyli ti co se skrývali a čekali.",
       "Quintus Sertorius přišel o oko pod Mariem v germánských válkách, bojoval ve Spojenecké válce a odmítl se podřídit Sullovi. Neschovával se v italském venkově ani neutekl do Egypta. Odplul do Španělska, kde strávil část kariéry. Znal terén, znal lidi a iberské kmeny znaly jeho.",
       "Uměl jednat s Ibéry jinak než Řím obvykle jednal s podrobenými. Naučil se jejich jazyky, respektoval jejich zvyky. A přijal bílou laň jako svého průvodce — Ibérové věřili že bílá zvířata jsou poslem bohů. Sertorius vybudoval zpravodajskou síť skrze iberské vesnice a výsledky jejich hlášení oznamoval jako zjevení od laně. Iberský válečník byl schopen pro tohoto jednookého Římana zemřít, protože věřil že stojí na straně bohů.",
@@ -22,13 +22,13 @@
       "Sulla ho nemohl ignorovat. Poslal do Španělska jednoho velitele za druhým."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Iberská falcata je těžká zahnutá čepel se svislým hrotem, s těžištěm u špičky. Jeden tah shora dolů a průbojnost je srovnatelná se sekerou. Při druhopunské válce viděli Římané co tahle zbraň dělá. A přijali ji. Gladius hispaniensis  je iberská inspirace přetavená do standardní výzbroje každého legionáře. Muži, kteří ponesou tyto meče, tak činí díky tvarům vzešlým ze země, ve které teď bojují.",
       "Legie ve Španělsku jsou plně profesionální, postavené na Mariově reformě. Kohorty, kroužkové a šupinové zbroje s gladiem a pilem.",
       "V Hispánii nejsou bitvy jako u Kynoskefal nebo Pydny. Největší boj je se zásobovacími kolonami a nečekanými útoky ze všech stran. Iberský válečník nemá disciplínu pro otevřenou bitvu. V horách a lesích nemá rovnocenného protivníka. Sertorius tohle věděl od prvního dne."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Sertorius porazí proprétora Lucia Fufidea u řeky Baetis v prvním roce. Přeplavil vojsko v noci a udeřil za svítání. Fufidius ztratí přes dva tisíce mužů. Přijede Quintus Caecilius Metellus Pius, obnoví pořádek a dobývá opevněná místa na jihu. Velí a chrání si pozemní kolony vojenským doprovodem. Sertorius tyto eskorty přepadá.",
       "Iberský průzkumník sleduje kolonu tři dny. Zná každé ohnutí cesty, každý průsmyk, ve kterém se kolona musí rozdělit a část mužstva tak přijde o podporu. Útok přijde ve dvě ráno v nejužším bodě. Sertoriovi jezdci přehradí cestu vpředu. Malá skupina, přesně dostačující k zablokování postupu. V tu chvíli sbíhají iberští válečníci po svazích ze dvou stran a zasypou vojáky oštěpy. Na úzké cestě se nemohou rozvinout. Než se stačí otočit čelem k útoku, půlka kolony leží. Sertoriovi muži zmizí do tmy dřív než se přeživší dokážou zorientovat. Ráno Metellus dostane hlášení. Pošle záchrannou kolonu. Sertorius mezitím zaútočí jinde.",
       "Senát pošle posilu: Gnaea Pompeia, šestadvacetiletého, který nikdy nezastával regulérní úřad.",
@@ -40,7 +40,7 @@
       "Vrátí se do Říma. Je mu třiatřicet. Lid mu navzdory existujícím zákonům přidělí triumf i konzulát."
     ],
     "pribeh": [
-      "18 — Hispánie, u řeky Sucro (75 př. n. l.)",
+      
       "Marcus Servilius Rufus, sertorián (Říman v exilu), Hispánie",
       "Zvěd se tiše sesune ze skály mezi nás. Ukáže dva prsty. Dvě centurie s nákladními muly se blíží údolím.",
       "Celou noc jsme nespali. Nosili jsme na okraj srázu těžké balvany. Kmeny několika starých borovic nad úzkou stezkou jsme do poloviny nařízli sekerami. Teď ležíme ve stínu kapradin a čekáme.",

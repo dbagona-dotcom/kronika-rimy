@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 6,
   "slug": "6_prvni_punska_valka",
   "title": "Kapitola 6 — První punská válka (264–241 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "264–241 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img11.jpg",
+    "hero": "images/img11.jpg",
     "mapa": {
-      "src": "img12.jpg",
+      "src": "images/img12.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Roku 272 Tarentum otevře brány. Řím ovládá celý italský poloostrov. Na jeho jižním pobřeží, přes úzký pruh vody, leží Sicílie.",
       "Za Messinskou úžinou stojí svět, který Řím dosud neovládl. Sicílie je křižovatka. Řekové na východě, Kartágo na západě, místní kmeny uprostřed. Kartágo je fénické přístavní město na severoafrickém pobřeží s obchodní sítí sahající od Pyrenejského poloostrova přes Sardinii a Korsiku po západ Sicílie. Stát řídí dva sufetové, volení magistráti na jeden rok, kteří válku a mír posuzují jako obchodní transakci. Jeho válečný přístav Cothon ukrývá doky pro dvě stě lodí za vnějším obchodním přístavem. Cizí pozorovatel z moře vidí jen kupecký ruch, o flotile neví nic. Řím a Kartágo mají uzavřeny obchodní smlouvy a po desetiletích si navzájem nepřekážejí, jeden pevninský, druhý námořní.",
       "Messana situaci změní.",
@@ -23,14 +23,14 @@
       "Roku 264 překročí první římská armáda Messinskou úžinu."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Kartágo disponuje nejlepší válečnou flotilou Středomoří. Jejich lodě jsou rychlé a posádky se rodí na moři. Taktika stojí na manévru  obeplout protivníka, rozlámat mu vesla, izolovat jednotlivé lodě, zasáhnout taranem. Tohle umění se učí roky.",
       "Řím na začátku války válečné loďstvo nemá. Záviset na cizích flotilách nestačí. Podle ztroskotané kartáginské quinqueremy postaví vlastní flotilu o sto dvaceti kusech za šedesát dní. Veslaři se mezitím učí na lavicích postavených na suchu.  Rytmus pádlování nacvičují na zemi dříve než vstoupí na vodu. Pak přidá corvus: přemosťovací zařízení s hrotem, které se při srážce zarýje do nepřátelské paluby a pevně ji připojí k římské lodi. Námořní bitva se tím přemění na pozemní. Železné hroty prorazí palubu, corvus vytvoří most a legionáři přejdou s mečem v ruce rovnou do boje.",
       "Na Sicílii Kartágo nasazuje válečné slony, tentokrát severoafrická zvířata, menší a ovladatelnější než Pyrrhovy indické. Legionáři mají výcvik i vozy připraveny. Sicilský terén je různorodý. Na pobřežních rovinách funguje sevřená pěchota, v horských průsmycích ji nic nenahradí a u opevněných řeckých měst rozhoduje trpělivost obléhání.",
       "Do pole Kartágo posílá žoldnéře. Ibery, Numidijce, Libyjce, Galy. Různé národy, různé jazyky velení, různé motivace. Takovou armádu lze koupit na jedno tažení. Kartágo nemá spojenecký systém k doplnění ztrát, prohrané bitvy řeší penězi. A ty mají své hranice."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Konzulové Marcus Valerius Maximus a Appius Claudius Caudex překročí úžinu roku 264 a kartáginská posádka v Messaně se bez boje stáhne. Hierón Syrákúský uzavře s Římem mír. Muž, který strávil roky obléháním Messany, si rychle spočítá kde teď stojí síla. Syrákúské zásoby a přístavy začnou zásobovat římská tažení na jihu ostrova.",
       "Roku 262 obléhají Římané Akragant, jedno z největších měst na ostrově a silnou kartáginskou základnu. Kartáginský velitel drží město sedm měsíců. Zásobovací armáda čítající padesát tisíc pěšáků, šest tisíc jezdců a šedesát slonů přijde z pobřeží, konzulové ji porazí v otevřeném poli a Akragant padne. Obyvatelé jsou prodáni do otroctví. Sicilská řecká města začínají přecházet na římskou stranu.",
       "Roku 260 se nová římská flotila poprvé střetne s kartáginskou u Mylae. Konzul Gaius Duilius velí lodím, které ještě před třemi lety neuměl nikdo v Římě postavit. Kartáginci manévrují s obvyklou lehkostí, přibližují se ze strany. Římané ale spustí corvusy. Železné hroty prorazí palubu, přemostění zapadne a legionáři přejdou do útoku. Kartáginští námořníci zvyklí na boj taranů se ocitají v situaci, na kterou nejsou vycvičeni ani zvyklí. Duilius odtáhne třicet zajatých lodí. Konzul obdrží neslýchanou poctu,  právo procházet večer ulicemi Říma v doprovodu hudebníků připomínajících jeho triumf.",
@@ -46,7 +46,7 @@
       "Hamilkar Barka odloží zbraně a vrátí se do Kartága s armádou, která nebyla v poli nikdy poražena. A se svým synem Hannibalem."
     ],
     "pribeh": [
-      "06 — 1. punská válka (260 př. n. l.)",
+      
       "Quintus Licinius Cato, Princeps-lodní posila, Mylae",
       "Žaludek se mi obrací. Po hladině se přímo na nás žene kartáginská quinqueréma.",
       "Kormidelník strhne řízení. Naše příď s ohlušujícím praskotem drtí jejich vesla. Náraz mě srazí na koleno. Námořníci okamžitě uvolní lana. Těžký dubový můstek se zhoupne přes zábradlí a s rachotem dopadne. Železný trn na jeho konci se hluboko zaryje do cizích prken. Obě lodě se zaklesnou k sobě.",

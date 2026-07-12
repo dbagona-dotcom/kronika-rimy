@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 19,
   "slug": "19_spartakovo_povstani",
   "title": "Kapitola 19 — Spartakovo povstání (73–71 př. n. l.)",
@@ -6,27 +6,28 @@
   "years": "73–71 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img37.jpg",
+    "hero": "images/img37.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img38.jpg",
+      "src": "images/img38.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Itálie roku 73 drží přibližně tři miliony otroků,  asi třetinu celkového obyvatelstva poloostrova. Dvě generace válek přivedly do Itálie statisíce zajatců z Řecka, Malé Asie, Kartága, Španělska i Galie. Pracují na latifundiích, v dolech, v domácnostech aristokracie a v řemeslných dílnách. Zákon jim neposkytuje ochranu. Pán má nad otrokem právo života a smrti. Ve stříbrných dolech žijí v průměrně méně než osm let po prvním sestupu do šachty. Bez otrocké práce se neobdělá pole, nevyrobí keramika, nepostaví akvadukt.",
       "Dvě velká povstání na Sicílii z let 135 a 104 ukázala co se stane, pokud se zoufalství promění v organizovaný odpor. Obě Řím potlačil a stav společnosti zůstal zachován.",
       "V gladiátorské škole Lentula Batiata v Capui se roku 73 vzbouří sedmdesát mužů."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Ze školy utečou s tím co mají: kuchyňské nástroje a několik gladiátorských mečů. Po první přepadené zásobovací koloně mají pilum a scuta. Po druhé mají výzbroj celé kohorty. Spartakus také zřídí kovárny kde uprchlí otroci přetaví zemědělské železo na hroty a čepele.",
       "Spartakus organizuje armádu podle římského vzoru od prvního týdne. Muže rozděluje do jednotek, jmenuje velitele, zavádí výcvik. Nejlépe vyzbrojení a fyzicky nejsilnější tvoří těžkou pěchotu. Muži se zkušeností s koňmi tvoří jízdu z koní ukořistěných z poražených táborů.",
       "Jádrem jsou gladiátoři. Muži cvičení pro individuální souboj, kteří čtou pohyb soupeře dřív než legionář dokončí výpad. Kolem tohoto jádra se skupinami přidávají zemědělští otroci bez výcviku. Spartakus je třídí a cvičí dokud se z davu nestane armáda."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Pretor Gaius Claudius Glaber zablokuje jedinou přístupnou cestu z Vesuvu dolů a čeká. Uprchlíci mají zásoby na pár dní, pak budou muset sestoupit. Glaber nestráží skály. Na vulkanických svazích roste réva.",
       "Spartakus nechá muže uplést provazy z výhonků révy. V noci se celá skupinka spustí po srázu do tmy za Glaberovým táborem. Stráže postřehnou hrozbu, až když do nich propukne. Útok přichází z místa, které Glaber považoval za naprosto neprůlezné. Tábor padne. Zásoby a zbraně přejdou k povstalcům.",
       "Senát pošle druhého prétora, Publia Varinia, s větší silou. Spartakus jeho vojáky neustále vyčerpává přepady a ústupy, přepadá zásobovací konvoje a rozkládá oddíly než se stačí soustředit. Nakonec Varinia zasáhne přímo. Tábor se zásobami padne a Spartakus ukořistí Variniovy odznaky velení, jeho liktory i koně.",
@@ -44,7 +45,7 @@
       "Šest tisíc zajatých otroků nechá ukřižovat podél Via Appia od Capuy do Říma. V intervalech třiceti metrů. Po obou stranách cesty."
     ],
     "pribeh": [
-      "19 — Spartakovo povstání (71 př. n. l.)",
+      
       "Titus Vibius Macer, legionář, Bitva u Silaru",
       "Stojíme v záložní linii těsně před Crassovým štábem. Z nepřátelského středu vyjede jezdec. Sesedne, jedním tahem podřízne svému koni hrdlo a něco křičí k obrovské mase povstalců. Nerozumím mu. Vidím jen, jak zvedne meč a ukáže přímo na náš střed.",
       "Srazí se to. Ti chlapi bojují jinak. Snaží se strhávat scuta, rozbít naši štítovou hradbu a vtáhnout nás do osobních soubojů. Naše přední řady ale drží. Kdo padne, toho hned nahradí další. Naše disciplína je pomalu drtí.",

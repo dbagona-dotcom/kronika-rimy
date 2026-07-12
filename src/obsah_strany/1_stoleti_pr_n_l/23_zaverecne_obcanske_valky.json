@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 23,
   "slug": "23_zaverecne_obcanske_valky",
   "title": "Kapitola 23 — Závěrečné občanské války (44–31 př. n. l.)",
@@ -6,28 +6,28 @@
   "years": "44–31 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img45.jpg",
+    "hero": "images/img45.jpg",
     "mapa": {
-      "src": "img46.jpg",
+      "src": "images/img46.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Patnáctého března roku 44 vstoupí Caesar do Pompeiovy kurie a šedesát senátorů ho ubodá dýkami, které nesli pod svitky. Spiklenci věřili, že lid vydechne úlevou. Nevydechl. Antonius pronesl nad tělem pohřební řeč a rozvinul krvavou tógu. Dav zapálil pohřební hranici přímo na fóru a s pochodněmi vyrazil hledat vrahy. Brutus a Cassius uprchli ještě před svítáním.",
       "Z Apollonie v Ilýrii se vrátí mladý, osmnáctiletý muž. Caesarova závěť ho jmenuje adoptivním synem a dědicem tří čtvrtin majetku. Matka Atia ho přemlouvala, aby jméno odmítl. Bylo příliš nebezpečné, příliš velké. Přijal je.",
       "Do Říma přišel bez armády, úřadu a přátel u moci. Měl jméno a pohledávku třistatisícového lidu, kterému Caesar odkázal tři sta sesterciů a zahrady za Tiberou a jemuž Antonius výplatu odkládal. Každý denár, který Octavianus ze svého zaplatil místo Antonia, mu přinášel politický vliv."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Armáda v těchto válkách je na pohled stejná jako za Caesara. Kohorty, pilum, gladius, kroužkové a šupinové zbroje. Mezi přilbami dominuje typ Coolus se zahnutým týlním štítkem, starší Montefortino stále drží ve veteránských legiích, ale nábory jdou na Coolus. Mění se ale podstata armády jako celku. Legie pozdní republiky jsou soukromá vojska svých velitelů. Každá má vlastní historii a loajalitu ke konkrétnímu muži. Caesarova Desátá je jiná jednotka než Antoniova Čtvrtá.",
       "Klíčem k moci v tomto světě je schopnost zaplatit své legie a přesvědčit je, že jejich velitel je lepší než nepřítel.",
       "Octavianus vstupuje do tohoto světa s přítelem z dětství, který má vojenský talent jenž mu samému chybí. Marcus Vipsanius Agrippa sloužil s ním v Apollonii, když Caesar ještě žil. Octavianus tehdy u Caesara vyprosil milost pro Agrippova bratra, který čelil obvinění. Agrippa mu to nezapomněl nikdy. Vojenský génius bez politických ambicí, který nepotřebuje slávu, chce jen vyhrát. Co Octavianus naplánuje, Agrippa vykoná.",
       "Na konci všech válek bude mít Octavianus pod kontrolou přes šedesát legií v posádkách roztroušených po celé říši. Ponechá jich dvacet osm jako stálou profesionální armádu s pevnou délkou služby a státní penzí. Zbytek rozpustí a usadí jako kolonisty v Itálii a provinciích."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Cicero po Idách vycítil příležitost. Podpořil mladého Octaviana jako nástroj k odstranění Antonia. Mladík musel každý krok konzultovat s ním a každý politický tah zdůvodnit. Cicero věřil, že ho drží na vodítku. Octavianus ho v té víře nechal. V sérii řečí štvál Cicero senát proti Antoniovi. Ukazoval ho jako opilce, muže, co se prodával v mládí za peníze, jako tyrana bez morálky.",
       "Roku 43 vytáhnou konzulové Hirtius a Pansa spolu s Octavianem a senátními legiemi na sever. U Mutiny zatlačí Antonia zpět. Oba konzulové po vítězných bitvách za podezřelých okolností zahynou. Octavianus přežije. Antonius prchá přes Alpy k Lepidovi.",
       "Octavianus přijde do Říma se čtrnácti legiemi a žádá konzulát. Senát odmítne. Je příliš mladý. Octavianus se vrátí k vojsku. Legionáři mu pošlou jako delegaci centuriony se vzkazem: konzulát nebo obléhání. Octavianus svou žádost před senátem zopakuje. Senát povolí. Konzulát dostane v devatenácti letech. Vzápětí nechá soudit Bruta a Cassia v nepřítomnosti a vyhlásí je za nepřátele státu.",
@@ -55,7 +55,7 @@
       "Republika přežije ještě dlouho jako slovo."
     ],
     "pribeh": [
-      "23 — Závěrečná válka republiky (31 př. n. l.)",
+      
       "Marcus Vipsanius Agrippa, praefectus classis, Aktium",
       "Dívám se z velitelské paluby na obzor. Antoniovy lodě jsou obrovské plovoucí pevnosti s masivními věžemi plnými katapultů a boky vyztuženými proti taranování. Moje liburny jsou oproti nim drobné, dvě řady vesel, nízké paluby. V úzkém zálivu by nás ty dřevěné hradby rozmačkaly.",
       "„Vesla zpět. Držet vzdálenost,“ nařídím vlajkovému důstojníkovi.",

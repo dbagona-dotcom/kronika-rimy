@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 8,
   "slug": "8_prvni_makedonska_valka",
   "title": "Kapitola 8 — První makedonská válka (214–205 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "214–205 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img15.jpg",
+    "hero": "images/img15.jpg",
     "mapa": {
-      "src": "img16.jpg",
+      "src": "images/img16.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Zpráva o Kannách se roku 216 rozletěla po Středozemním moři. Pětapadesát tisíc Římanů mrtvých za jediný den. A nikdo ji nepřečetl pozorněji než Filip V. Makedonský.",
       "Makedonie sídlí na severním okraji řeckého světa. Athény a Sparta budovaly svou identitu kolem polis, shromáždění a filozofických škol. Makedonie žila jako království, které zbytek Řecka považoval za polodivošské sousedy bez plného práva na řecké jméno. Filip II. si tento respekt vynutil mečem, dobyl řecká města a sjednotil poloostrov pod makedonskou nadvládou. Jeho syn Alexandr pak tuto říši rozšířil až na hranice Indie. Když Alexandr umíral, přátelé se ho ptali komu odkazuje říši. Řekl: nejsilnějšímu. Výsledkem bylo čtyřicet let válek jeho nástupců. Říše se rozpadla na soupeřící diadochská království a stará nevraživost ostatních Řeků vůči Makedonii zůstala živá.",
       "Aitólský spolek drží střední Řecko, Achajský spolek Peloponés. Obě konfederace brání vlastní zájmy a makedonskou nadvládu odmítají. Filip V. s nimi rok co rok řeší spory na jihu.",
@@ -22,13 +22,13 @@
       "Roku 215 uzavře s Hannibalem spojeneckou smlouvu. Kartágo uzná makedonské zájmy v Ilýrii, Makedonie podpoří Hannibala. Ve skutečnosti do Itálie nepošle ani jednoho vojáka a pokračuje v operacích v Ilýrii na vlastní pěst."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Řím si z Pyrrhových válek pamatuje co makedonská falanga dokáže na rovném terénu. V této válce proto přímé střety záměrně nehledá.",
       "Falanga funguje přesně tak jak ji Řím zná, neprostupná stěna saris, náchylná k rozpadu jakmile se terén zhorší nebo šik ztratí pravidelnost. Středořecké hory a průsmyky jsou pro ni pastí. Vedle ní operují peltastai, pohyblivá lehká pěchota pro členitý terén, a jízda na křídlech.",
       "Řím posílá přes Jadran malé loďstvo a omezenou pěší sílu. Těžiště války leží v penězích a diplomacii: financovat Filipovy nepřátele, udržet druhou frontu v Řecku a šetřit vlastní legie pro Hannibala. Aitólská pěchota v hornatém středním Řecku drží tlak dobře. Makedonská falanga ji nemůže donutit ke střetu na místě kde by měla výhodu."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Válka začíná roku 214 Filipovými operacemi v Ilýrii. Pokusí se dobýt Apollonii, důležitý přístav na východním pobřeží Jaderského moře. Římská flotila pod velením Marca Valeria Laevina připluje v noci a zaútočí přímo na makedonský tábor na břehu. Filip nečeká tak rychlou odpověď. Zapálí vlastní lodě aby nepadly do římských rukou a stáhne se do vnitrozemí. Apollonie zůstane v římských rukou.",
       "Filip se přesune na sever. Roku 213 dobude Lissos, důležitý přístav hluboko v ilyrském území, a pokračuje dál do vnitrozemí. Makedonský vliv na Balkánu roste.",
       "Roku 211 konzul Marcus Valerius Laevinus osobně vyjedná spojenectví s Aitólským spolkem. Smlouva je věcná: Aitólům připadne kořist z pevniny, Římu zajatci a lodě. K této koalici se připojí i Attalos I. z Pergamu s vlastní flotilou. Filip se ocitne pod tlakem ze tří stran, Aitólové ve středním Řecku, Achajský spolek na Peloponésu, Attalova flotila na pobřeží.",
@@ -39,7 +39,7 @@
       "Zatímco Řím oslavuje konec tohoto konfliktu a Hannibal marně čeká na makedonskou pomoc, na druhém konci Egejského moře už se formují nové a mnohem nebezpečnější spojenectví."
     ],
     "pribeh": [
-      "08 — 1. makedonská válka (214 př. n. l.)",
+      
       "Quintus Aurelius Gratus, optio, Apollonia",
       "Tváře máme potřené studeným popelem. Caligae jsme omotali starým hadrem, aby podrážky na tvrdé zemi netleskaly. Jdeme tiše. Za námi v poli klečí vojáci manipulu. Mají na sobě jen tuniky a opasky s mečem, těžké kroužky zbroje stáhli kvůli chrastění kovu.",
       "Zastavím pod nízkou dřevěnou palisádou a propletu prsty do stoličky. Rufus mi stoupne do dlaní, odrazí se a bezhlesně přehoupne přes okraj. Další jdou hned za ním. Vytáhnu se nahoru a měkce dopadnu do trávy.",

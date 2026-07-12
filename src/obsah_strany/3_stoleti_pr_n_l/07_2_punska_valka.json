@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 7,
   "slug": "7_druha_punska_valka",
   "title": "Kapitola 7 — Druhá punská válka (218–201 př. n. l.)",
@@ -6,29 +6,29 @@
   "years": "218–201 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img13.jpg",
+    "hero": "images/img13.jpg",
     "mapa": {
-      "src": "img14.jpg",
+      "src": "images/img14.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Roku 241 Kartágo podepsalo mír. Ztráta Sicílie přišla rovnou s ním. Sardinii a Korsiku si Řím vzal zanedlouho nato, když čelilo Kartágo vnitřní žoldnéřské vzpouře. Zášť kartáginské elity se prohlubuje každým dnem.",
       "Hamilkar se vrátil ze Sicílie neporažen. Syn, který se mu narodil roku 247, dostal punské jméno znamenající milost boha, Hannibal. Hamilkar ho vzal do Španělska jako devítiletého. Vyrůstal v táborech, ne v paláci. Sledoval jak otec buduje armádu a říši, naslouchal poradám velitelů, učil se na zajatcích. Když Hamilkar padne v boji roku 229, velení převezme Hasdrubal a Hannibal pokračuje s ním.",
       "Španělsko dalo Kartágu druhý dech. Stříbro z dolů, žoldnéři z celého Středomoří, pevná základna na Iberském poloostrově. Řím uzavřel smlouvu roku 226 a hranice kartáginského vlivu je řeka Ebro. Jihoiberské Saguntum leží jižně od Ebra a je spojencem Říma. Roku 219 ho Hannibal oblehne a dobyde. Řím požaduje vydání. Kartágo odmítne.",
       "Hannibal se rozhodne určit podmínky sám. Místo aby čekal na Řím v Africe nebo na Sicílii, přinese mu válku domů."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Druhá punská válka zastihuje římskou armádu na vrcholu vývoje. Manipulární systém je plně zažitý, centurionský sbor profesionální, legie dokáže operovat v různých terénech s flexibilitou kterou žádná falanga napodobit nedokáže.",
       "Výzbroj těžkého legionáře je ustálena. Pilum letí na dvacet až třicet metrů a při dopadu se ohne tak, aby zůstalo ve štítu a zneschopnilo ho. Bezprostředně po vrhu přichází gladius, krátký bodný meč ideální pro těsný boj v šiku, kde není prostor na velké švihy. Scutum kryje tělo od ramen po kolena a slouží jako úderná zbraň při první srážce.",
       "Hannibal přivádí do Itálie armádu zcela odlišnou. Iberská pěchota vyzbrojená těžkými zahnutými meči falcatami tvoří střed jeho formací. Na křídlech stojí numidská jízda — nejrychlejší lehká kavalerie starověku, schopná pronásledovat prchajícího nepřítele do posledního muže nebo mizet do krajiny než se soupeř stačí zformovat. Galští bojovníci doplňují řady jako nejnárazovější úderná síla. Přivádí i sedmatřicet slonů. Většina z nich Alpy nepřežije.",
       "Hannibal zná legie lépe než většina jejich vlastních velitelů. Vyrůstal v táborech kde jeho otec bojoval s Římem, studoval jejich způsob boje na zajatcích a dezertérech. Zná útočnou taktiku legií a ví, jak ji zmanipulovat. Chápe reakce centurionů při lámání formace i slepá místa římského čelního tlaku."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Na jaře roku 218 vyrazí Hannibal ze Španělska s více než čtyřiceti tisíci muži. Pyreneje, Galie, Rhóna  a pak v pozdním létě Alpy. V průsmycích, kde se stezka zužuje na šířku dvou mužů, padají koně do propastí. Místní kmeny útočí v noci na zásobovací kolony. Vojáci z Afriky vidí sníh poprvé v životě. Patnáct dní v horách. Z armády, která vstoupí do průsmyků, přejde na italskou stranu méně než třicet tisíc mužů.",
       "Přejdou přesto.",
       "Řím, který čekal válku na Sicílii nebo v Africe, se ocitá tváří v tvář kartáginské armádě na severu vlastního poloostrova. U Ticinu konzul Publius Cornelius Scipio zaútočí s jízdou a je raněn, sražen z koně. Zachrání ho vlastní sedmnáctiletý syn. U Trebbie Hannibal láká konzula Sempronia do útoku za řeku za mrazivého zimního úsvitu. Sempronius nechá přebrodit čtyřicet tisíc mužů přes ledovou vodu, bez snídaně, se ztuhlými rukama. Na druhém břehu čeká Hannibalova formace. Ze zálohy v křoví na bocích udeří skrytá pěchota a numidská jízda uzavře kruh za Římany. Legie utrpí drtivou porážku.",
@@ -51,7 +51,7 @@
       "Hannibal přežije. Odejde do exilu a zůstane pro Řím hrozbou ještě dvě desetiletí."
     ],
     "pribeh": [
-      "07 — 2. punská válka (216 př. n. l.)",
+      
       "Lapideus Pulo, hastatus, Cannae",
       "Prach z apulijské pláně se lepí na zpocenou kůži a dusí plíce. Stojíme na samém pravém okraji formace. Z nebe se na nás snáší oštěpy a olověné žaludy z praků. Srazíme štíty k sobě a vyrazíme vpřed.",
       "Zapadneme do galské pěchoty. Dřevo a kůže skřípou pod tlakem. Tlačíme je krok za krokem dozadu a s řevem postupujeme hlouběji do jejich středu.",

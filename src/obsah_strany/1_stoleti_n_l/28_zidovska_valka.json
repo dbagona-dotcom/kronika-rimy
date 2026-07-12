@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 28,
   "slug": "28_zidovska_valka",
   "title": "Kapitola 28 — Židovská válka (66–73 n. l.)",
@@ -6,28 +6,28 @@
   "years": "66–73 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img55.jpg",
+    "hero": "images/img55.jpg",
     "mapa": {
-      "src": "img56.jpg",
+      "src": "images/img56.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Judea se stala římskou provincií roku 6 našeho letopočtu. Augustus nechal chrámový kult nedotčený a chránil chrámovou pokladnici před vměšováním správy. Prokurátoři po něm si tuto hranici nehlídali.",
       "Gessius Florus, jmenovaný roku 64, nechá roku 66 vyrabovat část chrámové pokladnice. Demonstranti se mu vysmějí a vybírají pro chudého prokurátora almužnu. Florus odpoví vojáky. V ulicích Jeruzaléma leží mrtví.",
       "Povstání se rozhoří s rychlostí která zaskočí celé velení na Východě. Chrám přejde pod kontrolu povstaleckých kněží. Římská posádka z pevnosti Antonia je vyvražděna. Legio XII. Fulminata, poslaná ze Sýrie, utrpí u Bét-Choronu drtivou porážku a ztratí orla.",
       "Nero pověří Vespasiana."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Vespasianus přivede do Judeje tři legie, V. Macedonica, X. Fretensis a XV. Apollinaris, doplněné o auxilia, celkem přibližně šedesát tisíc mužů.",
       "Obléhací stroje jedou s nimi. Balista je torzní vrhací stroj. Šlachy se napnou a uvolněním vystřelí kámen přes dvacet kilogramů na čtyři sta metrů. Škorpión střílí šípy a probíjí štít na vzdálenost přes dvě stě metrů. Onager hodí těžší kámen obloukem přes hradbu. Obléhací věže se konstruují přímo na místě, přibližují útočníky na úroveň cimbuří. Agger, sypané těleso z hlíny, kamení a dřeva, roste přímo k patě hradeb. Obránci ho zapalují. Inženýři staví nový.",
       "Judejští obránci nejsou neorganizovaný dav. Zelóti bojují s přesvědčením lidí kteří věří že brání posvátné místo. Znají terén, znají tunely pod Jeruzalémem a organizují výpady kde je legie nejzranitelnější. Uvnitř města soupeří několik frakcí o kontrolu nad Chrámem. Každá zabíjí umírněné jako zrádce."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Vespasianus nezaútočí rovnou na Jeruzalém. Začne postupným obsazováním Galileje a izolací judejských hor od zásobovacích přísunů.",
       "Jotapata v Galileji klade vážný odpor. Za jejími hradbami velí obraně Iosephos Flavios, kněz. Za dvacet let napíše dějiny této války. Sedm týdnů trvá obléhání. Vespasianovy katapulty rozstřelují hradby, obránci je opravují v noci. Pak Římané proniknou skrz. Iosephos se schová v zásobovací jámě s hrstkou přeživších. Dojdou k rozhodnutí: zemřít vlastní rukou místo zajetí. Sestaví pořadí v němž se budou zabíjet navzájem. Los padne na Iosepha jako posledního. Přežije, vzdá se a přejde na římskou stranu. Vespasianovi předpoví, že se stane císařem. Vespasianus mu zachová život.",
       "Ze západu mezitím přicházejí zprávy. Nero. Galba. Otho. Vitellius. Vespasianus odejde. Judejskou válku přenechá synovi.",
@@ -46,7 +46,7 @@
       "Silva zapíše vítězství. V triumfálním záznamu bude Masada jako každá jiná dobytá pevnost."
     ],
     "pribeh": [
-      "28 — Židovská válka (70 n. l.)",
+      
       "Marcus Trebellius Severus, optio, Jeruzalém",
       "Stojíme na Olivové hoře. Kolem našich balist a škorpionů pobíhá řecký inženýr. Zastaví se u našeho stroje, podívá se dolů na jeruzalémské hradby, něco rychle zapíše do voskové tabulky a ukáže na třetí věž. Zvedne dva prsty. Úprava úhlu.",
       "„Natáhnout!“ zařvu na obsluhu.",

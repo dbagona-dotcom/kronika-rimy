@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 5,
   "slug": "5_pyrrhova_valka",
   "title": "Kapitola 5 — Pyrrhova válka (280–275 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "280–275 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img9.jpg",
+    "hero": "images/img9.jpg",
     "mapa": {
-      "src": "img10.jpg",
+      "src": "images/img10.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Deset let po míru se Samnity Řím drží jih. Spojenecká síť se táhne od apeninských hřebenů až k Messinské úžině. Je to vzdálenost, kterou by Romulovi válečníci nezdolali za jedno pokolení. Na jejím konci leží Tarentum.",
       "Tarentum je největší z řeckých kolonií jižní Itálie a nejbohatší přístav celého jihu. Vlastní flotila, vlastní armáda, daně z bohatého námořního obchodu. A každým rokem, jak se římská síť kolonií a spojeneckých smluv prodlužuje na jih, sedí Tarentum o kousek blíž ke středu té sítě. Luceria v Apulii, Venusia na samnitském pomezí, posádky v Kampánii.",
       "Roku 282 vpluje do tarentského zálivu malá eskadra římských lodí. Tarenťané lodě potopí bez váhání. Pak zaútočí na spojenecké Thurij a vyženou jeho římskou posádku za brány.",
@@ -23,7 +23,7 @@
       "Pyrrhos přijme. Roku 280 vypluje z Épiru."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Římská armáda roku 280 vyšla ze samnitských válek jiná než do nich vstoupila. Dvě generace skutečného boje zocelily manipulární armádu. Záseky v průsmycích, obklíčení u Caudia, útok na kmenová centra hluboko v Apeninách. Centurionský sbor je plný mužů kteří znají válku lépe než rolnické práce. Scutum, pilum, velení — vše prošlo praxí a bylo zbaveno toho co nefungovalo.",
       "Pyrrhos přiveze to, s čím se legie dosud nesetkala.",
       "Základem jeho armády je makedonská falanga. Těžkooděnci v sevřeném šiku, každý vyzbrojený sarissou — kopím délky čtyř až šesti metrů. Přední řady drží sarisy vodorovně před sebou. Zadní je naklánějí přes ramena těch před nimi, vrstva nad vrstvou. Výsledkem je pohybující se hradba hrotů do níž se nedá proniknout čelně — každý pokus o průnik narazí na dalších pět špiček ještě před dosažením prvního člověka.",
@@ -32,7 +32,7 @@
       "Pyrrhos ví přesně co má. Chybí mu čas. Jeho vojsko se skládá z makedonských a épeirských vojáků doplněných žoldnéři. Závisí na výhrách a tributech. Řím závisí na systému spojeneckých smluv který po každé prohrané bitvě ztráty doplní. Pyrrhos může vyhrát bitvu, ale římské počty neporazí."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Pyrrhos přistane v Itálii roku 280 s pětadvaceti tisíci pěšáků, třemi tisíci jezdci a dvaceti slony. Tarenťané ho přivítají jako záchrance. Pyrrhos okamžitě uzavře divadla, zakáže veřejné hostiny a zahájí přísný výcvik. Tarenťané zjistí, že záchrance si v jejich věci o výkonu velení nenechá radit.",
       "První střet přijde u Herakleje. Konzul Publius Valerius Laevinus vyrazí vstříc s přibližně pětatřiceti tisíci muži a zaútočí dříve než je připraven. Překročí řeku Siris a tlačí na Pyrrhovu linii ještě před plným rozvinutím nepřátelských sil.",
       "Linie se srazí sedmkrát. Centurioni drží přední místa, manipuly se stahují zpět a vracejí, nechávají falangu útočit do prázdna. Trvá to déle, než Pyrrhos čekal. Thessálská jízda zaútočí třikrát a je třikrát odražena. Pyrrhos vstoupí osobně do jízdní šarvátky a je sražen z koně. Jeden z jeho přátel mu přenechá svého koně a oblékne Pyrrhovu zbroj jako návnadu. Boj pokračuje dál, ale bitva visí v rovnováze.",
@@ -58,7 +58,7 @@
       "Řím stojí na jihoitalském pobřeží a hledí přes Messinskou úžinu. Za ní leží Sicílie. Za Sicílií sedí Kartágo,  námořní velmoc která Pyrrhovu válku celou sledovala, a teď sleduje jak Řím přistupuje blíž."
     ],
     "pribeh": [
-      "05 — Pyrrhova válka (280 př. n. l.)",
+      
       "Aulus Cassius Placidus, princeps, Herakleia",
       "Principové před námi ustupují. Krvácejí, klopýtají a vrážejí zády do našich štítů. Pod jejich nohama leží mrtví hastati.",
       "Trubka zaječí. Řada triariů se zvedá. Zaberu prsty kolem ratiště hasty a jdeme vpřed. Překračujeme těla vlastních mužů.",

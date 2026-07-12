@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 32,
   "slug": "32_markomanske_valky",
   "title": "Kapitola 32 — Markomanské války (166–180 n. l.)",
@@ -6,15 +6,15 @@
   "years": "166–180 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img63.jpg",
+    "hero": "images/img63.jpg",
     "mapa": {
-      "src": "img64.jpg",
+      "src": "images/img64.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Hadrianus a Antoninus Pius strávili půlstoletí bez výbojů. Hadrianova zeď stojí na severu Británie, dunajská hranice drží od Alp k Černému moři, silniční síť spojuje provincie od Británie po Sýrii. Impérium má zásobené sýpky, odvedené daně a bezpečné silnice.",
       "Na trůn nastoupí v roce 161 Marcus Aurelius. Adoptovaný do dynastické linie bez pokrevního nástupnictví. Vychovaný stoickou filozofií, Epiktétem a Senekou. Ze všeho nejméně chce řídit armády.",
       "Za dunajskou hranicí se pohybují hordy barbarů. Germánské kmeny ze Skandinávie a Pobaltí, Gótové, Vandalové, Herulové, se dávají do pohybu na jih a tlačí před sebou starší usazené kmeny, Markomany a Kvády, přímo k dunajské hranici. Za řekou leží úrodná půda, zásobené sýpky a bohatá latinská města.",
@@ -25,7 +25,7 @@
       "Marcus Aurelius nechá otevřít chrám dvojhlavého Iana, čímž Řím formálně vstoupí do válečného stavu, a odjede s vojskem na sever."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Legie se kterými Marcus zahajuje tažení procházejí hlubokou krizí. Mor smetl tisíce vojáků a mezi nimi stovky centurionů, kteří tvořili taktické jádro každé kohorty.",
       "Marcus se rozhodne verbovat gladiátory, vykoupí otroky jimž za vojenskou službu přislíbí svobodu a za vysoký žold do auxiliárních sborů najme germánské válečníky aby bojovali přímo proti svým vlastním kmenům.",
       "Výzbroj těžké pěchoty kombinuje všechny tři typy zbrojí, kroužkovou hamatu, šupinovou squamatu a plátovou segmentatu, bez uniformního standardu. Přilby Niederbieber a Heddernheim mají velké lícní kryty a zesílenou šíji. Ke krátkému gladiu přibývá spatha, delší jezdecký meč, který vojáci využívají v roztroušenějších formacích v lese. Obdélníkové scutum přechází v hlubokém lesním terénu na starší oválný tvar, lehčí a manévrovatelnější v úzkých průsmycích.",
@@ -33,7 +33,7 @@
       "Podél Dunaje Marcus Aurelius buduje systém strážních věží, burgi, v pravidelných intervalech podél celé řeky. Slouží k včasné signalizaci pro mobilní legie, aby mohly rychle reagovat na každý přechod."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Lucius Verus zemře na mor roku 169 cestou zpět ze severu. Marcus zůstane sám jako jediný vládce.",
       "Roku 168 a 169 jsou Markomani vytlačeni zpět přes Alpské průsmyky a Langobardi, kmen operující v carnuntské oblasti, zatlačeni za Dunaj. Do roku 170 je přímé ohrožení Itálie odstraněno.",
       "Marcus nepřestane po vytlačení Germánů. Přejde Dunaj a zahájí ofenzívu na barbarském území.",
@@ -56,7 +56,7 @@
       "Sláva a hanba, spor a bída — vše je popel a kouř. Nic netrvá."
     ],
     "pribeh": [
-      "32 — Markomanská válka (174 n. l.)",
+      
       "Decimus Valerius Primus, legionář, Mušov",
       "Na jaře jsme vyrazili z Carnunta osmdesát mil na sever, hluboko do barbarského území. Už druhý den pochodu nás v hustém lese napadla skupina Markomanů. Srazili jsme štíty k sobě, bez rozmáchlých úderů jsme je mechanicky rozsekali krátkými meči, mrtvé nechali v kapradí a pochodovali dál.",
       "Došli jsme na kopec Hradisko. Inženýr zapíchl hůl do země. Kopec kontroloval křížení dvou řek i hlavní Jantarovou stezku.",

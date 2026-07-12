@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 20,
   "slug": "20_treti_mithridatska_valka",
   "title": "Kapitola 20 — Třetí mithridatská válka (73–63 př. n. l.)",
@@ -6,27 +6,27 @@
   "years": "73–63 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img39.jpg",
+    "hero": "images/img39.jpg",
     "mapa": {
-      "src": "img40.jpg",
+      "src": "images/img40.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Mithridates VI. od dětství žil v strachu z otrav. Jeho vlastní otec byl pravděpodobně otráven. Jako mladý začal systematicky testovat jedy na sobě. Malé dávky arsenu, akonitu a dalších látek, každodenně po léta. Lékař Krateros mu namíchal přípravek z 54 složek: bolus, myrha, šafrán, opium a desítky dalších. Výsledkem byl muž jehož tělo přestalo na jedy reagovat normálně.",
       "Mithridates vládl Pontu na jižním pobřeží Černého moře a dvakrát prohrál s Římem. Roku 85 Sulla potřeboval volné ruce pro Itálii a přijal podmínky které Mithridata fakticky nezničily. Druhá válka roku 83 skončila nerozhodně. Mithridates obnovil armádu, upevnil spojenectví s arménským králem Tigranem a připravoval se.",
       "Roku 74 Bithýnie odkáže svá území Římu. Je to malé království na severozápadě Malé Asie. Mithridates zaútočí jako první se sto dvaceti tisíci pěšáky a šestnácti tisíci jezdci. Řím je právě zaměstnaný Sertorijskou válkou ve Španělsku a Spartakovým povstáním v Itálii. Dvě souběžné krize na opačných okrajích světa. Senát přesto pošle legie. Vrchní velení dostane Lucius Licinius Lucullus."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Legie v Malé Asii jsou v tomto období nejzkušenější co má Řím v poli. Takzvané fimbrijské legie veteráni z první mithridatské války, předaní od Sully přes Fimbriu a zpět, přenesení na Lucullovo velení. Nesou v sobě deset let nepřetržitých tažení. Každý z nich byl u Chaironeie nebo Orchomenu. Vesnici za mořem mnozí nepamatují. Jsou vybaveni standardní výzbrojí pomariovského legionáře: lorica hamata, gladius hispaniensis, pilum, scutum. Výcvik je srostlý s tělem.",
       "Lucullus byl Sullův kvestor, aristokrat a epikurejský filosof. Pozdní kariéra ho proslaví gastronomickými večírky. V poli ale nedovolí žádnému veliteli vstoupit do bitvy bez předchozího průzkumu. Přichází se třiceti tisíci muži. Mithridates má přes sto tisíc.",
       "Mithridatova armáda není ta z první války. Pontský král najal mariánské dezertéry a přebudoval pontskou pěchotu přesně podle římského vzoru. Kohorty, pilum, scutum, gladius. K tomu přidá těžkou jízdu katafraktů v šupinovém brnění a sarmatské lučištníky schopné přesné střelby za plné jízdy. Lucullus bude čelit armádě která se naučila od Římanů bojovat jako Římané."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Mithridates oblehne Kyzikus, opevněné město na poloostrově u Marmarského moře. Lucullus pozoruje z kopce a neudeří. Místo toho pomalu přeřeže každou zásobovací cestu vedoucí k Mithridatovu táboru. Pontský král obléhá Kyzikus ale nemůže zásobit vlastní armádu.",
       "Přijde zima. V Mithridatově táboře nejprve zmizí chléb. Pak maso. Vojáci jedí kůži z obuvi. Přijdou nemoci. Za osm měsíců zemře hladem a nemocemi přes třicet tisíc Pontských bez jediné velké bitvy. Mithridates se pokusí evakuovat zbytky armády po moři — bouře potopí část flotily. Vrátí se do Pontu se zlomkem původní síly.",
       "Lucullus ho pronásleduje. U Kabeiry Mithridatovy zásobovací oddíly padnou do obklíčení při výpadu za jídlem. Zpráva o porážce dorazí k postupujícím jednotkám a do chvíle kdy doputuje k zadním řadám, nikdo neví co se doopravdy stalo, každý ví jen to co slyšel od prchajícího muže před ním. Mithridatův tábor se rozloží v panice. Pontský král prchne s hrstkou jezdců na dvůr arménského krále Tigrana.",
@@ -46,7 +46,7 @@
       "Pompeius se vrátí do Říma s triumfem největším v dosavadních dějinách. Pontus, Bithýnie i Sýrie jsou anektovány. Řím kontroluje celý Blízký východ."
     ],
     "pribeh": [
-      "20 — 3. mithridatská válka (69 př. n. l.)",
+      
       "Timos Varanes Durus, auxilia (lučištník), Tigranocerta",
       "Pláň pod Tigranocertou je zaplavená lidmi. Arménská armáda v klidu čeká na náš postup. Jejich elitní obrněná jízda stojí natlačená těsně pod strmým kopcem. Muži i koně jsou pokrytí těžkými železnými šupinami.",
       "Lucullus si všimne, že samotný hřeben nad nimi je úplně prázdný.",

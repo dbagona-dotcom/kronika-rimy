@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 2,
   "slug": "2_latinska_valka",
   "title": "Kapitola 2 — Latinská válka",
@@ -6,26 +6,27 @@
   "years": "340–338 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img3.jpg",
+    "hero": "images/img3.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img4.jpg",
+      "src": "images/img4.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Mírová smlouva se Samnity sotva vstoupila v platnost. V roce 340 před naším letopočtem čelí Řím nové válce, ne za Apeninami, ale doma v srdci Latia.",
       "Tibur, Praeneste, Lanuvium, Aricia. Města která mluví stejným jazykem, uctívají stejné bohy a léta krvácela po boku římských legií. Po desetiletích vojenské spolupráce si spočítala, co dávají a co dostávají zpět. Vojáků posílají do pole stejně jako Řím, rizika nesou stejná. Lví podíl kořisti a politické posty ale připadají Římu. Latinové dostanou zbytek.",
       "Jejich ultimátum je prosté: jeden konzul musí být Latin, polovina senátu musí patřit Latinům. Senát odmítne. Latinská liga vyhlásí válku. Přitáhne na svou stranu Kampánce a postaví armádu, která se Římu rovná počtem i výcvikem."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Armáda která táhne na jih není ta samá jako před pěti lety. Samnitské války si vyžádaly cenu a vrátily zkušenosti. Manipuly se pohybují v členitém terénu kde falanga padá. Centurioni rozhodují rychleji a s menší závislostí na rozkazech shora.",
       "Latinské obce tuto armádu po generace kopírovaly. Velites v první vlně, hastati za nimi, principes a triarii vzadu. Centurioni na obou stranách prošli společnými taženími a znají protivníkovy manévry."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Latinsko-kampánská koalice táhne na jih do Kampánie. Oba konzulové roku 340 vedou legie vstříc. Publius Decius Mus a Titus Manlius Torquatus. Setkají se u Veseris poblíž Vesuvu, na otevřené planině pod sopečnými svahy.",
       "Před bitvou přinese věštec zprávu. Vítězství připadne té armádě jejíž velitel se obětuje podsvětním bohům. Decius povolá pontifika. Oblékne obřadní roucho, přehodí tógu přes hlavu po etruském způsobu, přiloží ruku k bradě a stojí na oštěpu položeném na zemi. Pontifex mu předříká formuli. Slova zasvětí jeho tělo i těla nepřátel bohům podsvětí. Pak se Decius vyhoupne na koně.",
       "Vjede přímo do středu latinských řad. Latinská kopí ho zasáhnou pod ramenem, pak přes krk. Vidí to muži v první řadě. Římské levé křídlo se zvedne a zatlačí Latiny zpět.",
@@ -37,7 +38,7 @@
       "Latinský problém je vyřešen. Za Apeninami na Řím čekají Samnité."
     ],
     "pribeh": [
-      "02-2. latinská válka",
+      
       "Septimus Gaius Genucius, hastatus, Veseris",
       "Křídlo praská. Koukám vedle sebe a vidím, jak další principes ustupují. Tlak latinské koalice nás drtí a náš centurion leží mrtvý v prachu. Panika mi svírá plíce. Otáčím se k ústupu, ale vtom zleva zaduní kopyta. Konzul Decius Mus v obětním rouchu vráží s řevem přímo do latinského středu a padá pod jejich kopími.",
       "Proč to udělal? Útěk se ve mně zlomí. Vztek a stud spálí strach na popel.",

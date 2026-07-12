@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 14,
   "slug": "14_jugurthinska_valka",
   "title": "Kapitola 14 — Jugurthinská válka (112–105 př. n. l.)",
@@ -6,15 +6,16 @@
   "years": "112–105 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img27.jpg",
+    "hero": "images/img27.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img28.jpg",
+      "src": "images/img28.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Tiberius Gracchus byl roku 133 umlácen k smrti v senátu. Gaius roku 121 donucen k sebevraždě. Z politické vraždy se stala legitimní metoda boje o moc.",
       "Do tohoto Říma přišla zpráva z Afriky.",
       "Numidie, království na severoafrickém pobřeží a věrný spojenec od dob druhé punské války, se ocitla uprostřed dynastického konfliktu. Dějinnou roli v něm nepřevzal cizí vládce, ale muž který léta strávil v Scipionově táboře u Numancie. Jugurtha, nemanželský syn numidského prince, se tam naučil jak bojuje římská armáda. A jak se kupuje.",
@@ -22,7 +23,7 @@
       "Senát mrtvé Římany ignorovat nemůže. Válka je vyhlášena."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Rolníci tvořící jádro legií ubývají. Drobní vlastníci mizí, pole přecházejí do rukou aristokracie. Do legií přicházejí muži bez zkušenosti. Centurioni stárnou. Noví nepřicházejí.",
       "Jugurtha velí lehkým numidským jezdcům. Malí koně, vytrvalí na poušti. Bojují s oštěpy a luky a nenosí zbroj. Zaútočí. Zasáhnou. Rozplynou se dřív než se legie zformuje. Těžká pěchota, která se za nimi pustí, rychle ztratí vodu i formaci. Numidský jezdec udeří ze strany a zmizí.",
       "Gaius Marius pochází z Arpina. První ve své rodině kdo dosáhl senátu. Homo novus. Stará krev jím pohrdá. Prošel od nejnižších hodností k nejvyšším. Každou si vybojoval.",
@@ -30,7 +31,7 @@
       "Roku 104 Marius zruší staré standardy. Vlky, kance, minotaury. Zavede jediný symbol. Orla. Každá legie má svého. Ztratí-li ho, je to konec."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Konzul Bestia uzavře s Jugurthou mír. Senát odmítne. Každý ví proč. Jugurtha přijede do Říma pod diplomatickou imunitou a nechá zavraždit svědka který by mohl promluvit. Řím ho vykáže. Při opouštění Itálie pronese: město na prodej. Brzy zahyne, najde-li kupce dost bohatého.",
       "Válka pokračuje.",
       "Konzul Albinus utrpí roku 110 drtivou porážku u Suthul. Armáda je obklíčena v poušti. Musí projít pod jhem. Jako u Caudia před sto sedmdesáti lety. Tentokrát v africkém písku. Metellus obnoví disciplínu. Jugurtha uniká dál.",
@@ -45,7 +46,7 @@
       "Marius získá triumf. Sulla si nechá vyrýt pečetní prsten s motivem Boccha předávajícího spoutaného nepřítele přímo do jeho rukou. Prsten nosí do konce života."
     ],
     "pribeh": [
-      "14 — Jugurthinská válka (107 př. n. l.)",
+      
       "Publius Valerius Pulcher, legionář, Severní Afrika",
       "Slunce pálí a kroužková zbroj peče do ramen. Nesu na dřevěné furce výstroj, rýč, kolíky na palisádu, těžký kotlík a pytel obilí na patnáct dní pochodu. Nohy se při každém kroku boří do sypkého písku. Jazyk mám suchý a přilepený na patro.",
       "„Ještě jedna taková míle a chcípnu,“ zachroptí voják vedle mě s popraskanými rty.",

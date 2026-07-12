@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 30,
   "slug": "30_druha_dacka_valka",
   "title": "Kapitola 30 — Druhá dácká válka (105–106 n. l.)",
@@ -6,15 +6,15 @@
   "years": "105–106 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img59.jpg",
+    "hero": "images/img59.jpg",
     "mapa": {
-      "src": "img60.jpg",
+      "src": "images/img60.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Mír z roku 102 nevydržel ani tři roky.",
       "Decebalus splnil podmínky jen tam kde nešly obejít. Velké stroje vydal. Muže které Římané jmenovitě znali vydal. Opevnění srovnal tam kde bylo zvenčí viditelné. Za horami v Oraštijském pohoří začal stavět nová okamžitě. Verboval sarmatské a germánské žoldnéře, posílal posly k Parthům, kontaktoval každý kmen severně od Dunaje. Každému nabídl peníze nebo spojenectví.",
       "Traianovi zvědové to sledovali.",
@@ -23,14 +23,14 @@
       "Traianus mobilizuje armádu s cílem anektovat Dácii jako provincii."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Apollodoros z Damašku dokončí mezi oběma válkami most u Drobetae. Dvacet kamenných pilířů zasazených přímo do říčního dna nese dřevěnou vozovku tisíc sto třicet pět metrů dlouhou, patnáct metrů širokou, devatenáct metrů nad hladinou. Legie teď nepřekračují Dunaj po pontonech. Přecházejí v proudu, celé, bez přestávky, za nimi zásoby a těžké vozy bez omezení počasí nebo výšky hladiny. Pilíře stojí dodnes.",
       "Na přilbách jsou kovové výztuže přes temeno, zavedené po zkušenostech z Tapae. Nově přibývají dva ochranné prvky adaptované přímo z gladiátorské výzbroje. Manica je segmentovaný kovový chránič pravé ruky a předloktí. Chrání ruku která drží gladius před sekem falxu seshora. Ocrea je kovový chránič holení. Kryje nohu která vstupuje do úzkých soutěsek kde zahnutá čepel útočí odspoda. Obojí existovalo před Dácií. Do legionářské výzbroje vstoupí právě teď.",
       "Traianus přivede na Dunaj dvanáct až čtrnáct legií s auxiliárii. Přes sto dvacet tisíc mužů, dunajská flotila zásobuje celou operaci po řece. Mauretánská jízda pokrývá průzkum, syrští a palmyrští lučištníci drží horské výběžky. Germánská jízda operuje v předvoji.",
       "Decebalus shromáždí posledních třicet až čtyřicet tisíc bojovníků. Roxolani a Bastarnové po první válce váhají. Část dáckých kmenů přejde rovnou na římskou stranu."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Na jaře roku 105 Traianus překročí most a žene armádu do pohybu dřív než Decebalus dokončí mobilizaci. Sílu rozdělí do tří proudů. Decebalus musí bránit více průsmyků najednou a nemá na všechny dost mužů.",
       "Decebalus zkouší přepady pochodových kolon. Skupiny bojovníků s falxy útočí ze zalesněných svahů na pochodující kolony, výpady v noci zapalují zásobovací vozy, ničí mostky přes horské potoky. Tam kde přepady zabrzdí pochod, Traianus pošle dopředu průzkum a obejde pozici jinou stezkou. Nabídky na rozhovory odmítá bez odpovědi. Decebalus zapaluje vlastní vesnice a sýpky aby Římanům nezůstalo co sbírat. Postup zpomalí, nezastaví.",
       "Pevnosti padají jedna po druhé. Bez záchranné armády venku se každé obléhání uzavírá stejně. Inženýři sypanou rampou přiblíží berany k hradbám, katapulty drží cimbuří prázdné, kohorty obklíčí pevnost ze všech stran. Část posádek kapituluje, část bojuje do posledního muže.",
@@ -51,7 +51,7 @@
       "Z dáckého zlata vznikne Trajánovo fórum, Trajánův sloup a síť silnic. Dácie se stane první provincií severně od Dunaje. V Hategské kotlině, čtyřicet kilometrů od staré Sarmizegetusy, vyroste nové město Ulpia Traiana Sarmizegetusa s fórem, amfiteátrem a chrámovým okrskem. Dvě legie, XIII. Gemina a V. Macedonica, dostanou stálé základny na novém území. Zlaté doly v dáckých horách začnou platit říši po generace. Do dobytého území přijdou desetitisíce latinsky mluvících kolonistů, veteránů a obchodníků z celého impéria."
     ],
     "pribeh": [
-      "30 — 2. dácká válka (106 n. l.)",
+      
       "Gaius Ulpius Arboris, legionář, Řeka Sargetia",
       "Sedíme v táboře nedaleko zničeného nepřátelského města. Zbroj máme složenou. Smíchal jsem hrst písku s popelem a kusem hrubé látky opatrně čistím čepel gladia od zbytků zaschlé krve. Ke strážím u hlavní brány najednou dorazí otrhaný dácký šlechtic. Stráže ho bleskově povalí do prachu.",
       "Dák zvedne zakrvácený obličej a lámanou latinou zaječí na celý tábor: „Poklad!“",

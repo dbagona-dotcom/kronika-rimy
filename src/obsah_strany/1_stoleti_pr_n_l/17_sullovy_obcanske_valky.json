@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 17,
   "slug": "17_sullovy_obcanske_valky",
   "title": "Kapitola 17 — Sullovy občanské války (88–81 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "88–81 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img33.jpg",
+    "hero": "images/img33.jpg",
     "mapa": {
-      "src": "img34.jpg",
+      "src": "images/img34.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Tribun Publius Sulpicius Rufus prohlašuje přesun velení mithridatské výpravy z konzula Sully na Gaia Maria.",
       "Sullovy zprávy dorazí do tábora v Nole.",
       "Sulla zavolá velitelský sbor. Vysvětlí situaci. Důstojníci z celého štábu ho s výjimkou jednoho okamžitě opustí. Pochod s legiemi na vlastní hlavní město leží daleko za nepřekročitelnou hranicí římského zákona. Zůstanou mu centurioni a řadoví vojáci. Sulla jim oznámí důsledky: nové mariánské velení přinese nové jednotky. Veteráni zůstanou po letech tvrdých bojů odstavěni bez odměny a bez slíbené půdy.",
@@ -25,14 +25,14 @@
       "Mithridates VI., král Pontu, již mezitím ovládl celou Malou Asii. V jediném koordinovaném dni roku 88 nechal povraždit italské obchodníky a jejich rodiny napříč podrobeným územím. Bylo jich osmdesát tisíc."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Profesionální legionáři teď bojují proti dalším Římanům. Centurioni vedou své oddíly proti pevnostem a táborům, o jejichž konstrukci vědí naprosto vše, protože obě strany v konfliktu používají totožnou výzbroj, metody i formace. Rozhoduje oddanost generálovi, který řídí celou armádu.",
       "Sulla směřuje na východ k řešení pontské krize, aniž by k tomu měl podporu římských institucí. Mariánská vláda zablokuje posily i zásobování.",
       "Mithridatova armáda přebírá starší modely bitevních postupů. Tvoří ji těžká falangová pěchota vybavená sarissami podle makedonského stylu. Armádu posilují katafrakti na silně obrněných koních, lehká asijská jízda a oddíly lukostřelců. Součástí jsou rovněž srpové vozy osazené čepelemi na kolech, které Mithridates nasazuje s podobným výsledkem jako Seleukovci o století dříve.",
       "Celé toto vojsko čítá u Chaironeie přibližně sto dvacet tisíc mužů. Sulla přivede třicet tisíc."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Sulla přistane v Řecku roku 87. Athény se postaví na Mithridatovu stranu a uzavřou brány. Sulla oblehne město. Chybí mu obléhací stroje a dřevo k jejich stavbě získá vykácením Platónovy Akademie i přilehlých hájů. Athény padnou roku 86 a ulice zaplavuje krev represí.",
       "U Chaironeie v Boiótii stojí Sulla se třiceti tisíci muži proti Archelaovi, Mithridatovu generálovi. Archelaus nasadí srpové vozy jako první vlnu. Sulla přikáže vykopat řadu hlubokých příkopů, do kterých vozy vjíždějí. Pak nastoupí pontská falanga. Sullovo levé křídlo začne ustupovat. Sulla seskočí z koně, vytrhne orla a zařve na ustupující řady, že na bojišti v Boiótii mohou tak akorát vyprávět, jak svého velitele nechali samotného čelit nepříteli. Římské křídlo se zformuje a získá převahu. Archelaus je poražen.",
       "Roku 85 u bažinatého jezera Kopais nedaleko Orchomenu zvolí Archelaus pro bitvu opět nepříznivý prostor. Sullova formace čelí tlaku a začne znovu praskat v levé části. Generál vyrazí vstříc utíkajícím mužům a chytá prchající jednotky údery vlastního meče naplocho. Křídlo srovná. Pak přikáže mužstvu v přilehlém močálu vykopat odvodňovací kanály. Legionáři za svitu pochodní stráví noc zpevňováním podloží k útoku. Ráno vtrhnou přes sušší vrstvu bláta přímo na Archelaovu armádu a dorazí ji.",
@@ -51,7 +51,7 @@
       "Sulla z pozice suveréna ustoupí o vlastní vůli v roce 79. Odejde zpět na fórum, projde se městem bez vojenské asistence a dá každému možnost ho předvolat před soud. Nikdo se nepřihlásí. Stahuje se na své panství do Kampánie, kde v roce 78 po zhoršení zdraví skoná."
     ],
     "pribeh": [
-      "17 — Bitva u Collinské brány (82 př. n. l.)",
+      
       "Gaius Julius, eques, Porta Collina (ráno)",
       "Stojíme s koňmi za zavřenou Collinskou bránou. Je nás sotva stovka. Většinou mladí synové ze senátorských rodin. Slunce sotva vyšlo a zvenčí slyšíme hluk desítek tisíc nohou. Pontius Telesinus přitáhl k Římu dřív než Sullova armáda. Město za našimi zády je prázdné a nechráněné.",
       "Velitel oddílu zvedne ruku. Těžká dubová vrata se s vrzáním otevřou. Vyjedeme ven.",

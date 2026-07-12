@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 12,
   "slug": "12_treti_punska_valka",
   "title": "Kapitola 12 — Třetí punská válka (149–146 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "149–146 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img23.jpg",
+    "hero": "images/img23.jpg",
     "mapa": {
-      "src": "img24.jpg",
+      "src": "images/img24.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Padesát let od Zamy žilo Kartágo v hranicích určených mírovou smlouvou. Nemělo flotilu, provincie ani armádu schopnou operovat za vlastními hradbami. Ekonomika se přesto zotavila. Obchodní sítě na africkém pobřeží a inovativní zemědělství naplnily město bohatstvím. Kartágo splatilo válečné reparace za padesát let přesně podle splátkového kalendáře. Poslední splátka odešla roku 151.",
       "Řím ho nikdy nepřestal sledovat. Cato Starší navštívil Kartágo roku 152. Viděl plné doky, plné trhy a dřevo z nedalekých lesů. Každý projev od té chvíle končil prohlášením, že Kartágo musí být zničeno.",
       "Smlouva z roku 201 Kartágu zakazovala vést válku bez římského souhlasu. Numidský král Masinissa, římský spojenec od Zamy, tento článek využíval a zabíral kartáginské zázemí kousek po kousku. Kartágo psalo do Říma, žádalo o arbitráž, přijímalo nespravedlivá rozhodnutí komisařů. Roku 151 pohár přetekl. Kartáginská rada postavila armádu a vytáhla proti Masinissovi bez souhlasu senátu. Byla poražena.",
@@ -23,13 +23,13 @@
       "Zavřeli brány a začali vyrábět zbraně ze střech a ženských vlasů."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Armáda pod hradbami je unavená z neustálých tažení. Vojáci bojují za kořist víc než za slávu a disciplína tábora upadá. Kartágo se naopak brání se zoufalstvím těch, kteří nemají kam utéct.",
       "Obrana města nestojí na polní taktice. Třicet kilometrů hradeb s věžemi tvoří neprostupný kruh. K moři vedou dvojité přístavy. Posádku tvoří každý občan schopný udržet meč, ženy donášejí zásoby a kameny.",
       "Římané se soustředí na obléhací stroje. Ženisté stavějí valy a útočné rampy, aby dostali berany k hradbám. Není to manévrovací boj, je to pomalé a brutální dobývání prostoru po kusech."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Obléhání se táhne dva roky. Římské armády se střídají před hradbami, útočí a jsou odráženy. Kartáginci podnikají noční výpady, pálí římské stroje a udržují spojení se zásobovacími konvoji vnitrozemím. Disciplína v římském táboře klesá a senát cítí neklid.",
       "Roku 147 je konzulem zvolen Publius Cornelius Scipio Aemilianus. Vnuci a synové vítězů od Pydny a Zamy se sešli v jednom muži. K získání konzulátu neměl zákonný věk, ale lidové shromáždění výjimku prosadilo.",
       "Scipio vyčistí tábor od kupců a žen. Zvýší disciplínu. Zablokuje město z pevniny. Přes ústí dvojitého přístavu nechá postavit kamennou hráz, aby odřízl poslední námořní zásobovací trasu. Kartáginci prokopou nový průplav přes pískovou kosu, ale jejich improvizovaná flotila vyrazí pozdě. Město je sevřeno.",
@@ -39,7 +39,7 @@
       "Kartágo hoří sedm dní. Scipio Aemilianus sleduje, jak z hořícího města stoupá dým. Rozkáže strhnout vše, co zůstalo stát, a prokleje půdu, aby na ní už nikdy nikdo nestavěl. Z kdysi největší říše západního Středomoří nezbude kámen na kameni."
     ],
     "pribeh": [
-      "12 — 3. punská válka (146 př. n. l.)",
+      
       "Marcus Petreius Pannonius, Hastatus, Kartágo",
       "Uzavřeli jsme štíty do testuda a postupujeme úzkou ulicí. Z vysokých oken a střech domů na nás prší oštěpy a kusy zdiva. Tvrdé rány do dřevěných scut se mísí s naším křikem.",
       "Těžký kamenný blok hozený ze třetího patra roztříští štít muže po mé levici. Dřevo praskne. Voják se zkácí na dlažbu s roztříštěným ramenem. Okamžitě se s bolestivým syčením odplazí k omítce nejbližšího domu, aby zmenšil terč. Srazíme štíty k sobě, zaplníme mezeru a tlačíme formaci dál do kopce.",

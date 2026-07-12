@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 26,
   "slug": "26_povstani_boudiky",
   "title": "Kapitola 26 — Povstání Boudiky (60–61 n. l.)",
@@ -6,15 +6,15 @@
   "years": "60–61 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img51.jpg",
+    "hero": "images/img51.jpg",
     "mapa": {
-      "src": "img52.jpg",
+      "src": "images/img52.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Sedmnáct let po vylodění vypadá Británie jako provincie která přijímá římský řád. Camulodunum má fórum a chrám zbožštělého Claudia. Londinium roste u brodu přes Temži. Verulamium se proměnilo ve městečko s pravoúhlou zástavbou.",
       "Pod povrchem leží jiný obraz. Veteráni dostávají půdu která patřila britským kmenům. Daňoví výběrčí pracují s bezohledností které místní nestačí čelit. Mezi věřiteli je i filosof Seneca, který britské aristokracii půjčil deset milionů sesterciů a vymáhá je způsobem, který dlužníka každým rokem pohřbívá hlouběji.",
       "Do tohoto prostředí vstoupí smrt krále Prasutagase z kmene Icenů. Prasutagas byl římský spojenec. Ve své závěti odkázal království rovným dílem Římu a svým dvěma dcerám, aby rodinu ochránil před konfiskací.",
@@ -22,12 +22,12 @@
       "Iceni se chopí zbraní. Přidají se Trinovantové, přidají se kmeny s jinými křivdami. Povstání se šíří dřív než Řím pochopí co se děje."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Čtyři legie střeží britské provincie, ale v roce 60 nejsou zdaleka všechny po ruce. Místodržitel Gaius Suetonius Paulinus vede tažení na ostrov Mona u waleského pobřeží, centrum druidského kultu a zdroj odporu od počátku invaze. Drtivá většina bojové síly stojí odříznutá na druhém konci ostrova.",
       "Na ostrově slouží legionáři i auxiliárie. Legionáři nosí kroužkovou, šupinovou nebo plátovou zbroj podle výbavy své jednotky. Auxiliárie přidávají to, co legie samy nemají: syrští lučištníci střílí na vzdálenosti kde legionář scutem nestíhá krýt, mauretánská jízda pokrývá průzkum. Celková síla po odchodu Suetonia k Moně je slabá a roztroušená."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Boudika udeří s rychlostí která roztroušenou správu zcela zaskočí. Camulodunum nemá hradby. Veteráni je ve zdánlivě bezpečné provincii nikdy nevybudovali. Posádka čítá několik set mužů. Město padne za dva dny. Chrám Claudia hoří tři dny.",
       "Na pomoc vyráží IX. Hispana. Její legát Quintus Petilius Cerialis narazí na Boudičino vojsko ještě za pochodu. Pěchota je pobita do posledního muže. Cerialis unikne s hrstkou jezdců.",
       "Suetonius dorazí do Londinia dříve než Boudika, ale pochopí, že město ubránit nelze. Nařídí evakuaci těch kteří mohou jít a stáhne legie do vnitrozemí. Kdo zůstane, bude zabit. Londinium shoří. Verulamium shoří také. Celkem přijde o život přes sedmdesát tisíc Římanů a spojenců na třech místech.",
@@ -48,7 +48,7 @@
       "Suetonius převezme kontrolu nad ostrovem a v nadcházejících měsících vede tažení proti kmenovým územím."
     ],
     "pribeh": [
-      "26 — Boudičino povstání (61 n. l.)",
+      
       "Julius Petronius Mercator, signifer, Watling Street",
       "Stojíme na dně úzké soutěsky. Les máme v zádech. Místo vybral Paulinus, Britové se sem vejdou jen zepředu. Jsem v zadní řadě první kohorty. V levé ruce svírám žerď se signem, v pravé pochvu meče",
       "Z údolí se na nás valí křičící masa Britů. Země pod nohama duní. Nehýbeme se.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 3,
   "slug": "3_druha_samnitska_valka",
   "title": "Kapitola 3 — Druhá samnitská válka",
@@ -6,27 +6,27 @@
   "years": "326–304 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img5.jpg",
+    "hero": "images/img5.jpg",
     "mapa": {
-      "src": "img6.jpg",
+      "src": "images/img6.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Neapolis, řecké přístavní město na kampánském pobřeží, žije od svého založení obchodem. V jeho ulicích posledních let roste samnitský vliv. Část obyvatel se s ním sžila, část posílá posly do Říma. Senát zasáhne a obsadí město.",
       "Pro Samnity to znamená jedno: Řím stojí na jejich prahu. Odmítnou to přijmout.",
       "Roku 326 začíná druhá samnitská válka."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Legie se poučila ze dvou předchozích válek. Manipul funguje jako vlastní taktická jednotka, pohybuje se a útočí bez čekání na sousedy. Armáda se formuje do tří řad: hastati vpředu, principes za nimi, triarii vzadu jako poslední záloha.",
       "Pilum dostalo měkký železný krček. Voják ho hodí, bodec se zarazí do nepřátelského štítu a krček se ohne. Vytáhnout ho nelze, odhodit zpět taky ne. Nepřítel musí štít zahodit a stojí bez krytí. Scutum, obdélníkový štít přebraný od Samnitů, přilne k tělu vojáka a chrání boky v sevřeném boji lépe než starší oválný tvar.",
       "Tato výhoda platí jen na rovině. V apeninských průsmycích rozhoduje terén a Samnité ho znají lépe."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Počáteční léta přinesou Římu úspěchy. Neapolis přejde pod římskou ochranu. Samnité ztrácejí pozice v nížinách a ustupují do hor. Roku 325 vede konzul Lucius Furius Camillus tažení přímo do Samnia, proniká přes apeninské hřebeny a tlačí kmenová vojska zpět.",
       "V roce 321 vedou konzulové Spurius Postumius Albinus a Titus Veturius Calvinus armádu přes apeninské průsmyky do Apulie. Dostávají zprávu, že samnitské obléhání Lucerie potřebuje naléhavou pomoc. Cesta vede přes úzkou soutěsku u Caudium. Armáda vstoupí, projde na druhý konec a narazí na zátaras. Pokácené stromy, skalní bloky. Armáda se vydá zpět. Vstup do soutěsky je taky uzavřen.",
       "Samnitský velitel Gaius Pontius zavřel past na obou stranách zároveň. Zpráva o Lucerii byla podvržená od začátku.",
@@ -40,7 +40,7 @@
       "Roku 304 je uzavřen mír. Samnitská autonomie formálně přetrvá. Síť silnic a kolonií sahá hluboko do jejich území."
     ],
     "pribeh": [
-      "03 — 2. samnitská válka (321 př. n. l.)",
+      
       "Lucius Fabius Sera, hastatus, Furcae Caudinae",
       "Rychlým pochodem vstupujeme do soutěsky. Ženeme se vpřed, abychom samnitskou armádu dohnali co nejdřív. Přední řady najednou zastaví. Cesta před námi je kompletně zavalená kmeny a balvany.",
       "„Proč stojíme?!“ řvou chlapi zezadu. „Zátaras!“ křičíme zpět.",

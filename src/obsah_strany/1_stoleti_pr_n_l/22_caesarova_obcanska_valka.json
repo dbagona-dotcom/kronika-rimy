@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 22,
   "slug": "22_caesarova_obcanska_valka",
   "title": "Kapitola 22 — Caesarova občanská válka (49–44 př. n. l.)",
@@ -6,15 +6,16 @@
   "years": "49–44 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img43.jpg",
+    "hero": "images/img43.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img44.jpg",
+      "src": "images/img44.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Leden roku 49. U Rubikonu stojí Třináctá legie.",
       "Caesar strávil devět let jako prokonzul. Imperát ho chránil před soudem za kroky spáchané v úřadu. Jakmile by složil velení a vstoupil do Říma jako soukromá osoba, čekaly ho obžaloby z nichž nejlehčí by znamenaly exil. Požádal o právo kandidovat na konzulát v nepřítomnosti. Senát pod Pompeiovým vlivem odmítl. Tribunové Marcus Antonius a Quintus Cassius vetovali usnesení. Byli fyzicky vyhozeni ze zasedání a prchali na sever.",
       "Triumvirát skončil u Karrh roku 53 s Crassovou smrtí v syrském písku. Zbývali dva muži. Pompeius se přiklonil ke konzervativní aristokracii, která v něm viděla vojenský nástroj k Caesarově likvidaci. Republika udělala z těchto dvou mužů nepřátele.",
@@ -22,13 +23,13 @@
       "Za ním stojí devět let galské kořisti a veteráni kteří ho nikdy neviděli prohrát."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Obě armády jsou organizovány shodně: kohorty, pilum, scutum, kroužkové a šupinové zbroje, gladius. Centurioni vyučení totožnou taktikou vedou muže totožnými příkazy. Na pohled není rozdíl.",
       "Caesarovi vojáci jsou po deseti letech nepřetržitého tažení zocelení muži. Centurioni galských legií znají reakce sousedních jednotek natolik, že manévrují bez čekání na rozkaz. Přecházejí příkopy v noci bez světel, staví tábory v hodinách, improvizují zásobování v terénu kde zásobovací linie přestaly fungovat. Muže v rudém plášti následují s loajalitou která přesahuje vojenskou povinnost.",
       "Pompeiovy síly jsou početnější. Má prvotřídní veterány ve Španělsku, zásobovací základny od Makedonie po Sýrii a obrovský verbovací potenciál na východě. Italské legie jsou čerstvé a nezkoušené. Do boje nezasáhly a výhru neokusily."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Caesar překračuje Rubikon a zamíří na jih. Bere Ariminum, po něm Arretium a doráží na Corfinium. Posádky přecházejí k Caesarovi nebo prchají za Pompeiem. Pompeius zjišťuje, že italské legie se na pouhý rozkaz neshromáždí, a stahuje senátory i dostupná vojska přes Brundisium na Jadran. V únoru 49 odplouvá do Řecka. Za sebou nechává flotilu pod velením Lucia Bibula, která má střežit Jadran a zabránit Caesarovi v přeplavení.",
       "Caesar vstupuje do Říma. Každému kdo zůstal nabídne milost a každému kdo odešel s Pompeiem ji přislíbí předem. Město které přežilo Mariův teror a Sullovy proskripce čeká na masakr. Nedočká se. Válka a obavy přesto zdecimovaly chod města a obyvatelstvo prchá před bitvami do bezpečí, ačkoliv v Římě samotném zbraně dosud nezazněly.",
       "Pronásledovat Pompeia přes moře nelze. Chybí lodě. Caesar se obrátí na západ. U hispánského Ilerdy drží dvě zkušené pompeiánské legie pod legáty Afraniem a Petreiem výhodnou pozici nad řekou. Caesar neútočí frontálně. Přeseká zásobovací cesty, obklíčí tábor, odřeže přísun vody. Legie kapitulují bez otevřené bitvy. Caesar je propustí. Polovina se dobrovolně přidá k jeho praporům ještě ten týden.",
@@ -62,7 +63,7 @@
       "V závěti adoptuje Gaia Octavia, vnuka své sestry, a odkáže mu tři čtvrtiny majetku. Mladík studuje v Makedonii a je mu osmnáct let. Tím převezme jméno Gaia Julia Caesara jako součást vlastního dědictví."
     ],
     "pribeh": [
-      "22 — Caesarova občanská válka (48 př. n. l.)",
+      
       "Gaius Atilius Scaeva, legionář, Pharsalus",
       "Sedíme ve stínu před velitelským stanem a brousíme meče.",
       "„Pompeius postavil kavalérii ze samotných mladých římských patricijů,“ odplivne si veterán vedle mě a přejede palcem po ostří gladia. „Nejsou to žádní vojáci, je to parodie. Ta jejich jízda plná mladejch nafoukanců nezmůže vůbec nic. Budou se bát, že jim poškrábeme zbroj.“",

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 9,
   "slug": "9_druha_makedonska_valka",
   "title": "Kapitola 9 — Druhá makedonská válka (200–196 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "200–196 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img17.jpg",
+    "hero": "images/img17.jpg",
     "mapa": {
-      "src": "img18.jpg",
+      "src": "images/img18.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Scipio Africanus se vrátil do Říma roku 201. Za sebou měl rozbitou kartáginskou velmoc a sedmnáct let války. Republika si oddechla.",
       "Posly z Pergamonu a Rhodu nikdo nečekal.",
       "Obě řecké mocnosti přivezly stejnou zprávu: Filip V. Makedonský uzavřel tajnou dohodu s Antiochem III. Seleukovským o rozdělení ptolemaiovského Egypta a jeho egejských držav. A jejich obavy nebyly akademické. Makedonský král ve stejnou dobu napadl Cios a prodal jeho obyvatelstvo do otroctví, dobyl Thasos, přepadal ptolemaiovské přístavy v egejském prostoru. Antiochos mezitím táhl přes Thrákii. Dva nejsilnější helénistické vládci se pohybovali zároveň,  jeden na severu, druhý na jihu, oba směrem k cizímu majetku.",
@@ -22,14 +22,14 @@
       "Lidové shromáždění nejdřív válku odmítne. Vojáci jsou unaveni a cizí konflikty přes moře nikoho netáhnou. Konzul Publius Sulpicius Galba přijde se srozumitelným argumentem: pokud Řím nezastaví Makedonii za mořem, přijde její král do Itálie sám. Vzpomínky na Hannibala jsou čerstvé. Hlasování se opakuje. Válka prochází."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Makedonská falanga dosáhla za Filipa V. vrcholu své technické dokonalosti. Sarissoforoi trénují roky aby udrželi šik v pohybu. Držet čtyřmetrové kopí oběma rukama, krok se sousedem, hustotu řady i při přesunu a to nejsou věci které se naučí za sezónu. Na rovném terénu v čelním střetu je výsledná formace téměř nezastavitelná. Pět řad saris míří na nepřítele zároveň, první dvě jsou zasunuty mezi štíty, tři další visí nad nimi na výšce hrudi.",
       "Slabinou falangy je terén. Na zvlněném povrchu přestává fungovat jako celek, sarisy se kříží, muži ztrácejí kontakt se sousedy, šik se trhá. Voják v mezeře falangy je skoro bezbranný: drží obouruční kopí a malý štít uvázaný na předloktí.",
       "Manipulární legie na to má odpověď. Manipuly po stu dvaceti mužích operují nezávisle a reagují na terén bez nutnosti udržet jeden nepřerušený šik. Centurioni velí v přímém kontaktu s muži, rozhodnutí se dělají lokálně a rychle. Legie se dokáže roztáhnout, stáhnout, obejít. Falanga vyžaduje rovnou pláň a terén v Řecku málokdy vyhovuje.",
       "Řím navíc přivede spojeneckou jízdu, aitólské oddíly a pergamskou kavalerii."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Armáda přejde Jadran roku 200. První dvě léta přinášejí manévrování a obléhání. Makedonský velitel se vyhýbá přímému střetu, brání průsmyky a táhne válku do délky. Oblehne Atrax v Thessálii a drží ho měsíce. Římané několikrát zaútočí na jeho linii obrany v průsmycích Epiru bez průlomu. Válka drhne.",
       "Roku 198 převezme velení Titus Quinctius Flamininus. Je mu jednatřicet. Je to nejmladší konzul jakého si Řím pamatuje. Flamininus mluví plynně řecky a jedná s řeckými spolky jako rovný s rovnými. Jedná jako politik který přišel vyjednávat. Svolá kongres Achájského spolku v Sikyonu a nabídne jim to co Makedonie nikdy nenabídla: autonomii bez posádek. Achájci přejdou na římskou stranu. Po nich se přidá Aitólie a vzápětí Boiótie. Makedonie se ocitá politicky izolována ještě předtím než přijde bitva.",
       "Ta přijde roku 197 u Kynoskefal v Thessálii. Rok předtím se Flamininus s králem setkali u Nikaie k mírovým jednáním. Makedonie nabídla návrat ke stavu před válkou. Flamininus požadoval stažení ze všech řeckých měst. Panovník odmítl a příměří se rozpadlo, obě armády se vrátily do pole.",
@@ -47,7 +47,7 @@
       "Na jeho dvoře mezitím sedí Hannibal Barkas. Poražený u Zamy, pronásledovaný kartáginskými aristokraty kteří ho udali Římu, uprchl roku 195 z Kartága. Přišel nabídnout Antiochovi plán jak porazit Řím. Antiochos ho vyslechne."
     ],
     "pribeh": [
-      "09 — 2. makedonská válka (197 př. n. l.)",
+      
       "Titus Antonius Cursor, tribunus militum, Kynoskefaly",
       "Prach na hřebeni se víří. Sedím na koni a sleduji bojiště. Naše druhé křídlo pod tlakem dlouhých sariss ustupuje dolů po svahu. Řady praskají a lámou se.",
       "Z oblaku prachu vyrazí jezdec. Kůň pod ním těžce oddechuje.",

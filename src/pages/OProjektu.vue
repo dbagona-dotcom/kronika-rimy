@@ -70,46 +70,44 @@
           <p class="op-text">Ukázky z příručky:</p>
 
           <div class="prirucky">
-  <div class="prirucka">
-    <div class="prirucka-obsah">
+            <div class="prirucka">
+              <div class="prirucka-obsah">
 
-      <p class="prirucka-uvod">
-        Během několika verzí projektu vznikly tři interní příručky. Z nich nakonec vzešla jedna, která systematicky řeší vše najednou — rytmus textu, opakující se chyby i práci s atmosférou. Níže jsou ukázky.
-      </p>
+                <div class="prirucka-blok">
+                  <p class="prirucka-citace">Text nikdy neříká čtenáři, co si má myslet. Ukáže situaci a pokračuje dál.</p>
+                  <p class="prirucka-citace">Atmosféra nevzniká přídavnými jmény, ale konkrétními detaily.</p>
+                </div>
 
-      <div class="prirucka-blok">
-        <p class="prirucka-citace">Text nikdy neříká čtenáři, co si má myslet. Ukáže situaci a pokračuje dál.</p>
-        <p class="prirucka-citace">Atmosféra nevzniká přídavnými jmény, ale konkrétními detaily.</p>
-      </div>
+                <div class="prirucka-blok">
+                  <div class="prirucka-nadpis">Princip 1 — Rytmus</div>
+                  <p>Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta, která přijde po ní, dostane veškerou váhu. Funguje jen tehdy, když je vzácná — pokud jsou všechny věty krátké, žádná není důrazná.</p>
+                </div>
 
-      <div class="prirucka-blok">
-        <div class="prirucka-nadpis">Princip 1 — Rytmus</div>
-        <p>Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta, která přijde po ní, dostane veškerou váhu. Funguje jen tehdy, když je vzácná — pokud jsou všechny věty krátké, žádná není důrazná.</p>
-      </div>
+                <div class="prirucka-blok">
+                  <div class="prirucka-nadpis">Co jsme se naučili během prvních 15 kapitol</div>
+                  <p>Toto je seznam nejčastějších prohřešků, identifikovaných a opravených v průběhu projektu. Je nutné je mít neustále na paměti.</p>
+                </div>
 
-      <div class="prirucka-blok">
-        <div class="prirucka-nadpis">Co jsme se naučili během prvních 15 kapitol</div>
-        <p>Toto je seznam nejčastějších prohřešků, identifikovaných a opravených v průběhu projektu. Je nutné je mít neustále na paměti.</p>
-      </div>
+                <div class="prirucka-blok">
+                  <div class="prirucka-nadpis">Kontrolní seznam — projít před uložením</div>
+                  <p class="prirucka-duraz">Délka a struktura</p>
+                  <ul class="prirucka-checklist">
+                    <li>Sekce I+II+III dohromady 8 500–11 500 znaků</li>
+                    <li>Každá sekce má svůj fokus, nepřekrývají se</li>
+                    <li>Sekce II není výčet — čtenář, který ji přeskočí, ztratí pochopení bitvy</li>
+                    <li>Sekce III je primárně o Římu, ne o nepříteli</li>
+                  </ul>
+                </div>
 
-      <div class="prirucka-blok">
-        <div class="prirucka-nadpis">Kontrolní seznam — projít před uložením</div>
-        <p class="prirucka-duraz">Délka a struktura</p>
-        <ul class="prirucka-checklist">
-          <li>Sekce I+II+III dohromady 8 500–11 500 znaků</li>
-          <li>Každá sekce má svůj fokus, nepřekrývají se</li>
-          <li>Sekce II není výčet — čtenář, který ji přeskočí, ztratí pochopení bitvy</li>
-          <li>Sekce III je primárně o Římu, ne o nepříteli</li>
-        </ul>
-      </div>
+                <div class="prirucka-blok">
+                  <p class="prirucka-uvod" style="margin-bottom: 0; border-bottom: none; padding-bottom: 0;">
+                    Máte zájem o celou příručku? Ozvěte se mi a rád ji pošlu.
+                  </p>
+                </div>
 
-      <p class="prirucka-uvod">
-        Máte zájem o celou příručku? Ozvěte se mi a rád ji pošlu.
-      </p>
-
-    </div>
-  </div>
-</div>
+              </div>
+            </div>
+          </div>
 
           <div class="feedback-box" style="margin-top: 1.5rem;">
             <div class="feedback-label">Zájem o celou příručku?</div>
@@ -175,6 +173,218 @@
         </div>
       </section>
 
+      <!-- VII. ZDROJE -->
+      <section class="op-sekce">
+        <div class="op-sekce-header">
+          <span class="op-sekce-num">VII.</span>
+          <h2 class="op-sekce-title">Zdroje</h2>
+        </div>
+        <div class="op-sekce-content">
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 1–4 — Samnitské a Latinská válka</div>
+            <ul class="zdroje-list">
+              <li>Titus Livius — Ab Urbe Condita</li>
+              <li>Diodorus Siculus — Bibliotheca Historica</li>
+              <li>E.T. Salmon — Samnium and the Samnites</li>
+              <li>T.J. Cornell — The Beginnings of Rome</li>
+              <li>Nic Fields — The Roman Army of the Punic Wars 264–146 BC</li>
+              <li>Lawrence Keppie — The Making of the Roman Army</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitola 5 — Pyrrhova válka</div>
+            <ul class="zdroje-list">
+              <li>Plutarchos — Život Pyrrha</li>
+              <li>Dionysios z Halikarnassu — Římské starožitnosti</li>
+              <li>Titus Livius — Ab Urbe Condita (Periochae)</li>
+              <li>Appian — Samnite History</li>
+              <li>Jeff Champion — Pyrrhus of Epirus</li>
+              <li>Peter Connolly — Greece and Rome at War</li>
+              <li>Nic Fields — The Roman Army of the Punic Wars 264–146 BC</li>
+              <li>Duncan Head — Armies of the Macedonian and Punic Wars 359 BC to 146 BC</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 6–7 — 1. a 2. punská válka</div>
+            <ul class="zdroje-list">
+              <li>Polybios — Histories</li>
+              <li>Titus Livius — Ab Urbe Condita</li>
+              <li>Appian — Hannibalic War / Iberike / Libyke</li>
+              <li>Cornelius Nepos — Život Hannibala</li>
+              <li>Adrian Goldsworthy — The Fall of Carthage</li>
+              <li>John Lazenby — Hannibal's War</li>
+              <li>John Lazenby — The First Punic War</li>
+              <li>Dexter Hoyos — A Companion to the Punic Wars</li>
+              <li>Dexter Hoyos — Hannibal's Dynasty</li>
+              <li>Nic Fields — The Roman Army of the Punic Wars 264–146 BC</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 8–13 — Východní expanze, 3. punská a Numantinská válka</div>
+            <ul class="zdroje-list">
+              <li>Polybios — Histories</li>
+              <li>Titus Livius — Ab Urbe Condita</li>
+              <li>Appian — Macedonica / Syriake / Iberike / Libyke</li>
+              <li>Plutarchos — Život Flaminina, Aemilia Paulla, Catona Staršího</li>
+              <li>Adrian Goldsworthy — The Fall of Carthage</li>
+              <li>Adrian Goldsworthy — Scipio Africanus</li>
+              <li>John Grainger — The Roman War of Antiochos the Great</li>
+              <li>Erich Gruen — The Hellenistic World and the Coming of Rome</li>
+              <li>N.G.L. Hammond &amp; F.W. Walbank — A History of Macedonia, Vol. III</li>
+              <li>Simon Richardson — Numantia</li>
+              <li>Adrian Goldsworthy — Roman Warfare</li>
+              <li>Nic Sekunda — Macedonian Armies after Alexander 323–168 BC</li>
+              <li>Duncan Head — Armies of the Macedonian and Punic Wars 359 BC to 146 BC</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 14–16 — Krize republiky</div>
+            <ul class="zdroje-list">
+              <li>Sallustius — Bellum Iugurthinum</li>
+              <li>Plutarchos — Život Maria</li>
+              <li>Plutarchos — Život Sully</li>
+              <li>Appian — Civil Wars I</li>
+              <li>Velleius Paterculus — Historiae</li>
+              <li>Tom Holland — Rubicon</li>
+              <li>Mike Duncan — The Storm Before the Storm</li>
+              <li>Philip Matyszak — Cataclysm 90 BC</li>
+              <li>Lawrence Keppie — The Making of the Roman Army</li>
+              <li>Adrian Goldsworthy — The Complete Roman Army</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 17–20 — Sulla, Sertorius, Spartakus, Mithridatés</div>
+            <ul class="zdroje-list">
+              <li>Plutarchos — Životy Sully, Sertoria, Crassa, Pompeia, Luculla</li>
+              <li>Appian — Civil Wars I</li>
+              <li>Appian — Mithridatika</li>
+              <li>Sallustius — Historiae</li>
+              <li>Florus — Epitome</li>
+              <li>Arthur Keaveney — Sulla: The Last Republican</li>
+              <li>Philip Matyszak — Mithridates the Great</li>
+              <li>Philip Matyszak — Sertorius and the Struggle for Spain</li>
+              <li>Barry Strauss — The Spartacus War</li>
+              <li>Tom Holland — Rubicon</li>
+              <li>Adrian Goldsworthy — The Roman Army at War 100 BC–AD 200</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 21–22 — Caesarovy galské a občanské války</div>
+            <ul class="zdroje-list">
+              <li>Caesar — Commentarii de Bello Gallico</li>
+              <li>Caesar — Commentarii de Bello Civili</li>
+              <li>Plutarchos — Život Caesara, Pompeia, Cicerona, Catona ml., Crassa</li>
+              <li>Suetonius — Iulius Caesar</li>
+              <li>Cassius Dio — Historiae Romanae</li>
+              <li>Appian — Civil Wars II</li>
+              <li>Adrian Goldsworthy — Caesar: Life of a Colossus</li>
+              <li>Kate Gilliver — Caesar's Gallic Wars 58–50 BC</li>
+              <li>Tom Holland — Rubicon</li>
+              <li>Sheppard Frere — Britannia: A History of Roman Britain</li>
+              <li>Adrian Goldsworthy — The Roman Army at War 100 BC–AD 200</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Stephen Allen — Lords of Battle: The World of the Celtic Warrior</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitola 23 — Závěrečné občanské války</div>
+            <ul class="zdroje-list">
+              <li>Appian — Civil Wars III–V</li>
+              <li>Cassius Dio — Historiae Romanae</li>
+              <li>Plutarchos — Životy Bruta, Antonia, Cicerona</li>
+              <li>Suetonius — Augustus</li>
+              <li>Augustus — Res Gestae Divi Augusti</li>
+              <li>Adrian Goldsworthy — Antony and Cleopatra</li>
+              <li>Adrian Goldsworthy — Augustus: First Emperor of Rome</li>
+              <li>Josiah Osgood — Caesar's Legacy</li>
+              <li>Lawrence Keppie — The Making of the Roman Army</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 24–26 — Teutoburg, Británie, Boudicca</div>
+            <ul class="zdroje-list">
+              <li>Tacitus — Annales</li>
+              <li>Tacitus — Agricola</li>
+              <li>Tacitus — Germania</li>
+              <li>Velleius Paterculus — Historiae</li>
+              <li>Cassius Dio — Historiae Romanae</li>
+              <li>Suetonius — Augustus / Claudius</li>
+              <li>Peter Wells — The Battle That Stopped Rome</li>
+              <li>Adrian Murdoch — Rome's Greatest Defeat</li>
+              <li>Graham Webster — Boudica: The British Revolt against Rome AD 60</li>
+              <li>Sheppard Frere — Britannia: A History of Roman Britain</li>
+              <li>Guy de la Bédoyère — Roman Britain: A New History</li>
+              <li>Peter Connolly — Greece and Rome at War</li>
+              <li>Adrian Goldsworthy — The Complete Roman Army</li>
+              <li>Graham Webster — The Roman Imperial Army</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina">
+            <div class="zdroje-label">Kapitoly 27–28 — Rok čtyř císařů a Židovská válka</div>
+            <ul class="zdroje-list">
+              <li>Tacitus — Historiae</li>
+              <li>Iosephos Flavios — Bellum Iudaicum</li>
+              <li>Suetonius — Galba, Otho, Vitellius, Vespasianus, Titus</li>
+              <li>Cassius Dio — Historiae Romanae</li>
+              <li>Kenneth Wellesley — The Year of the Four Emperors</li>
+              <li>Gwyn Morgan — 69 AD: The Year of Four Emperors</li>
+              <li>Martin Goodman — Rome and Jerusalem</li>
+              <li>Jonathan Roth — The Logistics of the Roman Army at War</li>
+              <li>Duncan Campbell — Greek and Roman Siege Machinery 399 BC–AD 363</li>
+              <li>Adrian Goldsworthy — The Roman Army at War 100 BC–AD 200</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+          <div class="zdroje-skupina zdroje-skupina--last">
+            <div class="zdroje-label">Kapitoly 29–32 — Dácie, Parthie, Markomanské války</div>
+            <ul class="zdroje-list">
+              <li>Cassius Dio — Historiae Romanae</li>
+              <li>Plinius Mladší — Panegyricus</li>
+              <li>Historia Augusta — Marcus Aurelius, Lucius Verus, Avidius Cassius</li>
+              <li>Marcus Aurelius — Hovory k sobě (Meditace)</li>
+              <li>Trajánův sloup — ikonografický pramen</li>
+              <li>Sloup Marca Aurelia — ikonografický pramen</li>
+              <li>Julian Bennett — Trajan: Optimus Princeps</li>
+              <li>Anthony Birley — Marcus Aurelius: A Biography</li>
+              <li>Frank McLynn — Marcus Aurelius: A Life</li>
+              <li>J.C.N. Coulston — The Value of Trajan's Column as a Source for Military Equipment</li>
+              <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
+              <li>Adrian Goldsworthy — The Complete Roman Army</li>
+              <li>Adrian Goldsworthy — Roman Warfare</li>
+              <li>Radu Oltean — Dacia: The Roman Wars</li>
+              <li>Nic Fields — Roman Auxiliary Cavalry</li>
+              <li>Mike Duncan — The History of Rome (podcast)</li>
+            </ul>
+          </div>
+
+        </div>
+      </section>
+
     </div>
   </q-page>
 </template>
@@ -184,7 +394,6 @@
 import { useMeta } from 'quasar'
 
 useMeta({ title: 'O projektu | Kronika Říma' })
-
 
 </script>
 
@@ -309,51 +518,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
 .prirucka {
   border: 1px solid var(--border-gold);
   background: var(--bg-card);
-  transition: border-color 0.2s;
-}
-.prirucka--open { border-color: var(--border-gold-hover); }
-.prirucka-btn {
-  width: 100%;
-  display: flex;
-  align-items: center;
-  gap: 1.25rem;
-  padding: 1.25rem 1.5rem;
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: var(--text-primary);
-  text-align: left;
-  transition: background 0.2s;
-  font-family: inherit;
-}
-.prirucka-btn:hover { background: var(--bg-card-hover); }
-.prirucka-num {
-  font-family: 'Cinzel', serif;
-  font-size: 0.68rem;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: var(--text-red);
-  flex-shrink: 0;
-  min-width: 90px;
-}
-.prirucka-nazev {
-  font-family: 'Cinzel', serif;
-  font-size: 0.92rem;
-  font-weight: 600;
-  color: var(--text-primary);
-  flex: 1;
-  letter-spacing: 0.04em;
-}
-.prirucka-sipka {
-  font-family: 'Cinzel', serif;
-  font-size: 1.4rem;
-  color: var(--text-gold);
-  line-height: 1;
-  flex-shrink: 0;
 }
 .prirucka-obsah {
   padding: 1.5rem;
-  border-top: 1px solid var(--border-gold);
 }
 .prirucka-uvod {
   font-family: 'EB Garamond', serif;
@@ -364,16 +531,6 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   margin-bottom: 1.75rem;
   padding-bottom: 1.25rem;
   border-bottom: 1px solid var(--border-gold);
-}
-.prirucka-hlavni {
-  font-family: 'EB Garamond', serif;
-  font-size: 1.05rem;
-  color: var(--text-body);
-  line-height: 1.8;
-  padding: 1rem 1.25rem;
-  background: var(--pribeh-bg);
-  border-left: 2px solid var(--pribeh-line);
-  margin-bottom: 1.75rem;
 }
 .prirucka-blok { margin-bottom: 1.5rem; }
 .prirucka-blok:last-child { margin-bottom: 0; }
@@ -402,19 +559,39 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   border-left: 2px solid var(--pribeh-line);
   margin: 0.75rem 0 !important;
 }
-.prirucka-priklad {
-  font-size: 0.95rem !important;
-  color: var(--text-muted) !important;
-  padding-left: 1rem;
-  border-left: 1px solid var(--border-gold);
-  margin: 0.4rem 0 !important;
+
+/* ZDROJE */
+.zdroje-skupina {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border-gold);
 }
-.prirucka-varovani {
-  background: var(--pribeh-bg);
-  border: 1px solid var(--pribeh-border);
-  padding: 1.25rem;
+.zdroje-skupina--last {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
 }
-.prirucka-varovani .prirucka-nadpis { color: var(--text-red); }
+.zdroje-label {
+  font-family: 'Cinzel', serif;
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--text-gold);
+  margin-bottom: 0.75rem;
+}
+.zdroje-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.zdroje-list li {
+  font-family: 'EB Garamond', serif;
+  font-size: 1rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  padding: 0.2rem 0;
+}
 
 .op-sekce-kontakt .op-sekce-content { border-left-color: var(--border-gold); }
 .kontakt-grid {
@@ -485,9 +662,6 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   .oprojektu-wrap { padding: 3rem 1.25rem 4rem; }
   .tech-grid { grid-template-columns: 1fr; }
   .kontakt-grid { grid-template-columns: 1fr; }
-  .prirucka-btn { padding: 1rem 1.25rem; gap: 0.75rem; }
-  .prirucka-num { min-width: 70px; font-size: 0.6rem; }
-  .prirucka-nazev { font-size: 0.85rem; }
   .prirucka-obsah { padding: 1.25rem; }
 }
 </style>

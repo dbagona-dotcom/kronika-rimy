@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 15,
   "slug": "15_valky_s_kimbry_a_teutony",
   "title": "Kapitola 15 — Války s Kimbry a Teutony (113–101 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "113–101 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img29.jpg",
+    "hero": "images/img29.jpg",
     "mapa": {
-      "src": "img30.jpg",
+      "src": "images/img30.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Roku 113, dva roky po Jugurthově smrti v Tullianu, narazí konzul Gnaeus Papirius Carbo v Noriku na Kimbry. Utrpí zdrcující porážku.",
       "Kimbrové jsou kmen z Jutska. Povodně a nedostatek půdy je vyhnaly. Přidají se k nim Teutoni, Ambroni a menší keltské skupiny. Celá masa se valí na jih. Bojovníci, ženy, děti, dobytek, vozy. Statisíce.",
       "Germáni se stáhnou do Galie. Roku 109 porazí dalšího konzula. Roku 107 zničí armádu Lucia Cassia Longina. Vojáci projdou pod jhem.",
@@ -23,7 +23,7 @@
       "Senát opakovaně zvolí Gaia Maria konzulem, čímž zákon o kumulaci této funkce přestává dočasně platit. Marius dostane veškeré zdroje a úkol zachránit Itálii."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Starý legionář měl pole. Nový má jen tábor. Přichází z tábora a vrátí se do tábora. Půda po šesti letech služby záleží na veliteli, ne na státu.",
       "Výzbroj dostane od státu a splácí ji z žoldu, což vojáky existenčně svazuje s jejich generálem. Kroužková košile lorica hamata. Bronzová přilba s lícnicemi. Obdélníkové scutum zahnuté kolem těla. Gladius na pravém boku, dýka pugio na levém. A dvě pila, jedno těžší, jedno lehčí.",
       "Marius nechá jeden z kovových nýtů upevňujících železný hrot k násadě nahradit dřevěným kolíkem. Při dopadu do štítu se kolík zlomí. Hrot se ohne. Kopí nelze vytáhnout ani vrátit. Muž zatížený pilum v štítu ho zahodí a stojí bez krytí. Nástup gladiu.",
@@ -34,7 +34,7 @@
       "Vojáci slouží šest let. Nejsou to rolníci kteří odloží pluh na sezónu ale jsou to muži jejichž jediným domovem je vojenský tábor. Loajalita patří veliteli."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Marius přebírá velení roku 104 a první dva roky nevede jedinou velkou bitvu.",
       "Cvičí.",
       "Ráno nástup, pak pochod. Přes třicet kilogramů, plné vybavení, linie po čtyřech. Čtyřicet kilometrů za den. Na konci pochodu dorazit na táborové místo, vyměřit prostor, vytáhnout furcu, zarazit kolíky, vykopat příkop do setmění. Ráno zasypat příkop, vytáhnout kolíky, pochod dál. Znovu. Znovu. Dva roky.",
@@ -55,7 +55,7 @@
       "Marius se vrátí do Říma. Dostane šestý konzulát. Senát ho vnímá jako třetího zakladatele Říma hned po Romulovi a Camillovi."
     ],
     "pribeh": [
-      "15-Teutoni",
+      
       "Torquatus, optio, Aquae Sextiae",
       "Odevzdám omlácenou zbroj z Afriky a vyfasuju novou kroužkovou košili, gladius a těžké scutum. Odsloužené roky rozhodnou rychle. Centurion mi rovnou vtiskne do ruky révovou hůl optia. Pochodujeme Itálií. Krok za krokem vtloukám do rekrutů disciplínu. Když nováčci padnou vyčerpáním do prachu, rovnám je do řady a nutím je běžet dál s třiceti kily výstroje.",
       "Zastavíme se až na valech v údolí Rhôny. Dny kolem nás procházejí desetitisíce germánských válečníků a pokřikují na nás zespodu posměšky. Dojde jen k jedné ostré šarvátce u řeky, kde naši vodonoši narazí na Ambrony. Zbytek bitvy nás mine. Naším úkolem je les.",

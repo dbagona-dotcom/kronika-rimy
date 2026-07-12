@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 21,
   "slug": "21_caesarovy_galske_valky",
   "title": "Kapitola 21 — Caesarovy galské války (58–50 př. n. l.)",
@@ -6,15 +6,15 @@
   "years": "58–50 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img41.jpg",
+    "hero": "images/img41.jpg",
     "mapa": {
-      "src": "img42.jpg",
+      "src": "images/img42.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Roku 59 Caesar prosadí konzulát přes zuřivý odpor části senátu. Pozemkovou reformu probojuje blokádou odpůrců, spojenectví s Pompeiem a Crassem zpečetí osobními vazbami a vyjedná si prokonzulský imperát nad Galií Cisalpinskou, Galií Narbonskou a Ilýrií na pět let.",
       "Caesar nepřijel vládnout provincii.",
       "Záminka přichází roku 58. Helvétiové, galský kmen ze švýcarské plošiny, se rozhodnou přesunout na západ do bohatší Galie. Pochod vede přes římské území. Caesar má právní základ. Odmítne průchod, demoluje mosty přes Rhónu a postaví sedmnáct kilometrů polního opevnění podél řeky. Helvétiové se otočí na sever, přes území spojeneckých Haeduů. Caesar je pronásleduje a u Bibracte uštědří kmeni těžkou porážku — přes sto tisíc přeživších se vrátí odkud přišlo.",
@@ -22,7 +22,7 @@
       "Proti němu se nakonec postaví Vercingetorix."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Caesar nastupuje do Galie se čtyřmi legiemi. Skončí s deseti.",
       "Nové legie rekrutuje sám. Platí je z galské kořisti. Zásobuje je z galských zásob. Loajalita mužů v jejich řadách patří výhradně jejich veliteli, ne republice. Výzbroj není jednotná. Legionáři nosí kroužkovou nebo šupinovou zbroj. Kroužková se skládá z tisíců malých kovových kroužků svázaných do sebe. Šupinová nese řady kovových šupinek přišitých na kožené podložce. Obě mají na ramenou přehozenou zdvojenou vrstvu připnutou u hrudi. Na opasku gladius v pochvě, na druhém boku pugio. Z ozdobného vojenského opasku visí přední kovové řemínky. Cingulem se muž označuje za vojáka i mimo šik. Přilba bronzová, typ Montefortino nebo Coolus, se sklopnými lícnicemi.",
       "K tradičnímu drilu Caesar přidá zaměření na rychlost pohybu. Legie překonávají průsmyky pokládané za neprostupné a přecházejí řeky v ročních obdobích, kdy ostatní armády stojí. Roku 55 postaví vojenští stavitelé za deset dní most přes Rýn. Dvě řady šikmých kůlů zatloukané do říčního dna, příčné trámy, prkenná vozovka. Germánské kmeny přijedou ke břehu, a když uvidí hotovou konstrukci, obrátí se zpět do lesů.",
@@ -30,7 +30,7 @@
       "Roku 58, před tažením proti germánskému náčelníkovi Ariovistovi, Caesar dohodne schůzku na neutrálním místě. Ariovistus navrhne setkání na koních. Caesar nemá spolehlivou vlastní jízdu. Prohlásí proto Desáté legii, na kterou se plně spoléhá, že ji použije jako kavalerii. Muži pěchotního útvaru, kteří na koni neodjezdili ani jeden výcvikový den, odpoví slibem: budou se chovat tak čestně, že Caesar nebude mít důvod litovat. Nasednou a odjedou. Sedm set pěšáků na vypůjčených koních."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Roku 58 porazí Caesar Helvétie u Bibracte a obrátí legie na sever. Ariovistus, germánský náčelník, ovládá Alsasko a není připraven ustoupit. Caesar ho porazí u Vesontia a zatlačí zpět za Rýn. Do Říma dorazí první hlášení o vítězstvích. Senát udělí Caesarovi veřejné díkůvzdání na patnáct dní — dvakrát více než dostal kdokoli před ním.",
       "Rok 57 skoro skončí katastrofou u řeky Sabis.",
       "Nerviové nepijí víno. Tvrdí, že by to změkčilo jejich bojovníky. Sledují pochod Caesarovy kolony z hustých lesů na druhém břehu a čekají na okamžik, kdy přední legie začnou stavět tábor a zadní teprve doráží. Přebrodí řeku a zaútočí dřív, než tribuni stačí vydat rozkazy. Legie se nezformují. Každý centurion jedná sám. Muži odkládají lopaty a sbírají scuta ze země. Dvě legie vpravo se ocitnou odříznuty od zbytku.",
@@ -67,7 +67,7 @@
       "Překročí Rubikon."
     ],
     "pribeh": [
-      "21 — Galská válka (52 př. n. l.)",
+     
       "Publius Quinctius Labeo, legionář, Alesia",
       "Dokončili jsme vnitřní val namířený proti pevnosti Alesia a držím na něm hlídku. Táborem se okamžitě roznesou zvěsti. Táhne na nás obrovská galská záchranná armáda. Hned za svítání začneme kopat a stavět druhou, vnější zeď, abychom chránili vlastní záda.",
       "Uplyne pár dní. Z hradeb vidím, jak Vercingetorix vyhnal z oppida všechny civilisty. Ženy a starci bloudí v zemi nikoho před naším valem. Máme rozkaz je nepouštět, takže je tam necháme. O něco později se na horizontu za našimi zády zvedne obrovský oblak prachu. Záchranná armáda dorazila. Jsme uvězněni uprostřed.",

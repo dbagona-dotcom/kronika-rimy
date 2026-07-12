@@ -242,6 +242,8 @@ const centuries = computed(() => [
   overflow: hidden;
   transition: background 0.25s;
   border: 1px solid transparent;
+  text-decoration: none;
+  color: inherit;
 }
 .century-card::before {
   content: '';

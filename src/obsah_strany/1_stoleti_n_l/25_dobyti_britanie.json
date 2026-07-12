@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 25,
   "slug": "25_dobyti_britanie",
   "title": "Kapitola 25 — Dobytí Británie (43 n. l.)",
@@ -6,22 +6,23 @@
   "years": "43 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img49.jpg",
+    "hero": "images/img49.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img50.jpg",
+      "src": "images/img50.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Uplynulo třiatřicet let od přepadení v Teutoburském lese. Po trestních taženích Germanika rozhodl Tiberius, že Germánie za ztráty nestojí. Hranicí zůstal Rýn.",
       "Impérium se mezitím proměňovalo. Augustus zemřel roku 14. Tiberius vládl s rostoucím odstupem z Capri. Caligula byl roku 41 zabit pretoriány. Na trůn nastoupil Claudius — chromý, se záseky v řeči, celý dosavadní život strávil v ústraní nad historickými texty. Senát ho pokládal za bezpečnou figurku. Pletl se. Claudius zpevnil státní správu, dokončil začlenění nových provincií a vládl s přesností, kterou od koktavého historika nikdo nečekal. Jedno mu chybělo: vojenský triumf. Bez vítězství v poli si v Římě vládu neupevnil dost.",
       "Británie čekala. Caesar ji dvakrát navštívil a odešel. Uplynulo téměř sto let. Záminku k invazi nabídne uprchlý kmenový náčelník Verica z kmene Atrebatů, který přijede do Říma prosit o pomoc.",
       "Na ostrově vládnou desítky kmenů. Catuvellauni pod náčelníky Caratakeem a Togodumnem ovládají jih a střed. Iceni sedí na východě s vlastními zájmy. Brigantes na severu mají vlastní královnu. Mezi kmeny vládne nevraživost, ale římská hrozba je na chvíli spojí."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Velení invaze dostane Aulus Plautius, veterán stažený z dunajské hranice. Pod ním čtyři legie: II. Augusta, IX. Hispana, XIV. Gemina a XX. Valeria Victrix. Celkem přibližně čtyřicet tisíc mužů těžké pěchoty a auxiliárních sborů.",
       "Každou legii vede legát senátorského stavu. Pod ním šest tribunů. Mladí muži z dobrých rodin, kteří sem přichází odsloužit si vojenský stupeň kariéry před vstupem do senátu. Velí na papíře. V poli velí šedesát centurionů.",
       "Výzbroj prochází postupnou proměnou. Scutum přechází od oválného tvaru k obdélníkovému. Gladius hispaniensis ustupuje kratšímu typu mainz, přizpůsobenému těsné štítové hradbě. Kroužková a šupinová zbroj tvoří základ. Lorica segmentata se nosí v menšině,  je výborná ochrana, ale ve vlhkém klimatu rezne rychle a oprava v poli stojí legionáře celé noci.",
@@ -29,7 +30,7 @@
       "Britský bojovník jde do pole lehce vybaven. Kopí, meč, štít. Na koni nebo na válečném voze. Rychlé, pohyblivé, schopné roztrhnout linii a zmizet. Drží se pohromadě dokud je tu společný nepřítel."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Invaze málem nezačne.",
       "Legionáři odmítají nastoupit na lodě a vstoupit za oceán, který v jejich představách tvoří samotný okraj světa. Velitelé ztrácejí slova. Z Říma osobně dorazí Claudiův propuštěnec Narcissus.",
       "Když předstoupí na řečnickou tribunu, vojáci propuknou v hromadný smích. Io Saturnalia  výkřik pro doby kdy se role obrátí a otroci rozkazují pánům. Napětí se rozpadne. Muži se nalodí.",
@@ -57,7 +58,7 @@
       "Když máte toto všechno, proč jste vůbec chtěli naše chýše?"
     ],
     "pribeh": [
-      "25 — Invaze do Británie (43 n. l.)",
+      
       "Martinus Septimus Maro, auxilia (batavská kohorta), Medway",
       "Došli jsme k řece Medway. Na druhém břehu stojí ohromná armáda Britů s válečnými vozy. Voda je široká, hluboká a bez mostů. Britové nehlídají břehy důsledně, věří, že těžká pěchota bez člunů neprojde. Plautius posílá dopředu naši batavskou kohortu.",
       "Odtrhneme se od legií a přesuneme se potichu po proudu dál. Nesvlékáme se. Kroužkovou zbroj máme utaženou na těle, spathu na boku a náš batavský plochý štít s oštěpy držíme vysoko nad hlavou. Vstoupíme do ledové vody. Dravý proud mě okamžitě táhne dolů, ale kopu nohama a plavu šikmo k protějšímu břehu.",

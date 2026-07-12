@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 31,
   "slug": "31_parthska_valka_traiana",
   "title": "Kapitola 31 — Parthská válka Traiana (113–117 n. l.)",
@@ -6,22 +6,22 @@
   "years": "113–117 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img61.jpg",
+    "hero": "images/img61.jpg",
     "mapa": {
-      "src": "img62.jpg",
+      "src": "images/img62.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Rok 113. Císaři Traianovi je sedmapadesát let. Hranice říše jsou zabezpečené, dácké stříbro a zlato naplnilo státní pokladnu na generace a nové provincie na Dunaji fungují.",
       "Na východě leží Parthská říše. Táhne se od Eufratu k hranicím Indie a drží kontrolu nad obchodními trasami ze Středozemí na východ. Od porážky Crassových legií u Karrh před více než sto padesáti lety udržují obě mocnosti křehký status quo. Arménie slouží jako nárazníkové království a nového panovníka musí vždy schválit oba dvory.",
       "Parthský král Osroes tuto dohodu poruší a dosadí na arménský trůn vlastního kandidáta bez římské konzultace.",
       "Traianus označí krok za casus belli. Senát schválí tažení a invazní armáda se začne stahovat z provincií do syrské Antiochie."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Římská armáda vstupuje na Východě do zcela jiného taktického světa. Parthská armáda stojí na koni. Jejich velitelé neplánují bitvu jako střet pěších šiků — plánují terén, vzdálenost a čas ústupu.",
       "Údernou silou jsou katafrakti. Těžcí jezdci na mohutných koních, koně i jezdec obalení lamelovou zbrojí od hlavy po kolena tak hustě že je prorazí jen přesně mířený výpad nablízko. Hlavní zbraní je contus, obouruční kopí přes tři metry dlouhé. Čelní náraz katafrakta v plném cvalu rozrazí a zadupe pevný pěší šik.",
       "Druhá složka jsou jízdní lučišníci. Na rychlých stepních koních s kompozitními reflexními luky přijedou k legionářům na dvě stě metrů, vypustí salvu a obrátí koně. Legionáři vyrazí za nimi. Jezdci prchají, otáčejí se v sedle a střílí zpátky za jízdy — každý výpad pronásledovatelů dostane salvu do tváře. Na konci pochodu přes otevřenou planinu leží mrtví Římané a Parthové jsou za horizontem.",
@@ -29,7 +29,7 @@
       "Traianus na tento styl boje reaguje sestavením armády o síle přes osmdesát tisíc mužů. Téměř třetina jsou jízdní oddíly: syrští jízdní lučišníci jako přímá odpověď, numidská jízda pro průzkum, orientální katafrakti slouží jako auxiliární síla. Těžká pěchota legií drží pevnou linii pro boj ve městech a opevněném terénu."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Válka začíná roku 114 na severu.",
       "Traianus vtáhne do Arménie a parthský loutkový kandidát Parthamasiris požádá o vyjednávání. Přijde osobně do Traianova tábora, sundá z hlavy diadém a položí ho k nohám císaře. Čeká že mu ho Traianus vrátí, jde o zavedené gesto rituální podřízenosti, po němž panovník obvykle trůn dostane zpět jako klientský vazal.",
       "Traianus ho nezvedne.",
@@ -49,7 +49,7 @@
       "Největší územní expanze Říma trvala méně než dva roky."
     ],
     "pribeh": [
-      "31 — Parthská válka (115 n. l.)",
+      
       "Hamrat bar Zabda, equites sagittarii, Mezopotámie",
       "Dorazíme k řece. Kamenný most před námi je stržený, zbývají jen ohořelé pilíře. Legie zastaví a bleskově kolem nás postaví pochodový tábor. Římští inženýři a legát okamžitě slezou k vodě a ukazují na zbytky konstrukce. Za chvíli se do okolí rozběhnou první centurie s rýči a sekerami shánět dřevo a kámen.",
       "Příští dny legie tvrdě pracuje a staví nový most. Naše kohorta lehké jízdy prozkoumává břehy. Najdeme mělčinu. S našimi drobnými koňmi a v lehkých kroužkových košilích dravou řeku přebrodíme. Těžká římská pěchota to v brnění nezvládne. Hlídkujeme na parthském břehu úplně sami.",

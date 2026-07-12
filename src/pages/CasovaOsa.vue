@@ -119,10 +119,21 @@ const skupiny = [
   }
 ]
 </script>
+.kapitola-row {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid rgba(201,168,76,0.12);
+  cursor: pointer;
+  transition: background 0.2s;
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (min-width: 769px) and (max-width: 1024px) {
   .osa-wrap { padding: 4rem 3rem 5rem; }
   .skupina-label { font-size: 0.58rem; }
-  .kapitola-row { padding: 0.9rem 1rem; }
 }
 
 <style scoped>

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 10,
   "slug": "10_syrska_valka",
   "title": "Kapitola 10 — Syrská válka (192–188 př. n. l.)",
@@ -6,28 +6,29 @@
   "years": "192–188 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img19.jpg",
+    "hero": "images/img19.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img20.jpg",
+      "src": "images/img20.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Aitólský spolek bojoval po boku Říma čtyři roky a skončil s prázdnýma rukama. Flamininus přidělil osvobozená města jiným spojencům a územní požadavky Aitólů zůstaly nevyslyšeny. Hledají protiváhu.",
       "Najdou ji na východě. Seleukovský král Antiochos III. rozšiřuje říši přes Malou Asii do Thrákie a roku 192 přijme aitólské pozvání do Řecka. Přiveze deset tisíc mužů a čeká, že se k němu přidají řecká města. Ta právě vychutnávají svobodu vyhlášenou Flamininem a o novém vládci nemají zájem.",
       "Hannibal Barkas na jeho dvoře stále prosazuje plán přímé invaze do Itálie. Antiochos ho odmítne. Rozhodne se udržet se v Řecku.",
       "Senát vyšle konzula s armádou. Posádky v Korintu, Chalkidě a Demetriovi, které si Řím ponechal po druhé makedonské válce, dají operaci pevný základ."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Dvě římské a dvě spojenecké legie tvoří přibližně třicet tisíc mužů. Římské jezdectvo nestačí spojeneckým ani seleukovským silám. Eumenes II. z Pergamu, jehož království leží přímo na ráně, přivede vlastní těžkou jízdu a lehké pěší oddíly.",
       "Naproti nim stojí armáda sestavená z celé šíře seleukovské říše. Sedmdesát tisíc mužů. Jádrem je falanga šestnácti tisíc vojáků rozestavených do hloubky třiceti dvou řad, dvojnásobek obvyklého. Antiochos ji sestaví tak, aby ji nešlo čelně prorazit. Výsledkem je zeď která se nepohne  a která se nedokáže otočit. Na křídlech stojí katafrakti, jezdci pancéřovaní od hlavy k patám stejně jako jejich koně. Před celou linii vyjede padesát čtyři indických slonů a srpové vozy s kosami přivázanými na osách kol.",
       "Legie nikdy nestála proti armádě sestavené z tolika různých způsobů boje najednou."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Antiochos obsadí Thermopyly a opakuje defenzivní scénář, úzký průsmyk mezi mořem a skálou kde malá síla zastaví velkou. Konzul Manius Acilius Glabrio zaútočí čelně a váže pozornost. Bývalý konzul Marcus Porcius Cato vezme oddíl a za tmy vyrazí přes kopce boční stezkou. Aitólové kteří hlídají hřeben jsou roztaženi na příliš dlouhé linii, ve tmě nevidí dál než na pár kroků. Cato projde. Za úsvitu udeří na seleukovský tábor seshora, muži se budí do boje, přeskupení není možné. Antiochova armáda se rozprchne. Král uprchne do Asie s hrstkou přeživších.",
       "Pronásledovat ho přes moře ale Řím zatím nemůže. Seleukovské loďstvo drží Egejské moře. Dvě námořní bitvy situaci změní: u Koryku roku 191 spojenecká flotila rozbije seleukovské lodě, u Mionnesu rok nato je rhodská eskadra definitivně zažene. Hellespont se otevře.",
       "Lucius Cornelius Scipio přejde s armádou do Asie. Jako jeho legát jde bratr, Publius Scipio Africanus, vítěz od Zamy. Před samotnou bitvou ale onemocní a zůstane v přístavu Elaia. Poprvé v dějinách stojí římské legie na asijské půdě a překračují hranici známého světa.",
@@ -41,7 +42,7 @@
       "Ve stejném roce zemře Scipio Africanus. Oba daleko od domova, ani jeden jako vítěz."
     ],
     "pribeh": [
-      "10 — Syrská válka (190 př. n. l.)",
+      
       "Sextus Paternius Quadus, princeps, Magnesia",
       "Stojíme v řadě a zíráme přes pláň. Před námi se rozprostírá obrovská masa lidí. Stovky zástav, těžká jízda, sloni a zástupy pěchoty z celé Asie.",
       "Z jejich středu najednou vyrazí srpové vozy. Kola víří hustá oblaka prachu.",

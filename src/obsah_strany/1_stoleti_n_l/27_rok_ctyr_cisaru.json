@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 27,
   "slug": "27_rok_ctyr_cisaru",
   "title": "Kapitola 27 — Rok čtyř císařů (69 n. l.)",
@@ -6,29 +6,29 @@
   "years": "69 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img53.jpg",
+    "hero": "images/img53.jpg",
     "mapa": {
-      "src": "img54.jpg",
+      "src": "images/img54.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Devátého června roku 68 Nero prchá z Říma a nakonec si podřeže hrdlo v předměstské vile s pomocí propuštěnce. Senát ho prohlásil nepřítelem státu, prétoriánská garda přísahala jinému.",
       "Julio-claudijská dynastie skončila. Nero zemřel bez dědice.",
       "Když byl v roce 41 zabit Caligula, prétoriáni vyhledali Claudia skrývajícího se za záclonami a provolali ho císařem. Byl bratrem Germanika a potomkem Augusta, to stačilo. Přechod proběhl rychle a bez války.",
       "Teď tato linie vymřela. Přijde ten kdo bude rychlejší."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Výzbroj flaviovské armády prochází pomalou proměnou. Scutum přešlo z klenutého oválného štítu na plochý obdélníkový, který těsněji přiléhá k sousedu ve formaci. Gladius se zkrátil z hispaniensis přes mainzský typ na pompeijský. Kratší čepel, přesný bod za hranou scuta v těsném šiku. Přilby Imperial Gallic nahrazují starší vzory.",
       "Prétoriáni při každé změně vlády dostanou donativum. Kdo platí, toho aklamují.",
       "Rýnské legie hlídají hranici přes osm set kilometrů. Přepadení v germánském podrostu, zimní pochody, léta v pohraničních pevnostech. V roce 69 mají kandidáta na trůn a rýnský velitel Aulus Vitellius o tom ví.",
       "Dunajské legie slouží na delší hranici s méně přímými boji. Jsou disciplinovanější, trpělivější a čekají na okamžik kdy mohou jednat. K rýnským legiím chovají rivalitu starou jako obě hranice. Až přijde jejich okamžik, nevytáhnou pro Řím, ale pro svého kandidáta."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Galba přijede z Hispánie jako první. Starý voják, přísný, dvaasedmdesát let. Prétoriáni čekají na donativum. Galba prohlásí: vojáky vybírám, nekupuji.",
       "Rýnské legie odmítnou přísahat věrnost a prohlásí Vitellia císařem. Galba veřejně adoptuje Pisona, čímž připraví o naděje Marka Salvia Othona. Otho přejde k prétoriánům a nabídne jim co Galba odmítl. Dvaadvacátého ledna vytáhnou prétoriáni na Fórum. Galbu zavraždí sedm týdnů od jeho nástupu.",
       "Otho pošle Vitelliovi nabídku smíru. Vitellius odmítne. Rýnské legie sestoupí Alpami dvěma kolonami přes oba Bernardské průsmyky. Přes sedmdesát tisíc mužů zocelených lety v germánském pohraničí.",
@@ -50,7 +50,7 @@
       "Vespasianus dorazí do Říma v létě roku 70. Najde prázdnou státní pokladnu, vyčerpanou armádu a spálený Kapitol. Zavede nové daně, naplní pokladnu z judejské kořisti a začne stavět. Nový chrám Jova, nové fórum, Koloseum tam kde stály Neronovy zahrady."
     ],
     "pribeh": [
-      "27 — Rok čtyř císařů (69 n. l.)",
+      
       "Gaius Scribonius Albus, prétorián, Bedriacum I",
       "Rýnští veteráni se nám smějí. Prý jsme jen vyparádění vojáčci z paláce, co hlídají císaře a neznají skutečnou krev. Slunce pálí. Pochodujeme rovnou do jejich linií. Terén u Bedriaca je rozrytý příkopy a plný stromů omotaných vinnou révou.",
       "Zařveme a vrazíme přímo do jednadvacáté legie. Rýnský voják proti mně se napřáhne mečem. Srazím jeho ránu okrajem scuta a bez nápřahu mu vrazím gladius pod okraj zbroje. Klesne do bláta a hned nastoupí další. Tlačíme s fanatickým odhodláním.",

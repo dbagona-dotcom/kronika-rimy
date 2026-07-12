@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 4,
   "slug": "4_treti_samnitska_valka",
   "title": "Kapitola 4 — Třetí samnitská válka",
@@ -6,28 +6,28 @@
   "years": "298–290 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img7.jpg",
+    "hero": "images/img7.jpg",
     "mapa": {
-      "src": "img8.jpg",
+      "src": "images/img8.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Po míru roku 304 se Samnité vrátí do hor a šest let budou shromažďovat spojence.",
       "Na sever posílají posly ke galským kmenům. Galové žijí v Pádské nížině od doby kdy ji zabrali a část kmenů stále hledá prostor pro nová sídla. Řím jim roste vstříc. Samnitská zpráva jim dává záminku k pohybu.",
       "Na západ posílají Samnité posly k Etruskům. Jejich bohatá pobřežní města žila generace z mořského obchodu a válčila se sousedy ve vlastních hoplitských liniích. Nikdy nečelila armádě která zakládá pevná města přímo u jejich hranic. Umbrijské kmeny mezi nimi čekají na to, která strana bude silnější.",
       "Roku 298 zaútočí Samnité na římské spojence. Válka začíná znovu. Řím stojí proti koalici na dvou frontách zároveň."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Legie se dělí na více sborů a operuje na oddělených frontách, každý pod konzulem nebo prétorem. Manipul čítá přibližně sto dvacet mužů v předních dvou liniích a šedesát triariů vzadu. Velí jim centurioni, kteří zůstávají u legie kampaň za kampaní a znají každého muže ve svém oddílu.",
       "Římská jízda je slabá. Řím nikdy nebyl koňský národ a legionáři na koni nikdy nedosáhli síly severních jezdců. V bitvě kryjí křídla alae sociorum, spojenecká jízda z latinských a kampánských obcí, která dodává přibližně polovinu celkové bojové síly. Bez ní by Řím nemohl držet dvě fronty zároveň.",
       "Koalice přináší jiný problém. Samnitské pohyblivé skupiny, galské bojové vozy a etruské hoplitské linie jsou tři různé způsoby boje a každý vyžaduje jinou odpověď."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "První roky probíhají bez rozhodnutí. Samnité útočí na jihu, Galové a Etruskové tlačí na severu. Roku 297 konzul Quintus Fabius Maximus Rullianus porazí samnitskou armádu u Tiferna a zatlačí ji zpět do hor.",
       "Roku 295 se koaliční síly soustředí u Sentina v Umbrii. Senát vyšle čtyři konzulární armády na různé fronty, dvě se setkají s hlavní silou. Na pravém křídle Fabius Rullianus, na levém Publius Decius Mus, muž nesoucí jméno otce, který padl u Veseris před pětatřiceti lety. Přibližně čtyřicet tisíc Římanů a spojenců proti padesáti tisícům koaličních vojsk.",
       "Obě armády nastoupí na otevřené planině v triplex acies. Galové stojí na jednom křídle se svými bojovými vozy, Samnité tvoří střed. Vozy vyjedou do Deciova křídla, kola duní po zemi, koně se splašují dřív než vozy dorazí. Spojenecká jízda se zhroutí a stáhne pěchotu s sebou. Hastati ustupují za principes, linie se láme.",
@@ -41,7 +41,7 @@
       "Půl století samnitských válek končí. Řím stojí na jihu a před ním už leží jen bohaté řecké přístavy. A na samém konci sítě čeká Tarentum."
     ],
     "pribeh": [
-      "04-3.samnitská válka",
+      
       "Decius Tulius Musae, princeps, Aquilonia",
       "Hastati před námi se zastaví. Centurion jim řve do zad, ale nikdo nepokračuje. Pak to uvidím taky. Samnitská Lněná legie. Stojí přes celou pláň v bílých lněných tunikách, štíty potažené telecí kůží, nehybní jako zeď. Každý z nich složil přísahu — kdo couvne, zemře rukou vlastního souseda.",
       "„Co to je?“ zamumlá Gaius vedle mě. „Drž hubu a koukej dopředu.“",

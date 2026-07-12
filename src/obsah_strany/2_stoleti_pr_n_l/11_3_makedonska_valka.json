@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 11,
   "slug": "11_treti_makedonska_valka",
   "title": "Kapitola 11 — Třetí makedonská válka (171–168 př. n. l.)",
@@ -6,27 +6,27 @@
   "years": "171–168 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img21.jpg",
+    "hero": "images/img21.jpg",
     "mapa": {
-      "src": "img22.jpg",
+      "src": "images/img22.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Filip V. přijal podmínky u Kynoskefal. Makedonii to nezničilo.",
       "Celá léta rekrutoval, cvičil, plnil zbrojnice. Zemřel roku 179 dříve než se dočkal příležitosti. Trůn zdědil syn Perseus.",
       "Perseus chtěl totéž co otec. Šel na to jinak. Oženil se do thrácké královské rodiny, navázal spojenectví s ilyrskými kmeny a budoval síť kontaktů po celém řeckém světě. Královská pokladnice se plnila stříbrem z nově otevřených dolů a armáda rostla. Řím sledoval každý krok. Eumenes II. z Pergamu posílal do senátu varovné zprávy. Roku 171 senát vyhlásil válku."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Perseus investoval do armády vše co měl. Falanga čítá přes šestnáct tisíc mužů. Každý sarissoforos dostal novou výstroj ze skladů v Pelle. Výcvik probíhal denně, i v zimě. Vedle falangy stojí makedonská jízda doplněná bithýnskými a ilyrskými jezdci a thráčtí pomocní vojáci pro terén kde sarisy nestačí.",
       "Perseus ale viděl čím otec prohrál u Kynoskefal — nevhodný terén v nevhodnou chvíli. Neplánoval svést bitvu na cizím výběru pole. Chtěl průsmyky, obranné pozice, terén kde falanga funguje a kde ji manipuly nemohou obejít. Makedonie předchozí dvě války prohrála, protože bojovala tam, kde nechtěla.",
       "Řím vstupuje do války s armádou která prošla Španělskem, Řeckem i Malou Asií. Centurioni mají za sebou tři kontinenty a dvacet let nepřetržitých kampaní. Perseus tomu čelí odmítnutím bitvy."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Konzulové dvakrát zaútočí na průsmyky. Dvakrát se vrátí s prázdnou. Perseus drží průsmyky a čeká.",
       "Lucius Aemilius Paullus převezme velení roku 168. Jeho otec padl u Kann, když byl Paullus ještě dítě. Důstojníky, kteří dostali hodnost přes známosti v Římě, pošle hned domů. Armáda vstává ráno před úsvitem. Paullus začne manévrovat podél thessálského pobřeží a nutí Persea reagovat.",
       "Obě armády stojí naproti sobě přes řeku Leukos. Den za dnem. Bez střetu.",
@@ -44,7 +44,7 @@
       "Makedonské království přestane existovat. Řím ho rozdělí na čtyři autonomní republiky bez práva vzájemného obchodu a sňatků. Kořist z makedonské pokladnice je tak obrovská, že Řím svým občanům natrvalo zruší přímé daně."
     ],
     "pribeh": [
-      "11 — 3. makedonská válka (168 př. n. l.)",
+      
       "Flavius Curtius Otho, princeps, Pydna",
       "Plníme u řeky kožené vaky. Na druhém břehu se zničehonic splaší tažný mezek. Pár našich chlapů se vrhne do vody. V tu samou chvíli vyběhne z protějšího lesa předsunutá hlídka Thráků. Obě skupiny zastaví v mělčině a překvapeně na sebe zírají.",
       "„Zpátky k manipulu!“ zařve centurion a odhodí vak.",

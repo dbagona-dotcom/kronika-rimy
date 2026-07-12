@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 16,
   "slug": "16_spojenecka_valka",
   "title": "Kapitola 16 — Spojenecká válka (91–87 př. n. l.)",
@@ -6,22 +6,22 @@
   "years": "91–87 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img31.jpg",
+    "hero": "images/img31.jpg",
     "mapa": {
-      "src": "img32.jpg",
+      "src": "images/img32.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Tribunus plebis Marcus Livius Drusus předložil roku 91 návrh na udělení občanství italickým spojencům. Senát ho odmítl. Drusus zemřel od nože. Nikdo nebyl obviněn.",
       "Pompaedius Silo, vůdce kmene Marsů a Drusův blízký přítel, čekal v Římě na výsledek návrhu. Odjel domů.",
       "Po Latinské válce roku 338 dostalo každé italické město jiné podmínky spojenectví. Každé bylo odříznuté od ostatních. Ale všechna platila stejnou cenu: vojáci z italických komunit tvořili přibližně polovinu každé legie. Bojovali ve stejných bitvách. Po vítězství dostávali menší podíl kořisti a méně práv k půdě. Do senátu přístup neměli. Tiberius Gracchus se to pokusil změnit. Zaplatil životem. Gaius taky. Drusus taky.",
       "Picentové jako první povraždili římské úředníky na svém území. Přidali se Marsi. Samnité vytáhli jako třetí. Pamatují si Caudinské vidlice i zničené Bovianum."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Povstalci postaví stát.",
       "Vytvoří Italii se senátem o pěti stech členech a dvěma konzuly. Hlavní město bude Corfinium, přejmenované na Italica. Sto kilometrů od Říma. Razí mince: italský býk dorážející na římskou vlčici. Na rubu je hlava boha Sabina. Povstalé kmeny jasně deklarují svůj záměr.",
       "Staví armádu.",
@@ -30,7 +30,7 @@
       "Řím musí sestavit armádu bez spojenců, kteří tvořili polovinu každé legie. Gaius Marius velí na severu. Je mu přes šedesát. Lucius Cornelius Sulla dostává jih."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Válka začíná roku 91 rychle. Vettius Scato, jeden ze Silových velitelů, sloužil pod Mariem v Galii. Stojí nyní na opačné straně. Quintus Servilius Caepio táhne s oddílem vstříc povstalcům a padne do zálohy. Zahyne s celým doprovodem. Konzul Lucius Julius Caesar utrpí na jihu těžkou porážku. Řím ztrácí v prvních měsících desítky důstojníků.",
       "Konzul Publius Rutilius Lupus táhne s armádou do území Marsů. Scato průsmyky kolem řeky Tolenus zná. Lupus vejde do údolí. Scato uzavře průchod za ním. Legie nemá kam ustoupit. Lupus padne v první hodině boje. Marius, který velí na vedlejším úseku, získá informace z bojiště a zaútočí na Scatovu druhou pozici téhož odpoledne. Porazí ho a přebere vedení po padlém konzulovi.",
       "Marius dosáhne vítězství u Fucínského jezera a přeruší zásobování povstaleckých sil v centrálních Apeninách. Silo ustupuje do těžkého terénu. Ve věku jednašedesáti let Marius zpomaluje. Důstojníci vnímají jeho fyzický stav a Sulla z dálky rovněž.",
@@ -46,7 +46,7 @@
       "Sulla obrátí legie na Řím."
     ],
     "pribeh": [
-      "16 — Spojenecká válka (89 př. n. l.)",
+      
       "Tiberius Julius Nerva, legionář, Asculum",
       "Voda řeky Tolenus je ledová a sahá mi po pás. Konzul Lupus velí k okamžitému pronásledování. Povstalečtí Marsi narychlo přeběhli mělký brod a mizí v úzkém zalesněném údolí před námi.",
       "Vystupujeme na břeh. Na mokrém blátě to klouže. Prostor mezi vodou a strmým srázem je tak těsný, že nedokážeme roztáhnout kohorty do široké linie. Mačkáme se štít na štít.",

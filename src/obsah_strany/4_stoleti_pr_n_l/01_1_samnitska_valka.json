@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 1,
   "slug": "1_prvni_samnitska_valka",
   "title": "Kapitola 1 — První samnitská válka",
@@ -6,15 +6,16 @@
   "years": "343–341 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img1.jpg",
+    "hero": "images/img1.jpg",
+    "heroPosition": "center bottom",
     "mapa": {
-      "src": "img2.jpg",
+      "src": "images/img2.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+
       "Rok 343 před naším letopočtem. Řím už není jen jedním z měst v Latiu. Latinské obce uzavírají smlouvy, které vypadají jako spojenectví, ale ve skutečnosti znamenají podřízení. Kolonie rostou na strategických místech, silnice začínají spojovat území, které se ještě nedávno bránilo. Republika se rozšiřuje krok za krokem, bez velkých prohlášení.",
       "V čele státu stojí dva konzulové, každý rok jiní. Senát však zůstává. Tam, mezi starými rody, se rozhoduje, kam se republika posune dál. Většina těchto mužů pamatuje doby, kdy Řím bojoval o přežití. Teď řeší jinou otázku. Kam až může zajít.",
       "Za Apeninami začíná jiný svět. Samnité obývají drsné hory střední a jižní Itálie po generace, organizují se do čtyř kmenových skupin, každá s vlastním územím a válečníky. Žijí v kamenných osadách vysoko v horách, kde se zima táhne dlouho a úroda nestačí. Dolů do úrodných nížin sestupují pravidelně, nejprve se stády, pak s mečem.",
@@ -22,7 +23,7 @@
       "Senát souhlasí."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Armáda, která táhne do Kampánie, je vojsko v proměně.",
       "Základ stále tvoří falanga, těžkoodění občané bok po boku, štít vedle štítu. Na rovině funguje. V horách, kde se stezka zužuje na šířku tří mužů a terén stoupá ze všech stran, se linie trhne dřív než nepřítel zasáhne. Apeniny nutí Řím přemýšlet jinak. Falanga se láme na menší oddíly, manipuly, které se pohybují samostatně a přizpůsobují každému záhybu terénu. Těm velí centurioni.",
       "Řím nemá stálou armádu. Senát vydá rozkaz a muži přijdou z polí a dílen. Každý přinese co má, bohatší kyrys a přilbu, chudší jen štít a oštěp. Co přinese, určí kde bude stát.",
@@ -33,7 +34,7 @@
       "Válečník z hor nosí trojitý bronzový hrudní plát, kardiophylax, a přilbu s vysokým chocholem z per. Velký barevný štít, oštěpy, kratší meč. Zbroj mu dává ochranu. Do hrobu si ji vezme s sebou."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Když Capua předá svůj osud do římských rukou, válka se stane nevyhnutelnou. Samnité vidí v římském zásahu přímé vměšování do oblasti, kterou považují za svou. Řím to nazve ochranou spojence.",
       "Oba konzulové roku 343 vytáhnou do pole. Marcus Valerius Corvus zamíří do Kampánie, Aulus Cornelius Cossus na samnitsko-kampánskou hranici.",
       "První střet přijde u hory Gaurus. Vulkanické svahy, členité hřebeny, úzké průsmyky. Corvus se rozhodne pro přímý útok do kopce. Legie stoupá po svahu, oddíly se pohybují samostatně a drží soudržnost tam kde by falanga spadla. Samnité pod přímým tlakem ustoupí do hor.",
@@ -43,7 +44,7 @@
       "Příští válka mezi nimi nebude trvat dva roky. Bude trvat dvacet."
     ],
     "pribeh": [
-      "01-1. samnitská válka",
+      
       "Gnaeus Valerius Falco, hastatus, Hora Gaurus",
       "Sopečný prach pod caligami podkluzuje při každém kroku do strmého svahu u hory Gaurus. Z hřebene prší oštěpy. Jeden těžce narazí do mého štítu a ohne mi levou ruku k tělu. Zakolísám. Kluk za mnou mě bleskově předejde a zaplní mezeru. Srovnám krok, vytáhnu štít a zařadím se zpět. Samnité se s řevem rozeběhnou proti nám.",
       "„Pila!“ zařve centurion. Pokrčím nohu, zapřu se a mrštím. Zbraně se s praskotem zarážejí do nepřátel. I bez štítů se na nás valí dál a první řada se tvrdě sráží. Muži před námi divoce bodají přes hrany štítů, krev stříká na zbroje a nepřátelské čepele buší do dřeva. Centurion ve středu řve, ať držíme linii. Tlak Samnitů po chvíli poleví a jejich řady o pár kroků ucouvnou do svahu.",

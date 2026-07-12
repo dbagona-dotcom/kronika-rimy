@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 24,
   "slug": "24_bitva_v_teutoburskem_lese",
   "title": "Kapitola 24 — Bitva v Teutoburském lese (9 n. l.)",
@@ -6,15 +6,14 @@
   "years": "9 n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img47.jpg",
+    "hero": "images/img47.jpg",
     "mapa": {
-      "src": "img48.jpg",
+      "src": "images/img48.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
       "Čtyřicet let Augustovy vlády se na říši podepsalo. Silnice z kamene spojují provincie od Hispánie po Sýrii. Obchod proudí pod ochranou práva. Galie, krvavě dobytá za Caesarových osmi let, pomalu přijímá latinský jazyk, římské stavby a provinciální správu. Augustovi je dvaašedesát let. Říká se mu otec vlasti.",
       "Za Rýnem není nic z toho.",
       "Hustý, bažinatý les táhne se stovky mil na sever a na východ. Území obývané kmeny bez kamenných měst a písma. Každý kmen stojí za sebe, zná svůj kraj a nemá zájem na tom, aby to platilo jinak.",
@@ -23,14 +22,12 @@
       "Arminius mezitím v naprostém utajení vybudoval koalici jinak znesvářených kmenů."
     ],
     "armada": [
-      "II. Armáda a vojenství",
       "Augustova profesionální armáda čítá dvacet osm stálých legií. Každá přibližně pět tisíc mužů těžké pěchoty, doplněných pomocnými sbory neobčanů. Legionář slouží dvacet let, pobírá pravidelný žold a po propuštění dostane pozemek nebo hotovost.",
       "Podél Rýna a Dunaje roste limes romanus. Soustava pevností, strážních věží a hraničních silnic, které drží přechody pod kontrolou. Věže každé tři míle, stálé posádky, signální ohně. Řím buduje hranici jako soustavu pevností v krajině.",
       "Výzbroj v legiích míchá tři typy. Kroužková zbroj je lehká, ohebná a po pochodu se dá vyčistit v sudu s říčním pískem a olejem,  hodina práce a je hotovo. Šupinová je odolnější na bocích. Nový typ, lorica segmentata, nabízí nejlepší ochranu před sečnými ranami a kopím. Čtyřicet dva překrývajících se plátů sklapnutých na mosazné přezky a kožené řemeny. V suchém počasí vynikající. Na mokrém pochodu přes germánský les zrezne přes noc a legionář stráví večer u ohně, odepíná pláty jeden po druhém a čistí každý zvlášť octem a pískem. Soused vedle dávno spí.",
       "Pilum, gladius a scutum zůstávají. Legie je navržena pro otevřený terén, kde se dá rozvinout kohortní formace, vidět bojiště a posílat zálohy přesně tam kde jsou potřeba. Germánský les nenabízí nic z toho."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
       "Na podzim roku 9 dorazí k Varovi zpráva o lokálním povstání. Přinese ji osobně Arminius a navrhne kratší cestu přes les. Varus okamžitě vytáhne. Se sebou vezme tři legie — XVII., XVIII. a XIX.  přes dvacet tisíc mužů, vozy se zásobami a civilní doprovod důstojnických rodin.",
       "Kolona vstoupí do Teutoburského lesa.",
       "Úzké stezky a bažiny roztáhnou pochod na délku několika mil. Kohorty ztrácejí vizuální kontakt. Stromy rozbijí formaci. Pro jakýkoliv obranný manévr není místo.",
@@ -61,7 +58,7 @@
       "Třetí orel se vrátí do Říma za Claudia, pětadvacet let po bitvě."
     ],
     "pribeh": [
-      "24 — Zkáza v Teutoburgu (9 n. l.)",
+
       "Lucius Valerius Barbatus, legionář, Teutoburský les",
       "Pochodujeme lesem. Začíná se stmívat a hustě prší. „Ne. Tady je něco špatně, nevěřím mu ani slovo,“ zahučí voják po mé levici a rozhlíží se mezi kmeny. Naše centurie je úplně na konci kolony. Zastavíme. Vůz před námi zapadl do bahna až po osu. Opřu scutum o strom, zabořím ruce do bláta a zaberu. V tu chvíli se z předku kolony ozve tlumený hluk a pak obrovský křik.",
       "Z lesa vyletí první oštěpy. „Štíty k sobě!“ zařve centurion. Zvednu scutum. Ozve se praskání dřeva a křik raněných. Z lesa se valí Germáni. Za naší formací se krčí civilní zástup kupců a žen. Natlačíme část z nich za naše záda. Zepředu konečně zazní římská trubka – povel k pochodu vpřed, k hlavní legii.",

@@ -1,4 +1,4 @@
-{
+﻿{
   "id": 13,
   "slug": "13_numantinska_valka",
   "title": "Kapitola 13 — Numantinská válka (143–133 př. n. l.)",
@@ -6,28 +6,28 @@
   "years": "143–133 př. n. l.",
   "dokonceno": true,
   "images": {
-    "hero": "img25.jpg",
+    "hero": "images/img25.jpg",
     "mapa": {
-      "src": "img26.jpg",
+      "src": "images/img26.jpg",
       "caption": ""
     }
   },
   "sections": {
     "kontext": [
-      "I. Historický kontext",
+      
       "Hispánie byla pro římské vojáky nejméně oblíbenou provincií. Od konce druhé punské války se pokusy o plnou kontrolu Iberského poloostrova zvrhly do desítek let lokálních konfliktů a povstání. Terén, drsné klima a neochota kmenů k trvalému podřízení tvořily prostředí, které Řím vysilovalo. Žádná velká sláva, žádná bohatá města k plenění, jen vytrvalý guerillový boj.",
       "Keltiberské kmeny ve střední Hispánii kladly vytrvalý odpor. Centrem tohoto vzdoru se stala Numantie. Pevnost ležela na strmém kopci nad řekou Durius, přírodně chráněna soutěskami a lesy. Sama o sobě nebyla obrovským městem, ale pro Ibery symbolizovala nezávislost, kterou Řím nedokázal zlomit.",
       "Římští velitelé se před hradbami střídali. Někteří utrpěli vojenské porážky, jiní zkoušeli uzavírat mírové smlouvy, které senát následně odmítal ratifikovat. Jeden takový mír dojednal i Tiberius Gracchus. Odmítnutí smlouvy v Římě jen potvrdilo hispánským kmenům, že dohodám se nedá věřit.",
       "V roce 134, po více než deseti letech neúspěchů, ztrát a klesající morálky, senát sáhl po ověřeném muži. Publius Cornelius Scipio Aemilianus, dobyvatel Kartága, znovu získal výjimku k opětovnému konzulátu a vyrazil do Hispánie s jasným úkolem. Skončit to."
     ],
     "armada": [
-      "II. Armáda a vojenství",
+      
       "Armáda, která Scipiona na Iberském poloostrově čekala, se utápěla v apatii. Táborový život provázela uvolněná disciplína a nedostatek vojenského ducha. Keltiberové je pravidelně poráželi v malých střetech a legionáři ztratili důvěru ve své velitele i v sebe sama.",
       "Iberští bojovníci byli mistry nerovného boje. Hlavní zbraní byla falcata. Tento těžký, zahnutý meč, ostřený na vnitřní straně s přidaným břitem na zadní špičce, kombinoval pádnost sekery s přesností meče. Prorážel dřevo štítu, štípal bronzové přílby a usekával paže od ramene dolů. Pro římského legionáře zvyklého na bodný gladius byl střet s falcatou děsivou záležitostí.",
       "Scipio si uvědomil, že v přímém poli Numantii nedobude. Iberové znali terén, bojovali s fanatickým odhodláním a jeho vlastní armáda nebyla připravena na krvavé ztráty. Rozhodl se, že boj nevyhraje mužem proti muži, ale ženijní prací."
     ],
     "konflikt": [
-      "III. Průběh konfliktu",
+      
       "Scipio nejprve převychoval armádu. Nejméně schopné oddíly poslal do Říma. Vyhnal trhovce a zakázal v táboře zbytečný luxus. Převedl vojáky na tvrdý výcvik — budování táborů, pochody v plné polní, cvičení s těžšími zbraněmi, než byly ty bitevní. Až když se armáda opět začala podobat legii, přitáhl k Numantii.",
       "K přímému útoku na hradby se neodhodlal. Místo toho nařídil postavit kolem celého města sedm římských táborů. Tyto tábory propojil dvojitým systémem hradeb o délce devíti kilometrů. Vnější val chránil armádu před pokusy o záchranu města zvenčí, vnitřní val směřoval k Numantii a bránil výpadům. Na řece Durius nechal natáhnout přes hladinu lana s čepelemi, která znemožňovala zásobování loděmi i plavcům. Uzavřel Numantii ze všech stran.",
       "Začalo čekání.",
@@ -37,7 +37,7 @@
       "Zatímco Numantie padla, Římem otřásala první politická krev. Tiberius Gracchus prosadil jako tribun lidu agrární zákon bez souhlasu senátu a usiloval o opětovné zvolení. Skupina senátorů vytáhla ze zasedání a ubila ho k smrti. Tímto násilným činem padlo tabu, které po staletí chránilo nedotknutelnost tribuna i vnitřní politický mír."
     ],
     "pribeh": [
-      "13 — Numantinská válka (133 př. n. l.)",
+      
       "Marcus Octavianus Pius, legionář, Numantia",
       "Dřevěné cvičné meče tupě narážejí do kůlů zaražených do ztvrdlé hlíny. Pot ze mě leje a štípe v očích. Centurion prochází řadou a bije révovou holí každého, kdo jen na vteřinu povolí zápěstí.",
       "„Tlačit z nohou!“ zařve a švihne holí muže po mé levici.",
