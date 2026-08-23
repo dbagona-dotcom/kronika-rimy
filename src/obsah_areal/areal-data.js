@@ -284,8 +284,15 @@ export const historie = [
     nazev: 'Flaviovci',
     podnadpis: '69–96 n. l.',
     skupinaNazev: 'Historie Říma',
-    dospeli: ['Text pro toto stanoviště zatím chybí — bude doplněn.'],
-    deti: ['Text pro toto stanoviště zatím chybí — bude doplněn.'],
+    dospeli: [
+      'Když v roce 68 našeho letopočtu spáchal císař Nero sebevraždu, uvrhl stát do hluboké krize. Během jediného následujícího roku, známého jako rok čtyř císařů, se o vládu přetahovali čtyři vojevůdci. Galba, Otho i Vitellius postupně vykrváceli v bojích. Vítězství a trvalou moc si nakonec vybojoval generál Vespasianus z rodu Flaviovců.',
+      'Nový vládce okamžitě zahájil hospodářskou i stavební obnovu vyčerpaného Říma. Aby si získal náklonnost rozhněvaných obyvatel města, nařídil zasypat soukromé jezero v Neronově palácovém komplexu. Na jeho místě nechal vybudovat obří veřejný amfiteátr, dnešní Koloseum. Jeho syn Titus mezitím velel legiím na Blízkém východě. V roce 70 našeho letopočtu dobyl vzbouřený Jeruzalém a římští vojáci srovnali se zemí posvátný židovský chrám. Z gigantické kořisti drahých kovů a prodeje desítek tisíc válečných zajatců pak Flaviovci přímo financovali stavbu Kolosea i další velkolepé veřejné projekty.',
+      'Titus nastoupil na trůn po otcově smrti. Jeho krátkou vládu však tvrdě zasáhla obrovská přírodní katastrofa. V roce 79 našeho letopočtu vybuchla sopka Vesuv a její žhavý sopečný prach zaživa pohřbil kvetoucí města Pompeje a Herculaneum. Titus osobně řídil záchranné práce a rozdával peníze z vlastní pokladny přeživším utečencům. Po jeho náhlém skonu převzal vládu mladší bratr Domitianus. Tento panovník zavedl přísnou kontrolu provincií a stabilizoval státní finance. Zcela však ignoroval senát a vystupoval jako neomezený samovládce. Když začal popravovat své politické odpůrce, senátoři zorganizovali spiknutí. V roce 96 našeho letopočtu Domitiana ubodala skupina palácových úředníků přímo v jeho ložnici.',
+    ],
+    deti: [
+      'Viděl jsi někdy obrovský fotbalový stadion pro padesát tisíc diváků? Přesně takový postavil v Římě císař Vespasianus a dnes mu říkáme Koloseum. Chtěl lidem po ošklivých válkách udělat radost.',
+      'Zlato na stavbu přivezl jeho syn Titus, který jako vojevůdce dobyl bohaté město Jeruzalém. Titus se později sám stal vládcem, ale musel zachraňovat lidi po strašlivé katastrofě. Vybuchla totiž obří sopka Vesuv a žhavý popel úplně pohřbil město Pompeje pod zem. Po Titovi vládl ještě bratr Domitianus. Ten se ale choval nesmírně krutě a povýšeně. Vyděšení sluhové se na něj domluvili a nakonec ho probodli přímo v posteli.',
+    ],
   },
   {
     id: '19',
