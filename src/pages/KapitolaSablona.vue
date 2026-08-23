@@ -1,24 +1,21 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <q-page class="page">
-
     <!-- SCROLL PROGRESS BAR -->
     <div class="progress-bar" :style="{ width: scrollProgress + '%' }"></div>
 
     <div v-if="kapitola">
-
       <!-- HERO OBRÁZEK -->
       <div v-if="kapitola.images?.hero" class="hero">
         <div class="hero-placeholder" :class="{ 'hero-placeholder--hidden': imgLoaded }"></div>
-      
+
         <img
-  :src="'/' + kapitola.images.hero"
-  :alt="kapitola.title"
-  class="hero-img"
-  :class="{ 'hero-img--loaded': imgLoaded }"
-  
-  @load="imgLoaded = true"
-/>
+          :src="'/' + kapitola.images.hero"
+          :alt="kapitola.title"
+          class="hero-img"
+          :class="{ 'hero-img--loaded': imgLoaded }"
+          @load="imgLoaded = true"
+        />
         <div class="hero-content">
           <div class="hero-meta">{{ kapitola.years }}</div>
           <h1 class="hero-title">{{ kapitola.title }}</h1>
@@ -31,7 +28,6 @@
       </div>
 
       <div class="kapitola-wrap">
-
         <!-- ZPĚT -->
         <router-link to="/" class="back-btn">← Zpět na rozcestník</router-link>
 
@@ -48,14 +44,15 @@
 
         <!-- SEKCE -->
         <div class="kap-body">
-
           <div class="sekce">
             <div class="sekce-header">
               <span class="sekce-num">I.</span>
               <h2 class="sekce-title">Historický kontext</h2>
             </div>
             <div class="sekce-content">
-              <p v-for="(odstavec, i) in kapitola.sections.kontext" :key="i" class="sekce-text">{{ odstavec }}</p>
+              <p v-for="(odstavec, i) in kapitola.sections.kontext" :key="i" class="sekce-text">
+                {{ odstavec }}
+              </p>
             </div>
           </div>
 
@@ -65,7 +62,9 @@
               <h2 class="sekce-title">Armáda a vojenství</h2>
             </div>
             <div class="sekce-content">
-              <p v-for="(odstavec, i) in kapitola.sections.armada" :key="i" class="sekce-text">{{ odstavec }}</p>
+              <p v-for="(odstavec, i) in kapitola.sections.armada" :key="i" class="sekce-text">
+                {{ odstavec }}
+              </p>
             </div>
           </div>
 
@@ -75,11 +74,17 @@
               <h2 class="sekce-title">Konflikt a jeho průběh</h2>
             </div>
             <div class="sekce-content">
-              <p v-for="(odstavec, i) in kapitola.sections.konflikt" :key="i" class="sekce-text">{{ odstavec }}</p>
+              <p v-for="(odstavec, i) in kapitola.sections.konflikt" :key="i" class="sekce-text">
+                {{ odstavec }}
+              </p>
 
               <!-- MAPA -->
               <div v-if="kapitola.images?.mapa" class="inline-img-wrap">
-                <img :src="'/' + kapitola.images.mapa.src" :alt="kapitola.images.mapa.caption" class="inline-img" />
+                <img
+                  :src="'/' + kapitola.images.mapa.src"
+                  :alt="kapitola.images.mapa.caption"
+                  class="inline-img"
+                />
                 <div class="inline-img-caption">{{ kapitola.images.mapa.caption }}</div>
               </div>
             </div>
@@ -91,15 +96,22 @@
               <h2 class="sekce-title">Osobní příběh</h2>
             </div>
             <div class="sekce-content pribeh-content">
-              <p v-for="(odstavec, i) in kapitola.sections.pribeh" :key="i" class="sekce-text pribeh-text">{{ odstavec }}</p>
+              <p
+                v-for="(odstavec, i) in kapitola.sections.pribeh"
+                :key="i"
+                class="sekce-text pribeh-text"
+              >
+                {{ odstavec }}
+              </p>
             </div>
           </div>
-
         </div>
 
         <!-- NAVIGACE -->
         <div class="kap-nav">
-          <button class="nav-btn" :disabled="!predchozi" @click="prejdi(predchozi)">← Předchozí</button>
+          <button class="nav-btn" :disabled="!predchozi" @click="prejdi(predchozi)">
+            ← Předchozí
+          </button>
           <button class="nav-btn nav-btn-primary" @click="markRead">
             {{ precteno ? '✓ Přečteno' : 'Označit jako přečtené' }}
           </button>
@@ -111,7 +123,6 @@
           <span class="nahodna-label">Chcete vyzkoušet náhodnou kapitolu?</span>
           <button class="nav-btn nav-btn-gold" @click="nahodnaKapitola">↯ Náhodná kapitola</button>
         </div>
-
       </div>
     </div>
 
@@ -119,7 +130,6 @@
       <p>Kapitola nenalezena.</p>
       <router-link to="/">← Zpět na rozcestník</router-link>
     </div>
-
   </q-page>
 </template>
 
@@ -138,7 +148,7 @@ const scrollProgress = ref(0)
 const imgLoaded = ref(false)
 
 useMeta(() => ({
-  title: kapitola.value ? `${kapitola.value.title} | Kronika Říma` : 'Kronika Říma'
+  title: kapitola.value ? `${kapitola.value.title} | Kronika Říma` : 'Kronika Říma',
 }))
 
 function updateScroll() {
@@ -164,16 +174,38 @@ onUnmounted(() => {
 })
 
 const vsechnyId = [
-  '01_1_samnitska_valka', '02_latinska_valka', '03_2_samnitska_valka',
-  '04_3_samnitska_valka', '05_pyrrhova_valka', '06_1_punska_valka', '07_2_punska_valka',
-  '08_1_makedonska_valka', '09_2_makedonska_valka', '10_syrska_valka',
-  '11_3_makedonska_valka', '12_3_punska_valka', '13_numantinska_valka',
-  '14_jugurthinska_valka', '15_valky_s_kimbry_a_teutony', '16_spojenecka_valka',
-  '17_sullovy_obcanske_valky', '18_sertorijska_valka', '19_spartakovo_povstani',
-  '20_3_mithridatska_valka', '21_caesarovy_galske_valky', '22_caesarova_obcanska_valka',
-  '23_zaverecne_obcanske_valky', '24_bitva_v_teutoburskem_lese', '25_dobyti_britanie',
-  '26_povstani_boudiky', '27_rok_ctyr_cisaru', '28_zidovska_valka',
-  '29_1_dacka_valka', '30_2_dacka_valka', '31_parthska_valka_traiana', '32_markomanske_valky'
+  '01_1_samnitska_valka',
+  '02_latinska_valka',
+  '03_2_samnitska_valka',
+  '04_3_samnitska_valka',
+  '05_pyrrhova_valka',
+  '06_1_punska_valka',
+  '07_2_punska_valka',
+  '08_1_makedonska_valka',
+  '09_2_makedonska_valka',
+  '10_syrska_valka',
+  '11_3_makedonska_valka',
+  '12_3_punska_valka',
+  '13_numantinska_valka',
+  '14_jugurthinska_valka',
+  '15_valky_s_kimbry_a_teutony',
+  '16_spojenecka_valka',
+  '17_sullovy_obcanske_valky',
+  '18_sertorijska_valka',
+  '19_spartakovo_povstani',
+  '20_3_mithridatska_valka',
+  '21_caesarovy_galske_valky',
+  '22_caesarova_obcanska_valka',
+  '23_zaverecne_obcanske_valky',
+  '24_bitva_v_teutoburskem_lese',
+  '25_dobyti_britanie',
+  '26_povstani_boudiky',
+  '27_rok_ctyr_cisaru',
+  '28_zidovska_valka',
+  '29_1_dacka_valka',
+  '30_2_dacka_valka',
+  '31_parthska_valka_traiana',
+  '32_markomanske_valky',
 ]
 
 const aktualniId = computed(() => route.params.id)
@@ -191,7 +223,7 @@ function markRead() {
 }
 
 function nahodnaKapitola() {
-  const ostatni = vsechnyId.filter(id => id !== aktualniId.value)
+  const ostatni = vsechnyId.filter((id) => id !== aktualniId.value)
   const nahodne = ostatni[Math.floor(Math.random() * ostatni.length)]
   prejdi(nahodne)
 }
@@ -226,7 +258,6 @@ watch(aktualniId, (id) => {
 </script>
 
 <style scoped>
-
 /* ── PROGRESS BAR ── */
 .progress-bar {
   position: fixed;
@@ -239,7 +270,10 @@ watch(aktualniId, (id) => {
   pointer-events: none;
 }
 
-.page { background: var(--bg-primary); min-height: 100vh; }
+.page {
+  background: var(--bg-primary);
+  min-height: 100vh;
+}
 
 /* ═══════════════════════════════════════
    HERO
@@ -286,15 +320,21 @@ watch(aktualniId, (id) => {
 }
 
 @keyframes heroZoom {
-  from { transform: scale(1.04); }
-  to   { transform: scale(1.0); }
+  from {
+    transform: scale(1.04);
+  }
+  to {
+    transform: scale(1);
+  }
 }
 
 /* Gradient overlay dole */
 .hero::after {
   content: '';
   position: absolute;
-  bottom: 0; left: 0; right: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   height: 55%;
   background: linear-gradient(to bottom, transparent, var(--bg-primary));
   pointer-events: none;
@@ -304,7 +344,9 @@ watch(aktualniId, (id) => {
 /* Text přes hero */
 .hero-content {
   position: absolute;
-  bottom: 0; left: 0; right: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   padding: 3rem 4rem 2.5rem;
   text-align: center;
   z-index: 3;
@@ -336,8 +378,17 @@ watch(aktualniId, (id) => {
   gap: 1rem;
 }
 
-.hero-divider-line { width: 80px; height: 1px; background: rgba(201, 168, 76, 0.5); }
-.hero-divider-gem  { width: 6px; height: 6px; background: #9b1b1b; transform: rotate(45deg); }
+.hero-divider-line {
+  width: 80px;
+  height: 1px;
+  background: rgba(201, 168, 76, 0.5);
+}
+.hero-divider-gem {
+  width: 6px;
+  height: 6px;
+  background: #9b1b1b;
+  transform: rotate(45deg);
+}
 
 /* ═══════════════════════════════════════
    TĚLO KAPITOLY
@@ -360,7 +411,9 @@ watch(aktualniId, (id) => {
   margin-bottom: 3rem;
   transition: color 0.2s;
 }
-.back-btn:hover { color: var(--text-gold); }
+.back-btn:hover {
+  color: var(--text-gold);
+}
 
 /* ═══════════════════════════════════════
    HEADER (pouze kapitoly bez hero obrázku)
@@ -388,9 +441,23 @@ watch(aktualniId, (id) => {
   margin-bottom: 1.5rem;
 }
 
-.kap-divider { display: flex; align-items: center; justify-content: center; gap: 1rem; }
-.kap-divider-line      { width: 60px; height: 1px; background: var(--border-gold); }
-.kap-divider-ornament  { width: 6px; height: 6px; background: #9b1b1b; transform: rotate(45deg); }
+.kap-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.kap-divider-line {
+  width: 60px;
+  height: 1px;
+  background: var(--border-gold);
+}
+.kap-divider-ornament {
+  width: 6px;
+  height: 6px;
+  background: #9b1b1b;
+  transform: rotate(45deg);
+}
 
 /* ═══════════════════════════════════════
    SEKCE
@@ -438,7 +505,9 @@ watch(aktualniId, (id) => {
   line-height: 2;
   margin-bottom: 1.25rem;
 }
-.sekce-text:last-child { margin-bottom: 0; }
+.sekce-text:last-child {
+  margin-bottom: 0;
+}
 
 /* ═══════════════════════════════════════
    INLINE MAPA (obrázek v sekci III)
@@ -456,7 +525,9 @@ watch(aktualniId, (id) => {
   transition: filter 0.3s;
 }
 
-.inline-img:hover { filter: sepia(0) brightness(1); }
+.inline-img:hover {
+  filter: sepia(0) brightness(1);
+}
 
 .inline-img-caption {
   font-family: 'EB Garamond', serif;
@@ -514,12 +585,30 @@ watch(aktualniId, (id) => {
   white-space: nowrap;
 }
 
-.nav-btn:hover:not(:disabled) { color: var(--text-gold); border-color: var(--border-gold-hover); }
-.nav-btn:disabled { opacity: 0.25; cursor: default; }
-.nav-btn-primary { color: var(--text-red); border-color: var(--border-red); }
-.nav-btn-primary:hover { color: #e84040 !important; border-color: rgba(194, 43, 43, 0.6) !important; }
-.nav-btn-gold { color: var(--text-gold); border-color: var(--border-gold); }
-.nav-btn-gold:hover { color: var(--text-gold-hover) !important; border-color: var(--border-gold-hover) !important; }
+.nav-btn:hover:not(:disabled) {
+  color: var(--text-gold);
+  border-color: var(--border-gold-hover);
+}
+.nav-btn:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+.nav-btn-primary {
+  color: var(--text-red);
+  border-color: var(--border-red);
+}
+.nav-btn-primary:hover {
+  color: #e84040 !important;
+  border-color: rgba(194, 43, 43, 0.6) !important;
+}
+.nav-btn-gold {
+  color: var(--text-gold);
+  border-color: var(--border-gold);
+}
+.nav-btn-gold:hover {
+  color: var(--text-gold-hover) !important;
+  border-color: var(--border-gold-hover) !important;
+}
 
 .nahodna-wrap {
   display: flex;
@@ -547,23 +636,43 @@ watch(aktualniId, (id) => {
   font-family: 'Cinzel', serif;
   color: var(--text-subtle);
 }
-.not-found a { color: var(--text-red); text-decoration: none; }
+.not-found a {
+  color: var(--text-red);
+  text-decoration: none;
+}
 
 /* ═══════════════════════════════════════
    RESPONZIVITA
 ═══════════════════════════════════════ */
 @media (min-width: 769px) and (max-width: 1024px) {
-  .hero { height: 60vh; }
-  .hero::after { height: 45%; }
-  .hero-content { padding: 2rem 3rem 1.75rem; }
-  .kapitola-wrap { padding: 2rem 3rem 6rem; max-width: 680px; }
-  .sekce-pribeh { padding: 2rem 1.5rem; }
-  .kap-nav { gap: 0.75rem; }
-  .nav-btn { padding: 0.6rem 1rem; }
+  .hero {
+    height: 60vh;
+  }
+  .hero::after {
+    height: 45%;
+  }
+  .hero-content {
+    padding: 2rem 3rem 1.75rem;
+  }
+  .kapitola-wrap {
+    padding: 2rem 3rem 6rem;
+    max-width: 680px;
+  }
+  .sekce-pribeh {
+    padding: 2rem 1.5rem;
+  }
+  .kap-nav {
+    gap: 0.75rem;
+  }
+  .nav-btn {
+    padding: 0.6rem 1rem;
+  }
 }
 
 @media (max-width: 768px) {
-  .progress-bar { top: 0; }
+  .progress-bar {
+    top: 0;
+  }
 
   .hero {
     height: 45vh;
@@ -595,13 +704,27 @@ watch(aktualniId, (id) => {
     margin-bottom: 1.5rem;
   }
 
-  .kap-title { font-size: 1.6rem; }
-  .sekce-content { padding-left: 0.75rem; }
-  .sekce-pribeh { padding: 1.5rem 1rem; }
-  .kap-nav { flex-direction: column; gap: 0.75rem; }
-  .nav-btn { width: 100%; text-align: center; }
-  .nahodna-wrap { flex-direction: column; gap: 0.75rem; text-align: center; }
+  .kap-title {
+    font-size: 1.6rem;
+  }
+  .sekce-content {
+    padding-left: 0.75rem;
+  }
+  .sekce-pribeh {
+    padding: 1.5rem 1rem;
+  }
+  .kap-nav {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .nav-btn {
+    width: 100%;
+    text-align: center;
+  }
+  .nahodna-wrap {
+    flex-direction: column;
+    gap: 0.75rem;
+    text-align: center;
+  }
 }
-
-
 </style>

@@ -2,7 +2,6 @@
 <template>
   <q-page class="page">
     <div class="oprojektu-wrap">
-
       <router-link to="/" class="back-btn">← Zpět na rozcestník</router-link>
 
       <!-- HEADER -->
@@ -15,7 +14,9 @@
           <div class="op-divider-line"></div>
         </div>
         <p class="op-subtitle">
-          Studentský projekt mapující šest století římských vojenských dějin prostřednictvím 32 konfliktů od první samnitské války roku 343 př. n. l. až po markomanská tažení císaře Marka Aurelia roku 180 n. l.
+          Studentský projekt mapující šest století římských vojenských dějin prostřednictvím 32
+          konfliktů od první samnitské války roku 343 př. n. l. až po markomanská tažení císaře
+          Marka Aurelia roku 180 n. l.
         </p>
       </div>
 
@@ -26,9 +27,23 @@
           <h2 class="op-sekce-title">Co je Kronika Říma</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Kronika Říma sleduje období, během něhož se z jednoho města v Latiu stala mocnost ovládající většinu Středomoří. Nejde o encyklopedii ani odbornou publikaci. Cílem bylo vytvořit čtivý historický web, který zachovává fakta, ale zároveň se dobře čte.</p>
-          <p class="op-text">Každá kapitola odpovídá na tři základní otázky. Kde se nacházíme. Co se právě děje. A proč je daný konflikt důležitý. Text se snaží vysvětlovat souvislosti srozumitelně, bez zbytečně složitých formulací a dlouhých odboček.</p>
-          <p class="op-text">Všech 32 kapitol má stejnou strukturu. Nejprve představují historický kontext, poté římskou armádu a způsob válčení, následně průběh samotného konfliktu a nakonec osobní příběh. Ten ukazuje události očima římského vojáka, který je jejich přímým účastníkem. V různých kapitolách se tak čtenář dívá na válku z pohledu obyčejného legionáře, důstojníka, ženisty nebo významného velitele.</p>
+          <p class="op-text">
+            Kronika Říma sleduje období, během něhož se z jednoho města v Latiu stala mocnost
+            ovládající většinu Středomoří. Nejde o encyklopedii ani odbornou publikaci. Cílem bylo
+            vytvořit čtivý historický web, který zachovává fakta, ale zároveň se dobře čte.
+          </p>
+          <p class="op-text">
+            Každá kapitola odpovídá na tři základní otázky. Kde se nacházíme. Co se právě děje. A
+            proč je daný konflikt důležitý. Text se snaží vysvětlovat souvislosti srozumitelně, bez
+            zbytečně složitých formulací a dlouhých odboček.
+          </p>
+          <p class="op-text">
+            Všech 32 kapitol má stejnou strukturu. Nejprve představují historický kontext, poté
+            římskou armádu a způsob válčení, následně průběh samotného konfliktu a nakonec osobní
+            příběh. Ten ukazuje události očima římského vojáka, který je jejich přímým účastníkem. V
+            různých kapitolách se tak čtenář dívá na válku z pohledu obyčejného legionáře,
+            důstojníka, ženisty nebo významného velitele.
+          </p>
         </div>
       </section>
 
@@ -39,11 +54,33 @@
           <h2 class="op-sekce-title">Jak Kronika vznikala</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Projekt vznikal postupně od první kapitoly. Nejprve jsem vybral konflikty, rozdělil celé období do 32 kapitol a ke každé z nich shromáždil ověřené historické zdroje. Při samotném psaní jsem využíval Claude AI, ale výsledný text prošel rozsáhlými úpravami.</p>
-          <p class="op-text">Od začátku jsem měl jasnou představu o stylu. Nechtěl jsem psát odbornou publikaci ani klasický populárně naučný článek. Cílem bylo vytvořit text, který historii vypráví, ale zároveň nechává prostor samotným událostem. Čtenáře nevede za ruku a nesnaží se mu říkat, co si má myslet.</p>
-          <p class="op-text">První verze ukázaly řadu problémů. Objevovaly se opakující se fráze, přehnané dramatické pasáže i dlouhé popisy, které zpomalovaly tempo vyprávění. Každá další úprava některé nedostatky odstranila, ale často přinesla nové.</p>
-          <p class="op-text">Postupně jsem si proto začal zapisovat pravidla, která se během práce osvědčila. Z nich vznikly tři příručky popisující stavbu textu, jeho úpravy i způsob budování atmosféry. Právě podle nich vznikla finální podoba všech kapitol.</p>
-          <p class="op-text">Nejnáročnější část představovaly osobní příběhy. Nechtěl jsem, aby všechny bitvy působily stejně nebo aby každý voják mluvil stejným hlasem. Každý příběh proto stojí na situaci, která je typická právě pro daný konflikt. Někde dominuje velká bitva, jinde průzkum, přepad nebo dlouhé čekání. Díky tomu má každá kapitola vlastní charakter.</p>
+          <p class="op-text">
+            Projekt vznikal postupně od první kapitoly. Nejprve jsem vybral konflikty, rozdělil celé
+            období do 32 kapitol a ke každé z nich shromáždil ověřené historické zdroje. Při
+            samotném psaní jsem využíval Claude AI, ale výsledný text prošel rozsáhlými úpravami.
+          </p>
+          <p class="op-text">
+            Od začátku jsem měl jasnou představu o stylu. Nechtěl jsem psát odbornou publikaci ani
+            klasický populárně naučný článek. Cílem bylo vytvořit text, který historii vypráví, ale
+            zároveň nechává prostor samotným událostem. Čtenáře nevede za ruku a nesnaží se mu
+            říkat, co si má myslet.
+          </p>
+          <p class="op-text">
+            První verze ukázaly řadu problémů. Objevovaly se opakující se fráze, přehnané dramatické
+            pasáže i dlouhé popisy, které zpomalovaly tempo vyprávění. Každá další úprava některé
+            nedostatky odstranila, ale často přinesla nové.
+          </p>
+          <p class="op-text">
+            Postupně jsem si proto začal zapisovat pravidla, která se během práce osvědčila. Z nich
+            vznikly tři příručky popisující stavbu textu, jeho úpravy i způsob budování atmosféry.
+            Právě podle nich vznikla finální podoba všech kapitol.
+          </p>
+          <p class="op-text">
+            Nejnáročnější část představovaly osobní příběhy. Nechtěl jsem, aby všechny bitvy
+            působily stejně nebo aby každý voják mluvil stejným hlasem. Každý příběh proto stojí na
+            situaci, která je typická právě pro daný konflikt. Někde dominuje velká bitva, jinde
+            průzkum, přepad nebo dlouhé čekání. Díky tomu má každá kapitola vlastní charakter.
+          </p>
         </div>
       </section>
 
@@ -54,8 +91,16 @@
           <h2 class="op-sekce-title">Slovo na závěr</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Nejstarší kapitoly jsou kratší než pozdější části projektu. Období rané republiky je doloženo menším množstvím spolehlivých pramenů a významnou roli v něm hraje politika, zatímco samotných popsaných střetů je méně.</p>
-          <p class="op-text">Přesto jsou tyto kapitoly důležité. Ukazují začátek cesty, na jejímž konci stojí říše schopná čelit Hannibalovi, porazit helénistická království nebo ovládnout téměř celý středomořský svět.</p>
+          <p class="op-text">
+            Nejstarší kapitoly jsou kratší než pozdější části projektu. Období rané republiky je
+            doloženo menším množstvím spolehlivých pramenů a významnou roli v něm hraje politika,
+            zatímco samotných popsaných střetů je méně.
+          </p>
+          <p class="op-text">
+            Přesto jsou tyto kapitoly důležité. Ukazují začátek cesty, na jejímž konci stojí říše
+            schopná čelit Hannibalovi, porazit helénistická království nebo ovládnout téměř celý
+            středomořský svět.
+          </p>
         </div>
       </section>
 
@@ -66,26 +111,40 @@
           <h2 class="op-sekce-title">Příručka projektu</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Během několika verzí projektu vznikly tři interní příručky. Z nich jsem poté sestavil jednu obsáhlou, která systematicky řeší vše — stavbu textu, jeho úpravu i budování atmosféry.</p>
+          <p class="op-text">
+            Během několika verzí projektu vznikly tři interní příručky. Z nich jsem poté sestavil
+            jednu obsáhlou, která systematicky řeší vše — stavbu textu, jeho úpravu i budování
+            atmosféry.
+          </p>
           <p class="op-text">Ukázky z příručky:</p>
 
           <div class="prirucky">
             <div class="prirucka">
               <div class="prirucka-obsah">
-
                 <div class="prirucka-blok">
-                  <p class="prirucka-citace">Text nikdy neříká čtenáři, co si má myslet. Ukáže situaci a pokračuje dál.</p>
-                  <p class="prirucka-citace">Atmosféra nevzniká přídavnými jmény, ale konkrétními detaily.</p>
+                  <p class="prirucka-citace">
+                    Text nikdy neříká čtenáři, co si má myslet. Ukáže situaci a pokračuje dál.
+                  </p>
+                  <p class="prirucka-citace">
+                    Atmosféra nevzniká přídavnými jmény, ale konkrétními detaily.
+                  </p>
                 </div>
 
                 <div class="prirucka-blok">
                   <div class="prirucka-nadpis">Princip 1 — Rytmus</div>
-                  <p>Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta, která přijde po ní, dostane veškerou váhu. Funguje jen tehdy, když je vzácná — pokud jsou všechny věty krátké, žádná není důrazná.</p>
+                  <p>
+                    Věty se záměrně střídají v délce. Dlouhá věta nese fakta a kontext. Krátká věta,
+                    která přijde po ní, dostane veškerou váhu. Funguje jen tehdy, když je vzácná —
+                    pokud jsou všechny věty krátké, žádná není důrazná.
+                  </p>
                 </div>
 
                 <div class="prirucka-blok">
                   <div class="prirucka-nadpis">Co jsme se naučili během prvních 15 kapitol</div>
-                  <p>Toto je seznam nejčastějších prohřešků, identifikovaných a opravených v průběhu projektu. Je nutné je mít neustále na paměti.</p>
+                  <p>
+                    Toto je seznam nejčastějších prohřešků, identifikovaných a opravených v průběhu
+                    projektu. Je nutné je mít neustále na paměti.
+                  </p>
                 </div>
 
                 <div class="prirucka-blok">
@@ -100,18 +159,23 @@
                 </div>
 
                 <div class="prirucka-blok">
-                  <p class="prirucka-uvod" style="margin-bottom: 0; border-bottom: none; padding-bottom: 0;">
+                  <p
+                    class="prirucka-uvod"
+                    style="margin-bottom: 0; border-bottom: none; padding-bottom: 0"
+                  >
                     Máte zájem o celou příručku? Ozvěte se mi a rád ji pošlu.
                   </p>
                 </div>
-
               </div>
             </div>
           </div>
 
-          <div class="feedback-box" style="margin-top: 1.5rem;">
+          <div class="feedback-box" style="margin-top: 1.5rem">
             <div class="feedback-label">Zájem o celou příručku?</div>
-            <p class="feedback-text">Pokud máš zájem o kompletní příručku projektu, napiš mi na mail nebo zprávu na LinkedIn.</p>
+            <p class="feedback-text">
+              Pokud máš zájem o kompletní příručku projektu, napiš mi na mail nebo zprávu na
+              LinkedIn.
+            </p>
           </div>
         </div>
       </section>
@@ -123,14 +187,46 @@
           <h2 class="op-sekce-title">Technické řešení</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Projekt je napsaný ve VS Code. Frontend stojí na Vue.js 3 s frameworkem Quasar. Pod kapotou klasické HTML, CSS a JavaScript. Data jsou oddělená od UI — každá ze 32 kapitol žije jako samostatný JSON soubor.</p>
+          <p class="op-text">
+            Projekt je napsaný ve VS Code. Frontend stojí na Vue.js 3 s frameworkem Quasar. Pod
+            kapotou klasické HTML, CSS a JavaScript. Data jsou oddělená od UI — každá ze 32 kapitol
+            žije jako samostatný JSON soubor.
+          </p>
           <div class="tech-grid">
-            <div class="tech-item"><div class="tech-name">Vue.js 3</div><div class="tech-desc">Composition API, reaktivní state, dynamické importy kapitol</div></div>
-            <div class="tech-item"><div class="tech-name">Quasar</div><div class="tech-desc">Framework, routing, useMeta() pro dynamické titulky stránek</div></div>
-            <div class="tech-item"><div class="tech-name">localStorage</div><div class="tech-desc">Progress tracking — přečtené kapitoly uložené v prohlížeči na zařízení</div></div>
-            <div class="tech-item"><div class="tech-name">32 JSON souborů</div><div class="tech-desc">Data oddělená od UI, dynamicky importována při přechodu kapitol</div></div>
-            <div class="tech-item"><div class="tech-name">CSS proměnné</div><div class="tech-desc">Kompletní light/dark mode přes custom properties, bez JS přepočtů</div></div>
-            <div class="tech-item"><div class="tech-name">HTML / CSS / JS</div><div class="tech-desc">Klasický frontend základ pod celou strukturou projektu</div></div>
+            <div class="tech-item">
+              <div class="tech-name">Vue.js 3</div>
+              <div class="tech-desc">
+                Composition API, reaktivní state, dynamické importy kapitol
+              </div>
+            </div>
+            <div class="tech-item">
+              <div class="tech-name">Quasar</div>
+              <div class="tech-desc">
+                Framework, routing, useMeta() pro dynamické titulky stránek
+              </div>
+            </div>
+            <div class="tech-item">
+              <div class="tech-name">localStorage</div>
+              <div class="tech-desc">
+                Progress tracking — přečtené kapitoly uložené v prohlížeči na zařízení
+              </div>
+            </div>
+            <div class="tech-item">
+              <div class="tech-name">32 JSON souborů</div>
+              <div class="tech-desc">
+                Data oddělená od UI, dynamicky importována při přechodu kapitol
+              </div>
+            </div>
+            <div class="tech-item">
+              <div class="tech-name">CSS proměnné</div>
+              <div class="tech-desc">
+                Kompletní light/dark mode přes custom properties, bez JS přepočtů
+              </div>
+            </div>
+            <div class="tech-item">
+              <div class="tech-name">HTML / CSS / JS</div>
+              <div class="tech-desc">Klasický frontend základ pod celou strukturou projektu</div>
+            </div>
           </div>
         </div>
       </section>
@@ -142,7 +238,10 @@
           <h2 class="op-sekce-title">Kontakt</h2>
         </div>
         <div class="op-sekce-content">
-          <p class="op-text">Pokud máš zpětnou vazbu k textům, historickým nepřesnostem nebo čemukoli jinému — napiš mi.</p>
+          <p class="op-text">
+            Pokud máš zpětnou vazbu k textům, historickým nepřesnostem nebo čemukoli jinému — napiš
+            mi.
+          </p>
           <div class="kontakt-grid">
             <a href="mailto:dbagona@gmail.com" class="kontakt-item">
               <div class="kontakt-icon">✉</div>
@@ -151,14 +250,24 @@
                 <div class="kontakt-hodnota">dbagona@gmail.com</div>
               </div>
             </a>
-            <a href="https://www.linkedin.com/in/david-bagona" target="_blank" rel="noopener" class="kontakt-item">
+            <a
+              href="https://www.linkedin.com/in/david-bagona"
+              target="_blank"
+              rel="noopener"
+              class="kontakt-item"
+            >
               <div class="kontakt-icon">in</div>
               <div class="kontakt-info">
                 <div class="kontakt-label">LinkedIn</div>
                 <div class="kontakt-hodnota">David Bagoňa</div>
               </div>
             </a>
-            <a href="https://github.com/dbagona-dotcom/kronika-rimy" target="_blank" rel="noopener" class="kontakt-item">
+            <a
+              href="https://github.com/dbagona-dotcom/kronika-rimy"
+              target="_blank"
+              rel="noopener"
+              class="kontakt-item"
+            >
               <div class="kontakt-icon">⌥</div>
               <div class="kontakt-info">
                 <div class="kontakt-label">GitHub</div>
@@ -168,7 +277,10 @@
           </div>
           <div class="feedback-box">
             <div class="feedback-label">Zpětná vazba</div>
-            <p class="feedback-text">Zaujal tě projekt? Našel jsi historickou nepřesnost? Máš nápad na vylepšení? Napiš mi na mail výše nebo zprávu na LinkedIn. Čtu vše a odpovídám na každou zprávu.</p>
+            <p class="feedback-text">
+              Zaujal tě projekt? Našel jsi historickou nepřesnost? Máš nápad na vylepšení? Napiš mi
+              na mail výše nebo zprávu na LinkedIn. Čtu vše a odpovídám na každou zprávu.
+            </p>
           </div>
         </div>
       </section>
@@ -180,7 +292,6 @@
           <h2 class="op-sekce-title">Zdroje</h2>
         </div>
         <div class="op-sekce-content">
-
           <div class="zdroje-skupina">
             <div class="zdroje-label">Kapitoly 1–4 — Samnitské a Latinská válka</div>
             <ul class="zdroje-list">
@@ -228,7 +339,9 @@
           </div>
 
           <div class="zdroje-skupina">
-            <div class="zdroje-label">Kapitoly 8–13 — Východní expanze, 3. punská a Numantinská válka</div>
+            <div class="zdroje-label">
+              Kapitoly 8–13 — Východní expanze, 3. punská a Numantinská válka
+            </div>
             <ul class="zdroje-list">
               <li>Polybios — Histories</li>
               <li>Titus Livius — Ab Urbe Condita</li>
@@ -266,7 +379,9 @@
           </div>
 
           <div class="zdroje-skupina">
-            <div class="zdroje-label">Kapitoly 17–20 — Sulla, Sertorius, Spartakus, Mithridatés</div>
+            <div class="zdroje-label">
+              Kapitoly 17–20 — Sulla, Sertorius, Spartakus, Mithridatés
+            </div>
             <ul class="zdroje-list">
               <li>Plutarchos — Životy Sully, Sertoria, Crassa, Pompeia, Luculla</li>
               <li>Appian — Civil Wars I</li>
@@ -372,7 +487,9 @@
               <li>Julian Bennett — Trajan: Optimus Princeps</li>
               <li>Anthony Birley — Marcus Aurelius: A Biography</li>
               <li>Frank McLynn — Marcus Aurelius: A Life</li>
-              <li>J.C.N. Coulston — The Value of Trajan's Column as a Source for Military Equipment</li>
+              <li>
+                J.C.N. Coulston — The Value of Trajan's Column as a Source for Military Equipment
+              </li>
               <li>M.C. Bishop &amp; J.C.N. Coulston — Roman Military Equipment</li>
               <li>Adrian Goldsworthy — The Complete Roman Army</li>
               <li>Adrian Goldsworthy — Roman Warfare</li>
@@ -381,24 +498,23 @@
               <li>Mike Duncan — The History of Rome (podcast)</li>
             </ul>
           </div>
-
         </div>
       </section>
-
     </div>
   </q-page>
 </template>
 
 <script setup>
-
 import { useMeta } from 'quasar'
 
 useMeta({ title: 'O projektu | Kronika Říma' })
-
 </script>
 
 <style scoped>
-.page { background: var(--bg-primary); min-height: 100vh; }
+.page {
+  background: var(--bg-primary);
+  min-height: 100vh;
+}
 
 .oprojektu-wrap {
   max-width: 760px;
@@ -417,9 +533,14 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   margin-bottom: 3rem;
   transition: color 0.2s;
 }
-.back-btn:hover { color: var(--text-gold); }
+.back-btn:hover {
+  color: var(--text-gold);
+}
 
-.op-header { text-align: center; margin-bottom: 5rem; }
+.op-header {
+  text-align: center;
+  margin-bottom: 5rem;
+}
 .op-label {
   font-family: 'Cinzel', serif;
   font-size: 0.68rem;
@@ -435,9 +556,24 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   color: var(--text-primary);
   margin-bottom: 1.5rem;
 }
-.op-divider { display: flex; align-items: center; justify-content: center; gap: 1rem; margin-bottom: 2rem; }
-.op-divider-line { width: 80px; height: 1px; background: var(--border-gold); }
-.op-divider-gem { width: 6px; height: 6px; background: #9b1b1b; transform: rotate(45deg); }
+.op-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.op-divider-line {
+  width: 80px;
+  height: 1px;
+  background: var(--border-gold);
+}
+.op-divider-gem {
+  width: 6px;
+  height: 6px;
+  background: #9b1b1b;
+  transform: rotate(45deg);
+}
 .op-subtitle {
   font-family: 'EB Garamond', serif;
   font-size: 1.15rem;
@@ -448,7 +584,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   margin: 0 auto;
 }
 
-.op-sekce { margin-bottom: 4.5rem; }
+.op-sekce {
+  margin-bottom: 4.5rem;
+}
 .op-sekce-header {
   display: flex;
   align-items: baseline;
@@ -471,7 +609,10 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   color: var(--text-primary);
   letter-spacing: 0.05em;
 }
-.op-sekce-content { padding-left: 1rem; border-left: 1px solid var(--border-red); }
+.op-sekce-content {
+  padding-left: 1rem;
+  border-left: 1px solid var(--border-red);
+}
 .op-text {
   font-family: 'EB Garamond', serif;
   font-size: 1.15rem;
@@ -479,7 +620,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   line-height: 1.9;
   margin-bottom: 1.25rem;
 }
-.op-text:last-child { margin-bottom: 0; }
+.op-text:last-child {
+  margin-bottom: 0;
+}
 
 .tech-grid {
   display: grid;
@@ -493,7 +636,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   padding: 1.25rem 1.5rem;
   transition: background 0.2s;
 }
-.tech-item:hover { background: var(--bg-card-hover); }
+.tech-item:hover {
+  background: var(--bg-card-hover);
+}
 .tech-name {
   font-family: 'Cinzel', serif;
   font-size: 0.8rem;
@@ -532,8 +677,12 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   padding-bottom: 1.25rem;
   border-bottom: 1px solid var(--border-gold);
 }
-.prirucka-blok { margin-bottom: 1.5rem; }
-.prirucka-blok:last-child { margin-bottom: 0; }
+.prirucka-blok {
+  margin-bottom: 1.5rem;
+}
+.prirucka-blok:last-child {
+  margin-bottom: 0;
+}
 .prirucka-nadpis {
   font-family: 'Cinzel', serif;
   font-size: 0.72rem;
@@ -550,8 +699,13 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   line-height: 1.75;
   margin-bottom: 0.6rem;
 }
-.prirucka-blok p:last-child { margin-bottom: 0; }
-.prirucka-duraz { font-weight: 600; color: var(--text-primary) !important; }
+.prirucka-blok p:last-child {
+  margin-bottom: 0;
+}
+.prirucka-duraz {
+  font-weight: 600;
+  color: var(--text-primary) !important;
+}
 .prirucka-citace {
   font-style: italic;
   color: var(--text-pribeh) !important;
@@ -593,7 +747,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   padding: 0.2rem 0;
 }
 
-.op-sekce-kontakt .op-sekce-content { border-left-color: var(--border-gold); }
+.op-sekce-kontakt .op-sekce-content {
+  border-left-color: var(--border-gold);
+}
 .kontakt-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -611,7 +767,9 @@ useMeta({ title: 'O projektu | Kronika Říma' })
   text-decoration: none;
   transition: background 0.2s;
 }
-.kontakt-item:hover { background: var(--bg-card-hover); }
+.kontakt-item:hover {
+  background: var(--bg-card-hover);
+}
 .kontakt-icon {
   font-family: 'Cinzel', serif;
   font-size: 1.1rem;
@@ -655,13 +813,23 @@ useMeta({ title: 'O projektu | Kronika Říma' })
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
-  .kontakt-grid { grid-template-columns: 1fr; }
+  .kontakt-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 @media (max-width: 768px) {
-  .oprojektu-wrap { padding: 3rem 1.25rem 4rem; }
-  .tech-grid { grid-template-columns: 1fr; }
-  .kontakt-grid { grid-template-columns: 1fr; }
-  .prirucka-obsah { padding: 1.25rem; }
+  .oprojektu-wrap {
+    padding: 3rem 1.25rem 4rem;
+  }
+  .tech-grid {
+    grid-template-columns: 1fr;
+  }
+  .kontakt-grid {
+    grid-template-columns: 1fr;
+  }
+  .prirucka-obsah {
+    padding: 1.25rem;
+  }
 }
 </style>

@@ -6,13 +6,15 @@ const routes = [
       { path: '', component: () => import('pages/Rozcestnik.vue') },
       { path: 'kapitola/:id', component: () => import('pages/KapitolaSablona.vue') },
       { path: 'casova-osa', component: () => import('pages/CasovaOsa.vue') },
-      { path: 'o-projektu', component: () => import('pages/OProjektu.vue') }
-    ]
+      { path: 'o-projektu', component: () => import('pages/OProjektu.vue') },
+      { path: 'areal', component: () => import('pages/ArealRozcestnik.vue') },
+      { path: 'areal/:id', component: () => import('pages/StanovisteSablona.vue') },
+    ],
   },
   {
     path: '/:catchAll(.*)*',
-    component: () => import('pages/ErrorNotFound.vue')
-  }
+    component: () => import('pages/ErrorNotFound.vue'),
+  },
 ]
 
 export default routes
