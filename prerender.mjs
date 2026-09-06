@@ -137,7 +137,7 @@ for (const century of centuries) {
       if (raw.charCodeAt(0) === 0xfeff) raw = raw.slice(1) // odstranit BOM
       const data = JSON.parse(raw)
       if (data.id != null) {
-        chapters[data.id] = data
+        chapters[data.id] = { ...data, _slug: path.basename(file, '.json') }
         nacteno++
       } else {
         console.warn(`    ⚠  ${file}: chybí pole "id"`)
@@ -170,7 +170,7 @@ for (let i = 1; i <= 32; i++) {
   const desc = (paras[0] ?? data.title).substring(0, 155)
 
   // Router používá 'kapitola/:id' kde id je číslo bez nuly → /kapitola/1, /kapitola/2, ...
-  write(`kapitola/${i}`, `${data.title} | Kronika Říma`, desc, paras)
+  write(`kapitola/${data._slug}`, `${data.title} | Kronika Říma`, desc, paras)
 }
 
 // ─── TERRA FELIX ──────────────────────────────────────────────────────────────
