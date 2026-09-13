@@ -25,21 +25,11 @@ function esc(str) {
     .replace(/"/g, '&quot;')
 }
 
-/**
- * Vygeneruje prerendered HTML soubor pro danou routu.
- *
- * @param {string}   route      - URL cesta relativně od kořene ('' = hlavní stránka)
- * @param {string}   title      - Celý <title> stránky
- * @param {string}   description - Meta description (zkrátí se na 155 znaků)
- * @param {string[]} paragraphs  - Pole odstavců pro SEO obsah + JSON-LD articleBody
- */
 function write(route, title, description, paragraphs) {
   let html = base
 
-  // 1) <title>
   html = html.replace(/<title>[^<]*<\/title>/, `<title>${esc(title)}</title>`)
 
-  // 2) Meta description
   const desc = esc(description.substring(0, 155))
   if (html.includes('name="description"')) {
     html = html.replace(/(<meta\s+name="description"\s+content=")[^"]*(")/i, `$1${desc}$2`)
@@ -47,7 +37,6 @@ function write(route, title, description, paragraphs) {
     html = html.replace('</head>', `  <meta name="description" content="${desc}">\n</head>`)
   }
 
-  // 3) Open Graph
   const url = `https://kronika-rima.com/${route}`
   const ogBlock = [
     `  <meta property="og:title" content="${esc(title)}">`,
@@ -59,7 +48,6 @@ function write(route, title, description, paragraphs) {
   ].join('\n')
   html = html.replace('</head>', `${ogBlock}\n</head>`)
 
-  // 4) JSON-LD strukturovaná data
   const jsonld = JSON.stringify({
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -77,9 +65,6 @@ function write(route, title, description, paragraphs) {
   })
   html = html.replace('</head>', `  <script type="application/ld+json">${jsonld}</script>\n</head>`)
 
-  // 5) Viditelný obsah pro crawlery (CSS "visually hidden" technika)
-  //    Na rozdíl od <noscript> nebo display:none Google tento obsah INDEXUJE.
-  //    Vue app se mountuje do #q-app a tento blok neovlivní.
   const seoBlock = [
     `<div id="kr-seo" style="`,
     `position:absolute;`,
@@ -100,7 +85,6 @@ function write(route, title, description, paragraphs) {
 
   html = html.replace('<div id="q-app">', `${seoBlock}\n<div id="q-app">`)
 
-  // 6) Zapsat soubor
   const dir = route === '' ? DIST : path.join(DIST, route)
   fs.mkdirSync(dir, { recursive: true })
   fs.writeFileSync(path.join(dir, 'index.html'), html, 'utf-8')
@@ -134,7 +118,7 @@ for (const century of centuries) {
     const fullPath = path.join(dir, file)
     try {
       let raw = fs.readFileSync(fullPath, 'utf-8')
-      if (raw.charCodeAt(0) === 0xfeff) raw = raw.slice(1) // odstranit BOM
+      if (raw.charCodeAt(0) === 0xfeff) raw = raw.slice(1)
       const data = JSON.parse(raw)
       if (data.id != null) {
         chapters[data.id] = { ...data, _slug: path.basename(file, '.json') }
@@ -162,14 +146,12 @@ for (let i = 1; i <= 32; i++) {
     continue
   }
 
-  // Sesbírání všech odstavců ze sekcí
   const paras = Object.values(data.sections ?? {})
     .flat()
     .filter((v) => typeof v === 'string' && v.trim().length > 0)
 
   const desc = (paras[0] ?? data.title).substring(0, 155)
 
-  // Router používá 'kapitola/:id' kde id je číslo bez nuly → /kapitola/1, /kapitola/2, ...
   write(`kapitola/${data._slug}`, `${data.title} | Kronika Říma`, desc, paras)
 }
 
@@ -187,7 +169,6 @@ for (const s of [...vyzboj, ...historie]) {
   )
 }
 
-// Terra Felix přehled
 write(
   'areal',
   'Terra Felix — Výzbroj a výstroj legionáře | Kronika Říma',
@@ -205,7 +186,6 @@ console.log('\n📄 Generuji ostatní stránky...')
 
 const sortedChapters = Object.values(chapters).sort((a, b) => a.id - b.id)
 
-// Hlavní stránka (rozcestník) — přepíše stávající dist/spa/index.html
 write(
   '',
   'Kronika Říma — Historie starověkého Říma ve 32 kapitolách',
@@ -218,7 +198,6 @@ write(
   ],
 )
 
-// O projektu
 write(
   'o-projektu',
   'O projektu | Kronika Říma',
@@ -231,7 +210,6 @@ write(
   ],
 )
 
-// Časová osa
 write(
   'casova-osa',
   'Časová osa | Kronika Říma',
@@ -242,6 +220,29 @@ write(
   ],
 )
 
+// ─── SITEMAP ──────────────────────────────────────────────────────────────────
+
+const sitemapUrls = [
+  'https://kronika-rima.com/',
+  'https://kronika-rima.com/casova-osa',
+  'https://kronika-rima.com/o-projektu',
+  'https://kronika-rima.com/areal',
+  ...sortedChapters.map((c) => `https://kronika-rima.com/kapitola/${c._slug}`),
+  ...vyzboj.map((s) => `https://kronika-rima.com/areal/${s.id}`),
+  ...historie.map((s) => `https://kronika-rima.com/areal/${s.id}`),
+]
+
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${sitemapUrls.map((url) => `  <url><loc>${url}</loc></url>`).join('\n')}
+</urlset>`
+
+fs.writeFileSync(path.join(DIST, 'sitemap.xml'), sitemap, 'utf-8')
+console.log(`\n🗺️  Sitemap: ${sitemapUrls.length} URL → sitemap.xml`)
+
+// ─── HOTOVO ───────────────────────────────────────────────────────────────────
+
 console.log('\n✅  Prerendering dokončen!\n')
-console.log(`   Vygenerováno: ${32 + vyzboj.length + historie.length + 4} souborů`)
-console.log('   Další krok: nasadit dist/spa/ na Netlify\n')
+console.log(`   Stránky: ${32 + vyzboj.length + historie.length + 4} HTML souborů`)
+console.log('   Sitemap: sitemap.xml')
+console.log('   Další krok: git push → Netlify deploy\n')
